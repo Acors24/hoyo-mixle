@@ -112,7 +112,11 @@ export default function Game() {
               <SamplePlayer song={chosenSong} />
               {stats}
             </div>
-            <SongFilter albums={albums} onSelect={takeAGuess} />
+            <SongFilter
+              albums={albums}
+              guessCount={guesses.length}
+              onSelect={takeAGuess}
+            />
           </div>
         ) : (
           <div className="flex flex-col items-center justify-center gap-2 flex-1">

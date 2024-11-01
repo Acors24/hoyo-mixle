@@ -50,7 +50,6 @@ export default function SamplePlayer({ song }: { song: Song }) {
     const rng = new Random(today).uniformInt(0, duration - 10);
     const starts = Array(3).fill(0).map(rng);
     setStarts(starts);
-    console.log(starts);
   };
 
   return (

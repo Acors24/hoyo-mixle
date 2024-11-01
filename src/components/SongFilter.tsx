@@ -3,10 +3,12 @@ import { Album } from "../types";
 
 export default function SongFilter({
   albums,
+  guessCount,
   onSelect,
   className,
 }: {
   albums: Album[];
+  guessCount: number;
   onSelect: (id: number) => void;
   className?: string;
 }) {
@@ -23,19 +25,48 @@ export default function SongFilter({
       />
       <ul className="rounded-xl overflow-auto max-h-none">
         {albums
-          .flatMap((album) => album.songs)
-          .filter(({ title }) =>
-            title.toLowerCase().includes(filterInput.toLowerCase())
-          )
-          .map((song, index) => (
-            <li key={index}>
-              <button
-                className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
-                onClick={() => onSelect(song.id)}
-              >
-                {song.title}
-              </button>
-            </li>
+          .map(({ title, songs }) => {
+            return {
+              title,
+              songs: songs.filter(({ title }) =>
+                title.toLowerCase().includes(filterInput.toLowerCase())
+              ),
+            };
+          })
+          .filter(({ songs }) => songs.length > 0)
+          // .map((album) => toTitles(album, onSelect))}
+          .map((album) => (
+            <>
+              {guessCount > 0 && (
+                <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none">
+                  {album.title}
+                </li>
+              )}
+
+              {album.songs.map(({ id, title, playedAt, region }) => (
+                <li key={id}>
+                  <button
+                    className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
+                    onClick={() => onSelect(id)}
+                  >
+                    {title}{" "}
+                    {guessCount > 1 && (
+                      <span className="text-slate-400 text-sm">
+                        {" "}
+                        ({region})
+                      </span>
+                    )}
+                    {guessCount > 2 && (
+                      <ul className="list-disc pl-4 text-slate-400">
+                        {playedAt.map((moment) => (
+                          <li key={moment}>{moment}</li>
+                        ))}
+                      </ul>
+                    )}
+                  </button>
+                </li>
+              ))}
+            </>
           ))}
       </ul>
     </div>
