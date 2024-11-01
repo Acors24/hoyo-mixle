@@ -1,9 +1,9 @@
 export default function GuessIndicatorBar({
-  chosenSongPoolId,
+  chosenSongId,
   guesses,
   maxGuesses,
 }: {
-  chosenSongPoolId: number;
+  chosenSongId: number;
   guesses: number[];
   maxGuesses: number;
 }) {
@@ -19,7 +19,7 @@ export default function GuessIndicatorBar({
           return (
             <GuessIndicator
               key={index}
-              variant={guess === chosenSongPoolId ? "correct" : "wrong"}
+              variant={guess === chosenSongId ? "correct" : "wrong"}
             />
           );
         })}

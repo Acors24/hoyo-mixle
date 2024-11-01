@@ -1,14 +1,14 @@
 import { FaSpotify, FaYoutube } from "react-icons/fa6";
-import { Song, SongPool } from "../types";
+import { Album, Song } from "../types";
 import { SiFandom } from "react-icons/si";
 
 export default function SongCard({
+  album,
   song,
-  songPool,
   className,
 }: {
+  album: Album;
   song: Song;
-  songPool: SongPool;
   className?: string;
 }) {
   return (
@@ -24,18 +24,14 @@ export default function SongCard({
       <div className="flex flex-col">
         <div>
           <h2 className="text-2xl font-bold">{song.title}</h2>
-          <p>{song.album}</p>
+          <p>{album.title}</p>
         </div>
         <ul className="*:text-sm list-disc pl-4 my-4">
-          {songPool.playedAt.main && (
-            <li className="text-slate-200">{songPool.playedAt.main}</li>
-          )}
-          {songPool.playedAt.sub &&
-            songPool.playedAt.sub.map((moment) => (
-              <li key={moment} className="text-slate-300">
-                {moment}
-              </li>
-            ))}
+          {song.playedAt.map((moment) => (
+            <li key={moment} className="text-slate-200">
+              {moment}
+            </li>
+          ))}
         </ul>
         <div className="mt-auto flex gap-2">
           <YouTubeButton youtubeId={song.youtubeId} />

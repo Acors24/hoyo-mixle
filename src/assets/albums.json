@@ -1,0 +1,191 @@
+[
+  {
+    "title": "The Wind and The Star Traveler",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Genshin Impact Main Theme",
+        "playedAt": ["Login Menu (day)"],
+        "type": "Special",
+        "region": "Teyvat",
+        "version": 1.0,
+        "youtubeId": "Mcz3yZSUVI8",
+        "spotifyId": "6MZoXnbjDE2VgUWeMJgrrn",
+        "fandomUrl": "Genshin_Impact_Main_Theme"
+      },
+      {
+        "id": 2,
+        "title": "Dawn Winery Theme",
+        "playedAt": ["Dawn Winery (day)"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "DVhcpUoku_U",
+        "spotifyId": "3p19U1rci1sp5NfjReoN7W",
+        "fandomUrl": "Dawn_Winery_Theme_(The_Wind_and_The_Star_Traveler)"
+      },
+      {
+        "id": 3,
+        "title": "A Sweet Smile",
+        "playedAt": [
+          "Prologue - Act I: The Outlander Who Caught the Wind",
+          "Leo Minor Chapter (Jean) - Act I: Master's Day Off",
+          "Lepus Chapter (Amber) - Act I: Wind, Courage, and Wings"
+        ],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "TUqvYZn5nvc",
+        "spotifyId": "7pI8KNXcE4jNeNjl0IJlfQ",
+        "fandomUrl": "A_Sweet_Smile"
+      },
+      {
+        "id": 4,
+        "title": "A Storm, A Spire, and a Sanctum (Dvalin's Nest)",
+        "playedAt": ["Stormterror's Lair"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "NCv8RnC4v9g",
+        "spotifyId": "1WMENm9ieRHQtStAsWlnTe",
+        "fandomUrl": "A_Storm,_A_Spire,_and_a_Sanctum_(Dvalin%27s_Nest)"
+      },
+      {
+        "id": 5,
+        "title": "Caelestinum Finale Termini",
+        "playedAt": ["Confront Stormterror: Stormterror Dvalin"],
+        "type": "Boss",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "ptrUUOxTF8c",
+        "spotifyId": "4p5Zu3kpIELEebGeMNNiU3",
+        "fandomUrl": "Caelestinum_Finale_Termini"
+      },
+      {
+        "id": 6,
+        "title": "Lone Sojourner",
+        "playedAt": ["Dawn Winery (night)"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "uZUdPd_PuJs",
+        "spotifyId": "4UfRj8ikScFOs2WKzoR6En",
+        "fandomUrl": "Lone_Sojourner"
+      },
+      {
+        "id": 7,
+        "title": "A Day in Mondstadt",
+        "playedAt": [
+          "Mondstadt City (day)",
+          "Prologue - Act I: The Outlander Who Caught the Wind (cutscene)"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "pWPpwQNxZTk",
+        "spotifyId": "7KDvbvYwDksNnO5AI5xGHr",
+        "fandomUrl": "A_Day_in_Mondstadt"
+      },
+      {
+        "id": 8,
+        "title": "Dream Aria",
+        "playedAt": ["Login Menu (night)"],
+        "youtubeId": "ghaz6x9Q-_4",
+        "type": "Special",
+        "region": "Teyvat",
+        "version": 1.0,
+        "spotifyId": "602vSjoSXpRqpIFdaGEoW1",
+        "fandomUrl": "Dream_Aria_(Genshin_Impact_Main_Theme_Var.)"
+      },
+      {
+        "id": 9,
+        "title": "Pure Sky",
+        "playedAt": ["Mondstadt (day)"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "nIS-srtakdM",
+        "spotifyId": "5pOJlpKwXNNKXp7lpFddy9",
+        "fandomUrl": "Pure_Sky"
+      },
+      {
+        "id": 10,
+        "title": "The Edge of the Prairie",
+        "playedAt": ["Mondstadt (rain)", "Nameless Island"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "vsx15q1j3sc",
+        "spotifyId": "1WlShbc4cKHDjjx5dpJbrg",
+        "fandomUrl": "The_Edge_of_the_Prairie"
+      },
+      {
+        "id": 11,
+        "title": "A Tale of Two Dragons",
+        "playedAt": [
+          "Prologue - Act II: For a Tomorrow Without Tears (cutscene)",
+          "Carmen Dei Chapter (Venti) - Act I: Should You Be Trapped in a Windless Land (cutscene)"
+        ],
+        "type": "Cutscene",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "J4OWrg-joP4",
+        "spotifyId": "0nN7UfpNf1qYkZdlAiSj6b",
+        "fandomUrl": "A_Tale_of_Two_Dragons"
+      },
+      {
+        "id": 12,
+        "title": "Rite of Battle",
+        "playedAt": ["Open-World Combat (Mondstadt)"],
+        "type": "Combat",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "mXH0qHk-fPQ",
+        "spotifyId": "0a0aX3pR0WeW7ALwD9NHGX",
+        "fandomUrl": "Rite_of_Battle"
+      },
+      {
+        "id": 13,
+        "title": "Knighthood Excellence",
+        "playedAt": [
+          "Lepus Chapter (Amber) - Act I: Wind, Courage, and Wings",
+          "Pavo Ocellus Chapter (Kaeya) - Act I: Secret Pirate Treasure"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "SZBc_OTK16k",
+        "spotifyId": "077mAoKu00E2c2JnhbUe7n",
+        "fandomUrl": "Knighthood_Excellence"
+      },
+      {
+        "id": 14,
+        "title": "Happy Journey",
+        "playedAt": [
+          "Furball Fortress",
+          "Leo Minor Chapter (Jean) - Act I: Master's Day Off",
+          "Monoceros Caeli Chapter (Tartaglia) - Act I: Across the Sea",
+          "Trulla Chapter (Xiangling) - Act I: Little Chef on a Hunt",
+          "Imagination Theater (Theater Lobby)"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "version": 1.0,
+        "youtubeId": "b0A0d_Q8I40",
+        "spotifyId": "6Ru3cXCSSxSHwPV7Gu6v39",
+        "fandomUrl": "Happy_Journey"
+      },
+      {
+        "id": 15,
+        "title": "The Outlander Who Caught the Wind",
+        "playedAt": ["Genshin Impact Trailer"],
+        "type": "Special",
+        "region": "Teyvat",
+        "version": 1.0,
+        "youtubeId": "ROfl_4NUSZs",
+        "spotifyId": "2otumcZdotztIUfRshnj0I",
+        "fandomUrl": "The_Outlander_Who_Caught_the_Wind_(Soundtrack)"
+      }
+    ]
+  }
+]

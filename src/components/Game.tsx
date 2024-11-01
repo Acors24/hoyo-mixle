@@ -1,11 +1,11 @@
 import { useState } from "react";
-import songPools from "../assets/songPools.json";
+import albums from "../assets/albums.json";
 import background from "../assets/night.png";
 import GuessIndicatorBar from "./GuessIndicatorBar";
-import { Song, SongPool } from "../types";
+import { Album, Song } from "../types";
 import GuessTable from "./GuessTable";
 import SamplePlayer from "./SamplePlayer";
-import SongPoolFilter from "./SongPoolFilter";
+import SongFilter from "./SongFilter";
 import { Random } from "random";
 import SongCard from "./SongCard";
 
@@ -15,8 +15,8 @@ export default function Game() {
   yesterday.setDate(today.getDate() - 1);
   const rng = new Random(today.toDateString());
 
-  const [chosenPool] = useState<SongPool>(rng.choice(songPools)!);
-  const [chosenSong] = useState<Song>(rng.choice(chosenPool.songs)!);
+  const [chosenAlbum] = useState<Album>(rng.choice(albums)!);
+  const [chosenSong] = useState<Song>(rng.choice(chosenAlbum.songs)!);
 
   const [guesses, setGuesses] = useState<number[]>(() => {
     localStorage.removeItem(yesterday.toDateString());
@@ -26,7 +26,7 @@ export default function Game() {
 
   const maxAttempts = 5;
   const [gameState, setGameState] = useState<"playing" | "won" | "lost">(() => {
-    if (guesses.includes(chosenPool.id)) {
+    if (guesses.includes(chosenSong.id)) {
       return "won";
     } else if (guesses.length >= maxAttempts) {
       return "lost";
@@ -40,7 +40,7 @@ export default function Game() {
       return;
     }
 
-    if (id === chosenPool.id) {
+    if (id === chosenSong.id) {
       setGameState("won");
       const currentStreak = Number(localStorage.getItem("streak") ?? 0);
       const newStreak = currentStreak + 1;
@@ -78,7 +78,7 @@ export default function Game() {
   const stats = (
     <div className="flex items-center gap-2 select-none">
       <GuessIndicatorBar
-        chosenSongPoolId={chosenPool.id}
+        chosenSongId={chosenSong.id}
         guesses={guesses}
         maxGuesses={maxAttempts}
       />
@@ -112,17 +112,17 @@ export default function Game() {
               <SamplePlayer song={chosenSong} />
               {stats}
             </div>
-            <SongPoolFilter pools={songPools} onSelect={takeAGuess} />
+            <SongFilter albums={albums} onSelect={takeAGuess} />
           </div>
         ) : (
           <div className="flex flex-col items-center justify-center gap-2 flex-1">
-            <SongCard song={chosenSong} songPool={chosenPool} />
+            <SongCard album={chosenAlbum} song={chosenSong} />
             {stats}
           </div>
         )}
         <div className="flex flex-col items-center gap-2">
           <GuessTable
-            chosenSongPoolId={chosenPool.id}
+            chosenSongId={chosenSong.id}
             guesses={guesses}
             rowAmount={maxAttempts}
           />

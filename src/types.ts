@@ -1,18 +1,15 @@
-export type SongPool = {
-  id: number;
+export type Album = {
+  title: string;
   songs: Song[];
-  playedAt: {
-    main?: string;
-    sub?: string[];
-  };
-  type: string;
-  region: string;
-  version: number;
 };
 
 export type Song = {
-  album: string;
+  id: number;
   title: string;
+  playedAt: string[];
+  type: string;
+  region: string;
+  version: number;
   youtubeId: string;
   spotifyId: string;
   fandomUrl: string;

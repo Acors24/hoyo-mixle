@@ -1,25 +1,12 @@
 import { useState } from "react";
-import { SongPool } from "../types";
+import { Album } from "../types";
 
-function formatPlayedAt(playedAt: SongPool["playedAt"]) {
-  return (
-    <>
-      {playedAt.main}
-      {playedAt.sub?.map((sub) => (
-        <div key={sub} className="text-slate-300 text-sm">
-          {sub}
-        </div>
-      ))}
-    </>
-  );
-}
-
-export default function SongPoolFilter({
-  pools,
+export default function SongFilter({
+  albums,
   onSelect,
   className,
 }: {
-  pools: SongPool[];
+  albums: Album[];
   onSelect: (id: number) => void;
   className?: string;
 }) {
@@ -35,23 +22,18 @@ export default function SongPoolFilter({
         className="px-4 py-2 bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 rounded-xl duration-100"
       />
       <ul className="rounded-xl overflow-auto max-h-none">
-        {pools
-          .filter(
-            ({ playedAt }) =>
-              playedAt.main
-                ?.toLowerCase()
-                .includes(filterInput.toLowerCase()) ||
-              playedAt.sub?.some((sub) =>
-                sub.toLowerCase().includes(filterInput.toLowerCase())
-              )
+        {albums
+          .flatMap((album) => album.songs)
+          .filter(({ title }) =>
+            title.toLowerCase().includes(filterInput.toLowerCase())
           )
-          .map((pool, index) => (
+          .map((song, index) => (
             <li key={index}>
               <button
                 className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
-                onClick={() => onSelect(pool.id)}
+                onClick={() => onSelect(song.id)}
               >
-                {formatPlayedAt(pool.playedAt)}
+                {song.title}
               </button>
             </li>
           ))}
