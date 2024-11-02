@@ -23,7 +23,7 @@ export default function SongFilter({
         placeholder="Filter..."
         className="px-4 py-2 bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 rounded-xl duration-100"
       />
-      <ul className="rounded-xl overflow-auto max-h-none">
+      <ul className="rounded-xl overflow-auto">
         {albums
           .map(({ title, songs }) => {
             return {
@@ -51,13 +51,13 @@ export default function SongFilter({
                   >
                     {title}{" "}
                     {guessCount > 1 && (
-                      <span className="text-slate-400 text-sm">
+                      <span className="text-slate-400 text-xs">
                         {" "}
                         ({region})
                       </span>
                     )}
                     {guessCount > 2 && (
-                      <ul className="list-disc pl-4 text-slate-400">
+                      <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
                         {playedAt.map((moment) => (
                           <li key={moment}>{moment}</li>
                         ))}

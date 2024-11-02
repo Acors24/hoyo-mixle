@@ -91,44 +91,48 @@ export default function Game() {
 
   return (
     <>
-      <img
-        src={background}
-        alt="background"
-        className={`fixed w-full h-full object-cover duration-1000 -z-10 ${
-          gameState !== "playing" ? "opacity-0" : ""
-        }`}
-      />
-      <img
-        src={albumImage}
-        alt="Album image"
-        className={`fixed w-full h-full object-cover duration-1000 blur-3xl -z-10 ${
-          gameState === "playing" ? "opacity-0" : ""
-        }`}
-      />
-      <div className="w-full max-w-[1200px] h-full max-h-[900px] flex flex-col gap-2 px-10 py-2">
-        {gameState === "playing" ? (
-          <div className="flex-1 flex flex-col sm:flex-row h-0 sm:*:flex-1 gap-2">
-            <div className="flex flex-col items-center justify-center">
-              <SamplePlayer song={chosenSong} />
+      <div className="absolute -z-10">
+        <img
+          src={background}
+          alt="background"
+          className={`fixed w-full h-full object-cover duration-1000 ${
+            gameState !== "playing" ? "opacity-0" : ""
+          }`}
+        />
+        <img
+          src={albumImage}
+          alt="Album image"
+          className={`fixed w-full h-full object-cover duration-1000 blur-3xl ${
+            gameState === "playing" ? "opacity-0" : ""
+          }`}
+        />
+      </div>
+      <div className="overflow-auto">
+        <div className="max-w-[1200px] mx-auto p-2">
+          {gameState === "playing" ? (
+            <div className="flex flex-col sm:flex-row *:flex-1 gap-2">
+              <div className="flex flex-col items-center justify-center">
+                <SamplePlayer song={chosenSong} />
+                {stats}
+              </div>
+              <SongFilter
+                albums={albums}
+                guessCount={guesses.length}
+                onSelect={takeAGuess}
+                className="max-h-[400px] sm:max-h-[600px]"
+              />
+            </div>
+          ) : (
+            <div className="flex flex-col items-center justify-center gap-2 flex-1">
+              <SongCard album={chosenAlbum} song={chosenSong} />
               {stats}
             </div>
-            <SongFilter
-              albums={albums}
-              guessCount={guesses.length}
-              onSelect={takeAGuess}
-            />
-          </div>
-        ) : (
-          <div className="flex flex-col items-center justify-center gap-2 flex-1">
-            <SongCard album={chosenAlbum} song={chosenSong} />
-            {stats}
-          </div>
-        )}
-        <div className="flex flex-col items-center gap-2">
+          )}
           <GuessTable
             chosenSongId={chosenSong.id}
             guesses={guesses}
             rowAmount={maxAttempts}
+            className="mt-2"
           />
         </div>
       </div>
