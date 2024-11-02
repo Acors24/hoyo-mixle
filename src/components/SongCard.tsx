@@ -109,7 +109,7 @@ function SpotifyButton({ spotifyId }: { spotifyId: string }) {
 function FandomButton({ fandomId }: { fandomId: string }) {
   return (
     <IconLink
-      href={`https://genshin-impact.fandom.com${fandomId}`}
+      href={`https://genshin-impact.fandom.com/wiki/${fandomId}`}
       icon={<SiFandom />}
       className="bg-[#FA005A] text-white"
     />
