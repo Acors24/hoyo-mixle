@@ -2,7 +2,7 @@ import { useState } from "react";
 import albums from "../assets/albums.json";
 import background from "../assets/night.png";
 import GuessIndicatorBar from "./GuessIndicatorBar";
-import { Album, Song } from "../types";
+import { Song } from "../types";
 import GuessTable from "./GuessTable";
 import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter";
@@ -15,8 +15,9 @@ export default function Game() {
   yesterday.setDate(today.getDate() - 1);
   const rng = new Random(today.toDateString());
 
-  const [chosenAlbum] = useState<Album>(rng.choice(albums)!);
-  const [chosenSong] = useState<Song>(rng.choice(chosenAlbum.songs)!);
+  const [chosenSong] = useState<Song>(
+    rng.choice(albums.flatMap((album) => album.songs))!
+  );
 
   const [guesses, setGuesses] = useState<number[]>(() => {
     const storedData = localStorage.getItem("data");
@@ -137,7 +138,12 @@ export default function Game() {
             </div>
           ) : (
             <div className="flex flex-col items-center justify-center gap-2 flex-1">
-              <SongCard album={chosenAlbum} song={chosenSong} />
+              <SongCard
+                album={
+                  albums.find((album) => album.songs.includes(chosenSong))!
+                }
+                song={chosenSong}
+              />
               {stats}
             </div>
           )}
