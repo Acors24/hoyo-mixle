@@ -101,21 +101,21 @@ export default function Game() {
 
   const albumImage = `https://img.youtube.com/vi/${chosenSong.youtubeId}/maxresdefault.jpg`;
 
-  // TODO: Remove this eventually
-  const restartGameButton = (
-    <button
-      onClick={() => {
-        setGuesses([]);
+  // // TODO: Remove this eventually
+  // const restartGameButton = (
+  //   <button
+  //     onClick={() => {
+  //       setGuesses([]);
 
-        const data: Record<string, number[]> = {};
-        data[new Date().toDateString()] = [];
-        localStorage.setItem("data", JSON.stringify(data));
-      }}
-      className="rounded-full bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100 px-4 py-2"
-    >
-      Restart
-    </button>
-  );
+  //       const data: Record<string, number[]> = {};
+  //       data[new Date().toDateString()] = [];
+  //       localStorage.setItem("data", JSON.stringify(data));
+  //     }}
+  //     className="rounded-full bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100 px-4 py-2"
+  //   >
+  //     Restart
+  //   </button>
+  // );
 
   const stats = (
     <div className="flex items-center justify-center gap-2 select-none flex-wrap">
@@ -147,7 +147,7 @@ export default function Game() {
           Next
         </button>
       )}
-      {!endlessMode && gameState !== "playing" && restartGameButton}
+      {/* {!endlessMode && gameState !== "playing" && restartGameButton} */}
     </div>
   );
 

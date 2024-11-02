@@ -71,9 +71,7 @@ export default function HowToPlay({
       <div className="bg-amber-500 bg-opacity-10 border-amber-500 border rounded-xl p-2">
         <p>
           This is currently a work in progress. More features and improvements,
-          including more albums will be added in the future. A Restart button is
-          provided to clear your progress for the day to let you play around
-          until an endless mode is implemented.
+          including more albums will be added in the future.
         </p>
         <p className="mt-2">
           You can report any issues or suggest improvements by messaging{" "}
