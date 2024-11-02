@@ -9,7 +9,7 @@
         "type": "Special",
         "region": "Teyvat",
         "version": 1.0,
-        "youtubeId": "Mcz3yZSUVI8",
+        "youtubeId": "EEYMlUVKmyE",
         "spotifyId": "6MZoXnbjDE2VgUWeMJgrrn",
         "fandomUrl": "Genshin_Impact_Main_Theme"
       },
@@ -20,7 +20,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "DVhcpUoku_U",
+        "youtubeId": "wdfgkJwfit8",
         "spotifyId": "3p19U1rci1sp5NfjReoN7W",
         "fandomUrl": "Dawn_Winery_Theme_(The_Wind_and_The_Star_Traveler)"
       },
@@ -35,7 +35,7 @@
         "type": "Quest",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "TUqvYZn5nvc",
+        "youtubeId": "Ql4kh7XFsps",
         "spotifyId": "7pI8KNXcE4jNeNjl0IJlfQ",
         "fandomUrl": "A_Sweet_Smile"
       },
@@ -46,7 +46,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "NCv8RnC4v9g",
+        "youtubeId": "d1q9ahJCpLc",
         "spotifyId": "1WMENm9ieRHQtStAsWlnTe",
         "fandomUrl": "A_Storm,_A_Spire,_and_a_Sanctum_(Dvalin%27s_Nest)"
       },
@@ -57,7 +57,7 @@
         "type": "Boss",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "ptrUUOxTF8c",
+        "youtubeId": "VqtScyk2C5A",
         "spotifyId": "4p5Zu3kpIELEebGeMNNiU3",
         "fandomUrl": "Caelestinum_Finale_Termini"
       },
@@ -68,7 +68,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "uZUdPd_PuJs",
+        "youtubeId": "IaXxCLXbowg",
         "spotifyId": "4UfRj8ikScFOs2WKzoR6En",
         "fandomUrl": "Lone_Sojourner"
       },
@@ -82,7 +82,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "pWPpwQNxZTk",
+        "youtubeId": "muSibQfpHTE",
         "spotifyId": "7KDvbvYwDksNnO5AI5xGHr",
         "fandomUrl": "A_Day_in_Mondstadt"
       },
@@ -90,10 +90,10 @@
         "id": 8,
         "title": "Dream Aria",
         "playedAt": ["Login Menu (night)"],
-        "youtubeId": "ghaz6x9Q-_4",
         "type": "Special",
         "region": "Teyvat",
         "version": 1.0,
+        "youtubeId": "ghaz6x9Q-_4",
         "spotifyId": "602vSjoSXpRqpIFdaGEoW1",
         "fandomUrl": "Dream_Aria_(Genshin_Impact_Main_Theme_Var.)"
       },
@@ -104,7 +104,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "nIS-srtakdM",
+        "youtubeId": "qHNvq6mBNg4",
         "spotifyId": "5pOJlpKwXNNKXp7lpFddy9",
         "fandomUrl": "Pure_Sky"
       },
@@ -115,7 +115,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "vsx15q1j3sc",
+        "youtubeId": "udfm0ff2XOg",
         "spotifyId": "1WlShbc4cKHDjjx5dpJbrg",
         "fandomUrl": "The_Edge_of_the_Prairie"
       },
@@ -129,7 +129,7 @@
         "type": "Cutscene",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "J4OWrg-joP4",
+        "youtubeId": "SgvHmGCVZqs",
         "spotifyId": "0nN7UfpNf1qYkZdlAiSj6b",
         "fandomUrl": "A_Tale_of_Two_Dragons"
       },
@@ -140,7 +140,7 @@
         "type": "Combat",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "mXH0qHk-fPQ",
+        "youtubeId": "M3CoUlbjQMs",
         "spotifyId": "0a0aX3pR0WeW7ALwD9NHGX",
         "fandomUrl": "Rite_of_Battle"
       },
@@ -154,7 +154,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "SZBc_OTK16k",
+        "youtubeId": "uZC1F1pAAZM",
         "spotifyId": "077mAoKu00E2c2JnhbUe7n",
         "fandomUrl": "Knighthood_Excellence"
       },
@@ -171,7 +171,7 @@
         "type": "Ambient",
         "region": "Mondstadt",
         "version": 1.0,
-        "youtubeId": "b0A0d_Q8I40",
+        "youtubeId": "zfdIFm6CDe8",
         "spotifyId": "6Ru3cXCSSxSHwPV7Gu6v39",
         "fandomUrl": "Happy_Journey"
       },
@@ -182,7 +182,7 @@
         "type": "Special",
         "region": "Teyvat",
         "version": 1.0,
-        "youtubeId": "ROfl_4NUSZs",
+        "youtubeId": "Asa9D0HwJgA",
         "spotifyId": "2otumcZdotztIUfRshnj0I",
         "fandomUrl": "The_Outlander_Who_Caught_the_Wind_(Soundtrack)"
       }
