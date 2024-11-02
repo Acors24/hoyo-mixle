@@ -42,8 +42,10 @@ export default function SampleControl({
     playerState === 1 && id === playingId ? (
       <FaStop />
     ) : (playerState === 1 && id !== playingId) ||
-      playerState === 2 ||
-      playerState === 0 ? (
+      playerState === -1 ||
+      playerState === 0 ||
+      playerState === 5 ||
+      playerState === 2 ? (
       <FaPlay />
     ) : (
       <CgSpinner className="animate-spin" />

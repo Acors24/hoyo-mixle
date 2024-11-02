@@ -174,7 +174,7 @@ export default function Game() {
           {gameState === "playing" ? (
             <div className="flex flex-col sm:flex-row *:flex-1 gap-2">
               <div className="flex flex-col items-center justify-center">
-                <SamplePlayer song={chosenSong} />
+                <SamplePlayer song={chosenSong} endlessMode={endlessMode} />
                 {stats}
               </div>
               <SongFilter

@@ -3,10 +3,16 @@ import VolumeControl from "./VolumeControl";
 import { Song } from "../types";
 import YouTube, { YouTubeEvent } from "react-youtube";
 import SampleControl from "./SampleControl";
-import { Random } from "random";
+import random, { Random } from "random";
 import { CgSpinner } from "react-icons/cg";
 
-export default function SamplePlayer({ song }: { song: Song }) {
+export default function SamplePlayer({
+  song,
+  endlessMode,
+}: {
+  song: Song;
+  endlessMode: boolean;
+}) {
   const playerRef = useRef<YouTube>(null);
   const timeoutHandle = useRef<NodeJS.Timeout>();
   const [playerState, setPlayerState] = useState(3);
@@ -14,7 +20,7 @@ export default function SamplePlayer({ song }: { song: Song }) {
 
   const [starts, setStarts] = useState<number[]>([]);
 
-  const initialVolume = Number(localStorage.getItem("volume") ?? 50);
+  const volume = Number(localStorage.getItem("volume") ?? 50);
   const setVolume = (volume: number) => {
     playerRef.current?.internalPlayer?.setVolume(volume);
     localStorage.setItem("volume", volume.toString());
@@ -28,7 +34,8 @@ export default function SamplePlayer({ song }: { song: Song }) {
       }, 3000);
     } else if (
       data === YT.PlayerState.PAUSED ||
-      data === YT.PlayerState.ENDED
+      data === YT.PlayerState.ENDED ||
+      data === YT.PlayerState.CUED
     ) {
       if (timeoutHandle.current) {
         clearTimeout(timeoutHandle.current);
@@ -38,17 +45,35 @@ export default function SamplePlayer({ song }: { song: Song }) {
   };
 
   const onReady = async () => {
-    setPlayerState(YT.PlayerState.PAUSED);
-    setVolume(initialVolume);
-    const duration = await playerRef.current?.internalPlayer?.getDuration();
-    if (!duration) {
-      alert("Failed to get duration");
+    setPlayerState(
+      (await playerRef.current?.internalPlayer?.getPlayerState()) ??
+        YT.PlayerState.UNSTARTED
+    );
+    setVolume(volume);
+    const player = playerRef.current;
+    if (!player) {
+      console.error("Failed to get player");
+      return;
+    }
+    const internalPlayer = player.internalPlayer;
+    if (!internalPlayer) {
+      console.error("Failed to get internal player");
       return;
     }
 
+    let duration = await internalPlayer.getDuration();
+    console.log(duration);
+    while (duration === undefined) {
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+      duration = await internalPlayer.getDuration();
+      console.log(duration);
+    }
+
     const today = new Date().toDateString();
-    const rng = new Random(today).uniformInt(0, duration - 10);
-    const starts = Array(3).fill(0).map(rng);
+    const rng = endlessMode ? random : new Random(today);
+    const uniform = rng.uniformInt(0, duration - 10);
+    const starts = Array(3).fill(0).map(uniform);
+    console.log(starts);
     setStarts(starts);
   };
 
@@ -76,10 +101,7 @@ export default function SamplePlayer({ song }: { song: Song }) {
       {starts.length === 0 && <CgSpinner className="w-20 h-20 animate-spin" />}
       {starts.length !== 0 && (
         <>
-          <VolumeControl
-            initialVolume={initialVolume}
-            onVolumeChange={setVolume}
-          />
+          <VolumeControl initialVolume={volume} onVolumeChange={setVolume} />
           <div className="flex flex-col gap-4">
             {starts.map((startAt, index) => (
               <SampleControl
