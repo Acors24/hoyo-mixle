@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Album } from "../types";
 
 export default function SongFilter({
@@ -36,7 +36,7 @@ export default function SongFilter({
           .filter(({ songs }) => songs.length > 0)
           // .map((album) => toTitles(album, onSelect))}
           .map((album) => (
-            <>
+            <React.Fragment key={album.title}>
               {guessCount > 0 && (
                 <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none">
                   {album.title}
@@ -66,7 +66,7 @@ export default function SongFilter({
                   </button>
                 </li>
               ))}
-            </>
+            </React.Fragment>
           ))}
       </ul>
     </div>
