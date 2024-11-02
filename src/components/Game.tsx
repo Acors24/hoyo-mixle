@@ -6,36 +6,67 @@ import { Song } from "../types";
 import GuessTable from "./GuessTable";
 import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter";
-import { Random } from "random";
+import random, { Random } from "random";
 import SongCard from "./SongCard";
 
-export default function Game() {
+function getTodaysGuesses() {
   const today = new Date();
-  const yesterday = new Date();
-  yesterday.setDate(today.getDate() - 1);
-  const rng = new Random(today.toDateString());
-
-  const [chosenSong] = useState<Song>(
-    rng.choice(albums.flatMap((album) => album.songs))!
-  );
-
-  const [guesses, setGuesses] = useState<number[]>(() => {
-    const storedData = localStorage.getItem("data");
-    if (!storedData) {
-      return [];
-    }
-
-    const storedGuesses = JSON.parse(storedData) as Record<string, number[]>;
-    const storedGuessesToday = storedGuesses[today.toDateString()];
-    if (storedGuessesToday) {
-      return storedGuessesToday;
-    }
-
+  const storedData = localStorage.getItem("data");
+  if (!storedData) {
     return [];
-  });
+  }
+
+  const storedGuesses = JSON.parse(storedData) as Record<string, number[]>;
+  const storedGuessesToday = storedGuesses[today.toDateString()];
+  if (storedGuessesToday) {
+    return storedGuessesToday;
+  }
+
+  return [];
+}
+
+function getTodaysSong() {
+  return new Random(new Date().toDateString()).choice(
+    albums.flatMap((album) => album.songs)
+  )!;
+}
+
+function handleStreakChange(gameWon: boolean, endless: boolean) {
+  const keyName = endless ? "endlessStreak" : "streak";
+  const currentStreak = Number(localStorage.getItem(keyName) ?? 0);
+
+  const newStreak = gameWon ? currentStreak + 1 : 0;
+  localStorage.setItem(keyName, newStreak.toString());
+}
+
+function getStreak(endless: boolean) {
+  const keyName = endless ? "endlessStreak" : "streak";
+  return Number(localStorage.getItem(keyName) ?? 0);
+}
+
+export default function Game() {
+  const getRandomSong: () => Song = () => {
+    return random.choice(albums.flatMap((album) => album.songs))!;
+  };
+
+  const [chosenSong, setChosenSong] = useState<Song>(getTodaysSong);
+  const [guesses, setGuesses] = useState<number[]>(getTodaysGuesses);
+  const [endlessMode, setEndlessMode] = useState(false);
+
+  const handleEndlessModeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setEndlessMode(e.target.checked);
+
+    if (e.target.checked) {
+      setChosenSong(getRandomSong());
+      setGuesses([]);
+    } else {
+      setChosenSong(getTodaysSong());
+      setGuesses(getTodaysGuesses());
+    }
+  };
 
   const maxAttempts = 5;
-  const [gameState, setGameState] = useState<"playing" | "won" | "lost">(() => {
+  const gameState = (() => {
     if (guesses.includes(chosenSong.id)) {
       return "won";
     } else if (guesses.length >= maxAttempts) {
@@ -43,28 +74,28 @@ export default function Game() {
     } else {
       return "playing";
     }
-  });
+  })();
 
   const takeAGuess = (id: number) => {
     if (gameState !== "playing") {
       return;
     }
 
-    if (id === chosenSong.id) {
-      setGameState("won");
-      const currentStreak = Number(localStorage.getItem("streak") ?? 0);
-      const newStreak = currentStreak + 1;
-      localStorage.setItem("streak", newStreak.toString());
-    } else if (guesses.length === maxAttempts - 1) {
-      setGameState("lost");
-      localStorage.setItem("streak", "0");
-    }
-
     const newGuesses = [...guesses, id];
     setGuesses(newGuesses);
 
+    if (id === chosenSong.id) {
+      handleStreakChange(true, endlessMode);
+    } else if (guesses.length === maxAttempts - 1) {
+      handleStreakChange(false, endlessMode);
+    }
+
+    if (endlessMode) {
+      return;
+    }
+
     const data: Record<string, number[]> = {};
-    data[today.toDateString()] = newGuesses;
+    data[new Date().toDateString()] = newGuesses;
     localStorage.setItem("data", JSON.stringify(data));
   };
 
@@ -74,11 +105,10 @@ export default function Game() {
   const restartGameButton = (
     <button
       onClick={() => {
-        setGameState("playing");
         setGuesses([]);
 
         const data: Record<string, number[]> = {};
-        data[today.toDateString()] = [];
+        data[new Date().toDateString()] = [];
         localStorage.setItem("data", JSON.stringify(data));
       }}
       className="rounded-full bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100 px-4 py-2"
@@ -87,19 +117,37 @@ export default function Game() {
     </button>
   );
 
-  const currentStreak = localStorage.getItem("streak") ?? 0;
-
   const stats = (
-    <div className="flex items-center gap-2 select-none">
+    <div className="flex items-center justify-center gap-2 select-none flex-wrap">
       <GuessIndicatorBar
         chosenSongId={chosenSong.id}
         guesses={guesses}
         maxGuesses={maxAttempts}
       />
       <div className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2">
-        Streak: {currentStreak}
+        Streak: {getStreak(endlessMode)}
       </div>
-      {restartGameButton}
+      <label className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2">
+        <input
+          type="checkbox"
+          className="mr-2"
+          checked={endlessMode}
+          onChange={handleEndlessModeChange}
+        />
+        Endless mode
+      </label>
+      {gameState !== "playing" && endlessMode && (
+        <button
+          className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2"
+          onClick={() => {
+            setChosenSong(getRandomSong());
+            setGuesses([]);
+          }}
+        >
+          Next
+        </button>
+      )}
+      {!endlessMode && gameState !== "playing" && restartGameButton}
     </div>
   );
 

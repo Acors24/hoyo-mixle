@@ -1,10 +1,29 @@
 import { FaArrowDown, FaArrowUp } from "react-icons/fa";
 import { Song } from "../types";
-import { useState } from "react";
 
 import albums from "../assets/albums.json";
 
 type SongWithAlbum = Song & { album: string };
+
+type Guess = Pick<
+  SongWithAlbum,
+  "title" | "album" | "type" | "region" | "version"
+>;
+type ComparisonResult = "correct" | "wrong" | "higher" | "lower";
+type CheckedGuess = { [K in keyof Guess]: ComparisonResult };
+
+const compare = (
+  expected: string | number,
+  actual: string | number
+): ComparisonResult => {
+  if (expected === actual) {
+    return "correct";
+  } else if (typeof expected === "number" && typeof actual === "number") {
+    return expected > actual ? "higher" : "lower";
+  } else {
+    return "wrong";
+  }
+};
 
 export default function GuessTable({
   chosenSongId,
@@ -17,34 +36,15 @@ export default function GuessTable({
   rowAmount: number;
   className?: string;
 }) {
-  const [chosenAlbum] = useState(
-    albums.find((album) =>
+  const [chosenAlbum, chosenSong] = (() => {
+    const chosenSong = albums
+      .flatMap((album) => album.songs)
+      .find((song) => song.id === chosenSongId)!;
+    const chosenAlbum = albums.find((album) =>
       album.songs.some((song) => song.id === chosenSongId)
-    )!
-  );
-  const [chosenSong] = useState(
-    chosenAlbum.songs.find((song) => song.id === chosenSongId)!
-  );
-
-  type Guess = Pick<
-    SongWithAlbum,
-    "title" | "album" | "type" | "region" | "version"
-  >;
-  type ComparisonResult = "correct" | "wrong" | "higher" | "lower";
-  type CheckedGuess = { [K in keyof Guess]: ComparisonResult };
-
-  const compare = (
-    expected: string | number,
-    actual: string | number
-  ): ComparisonResult => {
-    if (expected === actual) {
-      return "correct";
-    } else if (typeof expected === "number" && typeof actual === "number") {
-      return expected > actual ? "higher" : "lower";
-    } else {
-      return "wrong";
-    }
-  };
+    )!;
+    return [chosenAlbum, chosenSong];
+  })();
 
   const checkGuess = (guessedSongPoolId: number): CheckedGuess => {
     const guessedAlbum = albums.find((album) =>
