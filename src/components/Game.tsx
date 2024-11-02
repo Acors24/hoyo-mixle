@@ -19,9 +19,18 @@ export default function Game() {
   const [chosenSong] = useState<Song>(rng.choice(chosenAlbum.songs)!);
 
   const [guesses, setGuesses] = useState<number[]>(() => {
-    localStorage.removeItem(yesterday.toDateString());
-    const storedGuesses = localStorage.getItem(today.toDateString());
-    return storedGuesses ? JSON.parse(storedGuesses) : [];
+    const storedData = localStorage.getItem("data");
+    if (!storedData) {
+      return [];
+    }
+
+    const storedGuesses = JSON.parse(storedData) as Record<string, number[]>;
+    const storedGuessesToday = storedGuesses[today.toDateString()];
+    if (storedGuessesToday) {
+      return storedGuessesToday;
+    }
+
+    return [];
   });
 
   const maxAttempts = 5;
@@ -50,11 +59,12 @@ export default function Game() {
       localStorage.setItem("streak", "0");
     }
 
-    setGuesses([...guesses, id]);
-    localStorage.setItem(
-      today.toDateString(),
-      JSON.stringify([...guesses, id])
-    );
+    const newGuesses = [...guesses, id];
+    setGuesses(newGuesses);
+
+    const data: Record<string, number[]> = {};
+    data[today.toDateString()] = newGuesses;
+    localStorage.setItem("data", JSON.stringify(data));
   };
 
   const albumImage = `https://img.youtube.com/vi/${chosenSong.youtubeId}/maxresdefault.jpg`;
@@ -65,7 +75,10 @@ export default function Game() {
       onClick={() => {
         setGameState("playing");
         setGuesses([]);
-        localStorage.removeItem(today.toDateString());
+
+        const data: Record<string, number[]> = {};
+        data[today.toDateString()] = [];
+        localStorage.setItem("data", JSON.stringify(data));
       }}
       className="rounded-full bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100 px-4 py-2"
     >
