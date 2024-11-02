@@ -1,0 +1,88 @@
+import { useEffect, useRef } from "react";
+import { FaExternalLinkAlt } from "react-icons/fa";
+import { FaRegCircleXmark } from "react-icons/fa6";
+
+export default function HowToPlay({
+  open,
+  onClose,
+}: {
+  open: boolean;
+  onClose: () => void;
+}) {
+  const dialogRef = useRef<HTMLDialogElement>(null);
+
+  useEffect(() => {
+    if (open) {
+      dialogRef.current?.showModal();
+    } else {
+      dialogRef.current?.close();
+    }
+  }, [open]);
+
+  return (
+    <dialog
+      ref={dialogRef}
+      className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow *:mt-2 first:*:mt-0"
+    >
+      <div className="flex justify-between mb-4">
+        <h2 className="text-3xl font-bold">How to play</h2>
+        <button autoFocus>
+          <FaRegCircleXmark className="text-2xl" onClick={onClose} />
+        </button>
+      </div>
+
+      <p>
+        Each day, a{" "}
+        <a
+          href="https://genshin-impact.fandom.com/wiki/HOYO-MiX"
+          target="_blank"
+          rel="noreferrer"
+          className="text-amber-200 hover:underline"
+        >
+          HOYO-MiX
+          <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
+        </a>{" "}
+        song is randomly chosen. 3 short samples are randomly selected for this
+        song.
+      </p>
+      <p>
+        Listen to the samples and select the correct song from the list of all
+        currently available songs.
+      </p>
+
+      <p>
+        Each guess will appear in the table below. Additional song information
+        such as album title, region, type and game version will be included to
+        help you find the correct song.
+      </p>
+
+      <p className="font-bold">
+        You have 5 attempts to guess the correct song.
+      </p>
+      <ul className="list-disc list-inside">
+        <li>After 1 incorrect guess, the album titles will be revealed.</li>
+        <li>After 2 incorrect guesses, the regions will be revealed.</li>
+        <li>
+          After 3 incorrect guesses, the moments at which the songs are played
+          will be revealed.
+        </li>
+      </ul>
+
+      <div className="bg-amber-500 bg-opacity-10 border-amber-500 border rounded-xl p-2">
+        <p>
+          This is currently a work in progress. More features and improvements,
+          including more albums will be added in the future. A Restart button is
+          provided to clear your progress for the day to let you play around
+          until an endless mode is implemented.
+        </p>
+        <p className="mt-2">
+          You can report any issues or suggest improvements by messaging{" "}
+          <span className="font-extrabold bg-gradient-to-br from-emerald-100 to-emerald-200 bg-clip-text text-transparent">
+            acors
+          </span>{" "}
+          on Discord.
+        </p>
+      </div>
+    </dialog>
+  );
+}
