@@ -62,7 +62,7 @@ export default function SongFilter({
                           typeof moment === "string" ? (
                             <li key={index}>{moment}</li>
                           ) : (
-                            <ul className="list-disc pl-4">
+                            <ul key={index} className="list-disc pl-4">
                               {moment.map((moment, index) => (
                                 <li key={index}>{moment}</li>
                               ))}
