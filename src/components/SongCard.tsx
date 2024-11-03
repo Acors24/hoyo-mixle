@@ -101,7 +101,7 @@ function SpotifyButton({ spotifyId }: { spotifyId: string }) {
     <IconLink
       href={`https://open.spotify.com/track/${spotifyId}`}
       icon={<FaSpotify />}
-      className="bg-[#1DB954] text-white"
+      className="bg-[#1ED760] text-white"
     />
   );
 }
