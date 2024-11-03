@@ -22,6 +22,7 @@ export default function HowToPlay({
   return (
     <dialog
       ref={dialogRef}
+      onClose={onClose}
       className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow *:mt-2 first:*:mt-0"
     >
       <div className="flex justify-between mb-4">
@@ -32,7 +33,7 @@ export default function HowToPlay({
       </div>
 
       <p>
-        Each day, a{" "}
+        Each day, a random{" "}
         <a
           href="https://genshin-impact.fandom.com/wiki/HOYO-MiX"
           target="_blank"
@@ -42,18 +43,17 @@ export default function HowToPlay({
           HOYO-MiX
           <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
         </a>{" "}
-        song is randomly chosen. 3 short samples are randomly selected for this
-        song.
+        song is chosen. 3 short samples are randomly selected for this song.
       </p>
       <p>
-        Listen to the samples and select the correct song from the list of all
-        currently available songs.
+        Listen to the samples and select the corresponding song from the list of
+        all currently available songs.
       </p>
 
       <p>
         Each guess will appear in the table below. Additional song information
-        such as album title, region, type and game version will be included to
-        help you find the correct song.
+        such as album title, region and type will be included to help you find
+        the correct song.
       </p>
 
       <p className="font-bold">
@@ -67,6 +67,19 @@ export default function HowToPlay({
           will be revealed.
         </li>
       </ul>
+      <p>
+        Track titles, album titles and game parts are taken from the{" "}
+        <a
+          href="https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki"
+          target="_blank"
+          rel="noreferrer"
+          className="text-amber-200 hover:underline"
+        >
+          Genshin Impact Fandom Wiki
+          <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
+        </a>
+        . Track types and regions are decided by me and may not be accurate.
+      </p>
 
       <div className="bg-amber-500 bg-opacity-10 border-amber-500 border rounded-xl p-2">
         <p>
@@ -75,10 +88,7 @@ export default function HowToPlay({
         </p>
         <p className="mt-2">
           You can report any issues or suggest improvements by messaging{" "}
-          <span className="font-extrabold bg-gradient-to-br from-emerald-100 to-emerald-200 bg-clip-text text-transparent">
-            acors
-          </span>{" "}
-          on Discord.
+          <span className="font-bold text-sky-200">acors</span> on Discord.
         </p>
       </div>
     </dialog>
