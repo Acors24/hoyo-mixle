@@ -3,7 +3,7 @@
 - [x] save volume
 - [ ] reorganize localStorage logic
   - [ ] use a better data structure
-  - [ ] extract the logic into a separate file
+  - [x] extract the logic into a separate file
 - [x] endless mode
   - [ ] save chosen song and guesses after switching off
 - [ ] better sampling

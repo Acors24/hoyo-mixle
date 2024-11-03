@@ -1,16 +1,14 @@
 import { useState } from "react";
 import { FaRegCircleQuestion } from "react-icons/fa6";
 import HowToPlay from "./HowToPlay";
+import { howToPlaySeen, setHowToPlaySeen } from "../utils";
 
 export default function Navbar() {
-  const [howToPlayOpen, setHowToPlayOpen] = useState(() => {
-    const alreadySeen = localStorage.getItem("howToPlaySeen");
-    return alreadySeen === "true" ? false : true;
-  });
+  const [howToPlayOpen, setHowToPlayOpen] = useState(!howToPlaySeen());
 
   const handleHowToPlayClose = () => {
-    localStorage.setItem("howToPlaySeen", "true");
     setHowToPlayOpen(false);
+    setHowToPlaySeen();
   };
 
   return (

@@ -7,10 +7,6 @@ type SongWithAlbum = Song & { album: string };
 type Guess = Pick<SongWithAlbum, "title" | "album" | "type" | "region">;
 type CheckedGuess = { [K in keyof Guess]: boolean };
 
-const compare = (expected: string, actual: string): boolean => {
-  return expected === actual;
-};
-
 export default function GuessTable({
   chosenSongId,
   guesses,
@@ -40,10 +36,10 @@ export default function GuessTable({
       (song) => song.id === guessedSongPoolId
     )!;
     return {
-      title: compare(chosenSong.title, guessedSong.title),
-      album: compare(chosenAlbum.title, guessedAlbum.title),
-      type: compare(chosenSong.type, guessedSong.type),
-      region: compare(chosenSong.region, guessedSong.region),
+      title: chosenSong.title === guessedSong.title,
+      album: chosenAlbum.title === guessedAlbum.title,
+      type: chosenSong.type === guessedSong.type,
+      region: chosenSong.region === guessedSong.region,
     };
   };
 

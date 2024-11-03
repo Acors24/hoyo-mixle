@@ -1,6 +1,7 @@
 import { FaSpotify, FaYoutube } from "react-icons/fa6";
 import { Album, Song } from "../types";
 import { SiFandom } from "react-icons/si";
+import { getYouTubeThumbnail } from "../utils";
 
 export default function SongCard({
   album,
@@ -26,20 +27,10 @@ export default function SongCard({
           <h2 className="text-2xl font-bold">{song.title}</h2>
           <p>{album.title}</p>
         </div>
-        <ul className="*:text-sm list-disc pl-4 my-4">
-          {song.playedAt.map((moment, index) =>
-            typeof moment === "string" ? (
-              <li key={index} className="text-slate-200">
-                {moment}
-              </li>
-            ) : (
-              <ul key={index} className="list-disc pl-4">
-                {moment.map((subMoment, index) => (
-                  <li key={index}>{subMoment}</li>
-                ))}
-              </ul>
-            )
-          )}
+        <ul className="*:text-sm text-slate-200 list-disc pl-4 my-4">
+          {song.playedAt.map((moment, index) => (
+            <Moment key={index} moment={moment} />
+          ))}
         </ul>
         <div className="mt-auto flex gap-2">
           <YouTubeButton youtubeId={song.youtubeId} />
@@ -48,6 +39,20 @@ export default function SongCard({
         </div>
       </div>
     </div>
+  );
+}
+
+function Moment({ moment }: { moment: string | string[] }) {
+  if (typeof moment === "string") {
+    return <li>{moment}</li>;
+  }
+
+  return (
+    <ul className="list-disc pl-4">
+      {moment.map((subMoment, index) => (
+        <li key={index}>{subMoment}</li>
+      ))}
+    </ul>
   );
 }
 
@@ -65,7 +70,7 @@ function Thumbnail({
       }`}
     >
       <img
-        src={`https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`}
+        src={getYouTubeThumbnail(youtubeId)}
         alt="YouTube thumbnail"
         className="w-full h-full object-cover pointer-events-none"
       />

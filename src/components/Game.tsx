@@ -6,43 +6,16 @@ import { Song } from "../types";
 import GuessTable from "./GuessTable";
 import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter";
-import random, { Random } from "random";
+import random from "random";
 import SongCard from "./SongCard";
-
-function getTodaysGuesses() {
-  const today = new Date();
-  const storedData = localStorage.getItem("data");
-  if (!storedData) {
-    return [];
-  }
-
-  const storedGuesses = JSON.parse(storedData) as Record<string, number[]>;
-  const storedGuessesToday = storedGuesses[today.toDateString()];
-  if (storedGuessesToday) {
-    return storedGuessesToday;
-  }
-
-  return [];
-}
-
-function getTodaysSong() {
-  return new Random(new Date().toDateString()).choice(
-    albums.flatMap((album) => album.songs)
-  )!;
-}
-
-function handleStreakChange(gameWon: boolean, endless: boolean) {
-  const keyName = endless ? "endlessStreak" : "streak";
-  const currentStreak = Number(localStorage.getItem(keyName) ?? 0);
-
-  const newStreak = gameWon ? currentStreak + 1 : 0;
-  localStorage.setItem(keyName, newStreak.toString());
-}
-
-function getStreak(endless: boolean) {
-  const keyName = endless ? "endlessStreak" : "streak";
-  return Number(localStorage.getItem(keyName) ?? 0);
-}
+import {
+  getStreak,
+  getTodaysGuesses,
+  getTodaysSong,
+  getYouTubeThumbnail,
+  handleStreakChange,
+  saveTodaysGuesses,
+} from "../utils";
 
 export default function Game() {
   const getRandomSong: () => Song = () => {
@@ -94,12 +67,10 @@ export default function Game() {
       return;
     }
 
-    const data: Record<string, number[]> = {};
-    data[new Date().toDateString()] = newGuesses;
-    localStorage.setItem("data", JSON.stringify(data));
+    saveTodaysGuesses(newGuesses);
   };
 
-  const albumImage = `https://img.youtube.com/vi/${chosenSong.youtubeId}/maxresdefault.jpg`;
+  const albumImage = getYouTubeThumbnail(chosenSong.youtubeId);
 
   // // TODO: Remove this eventually
   // const restartGameButton = (

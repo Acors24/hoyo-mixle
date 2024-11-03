@@ -14,6 +14,10 @@ export default function SongFilter({
 }) {
   const [filterInput, setFilterInput] = useState("");
 
+  const albumsVisible = guessCount > 0;
+  const regionsVisible = guessCount > 1;
+  const playedAtVisible = guessCount > 2;
+
   return (
     <div className={`flex flex-col gap-2 overflow-auto ${className ?? ""}`}>
       <input
@@ -34,10 +38,9 @@ export default function SongFilter({
             };
           })
           .filter(({ songs }) => songs.length > 0)
-          // .map((album) => toTitles(album, onSelect))}
           .map((album) => (
             <React.Fragment key={album.title}>
-              {guessCount > 0 && (
+              {albumsVisible && (
                 <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none">
                   {album.title}
                 </li>
@@ -50,25 +53,17 @@ export default function SongFilter({
                     onClick={() => onSelect(id)}
                   >
                     {title}{" "}
-                    {guessCount > 1 && (
+                    {regionsVisible && (
                       <span className="text-slate-400 text-xs">
                         {" "}
                         ({region})
                       </span>
                     )}
-                    {guessCount > 2 && (
+                    {playedAtVisible && (
                       <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
-                        {playedAt.map((moment, index) =>
-                          typeof moment === "string" ? (
-                            <li key={index}>{moment}</li>
-                          ) : (
-                            <ul key={index} className="list-disc pl-4">
-                              {moment.map((moment, index) => (
-                                <li key={index}>{moment}</li>
-                              ))}
-                            </ul>
-                          )
-                        )}
+                        {playedAt.map((moment, index) => (
+                          <Moment key={index} moment={moment} />
+                        ))}
                       </ul>
                     )}
                   </button>
@@ -78,5 +73,19 @@ export default function SongFilter({
           ))}
       </ul>
     </div>
+  );
+}
+
+function Moment({ moment }: { moment: string | string[] }) {
+  if (typeof moment === "string") {
+    return <li>{moment}</li>;
+  }
+
+  return (
+    <ul className="list-disc pl-4">
+      {moment.map((subMoment, index) => (
+        <li key={index}>{subMoment}</li>
+      ))}
+    </ul>
   );
 }

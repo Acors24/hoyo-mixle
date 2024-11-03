@@ -3,8 +3,8 @@ import VolumeControl from "./VolumeControl";
 import { Song } from "../types";
 import YouTube, { YouTubeEvent } from "react-youtube";
 import SampleControl from "./SampleControl";
-import random, { Random } from "random";
 import { CgSpinner } from "react-icons/cg";
+import { getStarts, getVolume, saveVolume } from "../utils";
 
 export default function SamplePlayer({
   song,
@@ -20,10 +20,10 @@ export default function SamplePlayer({
 
   const [starts, setStarts] = useState<number[]>([]);
 
-  const volume = Number(localStorage.getItem("volume") ?? 50);
+  const volume = getVolume();
   const setVolume = (volume: number) => {
     playerRef.current?.internalPlayer?.setVolume(volume);
-    localStorage.setItem("volume", volume.toString());
+    saveVolume(volume);
   };
 
   const handleStateChange = ({ data, target }: YouTubeEvent<number>) => {
@@ -69,10 +69,7 @@ export default function SamplePlayer({
       console.log(duration);
     }
 
-    const today = new Date().toDateString();
-    const rng = endlessMode ? random : new Random(today);
-    const uniform = rng.uniformInt(0, duration - 10);
-    const starts = Array(3).fill(0).map(uniform);
+    const starts = getStarts(duration, endlessMode);
     console.log(starts);
     setStarts(starts);
   };
