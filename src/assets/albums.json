@@ -179,5 +179,744 @@
         "fandomUrl": "The_Outlander_Who_Caught_the_Wind_(Soundtrack)"
       }
     ]
+  },
+  {
+    "title": "City of Winds and Idylls",
+    "songs": [
+      {
+        "id": 16,
+        "title": "Twilight Serenity",
+        "playedAt": ["Event Gameplay", "Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "H8NjYdDP0v4",
+        "spotifyId": "7vjUKeUegfDgmDGWn7muyc",
+        "fandomUrl": "Twilight_Serenity"
+      },
+      {
+        "id": 17,
+        "title": "Legend of the Wind",
+        "playedAt": ["Quests", ["Story Quests"], "Serenitea Pot", "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "TTyC0Qop14w",
+        "spotifyId": "2sfXDaqJSun4Y2yDKDmOom",
+        "fandomUrl": "Legend_of_the_Wind"
+      },
+      {
+        "id": 18,
+        "title": "The City Favored by Wind",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "c3Gi1rydctY",
+        "spotifyId": "72qSf167ZBQ8ptRaCTP0MA",
+        "fandomUrl": "The_City_Favored_by_Wind"
+      },
+      {
+        "id": 19,
+        "title": "Bustling Afternoon in Mondstadt",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "3sVSOK2VTyY",
+        "spotifyId": "2wS4gFWgsuxO4xqXNcW5Kp",
+        "fandomUrl": "Bustling_Afternoon_in_Mondstadt"
+      },
+      {
+        "id": 20,
+        "title": "Dusk in Mondstadt",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "6AG7TMFj8Wk",
+        "spotifyId": "161heCSb3pHdi1x6tR0DRU",
+        "fandomUrl": "Dusk_in_Mondstadt"
+      },
+      {
+        "id": 21,
+        "title": "Mondstadt Starlit",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "NyhG7-LjveU",
+        "spotifyId": "32CF5g2C8VasOyJwn66a9D",
+        "fandomUrl": "Mondstadt_Starlit"
+      },
+      {
+        "id": 22,
+        "title": "Moonlight in Mondstadt",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "aYfZHKiI444",
+        "spotifyId": "0ZHraW0fHE8br6Hw1ekRXy",
+        "fandomUrl": "Moonlight_in_Mondstadt"
+      },
+      {
+        "id": 23,
+        "title": "Another Day in Mondstadt",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "JpxBvbKzavI",
+        "spotifyId": "1QD115qLkeOdBqYKnZkj1y",
+        "fandomUrl": "Another_Day_in_Mondstadt"
+      },
+      {
+        "id": 24,
+        "title": "Windborne Hymn",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "mPOEurVOi4M",
+        "spotifyId": "35SoEGEXsaNnfi8PsT8xEC",
+        "fandomUrl": "Windborne_Hymn"
+      },
+      {
+        "id": 25,
+        "title": "Knights of Favonius",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "ilOUWsl-Hac",
+        "spotifyId": "6C1RWo8IahwlaSEAhhWf18",
+        "fandomUrl": "Knights_of_Favonius_(Soundtrack)"
+      },
+      {
+        "id": 26,
+        "title": "Angel's Share",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "a7pjnn6nAs4",
+        "spotifyId": "0MFky4zpOENxfUb35EK6rx",
+        "fandomUrl": "Angel%27s_Share_(Soundtrack)"
+      },
+      {
+        "id": 27,
+        "title": "Silhouette and Silk Steps",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "_tCFRDQPYyk",
+        "spotifyId": "0mhsULFPH3gQ6xHdgVNhhT",
+        "fandomUrl": "Silhouette_and_Silk_Steps"
+      },
+      {
+        "id": 28,
+        "title": "Perilous Path",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "d8WBw50dTGE",
+        "spotifyId": "37ukoYC26PCw5R8AcQeSoU",
+        "fandomUrl": "Perilous_Path"
+      },
+      {
+        "id": 29,
+        "title": "Say My Name",
+        "playedAt": ["Quests", ["Story Quests", "Events"], "Media"],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "LVqyrKUia58",
+        "spotifyId": "3aZTpVwyzdp2Jb7sBFWjVd",
+        "fandomUrl": "Say_My_Name"
+      },
+      {
+        "id": 30,
+        "title": "Welp, Didn't Expect That",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "CVO8E69HEas",
+        "spotifyId": "3PjSWHx4XP3NnCEWYDfzHL",
+        "fandomUrl": "Welp,_Didn%27t_Expect_That"
+      },
+      {
+        "id": 31,
+        "title": "An Interesting Labour",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "bAQIH73ua40",
+        "spotifyId": "3gfwkNVrHkl5uyoApB7lmx",
+        "fandomUrl": "An_Interesting_Labour"
+      },
+      {
+        "id": 32,
+        "title": "Make Haste, Partner",
+        "playedAt": [
+          "Quests",
+          ["Story Quests", "Events"],
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "jPxTL3daTJA",
+        "spotifyId": "1dXVScCRjZ30Of34uoOdST",
+        "fandomUrl": "Make_Haste,_Partner"
+      },
+      {
+        "id": 33,
+        "title": "A Happy Day",
+        "playedAt": [
+          "Quests",
+          ["Story Quests", "Events"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "5pSCjNkHaOU",
+        "spotifyId": "4MWsurJAP8dkzKsIBy6cLL",
+        "fandomUrl": "A_Happy_Day"
+      },
+      {
+        "id": 34,
+        "title": "Reunion in the Whispering Woods",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "FJXl8IqoLUw",
+        "spotifyId": "17SGbxDf2gchedlsaOvg8I",
+        "fandomUrl": "Reunion_in_the_Whispering_Woods"
+      },
+      {
+        "id": 35,
+        "title": "Startled",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "PQSxmZRPd68",
+        "spotifyId": "5nJF4lKZY7uE5NpKAJPQsS",
+        "fandomUrl": "Startled"
+      },
+      {
+        "id": 36,
+        "title": "Meeting Amber",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "N0UPYG-3Iuw",
+        "spotifyId": "57YOhlu8molgJLdhD3CGAA",
+        "fandomUrl": "Meeting_Amber"
+      },
+      {
+        "id": 37,
+        "title": "Storm Befalls",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "tsnvFkXLBfE",
+        "spotifyId": "580l6OeZ8un51hkqzVmvfM",
+        "fandomUrl": "Storm_Befalls"
+      },
+      {
+        "id": 38,
+        "title": "Slight Distress",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "Ck_SZoMg7c0",
+        "spotifyId": "7xxW928MYNq4wwWXmbZbyM",
+        "fandomUrl": "Slight_Distress"
+      },
+      {
+        "id": 39,
+        "title": "Tender Strength",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "HSLwh_KOVBk",
+        "spotifyId": "4UnZNaZ6mI2TRanaCG8jJ6",
+        "fandomUrl": "Tender_Strength"
+      },
+      {
+        "id": 40,
+        "title": "Imminent Triumph",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "_-YOzBp_GtQ",
+        "spotifyId": "7u4j2XitxK7Bfwvdw832WP",
+        "fandomUrl": "Imminent_Triumph"
+      },
+      {
+        "id": 41,
+        "title": "Beckoning (Genshin Impact Main Theme Var.)",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "WcifB4c0inc",
+        "spotifyId": "5P0yOA3z40deTk3RXItcNj",
+        "fandomUrl": "Beckoning_(Genshin_Impact_Main_Theme_Var.)"
+      },
+      {
+        "id": 42,
+        "title": "Hence, Begins the Journey",
+        "playedAt": ["Quests", ["Archon Quests"], "Serenitea Pot", "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "UvuD1Hfi_sw",
+        "spotifyId": "5HAYPIsU1adhWU0siVS82x",
+        "fandomUrl": "Hence,_Begins_the_Journey"
+      },
+      {
+        "id": 43,
+        "title": "Dawn Winery Theme",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "CLKgHs_6jZ8",
+        "spotifyId": "5NFRadEFW7QYDpgyO3kWv0",
+        "fandomUrl": "Dawn_Winery_Theme_(City_of_Winds_and_Idylls)"
+      },
+      {
+        "id": 44,
+        "title": "Before Dawn, at the Winery",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "y9n984n_dAQ",
+        "spotifyId": "21ovsz7zVD2bbOivYshYDh",
+        "fandomUrl": "Before_Dawn,_at_the_Winery"
+      },
+      {
+        "id": 45,
+        "title": "A Familiar Sight and Leisure",
+        "playedAt": ["Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Serenitea Pot",
+        "youtubeId": "GohgJWx_d5A",
+        "spotifyId": "678OUlrxqkqnzzpH7GDA9G",
+        "fandomUrl": "A_Familiar_Sight_and_Leisure"
+      },
+      {
+        "id": 46,
+        "title": "Cold Night",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "amAqGQ1vN6E",
+        "spotifyId": "49scDvsNT1N11yhE9weByf",
+        "fandomUrl": "Cold_Night"
+      },
+      {
+        "id": 47,
+        "title": "Whispering Plain",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "nxjNczusHcQ",
+        "spotifyId": "3VACsHwyZb8YiK7bPhCINJ",
+        "fandomUrl": "Whispering_Plain"
+      },
+      {
+        "id": 48,
+        "title": "Statue of The Seven",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "TydCXazhCjw",
+        "spotifyId": "6Dv4L5oSBUomHLes9RiLyi",
+        "fandomUrl": "Statue_of_The_Seven_(Soundtrack)"
+      },
+      {
+        "id": 49,
+        "title": "Acquaintance (Statue of The Seven)",
+        "playedAt": ["Quests", ["Archon Quests"], "Special Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "4i5WJCVH5fk",
+        "spotifyId": "6MsjwPYwiBKFPpew9Hexx8",
+        "fandomUrl": "Acquaintance_(Statue_of_The_Seven)"
+      },
+      {
+        "id": 50,
+        "title": "Stealing Words of the Moon",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "DoT9X9ci2iY",
+        "spotifyId": "3Jj40YprnsV3NRvbTLJoU7",
+        "fandomUrl": "Stealing_Words_of_the_Moon"
+      },
+      {
+        "id": 51,
+        "title": "Wayfarer's Peace",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "exUhX0I_3nA",
+        "spotifyId": "3I1ZkLKgGK62hWchqupU0c",
+        "fandomUrl": "Wayfarer%27s_Peace"
+      },
+      {
+        "id": 52,
+        "title": "Wind-Washed Mountains",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "4yL5o4yqa2o",
+        "spotifyId": "6aFGqW5R5M3wyMeZ2CotfM",
+        "fandomUrl": "Wind-Washed_Mountains"
+      },
+      {
+        "id": 53,
+        "title": "Wayward Souls",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "Bt7kGt7W22Q",
+        "spotifyId": "2RqjuieoFIUJ0o2Z3ZjcJN",
+        "fandomUrl": "Wayward_Souls"
+      },
+      {
+        "id": 54,
+        "title": "Reminiscence (Genshin Impact Main Theme Var.)",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "K8aLWuJVCEw",
+        "spotifyId": "3wE4cPh3JgrFURHnUCa2r2",
+        "fandomUrl": "Reminiscence_(Genshin_Impact_Main_Theme_Var.)"
+      },
+      {
+        "id": 55,
+        "title": "Restless Blazing Sun",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "_v-RVyFaYSI",
+        "spotifyId": "2n1YH1rr3dmmcYJ9kcOqWl",
+        "fandomUrl": "Restless_Blazing_Sun"
+      },
+      {
+        "id": 56,
+        "title": "Remembrance (Genshin Impact Main Theme Var.)",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "7zKMt4t2urA",
+        "spotifyId": "3jHBBIYFpIsmGluMkwQ5uT",
+        "fandomUrl": "Remembrance_(Genshin_Impact_Main_Theme_Var.)"
+      },
+      {
+        "id": 57,
+        "title": "The Horizon",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "aFKx8eGhQtM",
+        "spotifyId": "0NDP8HMUYfrpNby2wknVUV",
+        "fandomUrl": "The_Horizon"
+      },
+      {
+        "id": 58,
+        "title": "Awaiting the Future",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "iSS4W3vbIpU",
+        "spotifyId": "7gFH1zV5fQubGEUojtNmmC",
+        "fandomUrl": "Awaiting_the_Future"
+      },
+      {
+        "id": 59,
+        "title": "Moonlit Wilderness",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "2OK0wwGBYUA",
+        "spotifyId": "6I2g7kYpitz7ffCH5EuwC2",
+        "fandomUrl": "Moonlit_Wilderness"
+      },
+      {
+        "id": 60,
+        "title": "A New Day with Hope",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "tw4JFxkS5MM",
+        "spotifyId": "3i1KIae4mQAFbUws9WNUdD",
+        "fandomUrl": "A_New_Day_with_Hope"
+      },
+      {
+        "id": 61,
+        "title": "Journey of Hope",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Event Gameplay"
+        ],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "PIrfvmmETNI",
+        "spotifyId": "0xEnPzx1ui7b1vZIL9F89t",
+        "fandomUrl": "Journey_of_Hope_(Genshin_Impact_Main_Theme_Var.)"
+      },
+      {
+        "id": 62,
+        "title": "Forlorn Child of Archaic Winds (Dvalin's Nest)",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Teyvat",
+        "youtubeId": "lhMzXdJkGrI",
+        "spotifyId": "6REsVKMH9soTrHClwGdSlC",
+        "fandomUrl": "Forlorn_Child_of_Archaic_Winds_(Dvalin%27s_Nest)"
+      },
+      {
+        "id": 63,
+        "title": "Forsaken Child of Ancient Times (Dvalin's Nest)",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "I8RqtOTyWNo",
+        "spotifyId": "3imOpl0MBd3TvAhmw2qelF",
+        "fandomUrl": "Forsaken_Child_of_Ancient_Times_(Dvalin%27s_Nest)"
+      },
+      {
+        "id": 64,
+        "title": "Midday Prospects",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Mondstadt",
+        "youtubeId": "Bxf9M7KTMzY",
+        "spotifyId": "6BrXEmAsFCypIAHpNENTh0",
+        "fandomUrl": "Midday_Prospects"
+      },
+      {
+        "id": 65,
+        "title": "Dwelling in the Past",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "glV2TonV7Rw",
+        "spotifyId": "1uyuEK2Z6zurtus3jEyYA0",
+        "fandomUrl": "Dwelling_in_the_Past"
+      },
+      {
+        "id": 66,
+        "title": "Eternal Anamnesis",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "LGXQBhzBC_c",
+        "spotifyId": "08x3afIZ7jlhvTANwzWAuz",
+        "fandomUrl": "Eternal_Anamnesis_(Genshin_Impact_Main_Theme_Var.)"
+      },
+      {
+        "id": 67,
+        "title": "Photon of Fluctuation",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Event Gameplay",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Teyvat",
+        "youtubeId": "Iqd0Td56tyM",
+        "spotifyId": "0wNEzpXYxGyktCiyz2Yqp3",
+        "fandomUrl": "Photon_of_Fluctuation"
+      },
+      {
+        "id": 68,
+        "title": "His Resolution",
+        "playedAt": [
+          "Open-World Combat",
+          "Event Gameplay",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Mondstadt",
+        "youtubeId": "HV1w9RUGgOA",
+        "spotifyId": "7vVykgHiPo77VIHtUX2e5y",
+        "fandomUrl": "His_Resolution"
+      },
+      {
+        "id": 69,
+        "title": "Rhythm from Ancient Times",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Domain",
+        "region": "Mondstadt",
+        "youtubeId": "XweXKUZEeM4",
+        "spotifyId": "2PYVvmFu6GPiUz6eyWA5TO",
+        "fandomUrl": "Rhythm_from_Ancient_Times"
+      },
+      {
+        "id": 70,
+        "title": "Endless Echoes",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Domain",
+        "region": "Mondstadt",
+        "youtubeId": "0eGJoxNSKOo",
+        "spotifyId": "0ooolJPrLaktBacYuKWehQ",
+        "fandomUrl": "Endless_Echoes"
+      },
+      {
+        "id": 71,
+        "title": "Charge! Fearless Warriors",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "xCOhgkrYBcM",
+        "spotifyId": "1LOMnXw9DRE2JPrBEPuzAX",
+        "fandomUrl": "Charge!_Fearless_Warriors"
+      },
+      {
+        "id": 72,
+        "title": "Beats of Water Drops",
+        "playedAt": ["Domains", "Media"],
+        "type": "Domain",
+        "region": "Teyvat",
+        "youtubeId": "MwHcKVa34Fc",
+        "spotifyId": "7fbQWiF5jQdjo1twCCsdaN",
+        "fandomUrl": "Beats_of_Water_Drops"
+      },
+      {
+        "id": 73,
+        "title": "Magic Intrigues",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Domain",
+        "region": "Teyvat",
+        "youtubeId": "zbdAifPrsJI",
+        "spotifyId": "6PhoFWeqH13D3FcXJL9kWF",
+        "fandomUrl": "Magic_Intrigues"
+      },
+      {
+        "id": 74,
+        "title": "Against All Odds",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Domain",
+        "region": "Mondstadt",
+        "youtubeId": "hgEIVSL8xVY",
+        "spotifyId": "1XNAEDZ85rSW5HAwqvvBJc",
+        "fandomUrl": "Against_All_Odds"
+      },
+      {
+        "id": 75,
+        "title": "Perpetual Motion of Wind",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Special",
+        "region": "Mondstadt",
+        "youtubeId": "ndQ27H4Rqyw",
+        "spotifyId": "0cCHsCcykCiq4rwp4wcE8l",
+        "fandomUrl": "Perpetual_Motion_of_Wind"
+      },
+      {
+        "id": 76,
+        "title": "Riders of the Wind, Onward",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "ZSthexXPhRE",
+        "spotifyId": "0Q134knuRsBhrQSNV2dvNZ",
+        "fandomUrl": "Riders_of_the_Wind,_Onward"
+      },
+      {
+        "id": 77,
+        "title": "Whirl of Boreal Wind",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Boss",
+        "region": "Mondstadt",
+        "youtubeId": "5viZgefj-1A",
+        "spotifyId": "4bHMiTa1jIMe6IDVcT2VxA",
+        "fandomUrl": "Whirl_of_Boreal_Wind"
+      },
+      {
+        "id": 78,
+        "title": "Symphony of Boreal Wind",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Boss",
+        "region": "Mondstadt",
+        "youtubeId": "QFSunKPD-Zc",
+        "spotifyId": "6lpw7XFDRZu4JxTs4ek1Wb",
+        "fandomUrl": "Symphony_of_Boreal_Wind"
+      }
+    ]
   }
 ]
