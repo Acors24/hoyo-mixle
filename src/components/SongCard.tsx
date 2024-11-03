@@ -27,11 +27,19 @@ export default function SongCard({
           <p>{album.title}</p>
         </div>
         <ul className="*:text-sm list-disc pl-4 my-4">
-          {song.playedAt.map((moment) => (
-            <li key={moment} className="text-slate-200">
-              {moment}
-            </li>
-          ))}
+          {song.playedAt.map((moment, index) =>
+            typeof moment === "string" ? (
+              <li key={index} className="text-slate-200">
+                {moment}
+              </li>
+            ) : (
+              <ul className="list-disc pl-4">
+                {moment.map((subMoment, index) => (
+                  <li key={index}>{subMoment}</li>
+                ))}
+              </ul>
+            )
+          )}
         </ul>
         <div className="mt-auto flex gap-2">
           <YouTubeButton youtubeId={song.youtubeId} />

@@ -6,10 +6,9 @@ export type Album = {
 export type Song = {
   id: number;
   title: string;
-  playedAt: string[];
+  playedAt: (string | string[])[];
   type: string;
   region: string;
-  version: number;
   youtubeId: string;
   spotifyId: string;
   fandomUrl: string;

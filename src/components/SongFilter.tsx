@@ -58,9 +58,17 @@ export default function SongFilter({
                     )}
                     {guessCount > 2 && (
                       <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
-                        {playedAt.map((moment) => (
-                          <li key={moment}>{moment}</li>
-                        ))}
+                        {playedAt.map((moment, index) =>
+                          typeof moment === "string" ? (
+                            <li key={index}>{moment}</li>
+                          ) : (
+                            <ul className="list-disc pl-4">
+                              {moment.map((moment, index) => (
+                                <li key={index}>{moment}</li>
+                              ))}
+                            </ul>
+                          )
+                        )}
                       </ul>
                     )}
                   </button>

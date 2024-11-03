@@ -1,28 +1,14 @@
-import { FaArrowDown, FaArrowUp } from "react-icons/fa";
 import { Song } from "../types";
 
 import albums from "../assets/albums.json";
 
 type SongWithAlbum = Song & { album: string };
 
-type Guess = Pick<
-  SongWithAlbum,
-  "title" | "album" | "type" | "region" | "version"
->;
-type ComparisonResult = "correct" | "wrong" | "higher" | "lower";
-type CheckedGuess = { [K in keyof Guess]: ComparisonResult };
+type Guess = Pick<SongWithAlbum, "title" | "album" | "type" | "region">;
+type CheckedGuess = { [K in keyof Guess]: boolean };
 
-const compare = (
-  expected: string | number,
-  actual: string | number
-): ComparisonResult => {
-  if (expected === actual) {
-    return "correct";
-  } else if (typeof expected === "number" && typeof actual === "number") {
-    return expected > actual ? "higher" : "lower";
-  } else {
-    return "wrong";
-  }
+const compare = (expected: string, actual: string): boolean => {
+  return expected === actual;
 };
 
 export default function GuessTable({
@@ -58,7 +44,6 @@ export default function GuessTable({
       album: compare(chosenAlbum.title, guessedAlbum.title),
       type: compare(chosenSong.type, guessedSong.type),
       region: compare(chosenSong.region, guessedSong.region),
-      version: compare(chosenSong.version, guessedSong.version),
     };
   };
 
@@ -71,30 +56,15 @@ export default function GuessTable({
     result,
   }: {
     children?: React.ReactNode;
-    result?: ComparisonResult;
+    result?: boolean;
   }) => {
     let className = "";
-    let icon;
-    if (result === "correct") {
-      className = "bg-emerald-700";
-    } else if (result) {
-      className = "bg-rose-700";
-      if (result === "higher") {
-        icon = <FaArrowUp />;
-      } else if (result === "lower") {
-        icon = <FaArrowDown />;
-      }
+    if (result !== undefined) {
+      className = result ? "bg-emerald-700" : "bg-rose-700";
     }
     return (
       <td className={`px-4 py-2 bg-opacity-50 w-auto ${className}`}>
-        {icon ? (
-          <div className="flex items-center justify-between">
-            {children}
-            {icon}
-          </div>
-        ) : (
-          children
-        )}
+        {children}
       </td>
     );
   };
@@ -111,7 +81,6 @@ export default function GuessTable({
           <Th>Album</Th>
           <Th>Type</Th>
           <Th>Region</Th>
-          <Th>Version</Th>
         </tr>
       </thead>
       <tbody>
@@ -121,7 +90,6 @@ export default function GuessTable({
             if (guessedSongId === null) {
               return (
                 <tr key={index} className="odd:bg-black odd:bg-opacity-10">
-                  <Td>&nbsp;</Td>
                   <Td>&nbsp;</Td>
                   <Td>&nbsp;</Td>
                   <Td>&nbsp;</Td>
@@ -149,7 +117,7 @@ export default function GuessTable({
 
                   return (
                     <Td key={index} result={result}>
-                      {typeof value === "number" ? value.toFixed(1) : value}
+                      {value}
                     </Td>
                   );
                 })}
