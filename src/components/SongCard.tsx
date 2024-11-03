@@ -33,7 +33,7 @@ export default function SongCard({
                 {moment}
               </li>
             ) : (
-              <ul className="list-disc pl-4">
+              <ul key={index} className="list-disc pl-4">
                 {moment.map((subMoment, index) => (
                   <li key={index}>{subMoment}</li>
                 ))}
