@@ -7,6 +7,7 @@
 - [x] endless mode
   - [ ] save chosen song and guesses after switching off
 - [ ] better sampling
+- [x] hide songs that don't meet the known conditions
 - [-] sidebar
   - [ ] game icons (game switcher)
   - [x] about / how to play
@@ -14,4 +15,5 @@
   - [-] issue/feature link
 - [ ] animations
 - [-] responsive design
+- [ ] move to primarily SCSS or similar
 - [ ] more albums

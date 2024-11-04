@@ -1,22 +1,54 @@
 import React, { useState } from "react";
-import { Album } from "../types";
+import albums from "../assets/albums.json";
+import { Song } from "../types";
 
 export default function SongFilter({
-  albums,
-  guessCount,
+  chosenSong,
+  guesses,
   onSelect,
   className,
 }: {
-  albums: Album[];
-  guessCount: number;
+  chosenSong: Song;
+  guesses: number[];
   onSelect: (id: number) => void;
   className?: string;
 }) {
   const [filterInput, setFilterInput] = useState("");
 
-  const albumsVisible = guessCount > 0;
-  const regionsVisible = guessCount > 1;
-  const playedAtVisible = guessCount > 2;
+  const albumsVisible = guesses.length > 0;
+  const regionsVisible = guesses.length > 1;
+  const playedAtVisible = guesses.length > 2;
+
+  const allSongs = albums.flatMap(({ title, songs }) =>
+    songs.map((song) => {
+      return {
+        ...song,
+        album: title,
+      };
+    })
+  );
+  const guessedSongs = guesses.map(
+    (id) => allSongs.find((song) => song.id === id)!
+  );
+  const chosenAlbum = albums.find((album) =>
+    album.songs.some((song) => song.id === chosenSong.id)
+  )!;
+
+  const [blacklistedAlbums, whitelistedAlbum] = createBlacklistAndWhitelist(
+    guessedSongs,
+    (song) => song.album,
+    chosenAlbum.title
+  );
+  const [blacklistedTypes, whitelistedType] = createBlacklistAndWhitelist(
+    guessedSongs,
+    (song) => song.type,
+    chosenSong.type
+  );
+  const [blacklistedRegions, whitelistedRegion] = createBlacklistAndWhitelist(
+    guessedSongs,
+    (song) => song.region,
+    chosenSong.region
+  );
 
   return (
     <div className={`flex flex-col gap-2 overflow-auto ${className ?? ""}`}>
@@ -29,12 +61,41 @@ export default function SongFilter({
       />
       <ul className="rounded-xl overflow-auto">
         {albums
+          .filter(({ title }) => {
+            if (!albumsVisible) {
+              return true;
+            }
+
+            if (whitelistedAlbum) {
+              return title === whitelistedAlbum;
+            }
+
+            return !blacklistedAlbums.has(title);
+          })
           .map(({ title, songs }) => {
             return {
               title,
-              songs: songs.filter(({ title }) =>
-                title.toLowerCase().includes(filterInput.toLowerCase())
-              ),
+              songs: songs.filter((song) => {
+                if (playedAtVisible) {
+                  if (whitelistedType && song.type !== whitelistedType) {
+                    return false;
+                  } else if (blacklistedTypes.has(song.type)) {
+                    return false;
+                  }
+                }
+
+                if (regionsVisible) {
+                  if (whitelistedRegion && song.region !== whitelistedRegion) {
+                    return false;
+                  } else if (blacklistedRegions.has(song.region)) {
+                    return false;
+                  }
+                }
+
+                return song.title
+                  .toLowerCase()
+                  .includes(filterInput.toLowerCase());
+              }),
             };
           })
           .filter(({ songs }) => songs.length > 0)
@@ -87,5 +148,23 @@ function Moment({ moment }: { moment: string | string[] }) {
         <li key={index}>{subMoment}</li>
       ))}
     </ul>
+  );
+}
+
+function createBlacklistAndWhitelist<T>(
+  collection: T[],
+  getProperty: (item: T) => string,
+  chosenItem: string
+) {
+  return collection.reduce(
+    ([blacklist, whitelist], item) => {
+      const property = getProperty(item);
+      if (property === chosenItem) {
+        return [blacklist, property] as [Set<string>, string];
+      }
+
+      return [blacklist.add(property), whitelist] as [Set<string>, string];
+    },
+    [new Set<string>(), undefined] as [Set<string>, string | undefined]
   );
 }

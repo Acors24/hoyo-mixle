@@ -149,8 +149,8 @@ export default function Game() {
                 {stats}
               </div>
               <SongFilter
-                albums={albums}
-                guessCount={guesses.length}
+                chosenSong={chosenSong}
+                guesses={guesses}
                 onSelect={takeAGuess}
                 className="max-h-[400px] sm:max-h-[600px]"
               />
