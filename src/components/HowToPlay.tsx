@@ -56,6 +56,11 @@ export default function HowToPlay({
         the correct song.
       </p>
 
+      <p>
+        Additionally, based on known song attributes, the list of songs will be
+        automatically filtered.
+      </p>
+
       <p className="font-bold">
         You have 5 attempts to guess the correct song.
       </p>
