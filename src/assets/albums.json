@@ -918,5 +918,804 @@
         "fandomUrl": "Symphony_of_Boreal_Wind"
       }
     ]
+  },
+  {
+    "title": "Jade Moon Upon a Sea of Clouds",
+    "songs": [
+      {
+        "id": 79,
+        "title": "Liyue",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "d5MrlIKlDno",
+        "spotifyId": "0JobBuLW1W123TWkwl6nwu",
+        "fandomUrl": "Liyue_(Soundtrack)"
+      },
+      {
+        "id": 80,
+        "title": "Moon in One's Cup",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "6k21sSDavWU",
+        "spotifyId": "5xuPYYd4OAETyttCreFJzd",
+        "fandomUrl": "Moon_in_One%27s_Cup"
+      },
+      {
+        "id": 81,
+        "title": "Relaxation in Liyue",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "nfnYq__q1a0",
+        "spotifyId": "0lAK7TqIFEcvW1HFAAAo5I",
+        "fandomUrl": "Relaxation_in_Liyue"
+      },
+      {
+        "id": 82,
+        "title": "Maiden's Longing",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "KLy9NXUr_Iw",
+        "spotifyId": "2n2vIuYG7G8ATgjM4sY4VQ",
+        "fandomUrl": "Maiden%27s_Longing"
+      },
+      {
+        "id": 83,
+        "title": "Sun Rises in Liyue",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "2ve5QNy1nq4",
+        "spotifyId": "6QiNsBfRVrlHMROB6vgaIx",
+        "fandomUrl": "Sun_Rises_in_Liyue"
+      },
+      {
+        "id": 84,
+        "title": "Good Night, Liyue",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "fgz_ZwwezJY",
+        "spotifyId": "38wUUUqMNEQ6CoA02Uy6Iv",
+        "fandomUrl": "Good_Night,_Liyue"
+      },
+      {
+        "id": 85,
+        "title": "Call It a Day in Liyue",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "6DhnS0OANhQ",
+        "spotifyId": "1GC1sVLUrusMTygF5aA4od",
+        "fandomUrl": "Call_It_a_Day_in_Liyue"
+      },
+      {
+        "id": 86,
+        "title": "Clear Sky Over Liyue",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "P5lgF-OmqC4",
+        "spotifyId": "2ceLH0wzOEY4mCBC3xAPpt",
+        "fandomUrl": "Clear_Sky_Over_Liyue"
+      },
+      {
+        "id": 87,
+        "title": "A Transparent Moon (Liuli Pavilion)",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "c4nvD32HjBA",
+        "spotifyId": "7z7wd71ipTp0SV12oujOiK",
+        "fandomUrl": "A_Transparent_Moon_(Liuli_Pavilion)"
+      },
+      {
+        "id": 88,
+        "title": "Treasury From the Northland",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "GcxQhPZOCe0",
+        "spotifyId": "6xSVl7BeACvTpb6DQIWzQu",
+        "fandomUrl": "Treasury_From_the_Northland"
+      },
+      {
+        "id": 89,
+        "title": "Cozy Leisure Time",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "dz4Qlso55MU",
+        "spotifyId": "3Xbcn0kbIWMPfKNigBJf61",
+        "fandomUrl": "Cozy_Leisure_Time"
+      },
+      {
+        "id": 90,
+        "title": "Sojourner's Sweet Dream",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "I5Lw4TJlDSk",
+        "spotifyId": "2vnMoSwZ4m5T2h5cEG19Tl",
+        "fandomUrl": "Sojourner%27s_Sweet_Dream"
+      },
+      {
+        "id": 91,
+        "title": "Winding River",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "RV09JXgtsJw",
+        "spotifyId": "3CNdfo1Q4cDsw8aZ3gWuPS",
+        "fandomUrl": "Winding_River"
+      },
+      {
+        "id": 92,
+        "title": "Mild Waves",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "k--D5PIDt2Y",
+        "spotifyId": "0CvE0nJBSZunRT4RKsjUxL",
+        "fandomUrl": "Mild_Waves"
+      },
+      {
+        "id": 93,
+        "title": "Rhythm Amidst the Reeds",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "HcV-l5MEEJc",
+        "spotifyId": "6fDtrqUmd9Seufl2hTli7P",
+        "fandomUrl": "Rhythm_Amidst_the_Reeds"
+      },
+      {
+        "id": 94,
+        "title": "Flows of Jade-Like Water",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "ZLRGsr17llc",
+        "spotifyId": "3yNVoNAkXe3aUjkAaWthwU",
+        "fandomUrl": "Flows_of_Jade-Like_Water"
+      },
+      {
+        "id": 95,
+        "title": "Blossoms Across the Valley",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "8eH4vN4wgn0",
+        "spotifyId": "5E5pYqNZqlRWYxr7OwQTQB",
+        "fandomUrl": "Blossoms_Across_the_Valley"
+      },
+      {
+        "id": 96,
+        "title": "Flow of Mildness",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "LrG3sjNqtfg",
+        "spotifyId": "2hI5tToSrWSBRJUfsrvetx",
+        "fandomUrl": "Flow_of_Mildness"
+      },
+      {
+        "id": 97,
+        "title": "Stroll in the Shadows",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "ngoQ3pzat7I",
+        "spotifyId": "3Dod8nDDtj2WGZ02w7uc3T",
+        "fandomUrl": "Stroll_in_the_Shadows"
+      },
+      {
+        "id": 98,
+        "title": "Melodious Flute",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "kiQIUKYdVfo",
+        "spotifyId": "2yK5MUkSDKlmtglXrOEU7I",
+        "fandomUrl": "Melodious_Flute"
+      },
+      {
+        "id": 99,
+        "title": "Gentle Rain",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "EwFg3j8ji5o",
+        "spotifyId": "0o61nzWJim6WTIgTXNYlJ5",
+        "fandomUrl": "Gentle_Rain"
+      },
+      {
+        "id": 100,
+        "title": "Vague Whispers",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "VNBmCln8m6s",
+        "spotifyId": "2XLG1ZwKkG9UUfDMjuwAeH",
+        "fandomUrl": "Vague_Whispers"
+      },
+      {
+        "id": 101,
+        "title": "Legends Swept Away",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "-ZqthCkVluo",
+        "spotifyId": "0AT8UeyDydzBKrhCcQGQew",
+        "fandomUrl": "Legends_Swept_Away"
+      },
+      {
+        "id": 102,
+        "title": "Joy of Returning",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "TTjAxOgLztU",
+        "spotifyId": "5668rYVLBARZyimuWdnsyc",
+        "fandomUrl": "Joy_of_Returning"
+      },
+      {
+        "id": 103,
+        "title": "Loner's Departure",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "pmD8NNyeZl4",
+        "spotifyId": "2yndV24ZMPKEvYioMKhHAQ",
+        "fandomUrl": "Loner%27s_Departure"
+      },
+      {
+        "id": 104,
+        "title": "Foxes at Play",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "bP4ggdfBtDg",
+        "spotifyId": "4VV2BW1lECad0w3xmyyRBg",
+        "fandomUrl": "Foxes_at_Play"
+      },
+      {
+        "id": 105,
+        "title": "Plain of Nostalgia",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "lbsJ6M-dn9c",
+        "spotifyId": "5JS9RQZ8urxL87nVqsEy7v",
+        "fandomUrl": "Plain_of_Nostalgia"
+      },
+      {
+        "id": 106,
+        "title": "Another Hopeful Tomorrow",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "x6jUyKT8Sto",
+        "spotifyId": "2mrb4EhwdH1pcYUCPR73oa",
+        "fandomUrl": "Another_Hopeful_Tomorrow"
+      },
+      {
+        "id": 107,
+        "title": "This Little Light of Mine",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "gYdqTT_41Ow",
+        "spotifyId": "754RikKVwjxtUckRWJu6B0",
+        "fandomUrl": "This_Little_Light_of_Mine"
+      },
+      {
+        "id": 108,
+        "title": "Legend of Redemption",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "4cq9TfyuYdM",
+        "spotifyId": "4DJUmeLAINsXyaFtoJjdUa",
+        "fandomUrl": "Legend_of_Redemption"
+      },
+      {
+        "id": 109,
+        "title": "Hazy Light",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "Zgv8R04dH7E",
+        "spotifyId": "2x980FiDbXV9Uytk3VJfip",
+        "fandomUrl": "Hazy_Light"
+      },
+      {
+        "id": 110,
+        "title": "Scattered Amongst the Tides",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "eFSKIMKk4UM",
+        "spotifyId": "4gxAxQScUpwnCtCnM4Y1Uv",
+        "fandomUrl": "Scattered_Amongst_the_Tides"
+      },
+      {
+        "id": 111,
+        "title": "Rhythms From the Conch",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "TSVb8qOmx7g",
+        "spotifyId": "4nnBJo7j1PBDK6V8DnW0oj",
+        "fandomUrl": "Rhythms_From_the_Conch"
+      },
+      {
+        "id": 112,
+        "title": "Peaceful Hike",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "TCRlphio-2o",
+        "spotifyId": "2FCatAh7hqYxbTbuZgWhWx",
+        "fandomUrl": "Peaceful_Hike"
+      },
+      {
+        "id": 113,
+        "title": "The Fading Stories",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests", "Events"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "IvMxXeJrq3Y",
+        "spotifyId": "1iJL4eeKUbRuQDGO7hVRCI",
+        "fandomUrl": "The_Fading_Stories"
+      },
+      {
+        "id": 114,
+        "title": "Wandering Flight",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "Np91Z2_7GCw",
+        "spotifyId": "6v4biNJNbzsZ1s4Znlshhi",
+        "fandomUrl": "Wandering_Flight"
+      },
+      {
+        "id": 115,
+        "title": "Faint Tracks",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "OanZ8vhOMY8",
+        "spotifyId": "0U4LMNasBhZtLB2iBFHnY8",
+        "fandomUrl": "Faint_Tracks"
+      },
+      {
+        "id": 116,
+        "title": "Idle Away From Mountains",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "cRVk_MkW6ZE",
+        "spotifyId": "1jR61nc98OPr6B1kBtKP1t",
+        "fandomUrl": "Idle_Away_From_Mountains"
+      },
+      {
+        "id": 117,
+        "title": "Humming Amidst Rocks",
+        "playedAt": ["Open-World Locations", "Domains", "Event Gameplay"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "tzaJaCtBnDU",
+        "spotifyId": "7rNi6aLecOfHGdVW8iUWo1",
+        "fandomUrl": "Humming_Amidst_Rocks"
+      },
+      {
+        "id": 118,
+        "title": "Above the Sea of Clouds",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "LsgOFBdHNF8",
+        "spotifyId": "6qLo4GQMmyrZwOQSzmUqpr",
+        "fandomUrl": "Above_the_Sea_of_Clouds"
+      },
+      {
+        "id": 119,
+        "title": "Adeptus' Retirement",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "RyVIJIK9kys",
+        "spotifyId": "4afVwyGCeYDYYDM5RABNLA",
+        "fandomUrl": "Adeptus%27_Retirement"
+      },
+      {
+        "id": 120,
+        "title": "A Casual Visit",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "gE976747Luo",
+        "spotifyId": "7qpnskDLf5FFXVnNldbXeo",
+        "fandomUrl": "A_Casual_Visit"
+      },
+      {
+        "id": 121,
+        "title": "A Serendipitous Encounter",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "pxv3oLI8s1s",
+        "spotifyId": "3kdnGNISjQ8vstmQmx8uaH",
+        "fandomUrl": "A_Serendipitous_Encounter"
+      },
+      {
+        "id": 122,
+        "title": "Freedom of Crane",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "F1EZgg_pMOA",
+        "spotifyId": "5ZsJSODoKuxBxHwf0YXNo4",
+        "fandomUrl": "Freedom_of_Crane"
+      },
+      {
+        "id": 123,
+        "title": "Rays of Sunlight",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "XsqRNnricPg",
+        "spotifyId": "5U8IasUSA4EOmZwCzKyhcm",
+        "fandomUrl": "Rays_of_Sunlight"
+      },
+      {
+        "id": 124,
+        "title": "Rainbow at Summit",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "oPcAMkC9Pv4",
+        "spotifyId": "3PRjDoSa5cksLtv68elXvl",
+        "fandomUrl": "Rainbow_at_Summit"
+      },
+      {
+        "id": 125,
+        "title": "Spring in Clouds",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "TSvxRRq-bBE",
+        "spotifyId": "1MpGEvFfnWxByjfwydE1kP",
+        "fandomUrl": "Spring_in_Clouds"
+      },
+      {
+        "id": 126,
+        "title": "Adeptus' Solace",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "Mi4Mjezm3Os",
+        "spotifyId": "0h7jrdRdNBclcJruULyNwC",
+        "fandomUrl": "Adeptus%27_Solace"
+      },
+      {
+        "id": 127,
+        "title": "The Absence of Adepti",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "L2RYUKGZSOM",
+        "spotifyId": "2yXkLHAVOgs7iJbrFdMUeF",
+        "fandomUrl": "The_Absence_of_Adepti"
+      },
+      {
+        "id": 128,
+        "title": "Emerging Clouds",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "GG0aczBNQZc",
+        "spotifyId": "7wCBY8lpveoheSO7FXVsw5",
+        "fandomUrl": "Emerging_Clouds"
+      },
+      {
+        "id": 129,
+        "title": "Drink With a Hermit",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "9zkCxxO4DL8",
+        "spotifyId": "2UuZB5dZTjmJA5I6zZsHTJ",
+        "fandomUrl": "Drink_With_a_Hermit"
+      },
+      {
+        "id": 130,
+        "title": "Moss Covered Path",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "ZJZowcJjFlI",
+        "spotifyId": "6WpPD2gHRjuZvrrPaxgi6d",
+        "fandomUrl": "Moss_Covered_Path"
+      },
+      {
+        "id": 131,
+        "title": "Bird Call From Afar",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "WfVxhwV93UA",
+        "spotifyId": "7dAtlQXFqb4QVjl712qVB5",
+        "fandomUrl": "Bird_Call_From_Afar"
+      },
+      {
+        "id": 132,
+        "title": "Red Leaf on the Chessboard",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "3F_aCU_v1_g",
+        "spotifyId": "0ko4YyVbv7ySlzqy8iKdpy",
+        "fandomUrl": "Red_Leaf_on_the_Chessboard"
+      },
+      {
+        "id": 133,
+        "title": "Secluded Sanctuary",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Domains",
+          "Event Gameplay"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "MratXajnczU",
+        "spotifyId": "7KhytPM9AUTun2nGXGP3iY",
+        "fandomUrl": "Secluded_Sanctuary"
+      },
+      {
+        "id": 134,
+        "title": "Flickering Petals",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "Ty0rDWq2Bm8",
+        "spotifyId": "13EOLLe5BZMrb6lZY0xRIt",
+        "fandomUrl": "Flickering_Petals"
+      },
+      {
+        "id": 135,
+        "title": "Swinging in the Breeze",
+        "playedAt": [],
+        "type": "Ambient",
+        "region": "N/A",
+        "youtubeId": "k756xx-mZAc",
+        "spotifyId": "30x4S4dE4LiqFfOPxvOo97",
+        "fandomUrl": "Swinging_in_the_Breeze"
+      },
+      {
+        "id": 136,
+        "title": "Solitude Mountains",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "5uMfxCk4_CU",
+        "spotifyId": "6Aqd3mAAxcF82uzBLWdEEV",
+        "fandomUrl": "Solitude_Mountains"
+      },
+      {
+        "id": 137,
+        "title": "Distant Resonance",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "WSCoPqHz5Ts",
+        "spotifyId": "7pmyWB5iiU5Md1g2lWk5xK",
+        "fandomUrl": "Distant_Resonance"
+      },
+      {
+        "id": 138,
+        "title": "Foregone Giants",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "c62GPDEgq5s",
+        "spotifyId": "0mvv7EducUmms2LkU4s0QT",
+        "fandomUrl": "Foregone_Giants"
+      },
+      {
+        "id": 139,
+        "title": "Linger in the Valley",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "JEuCuQ6zy30",
+        "spotifyId": "11Ij6lmOZM79RC15ZTHUZi",
+        "fandomUrl": "Linger_in_the_Valley"
+      },
+      {
+        "id": 140,
+        "title": "Slumbering Lore",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "hk0MXq8HaoQ",
+        "spotifyId": "5Ffqv3nxK2C4BbDEMr6uJN",
+        "fandomUrl": "Slumbering_Lore"
+      },
+      {
+        "id": 141,
+        "title": "Silent Ruins",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "vGM68dedb0A",
+        "spotifyId": "3Vn5vcFVQ0rW49tJJNw3pP",
+        "fandomUrl": "Silent_Ruins"
+      },
+      {
+        "id": 142,
+        "title": "Lone Drifter",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "gQ-ITVNfrXg",
+        "spotifyId": "5wUWqJwMCMUN3IRWxZ9xbI",
+        "fandomUrl": "Lone_Drifter"
+      },
+      {
+        "id": 143,
+        "title": "Lost Expectation",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "YRNrzV-WHMQ",
+        "spotifyId": "2n0QsS6GAD7GUoKZ5rONNF",
+        "fandomUrl": "Lost_Expectation"
+      },
+      {
+        "id": 144,
+        "title": "The Realm Within",
+        "playedAt": ["Domains", "Serenitea Pot", "Event Gameplay", "Media"],
+        "type": "Domain",
+        "region": "Liyue",
+        "youtubeId": "EfD-zFe26CU",
+        "spotifyId": "6dMi6WV6MfCH75oWJA3bgi",
+        "fandomUrl": "The_Realm_Within_(Soundtrack)"
+      },
+      {
+        "id": 145,
+        "title": "Rapid as Wildfires",
+        "playedAt": [
+          "Open-World Combat",
+          "Event Gameplay",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Liyue",
+        "youtubeId": "tB9TZ1OX-Sw",
+        "spotifyId": "68b1n1IMui4lfXcf1MDzh9",
+        "fandomUrl": "Rapid_as_Wildfires"
+      },
+      {
+        "id": 146,
+        "title": "Chasing the Torrents",
+        "playedAt": [
+          "Open-World Combat",
+          "Event Gameplay",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Liyue",
+        "youtubeId": "gK_Mm9Zql8E",
+        "spotifyId": "7kdCsTElryhtspvrUVXfBS",
+        "fandomUrl": "Chasing_the_Torrents"
+      },
+      {
+        "id": 147,
+        "title": "Gallant Challenge",
+        "playedAt": ["Open-World Combat", "Event Gameplay", "Media"],
+        "type": "Combat",
+        "region": "Liyue",
+        "youtubeId": "QfZuTG9lXKA",
+        "spotifyId": "4Pybod1toaD5z0s4XxS4Ff",
+        "fandomUrl": "Gallant_Challenge"
+      }
+    ]
   }
 ]
