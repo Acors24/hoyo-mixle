@@ -111,14 +111,21 @@ export default function Game() {
         guesses={guesses}
         maxGuesses={maxAttempts}
       />
-      <div className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2">
-        Streak:{" "}
-        {state.gameData[currentGame][endlessMode ? "endless" : "daily"].streak}{" "}
-        | Highest streak:{" "}
-        {
-          state.gameData[currentGame][endlessMode ? "endless" : "daily"]
-            .highestStreak
-        }
+      <div className="flex gap-1 *:bg-slate-800 *:bg-opacity-50 *:px-4 *:py-2">
+        <span className="rounded-l-full">
+          Streak:{" "}
+          {
+            state.gameData[currentGame][endlessMode ? "endless" : "daily"]
+              .streak
+          }
+        </span>
+        <span className="rounded-r-full">
+          Highest:{" "}
+          {
+            state.gameData[currentGame][endlessMode ? "endless" : "daily"]
+              .highestStreak
+          }
+        </span>
       </div>
       <label className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2">
         <input
