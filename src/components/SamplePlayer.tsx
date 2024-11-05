@@ -65,12 +65,13 @@ export default function SamplePlayer({
     }
 
     let duration = await internalPlayer.getDuration();
-    console.log(duration);
-    while (duration === undefined) {
+    // Workaround for getDuration returning `undefined`
+    // Try to get the duration only thrice to prevent infinite loops from creating while quickly switching modes
+    for (let i = 0; i < 3 && duration === undefined; i++) {
       await new Promise((resolve) => setTimeout(resolve, 1000));
       duration = await internalPlayer.getDuration();
-      console.log(duration);
     }
+    console.log(duration);
 
     const starts = getStarts(duration, endlessMode);
     console.log(starts);
