@@ -86,6 +86,13 @@ export default function HowToPlay({
         . Track types and regions are decided by me and may not be accurate.
       </p>
 
+      <div className="bg-rose-500 bg-opacity-10 border-rose-500 border rounded-xl p-2">
+        <p>
+          An ad blocker is strongly recommended to prevent YouTube ads from
+          playing while listening to the samples.
+        </p>
+      </div>
+
       <div className="bg-amber-500 bg-opacity-10 border-amber-500 border rounded-xl p-2">
         <p>
           This is currently a work in progress. More features and improvements,
