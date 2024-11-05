@@ -24,9 +24,15 @@ export default function Game() {
     state.gameData[currentGame].daily.guesses
   );
   const [endlessMode, setEndlessMode] = useState(false);
+  const [endlessToggleDisabled, setEndlessToggleDisabled] = useState(false);
 
   const handleEndlessModeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setEndlessMode(e.target.checked);
+
+    setEndlessToggleDisabled(true);
+    setTimeout(() => {
+      setEndlessToggleDisabled(false);
+    }, 2000);
 
     if (e.target.checked) {
       const alreadyPlaying = state.gameData[currentGame].endless.songId;
@@ -133,6 +139,7 @@ export default function Game() {
           className="mr-2"
           checked={endlessMode}
           onChange={handleEndlessModeChange}
+          disabled={endlessToggleDisabled}
         />
         Endless mode
       </label>
