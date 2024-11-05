@@ -71,6 +71,10 @@ export default function SamplePlayer({
       await new Promise((resolve) => setTimeout(resolve, 1000));
       duration = await internalPlayer.getDuration();
     }
+    if (duration === undefined) {
+      console.error("Failed to get duration");
+      return;
+    }
     console.log(duration);
 
     const starts = getStarts(duration, endlessMode);
