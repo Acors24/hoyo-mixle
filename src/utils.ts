@@ -15,9 +15,19 @@ function getYouTubeThumbnail(youtubeId: string): string {
 }
 
 function getStarts(duration: number, endlessMode: boolean): number[] {
+  const silencePadding = duration < 60 ? 0 : 5;
+  const minimumInterval = duration < 60 ? 5 : 10;
   const rng = endlessMode ? random : new Random(today.toDateString());
-  const uniform = rng.uniformInt(0, duration - 10);
-  return Array(3).fill(0).map(uniform);
+  const uniform = rng.uniformInt(silencePadding, duration - 3 - silencePadding);
+  const starts: number[] = [];
+  while (starts.length < 3) {
+    const start = uniform();
+    if (starts.some((s) => Math.abs(s - start) < minimumInterval)) {
+      continue;
+    }
+    starts.push(start);
+  }
+  return starts;
 }
 
 function getGameBaseWiki(game: Game): string {

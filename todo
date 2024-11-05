@@ -6,7 +6,7 @@
   - [x] extract the logic into a separate file
 - [x] endless mode
   - [x] save chosen song and guesses after switching off
-- [ ] better sampling
+- [x] better sampling
 - [x] hide songs that don't meet the known conditions
 - [-] sidebar
   - [ ] game icons (game switcher)
@@ -17,3 +17,4 @@
 - [-] responsive design
 - [ ] move to primarily SCSS or similar
 - [ ] more albums
+- [ ] fix background album flash in endless mode
