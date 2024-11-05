@@ -1,11 +1,11 @@
 - [x] save day's progress
 - [x] save streak
 - [x] save volume
-- [ ] reorganize localStorage logic
-  - [ ] use a better data structure
+- [x] reorganize localStorage logic
+  - [x] use a better data structure
   - [x] extract the logic into a separate file
 - [x] endless mode
-  - [ ] save chosen song and guesses after switching off
+  - [x] save chosen song and guesses after switching off
 - [ ] better sampling
 - [-] sidebar
   - [ ] game icons (game switcher)

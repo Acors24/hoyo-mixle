@@ -2,39 +2,51 @@ import { useState } from "react";
 import albums from "../assets/albums.json";
 import background from "../assets/night.png";
 import GuessIndicatorBar from "./GuessIndicatorBar";
-import { Song } from "../types";
+import { Game as hoyoGame, Song } from "../types";
 import GuessTable from "./GuessTable";
 import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter";
 import random from "random";
 import SongCard from "./SongCard";
-import {
-  getStreak,
-  getTodaysGuesses,
-  getTodaysSong,
-  getYouTubeThumbnail,
-  handleStreakChange,
-  saveTodaysGuesses,
-} from "../utils";
+import { getTodaysSong, getYouTubeThumbnail } from "../utils";
+import { useStorage } from "../StorageContext";
 
 export default function Game() {
+  const { state, dispatch } = useStorage();
+  const currentGame: hoyoGame = "genshinImpact";
+
   const getRandomSong: () => Song = () => {
     return random.choice(albums.flatMap((album) => album.songs))!;
   };
 
   const [chosenSong, setChosenSong] = useState<Song>(getTodaysSong);
-  const [guesses, setGuesses] = useState<number[]>(getTodaysGuesses);
+  const [guesses, setGuesses] = useState<number[]>(
+    state.gameData[currentGame].daily.guesses
+  );
   const [endlessMode, setEndlessMode] = useState(false);
 
   const handleEndlessModeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setEndlessMode(e.target.checked);
 
     if (e.target.checked) {
-      setChosenSong(getRandomSong());
-      setGuesses([]);
+      const alreadyPlaying = state.gameData[currentGame].endless.songId;
+      const song =
+        alreadyPlaying !== null
+          ? albums
+              .flatMap((album) => album.songs)
+              .find((song) => song.id === alreadyPlaying)!
+          : getRandomSong();
+      if (alreadyPlaying === null) {
+        dispatch({
+          type: "LOCK_ENDLESS_SONG",
+          payload: { game: currentGame, songId: song.id },
+        });
+      }
+      setChosenSong(song);
+      setGuesses(state.gameData[currentGame].endless.guesses);
     } else {
       setChosenSong(getTodaysSong());
-      setGuesses(getTodaysGuesses());
+      setGuesses(state.gameData[currentGame].daily.guesses);
     }
   };
 
@@ -57,36 +69,40 @@ export default function Game() {
     const newGuesses = [...guesses, id];
     setGuesses(newGuesses);
 
+    dispatch({
+      type: "SET_GUESSES",
+      payload: {
+        game: currentGame,
+        guesses: newGuesses,
+        mode: endlessMode ? "endless" : "daily",
+        songId: chosenSong.id,
+        validForSongs: albums.reduce(
+          (acc, album) => acc + album.songs.length,
+          0
+        ),
+      },
+    });
+
     if (id === chosenSong.id) {
-      handleStreakChange(true, endlessMode);
-    } else if (guesses.length === maxAttempts - 1) {
-      handleStreakChange(false, endlessMode);
+      dispatch({
+        type: "INCREMENT_STREAK",
+        payload: {
+          game: currentGame,
+          mode: endlessMode ? "endless" : "daily",
+        },
+      });
+    } else if (newGuesses.length >= maxAttempts) {
+      dispatch({
+        type: "RESET_STREAK",
+        payload: {
+          game: currentGame,
+          mode: endlessMode ? "endless" : "daily",
+        },
+      });
     }
-
-    if (endlessMode) {
-      return;
-    }
-
-    saveTodaysGuesses(newGuesses);
   };
 
   const albumImage = getYouTubeThumbnail(chosenSong.youtubeId);
-
-  // // TODO: Remove this eventually
-  // const restartGameButton = (
-  //   <button
-  //     onClick={() => {
-  //       setGuesses([]);
-
-  //       const data: Record<string, number[]> = {};
-  //       data[new Date().toDateString()] = [];
-  //       localStorage.setItem("data", JSON.stringify(data));
-  //     }}
-  //     className="rounded-full bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100 px-4 py-2"
-  //   >
-  //     Restart
-  //   </button>
-  // );
 
   const stats = (
     <div className="flex items-center justify-center gap-2 select-none flex-wrap">
@@ -96,7 +112,13 @@ export default function Game() {
         maxGuesses={maxAttempts}
       />
       <div className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2">
-        Streak: {getStreak(endlessMode)}
+        Streak:{" "}
+        {state.gameData[currentGame][endlessMode ? "endless" : "daily"].streak}{" "}
+        | Highest streak:{" "}
+        {
+          state.gameData[currentGame][endlessMode ? "endless" : "daily"]
+            .highestStreak
+        }
       </div>
       <label className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2">
         <input
@@ -111,14 +133,27 @@ export default function Game() {
         <button
           className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2"
           onClick={() => {
-            setChosenSong(getRandomSong());
+            const newSong = getRandomSong();
+            dispatch({
+              type: "SET_GUESSES",
+              payload: {
+                game: currentGame,
+                mode: "endless",
+                guesses: [],
+                songId: newSong.id,
+                validForSongs: albums.reduce(
+                  (acc, album) => acc + album.songs.length,
+                  0
+                ),
+              },
+            });
+            setChosenSong(newSong);
             setGuesses([]);
           }}
         >
           Next
         </button>
       )}
-      {/* {!endlessMode && gameState !== "playing" && restartGameButton} */}
     </div>
   );
 

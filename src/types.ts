@@ -14,7 +14,9 @@ export type Song = {
   fandomUrl: string;
 };
 
-type Game = "genshinImpact";
+export type Game = "genshinImpact";
+
+export type Mode = "daily" | "endless";
 
 export type LocalStorage = {
   gameData: {
@@ -27,6 +29,7 @@ export type LocalStorage = {
         highestStreak: number;
       };
       endless: {
+        songId: number | null;
         guesses: number[];
         streak: number;
         highestStreak: number;
@@ -37,4 +40,56 @@ export type LocalStorage = {
     volume: number;
     howToPlaySeen: boolean;
   };
+};
+
+export type StorageAction =
+  | {
+      type: "SET_HOW_TO_PLAY_SEEN";
+      payload: boolean;
+    }
+  | {
+      type: "SET_VOLUME";
+      payload: number;
+    }
+  | {
+      type: "SET_GUESSES";
+      payload: {
+        game: Game;
+        guesses: number[];
+        validForSongs: number;
+      } & (
+        | {
+            mode: "daily";
+          }
+        | {
+            mode: "endless";
+            songId: number;
+          }
+      );
+    }
+  | {
+      type: "LOCK_ENDLESS_SONG";
+      payload: {
+        game: Game;
+        songId: number;
+      };
+    }
+  | {
+      type: "INCREMENT_STREAK";
+      payload: {
+        game: Game;
+        mode: Mode;
+      };
+    }
+  | {
+      type: "RESET_STREAK";
+      payload: {
+        game: Game;
+        mode: Mode;
+      };
+    };
+
+export type StorageContextType = {
+  state: LocalStorage;
+  dispatch: React.Dispatch<StorageAction>;
 };

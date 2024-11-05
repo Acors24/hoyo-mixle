@@ -4,7 +4,8 @@ import { Song } from "../types";
 import YouTube, { YouTubeEvent } from "react-youtube";
 import SampleControl from "./SampleControl";
 import { CgSpinner } from "react-icons/cg";
-import { getStarts, getVolume, saveVolume } from "../utils";
+import { getStarts } from "../utils";
+import { useStorage } from "../StorageContext";
 
 export default function SamplePlayer({
   song,
@@ -13,6 +14,8 @@ export default function SamplePlayer({
   song: Song;
   endlessMode: boolean;
 }) {
+  const { state, dispatch } = useStorage();
+
   const playerRef = useRef<YouTube>(null);
   const timeoutHandle = useRef<NodeJS.Timeout>();
   const [playerState, setPlayerState] = useState(3);
@@ -20,10 +23,10 @@ export default function SamplePlayer({
 
   const [starts, setStarts] = useState<number[]>([]);
 
-  const volume = getVolume();
+  const volume = state.config.volume;
   const setVolume = (volume: number) => {
     playerRef.current?.internalPlayer?.setVolume(volume);
-    saveVolume(volume);
+    dispatch({ type: "SET_VOLUME", payload: volume });
   };
 
   const handleStateChange = ({ data, target }: YouTubeEvent<number>) => {
