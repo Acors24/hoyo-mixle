@@ -1,7 +1,7 @@
 import { FaSpotify, FaYoutube } from "react-icons/fa6";
 import { Album, Song } from "../types";
 import { SiFandom } from "react-icons/si";
-import { getYouTubeThumbnail } from "../utils";
+import { getGameBaseWiki, getYouTubeThumbnail } from "../utils";
 
 export default function SongCard({
   album,
@@ -120,9 +120,11 @@ function SpotifyButton({ spotifyId }: { spotifyId: string }) {
 }
 
 function FandomButton({ fandomId }: { fandomId: string }) {
+  const baseUrl = getGameBaseWiki("genshinImpact");
+
   return (
     <IconLink
-      href={`https://genshin-impact.fandom.com/wiki/${fandomId}`}
+      href={`${baseUrl}${fandomId}`}
       icon={<SiFandom />}
       className="bg-[#FA005A] text-white"
     />
