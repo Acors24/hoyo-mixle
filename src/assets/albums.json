@@ -1717,5 +1717,180 @@
         "fandomUrl": "Gallant_Challenge"
       }
     ]
+  },
+  {
+    "title": "The Stellar Moments",
+    "songs": [
+      {
+        "id": 148,
+        "title": "Bard's Adventure",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "Oofw4zlXcNg",
+        "spotifyId": "3T1kzkVt4tkJWwIetV5IyD",
+        "fandomUrl": "Bard%27s_Adventure"
+      },
+      {
+        "id": 149,
+        "title": "Let's Go, Crimson Knight!",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "qQE1yJAoSYY",
+        "spotifyId": "4tIECAwUsck9QQs3EwDabA",
+        "fandomUrl": "Let%27s_Go,_Crimson_Knight!"
+      },
+      {
+        "id": 150,
+        "title": "Where the Sunlight Flees",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "wzScVV24XYU",
+        "spotifyId": "70I35BJbg54C2fzlQay0TB",
+        "fandomUrl": "Where_the_Sunlight_Flees"
+      },
+      {
+        "id": 151,
+        "title": "Flaming Fry",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "HXxPv9a_TnA",
+        "spotifyId": "4JUlAiE2lGMo15zPkyjPCY",
+        "fandomUrl": "Flaming_Fry"
+      },
+      {
+        "id": 152,
+        "title": "Ouvert\u00fcre der ewigen Nacht",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "M4A6EDbWgzA",
+        "spotifyId": "6Ta8BVRQqFVkGATsEIB7kP",
+        "fandomUrl": "Ouvert%C3%BCre_der_ewigen_Nacht"
+      },
+      {
+        "id": 153,
+        "title": "Sieh an, mein Sommernachtgarten!",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "yr5GC1AZ6b4",
+        "spotifyId": "1UmQKdyUzOvsjrD0lplYrd",
+        "fandomUrl": "Sieh_an,_mein_Sommernachtgarten!"
+      },
+      {
+        "id": 154,
+        "title": "Preserver of Fortune",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "5prZq3ya7f0",
+        "spotifyId": "6HJSW5k3K0liNzvkkcMv79",
+        "fandomUrl": "Preserver_of_Fortune"
+      },
+      {
+        "id": 155,
+        "title": "Surge of Prophecies",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "xG4EDhX4tRg",
+        "spotifyId": "5V7wMM7JJE6jMS60g8ChrV",
+        "fandomUrl": "Surge_of_Prophecies"
+      },
+      {
+        "id": 156,
+        "title": "Letter From Ajax",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Snezhnaya",
+        "youtubeId": "AXjnVSZozYI",
+        "spotifyId": "1AfBK80wG38YIwS7py7hEq",
+        "fandomUrl": "Letter_From_Ajax"
+      },
+      {
+        "id": 157,
+        "title": "From Snezhnaya With Boldness",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Snezhnaya",
+        "youtubeId": "jUny1b9UnJw",
+        "spotifyId": "4dsKNgoAzu6nCDr2YoLt02",
+        "fandomUrl": "From_Snezhnaya_With_Boldness"
+      },
+      {
+        "id": 158,
+        "title": "Exclusive Specialty",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "qwlplyAJjjM",
+        "spotifyId": "3xCl5c73qlgC946aGcdB1X",
+        "fandomUrl": "Exclusive_Specialty"
+      },
+      {
+        "id": 159,
+        "title": "Rockin' With Fire",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "diS-Mnwn7GI",
+        "spotifyId": "1dhLWONMnekdkuY1kiGMfJ",
+        "fandomUrl": "Rockin%27_With_Fire"
+      },
+      {
+        "id": 160,
+        "title": "Nimble as Lightning",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "vMeaJGQMvmw",
+        "spotifyId": "03Jux6mkCk8mGSLIsmOmrd",
+        "fandomUrl": "Nimble_as_Lightning"
+      },
+      {
+        "id": 161,
+        "title": "Contemplation in Snow",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "GCnIxGuC740",
+        "spotifyId": "7fBt47dXX49oj5sv7ph3q4",
+        "fandomUrl": "Contemplation_in_Snow"
+      },
+      {
+        "id": 162,
+        "title": "Genius of Takwin",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "Fpt9YMaceqA",
+        "spotifyId": "3NnNinDuisrXs8SqpRj8ST",
+        "fandomUrl": "Genius_of_Takwin"
+      },
+      {
+        "id": 163,
+        "title": "Qilin's Prance",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "vV7OmRpgXh4",
+        "spotifyId": "4gJy5K85glxZFufZQFeR8D",
+        "fandomUrl": "Qilin%27s_Prance"
+      },
+      {
+        "id": 164,
+        "title": "Rex Incognito",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "SBfoWTB-T_U",
+        "spotifyId": "12tLo4zslkJEgl8xXlawbI",
+        "fandomUrl": "Rex_Incognito_(Soundtrack)"
+      }
+    ]
   }
 ]
