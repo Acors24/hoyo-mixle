@@ -17,4 +17,5 @@
 - [-] responsive design
 - [ ] move to primarily SCSS or similar
 - [ ] more albums
-- [ ] fix background album flash in endless mode
+- [x] fix background album flash in endless mode
+- [ ] use accessible primitives

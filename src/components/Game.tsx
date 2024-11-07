@@ -1,6 +1,5 @@
 import { useState } from "react";
 import albums from "../assets/albums.json";
-import background from "../assets/night.png";
 import GuessIndicatorBar from "./GuessIndicatorBar";
 import { Game as hoyoGame, Song } from "../types";
 import GuessTable from "./GuessTable";
@@ -10,6 +9,7 @@ import random from "random";
 import SongCard from "./SongCard";
 import { getTodaysSong, getYouTubeThumbnail } from "../utils";
 import { useStorage } from "../StorageContext";
+import Background from "./Background";
 
 export default function Game() {
   const { state, dispatch } = useStorage();
@@ -25,6 +25,11 @@ export default function Game() {
   );
   const [endlessMode, setEndlessMode] = useState(false);
   const [endlessToggleDisabled, setEndlessToggleDisabled] = useState(false);
+
+  const [dailyBg] = useState(getYouTubeThumbnail(chosenSong.youtubeId));
+  const [endlessBg, setEndlessBg] = useState(
+    getYouTubeThumbnail(chosenSong.youtubeId)
+  );
 
   const handleEndlessModeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setEndlessMode(e.target.checked);
@@ -50,6 +55,7 @@ export default function Game() {
       }
       setChosenSong(song);
       setGuesses(state.gameData[currentGame].endless.guesses);
+      setEndlessBg(getYouTubeThumbnail(song.youtubeId));
     } else {
       setChosenSong(getTodaysSong());
       setGuesses(state.gameData[currentGame].daily.guesses);
@@ -108,8 +114,6 @@ export default function Game() {
     }
   };
 
-  const albumImage = getYouTubeThumbnail(chosenSong.youtubeId);
-
   const stats = (
     <div className="flex items-center justify-center gap-2 select-none flex-wrap">
       <GuessIndicatorBar
@@ -163,6 +167,7 @@ export default function Game() {
             });
             setChosenSong(newSong);
             setGuesses([]);
+            setEndlessBg(getYouTubeThumbnail(newSong.youtubeId));
           }}
         >
           Next
@@ -174,19 +179,16 @@ export default function Game() {
   return (
     <>
       <div className="absolute -z-10">
-        <img
-          src={background}
-          alt="background"
-          className={`fixed w-full h-full object-cover duration-1000 ${
-            gameState !== "playing" ? "opacity-0" : ""
-          }`}
-        />
-        <img
-          src={albumImage}
-          alt="Album image"
-          className={`fixed w-full h-full object-cover duration-1000 blur-3xl ${
-            gameState === "playing" ? "opacity-0" : ""
-          }`}
+        <Background
+          visible={
+            gameState === "playing"
+              ? "playing"
+              : endlessMode
+              ? "endless"
+              : "daily"
+          }
+          dailySrc={dailyBg}
+          endlessSrc={endlessBg}
         />
       </div>
       <div className="overflow-auto">
