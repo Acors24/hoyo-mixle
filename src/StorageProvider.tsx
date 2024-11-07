@@ -1,8 +1,7 @@
 import { useEffect, useReducer } from "react";
 import { StorageReducer } from "./StorageReducer";
 import { StorageContext } from "./StorageContext";
-import { LocalStorage } from "./types";
-import albums from "./assets/albums.json";
+import { Album, LocalStorage } from "./types";
 
 const initialState: LocalStorage = {
   gameData: {
@@ -79,7 +78,7 @@ function updateDaily(state: LocalStorage) {
   }
 }
 
-function validateSongAmount(state: LocalStorage) {
+function validateSongAmount(state: LocalStorage, albums: Album[]) {
   const totalSongs = albums.reduce((acc, album) => acc + album.songs.length, 0);
   const validForSongs = state.gameData.genshinImpact.validForSongs;
 
@@ -95,8 +94,10 @@ function validateSongAmount(state: LocalStorage) {
 const storageKey = "hoyo-mixle";
 
 export default function StorageProvider({
+  albums,
   children,
 }: {
+  albums: Album[];
   children: React.ReactNode;
 }) {
   const [state, dispatch] = useReducer(StorageReducer, initialState, () => {
@@ -110,7 +111,7 @@ export default function StorageProvider({
     migrateEndlessStreak(playerData);
 
     updateDaily(playerData);
-    validateSongAmount(playerData);
+    validateSongAmount(playerData, albums);
 
     return playerData;
   });

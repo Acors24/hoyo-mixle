@@ -1,6 +1,5 @@
+import { useAlbums } from "../AlbumsContext";
 import { Song } from "../types";
-
-import albums from "../assets/albums.json";
 
 type SongWithAlbum = Song & { album: string };
 
@@ -18,6 +17,7 @@ export default function GuessTable({
   rowAmount: number;
   className?: string;
 }) {
+  const albums = useAlbums();
   const [chosenAlbum, chosenSong] = (() => {
     const chosenSong = albums
       .flatMap((album) => album.songs)

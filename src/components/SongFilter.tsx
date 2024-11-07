@@ -1,6 +1,6 @@
 import { useState } from "react";
-import albums from "../assets/albums.json";
 import { Song } from "../types";
+import { useAlbums } from "../AlbumsContext";
 
 export default function SongFilter({
   chosenSong,
@@ -13,6 +13,7 @@ export default function SongFilter({
   onSelect: (id: number) => void;
   className?: string;
 }) {
+  const albums = useAlbums();
   const [filterInput, setFilterInput] = useState("");
 
   const albumsVisible = guesses.length > 0;

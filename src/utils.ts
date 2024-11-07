@@ -1,10 +1,9 @@
 import random, { Random } from "random";
-import albums from "./assets/albums.json";
-import { Game, Song } from "./types";
+import { Album, Game, Song } from "./types";
 
 const today = new Date();
 
-function getTodaysSong(): Song {
+function getTodaysSong(albums: Album[]): Song {
   return new Random(today.toDateString()).choice(
     albums.flatMap((album) => album.songs)
   )!;

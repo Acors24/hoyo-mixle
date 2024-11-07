@@ -1,5 +1,4 @@
 import { useState } from "react";
-import albums from "../assets/albums.json";
 import GuessIndicatorBar from "./GuessIndicatorBar";
 import { Game as hoyoGame, Song } from "../types";
 import GuessTable from "./GuessTable";
@@ -10,8 +9,11 @@ import SongCard from "./SongCard";
 import { getTodaysSong, getYouTubeThumbnail } from "../utils";
 import { useStorage } from "../StorageContext";
 import Background from "./Background";
+import { useAlbums } from "../AlbumsContext";
 
 export default function Game() {
+  const albums = useAlbums();
+
   const { state, dispatch } = useStorage();
   const currentGame: hoyoGame = "genshinImpact";
 
@@ -19,7 +21,7 @@ export default function Game() {
     return random.choice(albums.flatMap((album) => album.songs))!;
   };
 
-  const [chosenSong, setChosenSong] = useState<Song>(getTodaysSong);
+  const [chosenSong, setChosenSong] = useState<Song>(getTodaysSong(albums));
   const [guesses, setGuesses] = useState<number[]>(
     state.gameData[currentGame].daily.guesses
   );
@@ -57,7 +59,7 @@ export default function Game() {
       setGuesses(state.gameData[currentGame].endless.guesses);
       setEndlessBg(getYouTubeThumbnail(song.youtubeId));
     } else {
-      setChosenSong(getTodaysSong());
+      setChosenSong(getTodaysSong(albums));
       setGuesses(state.gameData[currentGame].daily.guesses);
     }
   };
