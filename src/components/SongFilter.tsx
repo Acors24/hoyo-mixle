@@ -51,7 +51,7 @@ export default function SongFilter({
   );
 
   return (
-    <div className={`flex flex-col gap-2 overflow-auto ${className ?? ""}`}>
+    <div className={`flex flex-col gap-2 ${className ?? ""}`}>
       <input
         type="text"
         value={filterInput}

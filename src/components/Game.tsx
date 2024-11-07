@@ -194,7 +194,7 @@ export default function Game() {
       <div className="overflow-auto">
         <div className="max-w-[1200px] mx-auto p-2">
           {gameState === "playing" ? (
-            <div className="flex flex-col sm:flex-row *:flex-1 gap-2">
+            <div className="flex flex-col sm:flex-row sm:*:flex-1 gap-2">
               <div className="flex flex-col items-center justify-center">
                 <SamplePlayer song={chosenSong} endlessMode={endlessMode} />
                 {stats}
@@ -203,7 +203,7 @@ export default function Game() {
                 chosenSong={chosenSong}
                 guesses={guesses}
                 onSelect={takeAGuess}
-                className="max-h-[400px] sm:max-h-[600px]"
+                className="h-[400px] sm:h-[600px]"
               />
             </div>
           ) : (
