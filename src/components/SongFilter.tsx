@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import albums from "../assets/albums.json";
 import { Song } from "../types";
 
@@ -100,9 +100,9 @@ export default function SongFilter({
           })
           .filter(({ songs }) => songs.length > 0)
           .map((album) => (
-            <React.Fragment key={album.title}>
+            <div key={album.title}>
               {albumsVisible && (
-                <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none">
+                <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
                   {album.title}
                 </li>
               )}
@@ -130,7 +130,7 @@ export default function SongFilter({
                   </button>
                 </li>
               ))}
-            </React.Fragment>
+            </div>
           ))}
       </ul>
     </div>
