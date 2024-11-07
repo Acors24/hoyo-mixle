@@ -14,9 +14,18 @@ function getYouTubeThumbnail(youtubeId: string): string {
   return `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`;
 }
 
+function getSilencePadding(duration: number): number {
+  return Math.ceil(Math.min(20, Math.max(0, (duration - 30) / 3)));
+}
+
+function getMinimumInterval(duration: number): number {
+  const padding = getSilencePadding(duration);
+  return Math.ceil((duration - 2 * padding) / 6);
+}
+
 function getStarts(duration: number, endlessMode: boolean): number[] {
-  const silencePadding = duration < 60 ? 0 : 5;
-  const minimumInterval = duration < 60 ? 5 : 10;
+  const silencePadding = getSilencePadding(duration);
+  const minimumInterval = getMinimumInterval(duration);
   const rng = endlessMode ? random : new Random(today.toDateString());
   const uniform = rng.uniformInt(silencePadding, duration - 3 - silencePadding);
   const starts: number[] = [];
