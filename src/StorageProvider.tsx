@@ -70,12 +70,14 @@ function migrateEndlessStreak(state: LocalStorage) {
   }
 }
 
-function updateDaily(state: LocalStorage) {
+function updateDailies(state: LocalStorage) {
   const today = new Date().toDateString();
-  if (state.gameData.genshinImpact.daily.day !== today) {
-    state.gameData.genshinImpact.daily.day = today;
-    state.gameData.genshinImpact.daily.guesses = [];
-  }
+  Object.values(state.gameData).forEach((data) => {
+    if (data.daily.day !== today) {
+      data.daily.day = today;
+      data.daily.guesses = [];
+    }
+  });
 }
 
 function validateSongAmount(state: LocalStorage, albums: Album[]) {
@@ -94,10 +96,10 @@ function validateSongAmount(state: LocalStorage, albums: Album[]) {
 const storageKey = "hoyo-mixle";
 
 export default function StorageProvider({
-  albums,
+  // albums,
   children,
 }: {
-  albums: Album[];
+  // albums: Album[];
   children: React.ReactNode;
 }) {
   const [state, dispatch] = useReducer(StorageReducer, initialState, () => {
@@ -110,8 +112,8 @@ export default function StorageProvider({
     migrateDailyStreak(playerData);
     migrateEndlessStreak(playerData);
 
-    updateDaily(playerData);
-    validateSongAmount(playerData, albums);
+    updateDailies(playerData);
+    // validateSongAmount(playerData, albums);
 
     return playerData;
   });

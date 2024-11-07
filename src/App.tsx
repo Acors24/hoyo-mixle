@@ -6,7 +6,7 @@ import { AlbumsContext } from "./AlbumsContext";
 
 export default function App() {
   return (
-    <StorageProvider albums={albums}>
+    <StorageProvider>
       <div className="w-screen h-screen grid grid-cols-[auto_1fr] overflow-auto">
         <Navbar />
         <AlbumsContext.Provider value={albums}>
