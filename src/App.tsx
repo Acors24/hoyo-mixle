@@ -1,7 +1,7 @@
 import Game from "./components/Game";
 import Navbar from "./components/Navbar";
 import StorageProvider from "./StorageProvider";
-import albums from "./assets/albums.json";
+import albums from "./assets/genshin-impact-albums.json";
 import { AlbumsContext } from "./AlbumsContext";
 
 export default function App() {

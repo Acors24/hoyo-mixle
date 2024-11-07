@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Out of Control",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Star Rail",
+        "playedAt": ["Login Menu"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "O72z3z8JvRA",
+        "spotifyId": "0DUjvyUU6afa9splXojxjz",
+        "fandomUrl": "Star_Rail_(Soundtrack)"
+      },
+      {
+        "id": 2,
+        "title": "Space Walk",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Herta Space Station",
+        "youtubeId": "-vU1CLsGdAQ",
+        "spotifyId": "4qlqXrta1x3979XvcujWj7",
+        "fandomUrl": "Space_Walk"
+      },
+      {
+        "id": 3,
+        "title": "The Game Is On",
+        "playedAt": [],
+        "type": "Special",
+        "region": "Herta Space Station",
+        "youtubeId": "v_xw1AU1eNQ",
+        "spotifyId": "5afGJwgafdzAgsUZxEEYlq",
+        "fandomUrl": "The_Game_Is_On"
+      },
+      {
+        "id": 4,
+        "title": "fReeStyLE",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Phonograph Records"],
+        "type": "Mission",
+        "region": "Herta Space Station",
+        "youtubeId": "qRfFgaY3-IQ",
+        "spotifyId": "6ZYe0uEsjicceCNDSFEqEY",
+        "fandomUrl": "FReeStyLE"
+      },
+      {
+        "id": 5,
+        "title": "Call of the Stars",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "OvigUypiU4k",
+        "spotifyId": "6fOVh4FCutXUyFKh4oaVfP",
+        "fandomUrl": "Call_of_the_Stars"
+      },
+      {
+        "id": 6,
+        "title": "Science Fiction",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Herta Space Station",
+        "youtubeId": "MGVSYn0XVaM",
+        "spotifyId": "1KUhuQWSGpGfBc8uRReiiw",
+        "fandomUrl": "Science_Fiction"
+      },
+      {
+        "id": 7,
+        "title": "Drift",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Herta Space Station",
+        "youtubeId": "S_E5dl7R6vI",
+        "spotifyId": "0e2R2P6KIa71jjYnGLz7kX",
+        "fandomUrl": "Drift"
+      },
+      {
+        "id": 8,
+        "title": "Crises",
+        "playedAt": ["Combat", "Domains", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Herta Space Station",
+        "youtubeId": "z2t39Yi85wc",
+        "spotifyId": "0flBKuERIENGMGmiwrjAQ6",
+        "fandomUrl": "Crises"
+      },
+      {
+        "id": 9,
+        "title": "Flashpoint",
+        "playedAt": ["Combat", "Media"],
+        "type": "Combat",
+        "region": "Herta Space Station",
+        "youtubeId": "aDIysyQtcaw",
+        "spotifyId": "5Fn51Dgtg5fKzTmYqtJzmf",
+        "fandomUrl": "Flashpoint"
+      },
+      {
+        "id": 10,
+        "title": "Deep Within",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Herta Space Station",
+        "youtubeId": "l9lnzNSz94M",
+        "spotifyId": "795SxIuCNER8pSlkRBudf5",
+        "fandomUrl": "Deep_Within"
+      },
+      {
+        "id": 11,
+        "title": "Flow Experience",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Herta Space Station",
+        "youtubeId": "mzvHyQ0r51s",
+        "spotifyId": "7clA4NZUwdx6hoVXIdYLL0",
+        "fandomUrl": "Flow_Experience"
+      },
+      {
+        "id": 12,
+        "title": "Mystery",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Herta Space Station",
+        "youtubeId": "3YlSkB3UJVQ",
+        "spotifyId": "3QWVDliQmcuEU8Dfp19LLg",
+        "fandomUrl": "Mystery"
+      },
+      {
+        "id": 13,
+        "title": "Dire Straits",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "Herta Space Station",
+        "youtubeId": "f0yz_tAQPY4",
+        "spotifyId": "5xgmMHOcNEeRsRplpfdCmb",
+        "fandomUrl": "Dire_Straits"
+      },
+      {
+        "id": 14,
+        "title": "Alternative Rock",
+        "playedAt": ["Combat", "Domains", "Media"],
+        "type": "Combat",
+        "region": "Herta Space Station",
+        "youtubeId": "1NJNFYMN1Ng",
+        "spotifyId": "5QOXH3mNBeA3BEVmi4U3Cl",
+        "fandomUrl": "Alternative_Rock"
+      },
+      {
+        "id": 15,
+        "title": "Dawn of Disaster",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Herta Space Station",
+        "youtubeId": "GF-Knp5MFis",
+        "spotifyId": "4PWRj18sN4RhVfW3u1llN3",
+        "fandomUrl": "Dawn_of_Disaster"
+      },
+      {
+        "id": 16,
+        "title": "Salty Moon",
+        "playedAt": [],
+        "type": "Ambient",
+        "region": "Herta Space Station",
+        "youtubeId": "J-AJsIrtIZw",
+        "spotifyId": "2NJFwkg6npWRLrPw0fcQOP",
+        "fandomUrl": "Salty_Moon"
+      },
+      {
+        "id": 17,
+        "title": "Timeline",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Parlor Car",
+        "youtubeId": "tsYiXYMSQmE",
+        "spotifyId": "3Rsiv3Runlb6545DmGhJPK",
+        "fandomUrl": "Timeline_(Soundtrack)"
+      },
+      {
+        "id": 18,
+        "title": "Take the Journey",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Cutscene",
+        "region": "Herta Space Station",
+        "youtubeId": "3FEFtFMBREA",
+        "spotifyId": "6Um1e5MZ11SzCLiSNM8n3r",
+        "fandomUrl": "Take_the_Journey"
+      }
+    ]
+  }
+]
