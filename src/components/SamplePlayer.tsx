@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import VolumeControl from "./VolumeControl";
 import { Song } from "../types";
 import YouTube, { YouTubeEvent } from "react-youtube";
@@ -22,6 +22,10 @@ export default function SamplePlayer({
   const [playingId, setPlayingId] = useState(-1);
 
   const [starts, setStarts] = useState<number[]>([]);
+
+  useEffect(() => {
+    setStarts([]);
+  }, [song]);
 
   const volume = state.config.volume;
   const setVolume = (volume: number) => {
