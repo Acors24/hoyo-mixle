@@ -11,11 +11,10 @@ import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
 
-export default function Game() {
+export default function Game({ currentGame }: { currentGame: hoyoGame }) {
   const albums = useAlbums();
 
   const { state, dispatch } = useStorage();
-  const currentGame: hoyoGame = "genshinImpact";
 
   const getRandomSong: () => Song = () => {
     return random.choice(albums.flatMap((album) => album.songs))!;
@@ -182,12 +181,13 @@ export default function Game() {
     <>
       <div className="absolute -z-10">
         <Background
+          game={currentGame}
           visible={
             gameState === "playing"
               ? "playing"
               : endlessMode
-              ? "endless"
-              : "daily"
+                ? "endless"
+                : "daily"
           }
           dailySrc={dailyBg}
           endlessSrc={endlessBg}
@@ -215,6 +215,7 @@ export default function Game() {
                   albums.find((album) => album.songs.includes(chosenSong))!
                 }
                 song={chosenSong}
+                game={currentGame}
               />
               {stats}
             </div>

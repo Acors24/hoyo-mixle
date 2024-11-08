@@ -27,15 +27,15 @@ export default function HowToPlay({
     >
       <div className="flex justify-between mb-4">
         <h2 className="text-3xl font-bold">How to play</h2>
-        <button autoFocus>
-          <FaRegCircleXmark className="text-2xl" onClick={onClose} />
+        <button autoFocus onClick={onClose}>
+          <FaRegCircleXmark className="text-2xl" />
         </button>
       </div>
 
       <p>
         Each day, a random{" "}
         <a
-          href="https://genshin-impact.fandom.com/wiki/HOYO-MiX"
+          href="https://en.wikipedia.org/wiki/HOYO-MiX"
           target="_blank"
           rel="noreferrer"
           className="text-amber-200 hover:underline"
@@ -81,6 +81,16 @@ export default function HowToPlay({
           className="text-amber-200 hover:underline"
         >
           Genshin Impact Fandom Wiki
+          <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki"
+          target="_blank"
+          rel="noreferrer"
+          className="text-amber-200 hover:underline"
+        >
+          Honkai: Star Rail Fandom Wiki
           <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
         </a>
         . Track types and regions are decided by me and may not be accurate.

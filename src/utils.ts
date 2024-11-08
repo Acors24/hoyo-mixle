@@ -42,6 +42,8 @@ function getGameBaseWiki(game: Game): string {
   switch (game) {
     case "genshinImpact":
       return "https://genshin-impact.fandom.com/wiki/";
+    case "starRail":
+      return "https://honkai-star-rail.fandom.com/wiki/";
   }
 }
 

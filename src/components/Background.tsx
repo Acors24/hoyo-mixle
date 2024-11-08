@@ -1,15 +1,20 @@
 import { useEffect, useState } from "react";
 import night from "../assets/night.png";
+import starrail from "../assets/starrail.png";
+import { Game } from "../types";
 
 export default function Background({
+  game,
   visible,
   dailySrc,
   endlessSrc,
 }: {
+  game: Game;
   visible: "playing" | "daily" | "endless";
   dailySrc: string;
   endlessSrc: string;
 }) {
+  const defaultBackground = game === "genshinImpact" ? night : starrail;
   const [delayedDailySrc, setDelayedDailySrc] = useState(dailySrc);
   const [delayedEndlessSrc, setDelayedEndlessSrc] = useState(endlessSrc);
 
@@ -32,7 +37,7 @@ export default function Background({
   return (
     <>
       <img
-        src={night}
+        src={defaultBackground}
         alt=""
         className={`fixed w-full h-full object-cover duration-1000 ${
           visible === "playing" ? "opacity-100" : "opacity-0"

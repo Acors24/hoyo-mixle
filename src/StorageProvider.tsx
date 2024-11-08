@@ -1,11 +1,36 @@
 import { useEffect, useReducer } from "react";
 import { StorageReducer } from "./StorageReducer";
 import { StorageContext } from "./StorageContext";
-import { Album, LocalStorage } from "./types";
+import { Album, Game, LocalStorage } from "./types";
+
+import genshinImpactAlbums from "./assets/genshin-impact-albums.json";
+import starRailAlbums from "./assets/star-rail-albums.json";
+
+const albums: {
+  [k in Game]: Album[];
+} = {
+  genshinImpact: genshinImpactAlbums,
+  starRail: starRailAlbums,
+};
 
 const initialState: LocalStorage = {
   gameData: {
     genshinImpact: {
+      validForSongs: 0,
+      daily: {
+        day: "",
+        guesses: [],
+        streak: 0,
+        highestStreak: 0,
+      },
+      endless: {
+        songId: null,
+        guesses: [],
+        streak: 0,
+        highestStreak: 0,
+      },
+    },
+    starRail: {
       validForSongs: 0,
       daily: {
         day: "",
@@ -80,26 +105,28 @@ function updateDailies(state: LocalStorage) {
   });
 }
 
-function validateSongAmount(state: LocalStorage, albums: Album[]) {
-  const totalSongs = albums.reduce((acc, album) => acc + album.songs.length, 0);
-  const validForSongs = state.gameData.genshinImpact.validForSongs;
-
-  if (validForSongs !== totalSongs) {
-    state.gameData.genshinImpact.validForSongs = totalSongs;
-    state.gameData.genshinImpact.daily.day = "";
-    state.gameData.genshinImpact.daily.guesses = [];
-    state.gameData.genshinImpact.endless.guesses = [];
-    state.gameData.genshinImpact.endless.songId = null;
+function validateSongAmounts(state: LocalStorage) {
+  for (const game in state.gameData) {
+    const data = state.gameData[game as Game];
+    const totalSongs = albums[game as Game].reduce(
+      (acc, album) => acc + album.songs.length,
+      0
+    );
+    if (data.validForSongs !== totalSongs) {
+      data.validForSongs = totalSongs;
+      data.daily.day = "";
+      data.daily.guesses = [];
+      data.endless.guesses = [];
+      data.endless.songId = null;
+    }
   }
 }
 
 const storageKey = "hoyo-mixle";
 
 export default function StorageProvider({
-  // albums,
   children,
 }: {
-  // albums: Album[];
   children: React.ReactNode;
 }) {
   const [state, dispatch] = useReducer(StorageReducer, initialState, () => {
@@ -112,8 +139,10 @@ export default function StorageProvider({
     migrateDailyStreak(playerData);
     migrateEndlessStreak(playerData);
 
+    playerData.gameData.starRail ??= initialState.gameData.starRail;
+
     updateDailies(playerData);
-    // validateSongAmount(playerData, albums);
+    validateSongAmounts(playerData);
 
     return playerData;
   });

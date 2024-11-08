@@ -14,7 +14,7 @@ export type Song = {
   fandomUrl: string;
 };
 
-export type Game = "genshinImpact";
+export type Game = "genshinImpact" | "starRail";
 
 export type Mode = "daily" | "endless";
 

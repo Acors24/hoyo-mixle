@@ -1,15 +1,17 @@
 import { FaSpotify, FaYoutube } from "react-icons/fa6";
-import { Album, Song } from "../types";
+import { Album, Game, Song } from "../types";
 import { SiFandom } from "react-icons/si";
 import { getGameBaseWiki, getYouTubeThumbnail } from "../utils";
 
 export default function SongCard({
   album,
   song,
+  game,
   className,
 }: {
   album: Album;
   song: Song;
+  game: Game;
   className?: string;
 }) {
   return (
@@ -35,7 +37,7 @@ export default function SongCard({
         <div className="mt-auto flex gap-2">
           <YouTubeButton youtubeId={song.youtubeId} />
           <SpotifyButton spotifyId={song.spotifyId} />
-          <FandomButton fandomId={song.fandomUrl} />
+          <FandomButton fandomId={song.fandomUrl} game={game} />
         </div>
       </div>
     </div>
@@ -119,8 +121,8 @@ function SpotifyButton({ spotifyId }: { spotifyId: string }) {
   );
 }
 
-function FandomButton({ fandomId }: { fandomId: string }) {
-  const baseUrl = getGameBaseWiki("genshinImpact");
+function FandomButton({ game, fandomId }: { game: Game; fandomId: string }) {
+  const baseUrl = getGameBaseWiki(game);
 
   return (
     <IconLink

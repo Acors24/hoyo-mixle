@@ -15,7 +15,7 @@
       {
         "id": 2,
         "title": "Space Walk",
-        "playedAt": ["Open-World Locations"],
+        "playedAt": ["Locations"],
         "type": "Ambient",
         "region": "Herta Space Station",
         "youtubeId": "-vU1CLsGdAQ",
@@ -55,7 +55,7 @@
       {
         "id": 6,
         "title": "Science Fiction",
-        "playedAt": ["Open-World Locations"],
+        "playedAt": ["Locations"],
         "type": "Ambient",
         "region": "Herta Space Station",
         "youtubeId": "MGVSYn0XVaM",
@@ -65,7 +65,7 @@
       {
         "id": 7,
         "title": "Drift",
-        "playedAt": ["Open-World Locations"],
+        "playedAt": ["Locations"],
         "type": "Ambient",
         "region": "Herta Space Station",
         "youtubeId": "S_E5dl7R6vI",
@@ -115,7 +115,7 @@
       {
         "id": 12,
         "title": "Mystery",
-        "playedAt": ["Open-World Locations"],
+        "playedAt": ["Locations"],
         "type": "Ambient",
         "region": "Herta Space Station",
         "youtubeId": "3YlSkB3UJVQ",
@@ -171,7 +171,7 @@
       {
         "id": 17,
         "title": "Timeline",
-        "playedAt": ["Open-World Locations"],
+        "playedAt": ["Locations"],
         "type": "Ambient",
         "region": "Parlor Car",
         "youtubeId": "tsYiXYMSQmE",
@@ -187,6 +187,336 @@
         "youtubeId": "3FEFtFMBREA",
         "spotifyId": "6Um1e5MZ11SzCLiSNM8n3r",
         "fandomUrl": "Take_the_Journey"
+      }
+    ]
+  },
+  {
+    "title": "Of Snow and Ember",
+    "songs": [
+      {
+        "id": 19,
+        "title": "Embers",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "8mNhOsue_mM",
+        "spotifyId": "3u6qhQet29ucSLVrwBHj2Y",
+        "fandomUrl": "Embers"
+      },
+      {
+        "id": 20,
+        "title": "Hearthfire",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Trailblaze Continuances"],
+          "Phonograph Records"
+        ],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "0m2H7_aX7yQ",
+        "spotifyId": "3NuEioGC52atxibXJMYOtT",
+        "fandomUrl": "Hearthfire"
+      },
+      {
+        "id": 21,
+        "title": "Streets Abuzz",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "pkYrVrnSufA",
+        "spotifyId": "27KJaDNsrNnBIagemI8qhI",
+        "fandomUrl": "Streets_Abuzz"
+      },
+      {
+        "id": 22,
+        "title": "Faded Sun",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "vdd3VFiq7Cg",
+        "spotifyId": "04pJnJJtRkjfdQjQj5E7fA",
+        "fandomUrl": "Faded_Sun"
+      },
+      {
+        "id": 23,
+        "title": "Frosty Trail",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "6oFbHcFSHRE",
+        "spotifyId": "5at67XtKIL03XVcpKD2x1I",
+        "fandomUrl": "Frosty_Trail"
+      },
+      {
+        "id": 24,
+        "title": "Order",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "Jarilo-VI",
+        "youtubeId": "5Uj-hB27gKQ",
+        "spotifyId": "7w5DgI0J5fooydsVrDnl6r",
+        "fandomUrl": "Order_(Soundtrack)"
+      },
+      {
+        "id": 25,
+        "title": "Braving the Cold",
+        "playedAt": ["Combat", "Domains"],
+        "type": "Combat",
+        "region": "Jarilo-VI",
+        "youtubeId": "WeQblpN2oLM",
+        "spotifyId": "24uCWkHzmNBzU0YmFYDtEO",
+        "fandomUrl": "Braving_the_Cold"
+      },
+      {
+        "id": 26,
+        "title": "Warm Sun",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "2sBOuQQ4F1c",
+        "spotifyId": "4WM93OOMPy5jJ2EoUYgDq7",
+        "fandomUrl": "Warm_Sun"
+      },
+      {
+        "id": 27,
+        "title": "Sleep Tight",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "WATToM8cPD4",
+        "spotifyId": "5AJjxZNL8UWX5gyF2rnyIf",
+        "fandomUrl": "Sleep_Tight"
+      },
+      {
+        "id": 28,
+        "title": "Silent",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "AoBOIhU5l24",
+        "spotifyId": "7x1zc0cvmjTHknNYnNKxCh",
+        "fandomUrl": "Silent"
+      },
+      {
+        "id": 29,
+        "title": "Cutting Mistral",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "M1Sbz-ovrR4",
+        "spotifyId": "3lgcLasR7vEHe4A9EW4PX2",
+        "fandomUrl": "Cutting_Mistral"
+      },
+      {
+        "id": 30,
+        "title": "Tempered Cord",
+        "playedAt": ["Locations"],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "NWuxwub8yeo",
+        "spotifyId": "03C7aPb3WOFuvPWuurvs5n",
+        "fandomUrl": "Tempered_Cord"
+      },
+      {
+        "id": 31,
+        "title": "Dense Floe",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "U7szV4auJh4",
+        "spotifyId": "6ZoayiJRGS6Q1129cpgweC",
+        "fandomUrl": "Dense_Floe"
+      },
+      {
+        "id": 32,
+        "title": "Traceless Drift",
+        "playedAt": ["Locations", "Missions"],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "tt0z3FByroM",
+        "spotifyId": "0xUdrPF9OxElHw3vX9rHZo",
+        "fandomUrl": "Traceless_Drift"
+      },
+      {
+        "id": 33,
+        "title": "Ghost From the Past",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "LGzXGOqhR-A",
+        "spotifyId": "6aqRuVAFDtCDGYkRgcaTDd",
+        "fandomUrl": "Ghost_From_the_Past"
+      },
+      {
+        "id": 34,
+        "title": "Sinking Hoarfrost",
+        "playedAt": ["Locations", "Missions"],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "UnCKDeEVXgk",
+        "spotifyId": "5PiLaLIm2oQK9uLq1zOldi",
+        "fandomUrl": "Sinking_Hoarfrost"
+      },
+      {
+        "id": 35,
+        "title": "Kindling",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "Jarilo-VI",
+        "youtubeId": "B7WQQlPk3B8",
+        "spotifyId": "2db5Sp7gbWHNGrAsoygEpk",
+        "fandomUrl": "Kindling"
+      },
+      {
+        "id": 36,
+        "title": "Underground",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "Jarilo-VI",
+        "youtubeId": "XxV0V0BSQZM",
+        "spotifyId": "4D3gbfJWGDNHZpO38465gp",
+        "fandomUrl": "Underground"
+      },
+      {
+        "id": 37,
+        "title": "Blaze",
+        "playedAt": ["Combat", "Event Gameplay"],
+        "type": "Combat",
+        "region": "Jarilo-VI",
+        "youtubeId": "-lMY3ZeM1Zw",
+        "spotifyId": "5RDq20rwCb0SqWSlw0K5il",
+        "fandomUrl": "Blaze"
+      },
+      {
+        "id": 38,
+        "title": "Conflict Undraped",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "iBGGoikqvQQ",
+        "spotifyId": "0cKn4jYduEzd9d4S5QRB2S",
+        "fandomUrl": "Conflict_Undraped"
+      },
+      {
+        "id": 39,
+        "title": "Crystal Tears",
+        "playedAt": [],
+        "type": "Ambient",
+        "region": "N/A",
+        "youtubeId": "OgcVpTuGZwg",
+        "spotifyId": "72rjlD9MdFPfKAWhaeoXtd",
+        "fandomUrl": "Crystal_Tears"
+      },
+      {
+        "id": 40,
+        "title": "Lingering Heat",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "JBarBT9rJUo",
+        "spotifyId": "58X22pPmBbQCAu8RjoEeNS",
+        "fandomUrl": "Lingering_Heat"
+      },
+      {
+        "id": 41,
+        "title": "Thick Haze",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains"
+        ],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "tbgvPBBUgWw",
+        "spotifyId": "7E5D5CRZBIXKI9sx92viGi",
+        "fandomUrl": "Thick_Haze"
+      },
+      {
+        "id": 42,
+        "title": "Godfather",
+        "playedAt": ["Enemies", "Missions"],
+        "type": "Boss",
+        "region": "Jarilo-VI",
+        "youtubeId": "qKkMopnjEzQ",
+        "spotifyId": "7fQME0BoAjaBjRi8AjjEV9",
+        "fandomUrl": "Godfather"
+      },
+      {
+        "id": 43,
+        "title": "Eternal Freeze",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "oAYYNjARN1k",
+        "spotifyId": "6pZ2YJkG2qE5gLQqYZ19wF",
+        "fandomUrl": "Eternal_Freeze_(Soundtrack)"
+      },
+      {
+        "id": 44,
+        "title": "Everwinter",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "Jarilo-VI",
+        "youtubeId": "faDBFKZV4TM",
+        "spotifyId": "697FixOduLqpwkfBOH9JNz",
+        "fandomUrl": "Everwinter"
+      },
+      {
+        "id": 45,
+        "title": "Frozen March",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Jarilo-VI",
+        "youtubeId": "wlulQqZtii0",
+        "spotifyId": "7EbgjuIkItyBvwLZyYjadj",
+        "fandomUrl": "Frozen_March"
+      },
+      {
+        "id": 46,
+        "title": "Fate",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Jarilo-VI",
+        "youtubeId": "Zac2JJ6gAio",
+        "spotifyId": "4zCK9FRMcZbBX3zmXCKJuG",
+        "fandomUrl": "Fate"
+      },
+      {
+        "id": 47,
+        "title": "A Trap With No Return",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
+        "type": "Boss",
+        "region": "Jarilo-VI",
+        "youtubeId": "_indkBy4YO8",
+        "spotifyId": "1rPc2dkJ7gcl4pEqeuOzqH",
+        "fandomUrl": "A_Trap_With_No_Return"
+      },
+      {
+        "id": 48,
+        "title": "Wildfire (Soundtrack)",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
+        "type": "Boss",
+        "region": "Jarilo-VI",
+        "youtubeId": "SxlW79tDhCA",
+        "spotifyId": "2CUSdI74D2yqrvEXRQq2Xl",
+        "fandomUrl": "Wildfire_(Soundtrack)"
+      },
+      {
+        "id": 49,
+        "title": "Wildfire (Instrumental)",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Cutscene",
+        "region": "Jarilo-VI",
+        "youtubeId": "KshucrF4at8",
+        "spotifyId": "19RFFn4GME6V2y45AFqsOK",
+        "fandomUrl": "Wildfire_(Instrumental)"
       }
     ]
   }
