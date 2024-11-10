@@ -2,6 +2,7 @@ import { CgSpinner } from "react-icons/cg";
 import YouTube from "react-youtube";
 import IconButton from "./IconButton";
 import { FaPlay, FaStop } from "react-icons/fa6";
+import { getSimplePlayerState } from "../utils";
 
 export default function SampleControl({
   id,
@@ -36,28 +37,12 @@ export default function SampleControl({
     }
   };
 
-  const state: "playing" | "notPlaying" | "loading" = (() => {
-    if (playerState === 1 && id === playingId) {
-      return "playing";
-    }
-
-    if (
-      (playerState === 1 && id !== playingId) ||
-      playerState === -1 ||
-      playerState === 0 ||
-      playerState === 5 ||
-      playerState === 2
-    ) {
-      return "notPlaying";
-    }
-
-    return "loading";
-  })();
+  const state = getSimplePlayerState(playerState);
 
   const icon =
     state === "playing" ? (
       <FaStop />
-    ) : state === "notPlaying" ? (
+    ) : state === "idle" ? (
       <FaPlay />
     ) : (
       <CgSpinner className="animate-spin" />

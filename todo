@@ -9,7 +9,7 @@
 - [x] better sampling
 - [x] hide songs that don't meet the known conditions
 - [-] sidebar
-  - [ ] game icons (game switcher)
+  - [x] game icons (game switcher)
   - [x] about / how to play
   - [ ] source code link
   - [-] issue/feature link
@@ -19,4 +19,5 @@
 - [ ] more albums
 - [x] fix background album flash in endless mode
 - [ ] use accessible primitives
-- [ ] bring back validation after song amount changes
+- [x] bring back validation after song amount changes
+- [x] add bar showing sample positions after finishing a round

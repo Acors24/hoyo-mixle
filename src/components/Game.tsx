@@ -195,31 +195,33 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
       </div>
       <div className="overflow-auto">
         <div className="max-w-[1200px] mx-auto p-2">
-          {gameState === "playing" ? (
-            <div className="flex flex-col sm:flex-row sm:*:flex-1 gap-2">
-              <div className="flex flex-col items-center justify-center">
-                <SamplePlayer song={chosenSong} endlessMode={endlessMode} />
-                {stats}
-              </div>
+          <div className="flex flex-col sm:flex-row sm:*:flex-1 gap-2">
+            <div className="flex flex-col items-center justify-center">
+              {gameState !== "playing" && (
+                <SongCard
+                  album={
+                    albums.find((album) => album.songs.includes(chosenSong))!
+                  }
+                  song={chosenSong}
+                  game={currentGame}
+                />
+              )}
+              <SamplePlayer
+                song={chosenSong}
+                endlessMode={endlessMode}
+                gameState={gameState}
+              />
+              {stats}
+            </div>
+            {gameState === "playing" && (
               <SongFilter
                 chosenSong={chosenSong}
                 guesses={guesses}
                 onSelect={takeAGuess}
                 className="h-[400px] sm:h-[600px]"
               />
-            </div>
-          ) : (
-            <div className="flex flex-col items-center justify-center gap-2 flex-1">
-              <SongCard
-                album={
-                  albums.find((album) => album.songs.includes(chosenSong))!
-                }
-                song={chosenSong}
-                game={currentGame}
-              />
-              {stats}
-            </div>
-          )}
+            )}
+          </div>
           <GuessTable
             chosenSongId={chosenSong.id}
             guesses={guesses}

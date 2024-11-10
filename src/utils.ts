@@ -47,4 +47,29 @@ function getGameBaseWiki(game: Game): string {
   }
 }
 
-export { getTodaysSong, getYouTubeThumbnail, getStarts, getGameBaseWiki };
+function getSimplePlayerState(
+  playerState: YT.PlayerState
+): "playing" | "idle" | "loading" {
+  if (playerState === 1) {
+    return "playing";
+  }
+
+  if (
+    playerState === -1 ||
+    playerState === 0 ||
+    playerState === 5 ||
+    playerState === 2
+  ) {
+    return "idle";
+  }
+
+  return "loading";
+}
+
+export {
+  getTodaysSong,
+  getYouTubeThumbnail,
+  getStarts,
+  getGameBaseWiki,
+  getSimplePlayerState,
+};

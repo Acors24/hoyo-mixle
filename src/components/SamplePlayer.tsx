@@ -6,13 +6,16 @@ import SampleControl from "./SampleControl";
 import { CgSpinner } from "react-icons/cg";
 import { getStarts } from "../utils";
 import { useStorage } from "../StorageContext";
+import TrackBar from "./TrackBar";
 
 export default function SamplePlayer({
   song,
   endlessMode,
+  gameState,
 }: {
   song: Song;
   endlessMode: boolean;
+  gameState: "playing" | "won" | "lost";
 }) {
   const { state, dispatch } = useStorage();
 
@@ -21,6 +24,7 @@ export default function SamplePlayer({
   const [playerState, setPlayerState] = useState(3);
   const [playingId, setPlayingId] = useState(-1);
 
+  const durationRef = useRef<number>();
   const [starts, setStarts] = useState<number[]>([]);
 
   useEffect(() => {
@@ -35,6 +39,10 @@ export default function SamplePlayer({
 
   const handleStateChange = ({ data, target }: YouTubeEvent<number>) => {
     setPlayerState(data);
+    if (gameState !== "playing") {
+      return;
+    }
+
     if (data === YT.PlayerState.PLAYING) {
       timeoutHandle.current = setTimeout(() => {
         target.pauseVideo();
@@ -81,13 +89,14 @@ export default function SamplePlayer({
     }
     console.log(duration);
 
+    durationRef.current = duration;
     const starts = getStarts(duration, endlessMode);
     console.log(starts);
     setStarts(starts);
   };
 
   return (
-    <div className="flex items-center gap-4 p-4">
+    <>
       <YouTube
         ref={playerRef}
         videoId={song.youtubeId}
@@ -107,26 +116,38 @@ export default function SamplePlayer({
         onStateChange={handleStateChange}
         className="hidden"
       />
-      {starts.length === 0 && <CgSpinner className="w-20 h-20 animate-spin" />}
-      {starts.length !== 0 && (
+      {starts.length === 0 && (
+        <CgSpinner className="my-2 w-8 h-8 animate-spin" />
+      )}
+      {starts.length !== 0 && gameState === "playing" && (
         <>
-          <VolumeControl initialVolume={volume} onVolumeChange={setVolume} />
-          <div className="flex flex-col gap-4">
-            {starts.map((startAt, index) => (
-              <SampleControl
-                key={index}
-                id={index}
-                playingId={playingId}
-                setPlayingId={setPlayingId}
-                label={`Sample ${index + 1}`}
-                playerRef={playerRef}
-                startAt={startAt}
-                playerState={playerState}
-              />
-            ))}
+          <div className="flex items-center gap-4 m-2">
+            <VolumeControl initialVolume={volume} onVolumeChange={setVolume} />
+            <div className="flex flex-col gap-4">
+              {starts.map((startAt, index) => (
+                <SampleControl
+                  key={index}
+                  id={index}
+                  playingId={playingId}
+                  setPlayingId={setPlayingId}
+                  label={`Sample ${index + 1}`}
+                  playerRef={playerRef}
+                  startAt={startAt}
+                  playerState={playerState}
+                />
+              ))}
+            </div>
           </div>
         </>
       )}
-    </div>
+      {starts.length !== 0 && gameState !== "playing" && (
+        <TrackBar
+          duration={durationRef.current ?? 1}
+          starts={starts}
+          playerRef={playerRef}
+          playerState={playerState}
+        />
+      )}
+    </>
   );
 }
