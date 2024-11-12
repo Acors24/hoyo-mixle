@@ -93,6 +93,10 @@ export default function SongFilter({
                   }
                 }
 
+                if (guesses.includes(song.id)) {
+                  return false;
+                }
+
                 return song.title
                   .toLowerCase()
                   .includes(filterInput.toLowerCase());
