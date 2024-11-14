@@ -519,5 +519,360 @@
         "fandomUrl": "Wildfire_(Instrumental)"
       }
     ]
+  },
+  {
+    "title": "Svah Sanishyu",
+    "songs": [
+      {
+        "id": 50,
+        "title": "Anthropic Domain",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "I35YQbo8r1g",
+        "spotifyId": "359Lv9es3SHS9ZTds5JQjH",
+        "fandomUrl": "Anthropic_Domain"
+      },
+      {
+        "id": 51,
+        "title": "Lustrous Moonlight",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "oxIWWmki_fg",
+        "spotifyId": "0xulXtTer7ltI8XhBqMAUL",
+        "fandomUrl": "Lustrous_Moonlight"
+      },
+      {
+        "id": 52,
+        "title": "Thundering Chariot",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "KlvIcnXiaG0",
+        "spotifyId": "3V5VzOHk4WxX1ru1WIytCu",
+        "fandomUrl": "Thundering_Chariot"
+      },
+      {
+        "id": 53,
+        "title": "Cumulus Formations",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "5eDuMGcJBdc",
+        "spotifyId": "4pStDZqRt71pTmAkML8DBt",
+        "fandomUrl": "Cumulus_Formations"
+      },
+      {
+        "id": 54,
+        "title": "Ave Astra et Viator",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "-eV4nyUQrJc",
+        "spotifyId": "6ntlsmKYP1lUj7grk4BG90",
+        "fandomUrl": "Ave_Astra_et_Viator"
+      },
+      {
+        "id": 55,
+        "title": "Warden of Jade",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "sL8DycKSMis",
+        "spotifyId": "3QVjs7RfsUvq1cpBP4oDvY",
+        "fandomUrl": "Warden_of_Jade"
+      },
+      {
+        "id": 56,
+        "title": "Into the Breach",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "IHxGQRgeqzM",
+        "spotifyId": "1VIMZSLtzPJICXsHjtDpMP",
+        "fandomUrl": "Into_the_Breach"
+      },
+      {
+        "id": 57,
+        "title": "Hunter's Intuition",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "HdiUMHlGM7I",
+        "spotifyId": "1bceG3sYMTgDDcAQYT9WbO",
+        "fandomUrl": "Hunter%27s_Intuition"
+      },
+      {
+        "id": 58,
+        "title": "Transient Jubilation",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "8mgfSknKi_E",
+        "spotifyId": "2Q4j6qBBsT9VIbEA0yxinF",
+        "fandomUrl": "Transient_Jubilation"
+      },
+      {
+        "id": 59,
+        "title": "Upon the Firmament",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Vg_asJ_R6y8",
+        "spotifyId": "5GG6CKJjALqB5BvPMU3N1q",
+        "fandomUrl": "Upon_the_Firmament"
+      },
+      {
+        "id": 60,
+        "title": "Exquisite Ingenuity",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "F_BOkxulhJQ",
+        "spotifyId": "1tHqgLvgod0FUu7wN9HZnI",
+        "fandomUrl": "Exquisite_Ingenuity"
+      },
+      {
+        "id": 61,
+        "title": "Fabulous Foresight",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Gf4EqfaFDEQ",
+        "spotifyId": "5VrEzgvO9nrvev13YyeUTB",
+        "fandomUrl": "Fabulous_Foresight"
+      },
+      {
+        "id": 62,
+        "title": "Divine Camaraderie",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Wxl_m7JWVxU",
+        "spotifyId": "71qpBP1d6hhDXvQSZ90xMn",
+        "fandomUrl": "Divine_Camaraderie"
+      },
+      {
+        "id": 63,
+        "title": "Blade Abracadabra",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "QkwlknkBTT0",
+        "spotifyId": "67ApCo7GCO2dfCvHJmhDeM",
+        "fandomUrl": "Blade_Abracadabra"
+      },
+      {
+        "id": 64,
+        "title": "Into the Desolate",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "W087pvoJoJo",
+        "spotifyId": "6UE30WnJgTnJ1Gps8YsqmQ",
+        "fandomUrl": "Into_the_Desolate"
+      },
+      {
+        "id": 65,
+        "title": "Deerstalker",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "KUP8wnubcl0",
+        "spotifyId": "2czWJp6rTO7As8jiYyjnnB",
+        "fandomUrl": "Deerstalker"
+      },
+      {
+        "id": 66,
+        "title": "Skyedge Voyage",
+        "playedAt": [],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "fVLjx_CcZnw",
+        "spotifyId": "72Em8sgdsKUPJVg98QgrwQ",
+        "fandomUrl": "Skyedge_Voyage"
+      },
+      {
+        "id": 67,
+        "title": "Severed Harmony",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "qR8n8wT9r6M",
+        "spotifyId": "08jdjpDNzd8DEs4Y5nkFWJ",
+        "fandomUrl": "Severed_Harmony"
+      },
+      {
+        "id": 68,
+        "title": "Terrene Deliverance",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "0gJdcXmbKRM",
+        "spotifyId": "1v985Y3cjIe8n1CKuGzvbG",
+        "fandomUrl": "Terrene_Deliverance"
+      },
+      {
+        "id": 69,
+        "title": "Serene Stroll",
+        "playedAt": ["Missions"],
+        "type": "Cutscene",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "OEfmcM8JmRk",
+        "spotifyId": "3CwRobzh4ZSoUbNSPyzdYm",
+        "fandomUrl": "Serene_Stroll"
+      },
+      {
+        "id": 70,
+        "title": "Evanescent Dreams",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "wmLDohefkt0",
+        "spotifyId": "1qT3UODNib2grovcgYEuqk",
+        "fandomUrl": "Evanescent_Dreams"
+      },
+      {
+        "id": 71,
+        "title": "Mokshasatya",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "AnGtymBdIdg",
+        "spotifyId": "0Xy5J4mWt5tszxf55oRSkB",
+        "fandomUrl": "Mokshasatya"
+      },
+      {
+        "id": 72,
+        "title": "Sanctus Medicus Dharani",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "zDkCWfWGvjE",
+        "spotifyId": "4SHEz7B2lyQDZdhkGt744x",
+        "fandomUrl": "Sanctus_Medicus_Dharani"
+      },
+      {
+        "id": 73,
+        "title": "A Brew of Storm",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "cVcWZUEPJ04",
+        "spotifyId": "06TRinXNNs7qep9dGHYYDO",
+        "fandomUrl": "A_Brew_of_Storm"
+      },
+      {
+        "id": 74,
+        "title": "Gleaming Clash",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "52iPARSPTpw",
+        "spotifyId": "2ueVjaX0HYM9cuPGksauId",
+        "fandomUrl": "Gleaming_Clash"
+      },
+      {
+        "id": 75,
+        "title": "Erstwhile Resonance",
+        "playedAt": ["Locations"],
+        "type": "Ambient",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "f-RAagm2IkE",
+        "spotifyId": "5Y8FZqEGEDnkxX82q2VL2j",
+        "fandomUrl": "Erstwhile_Resonance"
+      },
+      {
+        "id": 76,
+        "title": "Obscured Pearls",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "lHoum0TqhY0",
+        "spotifyId": "0LCraJdpgA3czYuy7M0rc1",
+        "fandomUrl": "Obscured_Pearls"
+      },
+      {
+        "id": 77,
+        "title": "Arteria Inceptionis",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Event Gameplay"
+        ],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "92yR9a2gtaA",
+        "spotifyId": "15IfGFZo72uIJLfwVgb6R2",
+        "fandomUrl": "Arteria_Inceptionis"
+      },
+      {
+        "id": 78,
+        "title": "Pedujara: Ephemeral Cycle",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Fd8iNnRrH98",
+        "spotifyId": "5SpqwZfggHFR1BamDyCnqq",
+        "fandomUrl": "Pedujara:_Ephemeral_Cycle"
+      },
+      {
+        "id": 79,
+        "title": "Pedujara: Even Immortality Ends",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "prOx-kbSMcw",
+        "spotifyId": "6pWkqjvTgSm6y0JkdkvZ0R",
+        "fandomUrl": "Pedujara:_Even_Immortality_Ends"
+      },
+      {
+        "id": 80,
+        "title": "Pedujara: Demiseless Existence",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Wx7NEqF0fmU",
+        "spotifyId": "3AgeAGG0wfNGt6uZTsUnfG",
+        "fandomUrl": "Pedujara:_Demiseless_Existence"
+      },
+      {
+        "id": 81,
+        "title": "Samudrartha",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "n9Ze1o_0VeA",
+        "spotifyId": "6ooRIYeJChKbljJpxvoM1F",
+        "fandomUrl": "Samudrartha"
+      },
+      {
+        "id": 82,
+        "title": "Samudrartha (Instrumental)",
+        "playedAt": [],
+        "type": "Special",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "XirOcWjnU6A",
+        "spotifyId": "3QRZfmOSexgSYH935KRhBx",
+        "fandomUrl": "Samudrartha_(Instrumental)"
+      }
+    ]
   }
 ]
