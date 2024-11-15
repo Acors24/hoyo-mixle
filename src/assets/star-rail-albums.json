@@ -191,10 +191,45 @@
     ]
   },
   {
-    "title": "Of Snow and Ember",
+    "title": "Interstellar Journey",
     "songs": [
       {
         "id": 19,
+        "title": "\u661f\u95f4\u65c5\u884c",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "wy6GdDlurms",
+        "spotifyId": "3ZDQcyW2g3aFjdEBQ56eMY",
+        "fandomUrl": "\u661f\u95f4\u65c5\u884c"
+      },
+      {
+        "id": 20,
+        "title": "Interstellar Journey",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "0OA9bAZcMXk",
+        "spotifyId": "4xrqo0Lt57P0xRAwWr2SOL",
+        "fandomUrl": "Interstellar_Journey"
+      },
+      {
+        "id": 21,
+        "title": "Interstellar Journey (Instrumental)",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "t1C09lH2_ls",
+        "spotifyId": "6TgLk7ATw6zB9KeQiSqyHP",
+        "fandomUrl": "Interstellar_Journey_(Instrumental)"
+      }
+    ]
+  },
+  {
+    "title": "Of Snow and Ember",
+    "songs": [
+      {
+        "id": 22,
         "title": "Embers",
         "playedAt": ["Locations", "Phonograph Records", "Media"],
         "type": "Ambient",
@@ -204,7 +239,7 @@
         "fandomUrl": "Embers"
       },
       {
-        "id": 20,
+        "id": 23,
         "title": "Hearthfire",
         "playedAt": [
           "Locations",
@@ -219,7 +254,7 @@
         "fandomUrl": "Hearthfire"
       },
       {
-        "id": 21,
+        "id": 24,
         "title": "Streets Abuzz",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -229,7 +264,7 @@
         "fandomUrl": "Streets_Abuzz"
       },
       {
-        "id": 22,
+        "id": 25,
         "title": "Faded Sun",
         "playedAt": ["Locations", "Phonograph Records"],
         "type": "Ambient",
@@ -239,7 +274,7 @@
         "fandomUrl": "Faded_Sun"
       },
       {
-        "id": 23,
+        "id": 26,
         "title": "Frosty Trail",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -249,7 +284,7 @@
         "fandomUrl": "Frosty_Trail"
       },
       {
-        "id": 24,
+        "id": 27,
         "title": "Order",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -259,7 +294,7 @@
         "fandomUrl": "Order_(Soundtrack)"
       },
       {
-        "id": 25,
+        "id": 28,
         "title": "Braving the Cold",
         "playedAt": ["Combat", "Domains"],
         "type": "Combat",
@@ -269,7 +304,7 @@
         "fandomUrl": "Braving_the_Cold"
       },
       {
-        "id": 26,
+        "id": 29,
         "title": "Warm Sun",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -279,7 +314,7 @@
         "fandomUrl": "Warm_Sun"
       },
       {
-        "id": 27,
+        "id": 30,
         "title": "Sleep Tight",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -289,7 +324,7 @@
         "fandomUrl": "Sleep_Tight"
       },
       {
-        "id": 28,
+        "id": 31,
         "title": "Silent",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -299,7 +334,7 @@
         "fandomUrl": "Silent"
       },
       {
-        "id": 29,
+        "id": 32,
         "title": "Cutting Mistral",
         "playedAt": ["Missions"],
         "type": "Mission",
@@ -309,7 +344,7 @@
         "fandomUrl": "Cutting_Mistral"
       },
       {
-        "id": 30,
+        "id": 33,
         "title": "Tempered Cord",
         "playedAt": ["Locations"],
         "type": "Mission",
@@ -319,7 +354,7 @@
         "fandomUrl": "Tempered_Cord"
       },
       {
-        "id": 31,
+        "id": 34,
         "title": "Dense Floe",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -329,7 +364,7 @@
         "fandomUrl": "Dense_Floe"
       },
       {
-        "id": 32,
+        "id": 35,
         "title": "Traceless Drift",
         "playedAt": ["Locations", "Missions"],
         "type": "Mission",
@@ -339,7 +374,7 @@
         "fandomUrl": "Traceless_Drift"
       },
       {
-        "id": 33,
+        "id": 36,
         "title": "Ghost From the Past",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -349,7 +384,7 @@
         "fandomUrl": "Ghost_From_the_Past"
       },
       {
-        "id": 34,
+        "id": 37,
         "title": "Sinking Hoarfrost",
         "playedAt": ["Locations", "Missions"],
         "type": "Mission",
@@ -359,7 +394,7 @@
         "fandomUrl": "Sinking_Hoarfrost"
       },
       {
-        "id": 35,
+        "id": 38,
         "title": "Kindling",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -369,7 +404,7 @@
         "fandomUrl": "Kindling"
       },
       {
-        "id": 36,
+        "id": 39,
         "title": "Underground",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -379,7 +414,7 @@
         "fandomUrl": "Underground"
       },
       {
-        "id": 37,
+        "id": 40,
         "title": "Blaze",
         "playedAt": ["Combat", "Event Gameplay"],
         "type": "Combat",
@@ -389,7 +424,7 @@
         "fandomUrl": "Blaze"
       },
       {
-        "id": 38,
+        "id": 41,
         "title": "Conflict Undraped",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -399,7 +434,7 @@
         "fandomUrl": "Conflict_Undraped"
       },
       {
-        "id": 39,
+        "id": 42,
         "title": "Crystal Tears",
         "playedAt": [],
         "type": "Ambient",
@@ -409,7 +444,7 @@
         "fandomUrl": "Crystal_Tears"
       },
       {
-        "id": 40,
+        "id": 43,
         "title": "Lingering Heat",
         "playedAt": ["Missions"],
         "type": "Mission",
@@ -419,7 +454,7 @@
         "fandomUrl": "Lingering_Heat"
       },
       {
-        "id": 41,
+        "id": 44,
         "title": "Thick Haze",
         "playedAt": [
           "Locations",
@@ -434,7 +469,7 @@
         "fandomUrl": "Thick_Haze"
       },
       {
-        "id": 42,
+        "id": 45,
         "title": "Godfather",
         "playedAt": ["Enemies", "Missions"],
         "type": "Boss",
@@ -444,7 +479,7 @@
         "fandomUrl": "Godfather"
       },
       {
-        "id": 43,
+        "id": 46,
         "title": "Eternal Freeze",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -454,7 +489,7 @@
         "fandomUrl": "Eternal_Freeze_(Soundtrack)"
       },
       {
-        "id": 44,
+        "id": 47,
         "title": "Everwinter",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -464,7 +499,7 @@
         "fandomUrl": "Everwinter"
       },
       {
-        "id": 45,
+        "id": 48,
         "title": "Frozen March",
         "playedAt": [
           "Enemies",
@@ -479,7 +514,7 @@
         "fandomUrl": "Frozen_March"
       },
       {
-        "id": 46,
+        "id": 49,
         "title": "Fate",
         "playedAt": ["Missions"],
         "type": "Mission",
@@ -489,7 +524,7 @@
         "fandomUrl": "Fate"
       },
       {
-        "id": 47,
+        "id": 50,
         "title": "A Trap With No Return",
         "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
         "type": "Boss",
@@ -499,7 +534,7 @@
         "fandomUrl": "A_Trap_With_No_Return"
       },
       {
-        "id": 48,
+        "id": 51,
         "title": "Wildfire (Soundtrack)",
         "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
         "type": "Boss",
@@ -509,7 +544,7 @@
         "fandomUrl": "Wildfire_(Soundtrack)"
       },
       {
-        "id": 49,
+        "id": 52,
         "title": "Wildfire (Instrumental)",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Cutscene",
@@ -524,7 +559,7 @@
     "title": "Svah Sanishyu",
     "songs": [
       {
-        "id": 50,
+        "id": 53,
         "title": "Anthropic Domain",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -534,7 +569,7 @@
         "fandomUrl": "Anthropic_Domain"
       },
       {
-        "id": 51,
+        "id": 54,
         "title": "Lustrous Moonlight",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -544,7 +579,7 @@
         "fandomUrl": "Lustrous_Moonlight"
       },
       {
-        "id": 52,
+        "id": 55,
         "title": "Thundering Chariot",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -554,7 +589,7 @@
         "fandomUrl": "Thundering_Chariot"
       },
       {
-        "id": 53,
+        "id": 56,
         "title": "Cumulus Formations",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -564,7 +599,7 @@
         "fandomUrl": "Cumulus_Formations"
       },
       {
-        "id": 54,
+        "id": 57,
         "title": "Ave Astra et Viator",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -574,7 +609,7 @@
         "fandomUrl": "Ave_Astra_et_Viator"
       },
       {
-        "id": 55,
+        "id": 58,
         "title": "Warden of Jade",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -584,7 +619,7 @@
         "fandomUrl": "Warden_of_Jade"
       },
       {
-        "id": 56,
+        "id": 59,
         "title": "Into the Breach",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -594,7 +629,7 @@
         "fandomUrl": "Into_the_Breach"
       },
       {
-        "id": 57,
+        "id": 60,
         "title": "Hunter's Intuition",
         "playedAt": [
           "Enemies",
@@ -609,7 +644,7 @@
         "fandomUrl": "Hunter%27s_Intuition"
       },
       {
-        "id": 58,
+        "id": 61,
         "title": "Transient Jubilation",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
@@ -619,7 +654,7 @@
         "fandomUrl": "Transient_Jubilation"
       },
       {
-        "id": 59,
+        "id": 62,
         "title": "Upon the Firmament",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -629,7 +664,7 @@
         "fandomUrl": "Upon_the_Firmament"
       },
       {
-        "id": 60,
+        "id": 63,
         "title": "Exquisite Ingenuity",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -639,7 +674,7 @@
         "fandomUrl": "Exquisite_Ingenuity"
       },
       {
-        "id": 61,
+        "id": 64,
         "title": "Fabulous Foresight",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -649,7 +684,7 @@
         "fandomUrl": "Fabulous_Foresight"
       },
       {
-        "id": 62,
+        "id": 65,
         "title": "Divine Camaraderie",
         "playedAt": ["Missions"],
         "type": "Mission",
@@ -659,7 +694,7 @@
         "fandomUrl": "Divine_Camaraderie"
       },
       {
-        "id": 63,
+        "id": 66,
         "title": "Blade Abracadabra",
         "playedAt": ["Combat", "Phonograph Records"],
         "type": "Combat",
@@ -669,7 +704,7 @@
         "fandomUrl": "Blade_Abracadabra"
       },
       {
-        "id": 64,
+        "id": 67,
         "title": "Into the Desolate",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -679,7 +714,7 @@
         "fandomUrl": "Into_the_Desolate"
       },
       {
-        "id": 65,
+        "id": 68,
         "title": "Deerstalker",
         "playedAt": [
           "Enemies",
@@ -694,7 +729,7 @@
         "fandomUrl": "Deerstalker"
       },
       {
-        "id": 66,
+        "id": 69,
         "title": "Skyedge Voyage",
         "playedAt": [],
         "type": "Ambient",
@@ -704,7 +739,7 @@
         "fandomUrl": "Skyedge_Voyage"
       },
       {
-        "id": 67,
+        "id": 70,
         "title": "Severed Harmony",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
@@ -714,7 +749,7 @@
         "fandomUrl": "Severed_Harmony"
       },
       {
-        "id": 68,
+        "id": 71,
         "title": "Terrene Deliverance",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
@@ -724,7 +759,7 @@
         "fandomUrl": "Terrene_Deliverance"
       },
       {
-        "id": 69,
+        "id": 72,
         "title": "Serene Stroll",
         "playedAt": ["Missions"],
         "type": "Cutscene",
@@ -734,7 +769,7 @@
         "fandomUrl": "Serene_Stroll"
       },
       {
-        "id": 70,
+        "id": 73,
         "title": "Evanescent Dreams",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -744,7 +779,7 @@
         "fandomUrl": "Evanescent_Dreams"
       },
       {
-        "id": 71,
+        "id": 74,
         "title": "Mokshasatya",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -754,7 +789,7 @@
         "fandomUrl": "Mokshasatya"
       },
       {
-        "id": 72,
+        "id": 75,
         "title": "Sanctus Medicus Dharani",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -764,7 +799,7 @@
         "fandomUrl": "Sanctus_Medicus_Dharani"
       },
       {
-        "id": 73,
+        "id": 76,
         "title": "A Brew of Storm",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
@@ -774,7 +809,7 @@
         "fandomUrl": "A_Brew_of_Storm"
       },
       {
-        "id": 74,
+        "id": 77,
         "title": "Gleaming Clash",
         "playedAt": [
           "Enemies",
@@ -789,7 +824,7 @@
         "fandomUrl": "Gleaming_Clash"
       },
       {
-        "id": 75,
+        "id": 78,
         "title": "Erstwhile Resonance",
         "playedAt": ["Locations"],
         "type": "Ambient",
@@ -799,7 +834,7 @@
         "fandomUrl": "Erstwhile_Resonance"
       },
       {
-        "id": 76,
+        "id": 79,
         "title": "Obscured Pearls",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
@@ -809,7 +844,7 @@
         "fandomUrl": "Obscured_Pearls"
       },
       {
-        "id": 77,
+        "id": 80,
         "title": "Arteria Inceptionis",
         "playedAt": [
           "Missions",
@@ -824,7 +859,7 @@
         "fandomUrl": "Arteria_Inceptionis"
       },
       {
-        "id": 78,
+        "id": 81,
         "title": "Pedujara: Ephemeral Cycle",
         "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
         "type": "Boss",
@@ -834,7 +869,7 @@
         "fandomUrl": "Pedujara:_Ephemeral_Cycle"
       },
       {
-        "id": 79,
+        "id": 82,
         "title": "Pedujara: Even Immortality Ends",
         "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
         "type": "Boss",
@@ -844,7 +879,7 @@
         "fandomUrl": "Pedujara:_Even_Immortality_Ends"
       },
       {
-        "id": 80,
+        "id": 83,
         "title": "Pedujara: Demiseless Existence",
         "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
         "type": "Boss",
@@ -854,7 +889,7 @@
         "fandomUrl": "Pedujara:_Demiseless_Existence"
       },
       {
-        "id": 81,
+        "id": 84,
         "title": "Samudrartha",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
@@ -864,7 +899,7 @@
         "fandomUrl": "Samudrartha"
       },
       {
-        "id": 82,
+        "id": 85,
         "title": "Samudrartha (Instrumental)",
         "playedAt": [],
         "type": "Special",
