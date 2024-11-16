@@ -2072,5 +2072,698 @@
         "fandomUrl": "Moonlike_Smile"
       }
     ]
+  },
+  {
+    "title": "The Shimmering Voyage",
+    "songs": [
+      {
+        "id": 182,
+        "title": "What a Hopeful Voyage",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "BUztFh_6fIQ",
+        "spotifyId": "1dGwUJwdwZQZmrzr0IGzhg",
+        "fandomUrl": "What_a_Hopeful_Voyage"
+      },
+      {
+        "id": 183,
+        "title": "Vast and Blue",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "7g-4JGKRUXE",
+        "spotifyId": "6UUZtBKgK5zis8cGfZTQSc",
+        "fandomUrl": "Vast_and_Blue"
+      },
+      {
+        "id": 184,
+        "title": "Mesmerizing Waves",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "rO0QXOMVM5Q",
+        "spotifyId": "4Eto4M2UlZc9ssdhlxXH3H",
+        "fandomUrl": "Mesmerizing_Waves"
+      },
+      {
+        "id": 185,
+        "title": "Journey into Sweet Dreams",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "UCKUE7hKsLk",
+        "spotifyId": "614XwDnd2hgI5nmSIBkjNz",
+        "fandomUrl": "Journey_into_Sweet_Dreams"
+      },
+      {
+        "id": 186,
+        "title": "Whispering Seabreeze",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "Eklg0XpE9Zg",
+        "spotifyId": "5ACx8L41YTGjWsFjV7PDrO",
+        "fandomUrl": "Whispering_Seabreeze"
+      },
+      {
+        "id": 187,
+        "title": "Sunshine Beach",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "wDKpqv4-8to",
+        "spotifyId": "1fyDpdIbE81qHFuAVf5LB5",
+        "fandomUrl": "Sunshine_Beach"
+      },
+      {
+        "id": 188,
+        "title": "Ariel's Footprints",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "dbQkjd58kq8",
+        "spotifyId": "2quKeecdt6vsga0aZzOKc3",
+        "fandomUrl": "Ariel%27s_Footprints"
+      },
+      {
+        "id": 189,
+        "title": "Melody of Jellyfish",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "EQOSRfjAPyw",
+        "spotifyId": "1quaTOMFkzG0QYF9bzLngF",
+        "fandomUrl": "Melody_of_Jellyfish"
+      },
+      {
+        "id": 190,
+        "title": "Comforting Quietude",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "Jnp--4roGh8",
+        "spotifyId": "04KCBGnhsoqbFz5oyHyRx0",
+        "fandomUrl": "Comforting_Quietude"
+      },
+      {
+        "id": 191,
+        "title": "Old Tales Preserved",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "C1AgT4tfpIw",
+        "spotifyId": "1jYvSBrbBjoG0nh2B8tFOP",
+        "fandomUrl": "Old_Tales_Preserved"
+      },
+      {
+        "id": 192,
+        "title": "Cautious Explorers",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "4EuZvlwb18Y",
+        "spotifyId": "6bpyTIbfKznStjhqEDFyQt",
+        "fandomUrl": "Cautious_Explorers"
+      },
+      {
+        "id": 193,
+        "title": "In Stories of Fading Light",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "IGgoyBXaW18",
+        "spotifyId": "43EhtSsz7o828M5mCCIprH",
+        "fandomUrl": "In_Stories_of_Fading_Light"
+      },
+      {
+        "id": 194,
+        "title": "Cozy Company",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "vYtd1uM4R0A",
+        "spotifyId": "4HHOEMAEvtWDdc3IMd2fye",
+        "fandomUrl": "Cozy_Company"
+      },
+      {
+        "id": 195,
+        "title": "Reminiscence of the Old Days",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "3An0TGabbJs",
+        "spotifyId": "0Q6Z2RHJq6hPrTIVcSnCXE",
+        "fandomUrl": "Reminiscence_of_the_Old_Days"
+      },
+      {
+        "id": 196,
+        "title": "Faraway Solicitude",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Ambient",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "kGlKa9y6I_8",
+        "spotifyId": "5rn8BBQLVsmnhzpDkBPsZI",
+        "fandomUrl": "Faraway_Solicitude"
+      },
+      {
+        "id": 197,
+        "title": "Overture of Storms",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "WhBa2H5qGis",
+        "spotifyId": "1A3hHNGEST1dGeKeSo2utx",
+        "fandomUrl": "Overture_of_Storms"
+      },
+      {
+        "id": 198,
+        "title": "A Sparky Clash",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "jOqyAtoNBPI",
+        "spotifyId": "2Ohf0FQRChydENg0fGet4I",
+        "fandomUrl": "A_Sparky_Clash"
+      },
+      {
+        "id": 199,
+        "title": "Innocent Age",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "iwyj36Xf3QQ",
+        "spotifyId": "6qIUCZVMRCPqhvXfBe5Ahf",
+        "fandomUrl": "Innocent_Age"
+      },
+      {
+        "id": 200,
+        "title": "Whence the Flow Cometh",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "NZ2Dbo4VnOw",
+        "spotifyId": "7IUY3ixplwpBTQfoaUBRfC",
+        "fandomUrl": "Whence_the_Flow_Cometh"
+      },
+      {
+        "id": 201,
+        "title": "Hunt for Delicacy",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "bYsNHb3KHmM",
+        "spotifyId": "2iaSTGoyInHTdzuaN5i9rJ",
+        "fandomUrl": "Hunt_for_Delicacy"
+      },
+      {
+        "id": 202,
+        "title": "Sneaky & Mischievous",
+        "playedAt": ["Quests", ["Events"], "Event Gameplay"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "tr1JNJpIPJM",
+        "spotifyId": "2meHVXfPVml56VbQj6cffL",
+        "fandomUrl": "Sneaky_%26_Mischievous"
+      },
+      {
+        "id": 203,
+        "title": "Mellow Memories",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "m9Zj1uM5znA",
+        "spotifyId": "5rOXiAa0BexwR20gg6puEh",
+        "fandomUrl": "Mellow_Memories"
+      },
+      {
+        "id": 204,
+        "title": "The Wolf Boy",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "06snogOAIqU",
+        "spotifyId": "1lJWzzPCtXWGv86e0oydqA",
+        "fandomUrl": "The_Wolf_Boy"
+      },
+      {
+        "id": 205,
+        "title": "Battle Preparation",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Event",
+        "region": "Teyvat",
+        "youtubeId": "la6XKD8dKck",
+        "spotifyId": "205QntKj0qFISPXWVXcB3H",
+        "fandomUrl": "Battle_Preparation"
+      },
+      {
+        "id": 206,
+        "title": "The Astrologist Awaiting",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "gDiGEETOSf4",
+        "spotifyId": "3ekbdvFXUO9elzuPIoTkBT",
+        "fandomUrl": "The_Astrologist_Awaiting"
+      },
+      {
+        "id": 207,
+        "title": "The Starlit Past",
+        "playedAt": ["Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "CPz9FzFbNYY",
+        "spotifyId": "2VQauCjN6jNQdarrLW2mcv",
+        "fandomUrl": "The_Starlit_Past"
+      },
+      {
+        "id": 208,
+        "title": "Fireside Rest",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "W6YyRJnXurQ",
+        "spotifyId": "2YIWO74VXZCX4WSiCEGNQQ",
+        "fandomUrl": "Fireside_Rest"
+      },
+      {
+        "id": 209,
+        "title": "A Wicked Plot",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "NAdqItz3RHE",
+        "spotifyId": "15g8GPCYYYkYK9C6ByiZr4",
+        "fandomUrl": "A_Wicked_Plot"
+      },
+      {
+        "id": 210,
+        "title": "A Cunning Trick",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "qHJl8V7qM3s",
+        "spotifyId": "1NuhkLkl4toyvTQybYaG20",
+        "fandomUrl": "A_Cunning_Trick"
+      },
+      {
+        "id": 211,
+        "title": "L'arrivo Della Signora",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "7-ZdKyhsE6Y",
+        "spotifyId": "32jYZFIsfWmGaLMTNtXKPP",
+        "fandomUrl": "L%27arrivo_Della_Signora"
+      },
+      {
+        "id": 212,
+        "title": "A Yearning Breeze",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "P8x-HrWRuso",
+        "spotifyId": "0AByxj48MGshxEFMPgf9bv",
+        "fandomUrl": "A_Yearning_Breeze"
+      },
+      {
+        "id": 213,
+        "title": "Ripples of Daydream",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Mondstadt",
+        "youtubeId": "XwKmoTRUz_Y",
+        "spotifyId": "4aTy2tU0WEm0XmthkMd52l",
+        "fandomUrl": "Ripples_of_Daydream"
+      },
+      {
+        "id": 214,
+        "title": "Welcome Back, My Companion",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "0mi0F4zqGow",
+        "spotifyId": "2SR3gnyuCdehnPuoEnBOTS",
+        "fandomUrl": "Welcome_Back,_My_Companion"
+      },
+      {
+        "id": 215,
+        "title": "The Sudden Collapse",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "KIwgJdjCS_s",
+        "spotifyId": "4NeqmqmIwdq8vAuN6ZkNka",
+        "fandomUrl": "The_Sudden_Collapse"
+      },
+      {
+        "id": 216,
+        "title": "The Lunar-Eclipsing Palace",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "K306ddESbFQ",
+        "spotifyId": "1lPyW5AgMDOLfYpp2OsoyX",
+        "fandomUrl": "The_Lunar-Eclipsing_Palace"
+      },
+      {
+        "id": 217,
+        "title": "Unexpected Savior",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "svTglApuor4",
+        "spotifyId": "3drkengz5zczOhAdFoMZ5D",
+        "fandomUrl": "Unexpected_Savior"
+      },
+      {
+        "id": 218,
+        "title": "A Letter from Afar",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Snezhnaya",
+        "youtubeId": "7cxYeiNutbs",
+        "spotifyId": "4MnRk5MOOo6iSU6eJd1wZP",
+        "fandomUrl": "A_Letter_from_Afar"
+      },
+      {
+        "id": 219,
+        "title": "Lovers' Oath",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "3CV4yrXm9qI",
+        "spotifyId": "0KOCCyZ2P4rBaPBtnS09i9",
+        "fandomUrl": "Lovers%27_Oath"
+      },
+      {
+        "id": 220,
+        "title": "All-Conquering Tide",
+        "playedAt": ["Open-World Combat", "Domains", "Event Gameplay", "Media"],
+        "type": "Combat",
+        "region": "Dragonspine",
+        "youtubeId": "DQ4y4CxTye8",
+        "spotifyId": "5BVQORtwCg5PtOUG5GR9B5",
+        "fandomUrl": "All-Conquering_Tide"
+      },
+      {
+        "id": 221,
+        "title": "Never-Ending Performance",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Liyue",
+        "youtubeId": "-OAA_kus8ME",
+        "spotifyId": "7MVdsqpKQxbEVARsTRykGI",
+        "fandomUrl": "Never-Ending_Performance_(Soundtrack)"
+      },
+      {
+        "id": 222,
+        "title": "Wrath of Monoceros Caeli",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Boss",
+        "region": "Liyue",
+        "youtubeId": "m1JsBvHzWfY",
+        "spotifyId": "2xZ8J2WykVzYstEhOOMpNQ",
+        "fandomUrl": "Wrath_of_Monoceros_Caeli"
+      },
+      {
+        "id": 223,
+        "title": "Dance with the Great Vortex",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "wWgqcxIBVlQ",
+        "spotifyId": "2Fegwtx7MOa5QOL0daoloJ",
+        "fandomUrl": "Dance_with_the_Great_Vortex"
+      },
+      {
+        "id": 224,
+        "title": "Ode to Azhdaha",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Liyue",
+        "youtubeId": "or2dN2h-AAk",
+        "spotifyId": "71R6Aw9yhlDMn0A8KlFFD3",
+        "fandomUrl": "Ode_to_Azhdaha"
+      },
+      {
+        "id": 225,
+        "title": "Rage Beneath the Mountains",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Boss",
+        "region": "Liyue",
+        "youtubeId": "tIq41I2WT70",
+        "spotifyId": "0PlBjUrb4GKSYhkujRKtzQ",
+        "fandomUrl": "Rage_Beneath_the_Mountains"
+      },
+      {
+        "id": 226,
+        "title": "Hymn of the Pearl",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "8F3v2ooJplk",
+        "spotifyId": "5vAQTfCyFtElVttsxrTgiy",
+        "fandomUrl": "Hymn_of_the_Pearl"
+      },
+      {
+        "id": 227,
+        "title": "Overture of Falling Stars",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Event",
+        "region": "Teyvat",
+        "youtubeId": "nCPsMxeA6cE",
+        "spotifyId": "3cRDhCtzLF7VnbkO7DI9NX",
+        "fandomUrl": "Overture_of_Falling_Stars"
+      },
+      {
+        "id": 228,
+        "title": "Ominous Fandango",
+        "playedAt": ["Quests", ["Archon Quests", "Events"]],
+        "type": "Quest",
+        "region": "Teyvat",
+        "youtubeId": "dluZuJP88_Y",
+        "spotifyId": "1ON6TmAnbqrpd3ohX9aJHS",
+        "fandomUrl": "Ominous_Fandango"
+      },
+      {
+        "id": 229,
+        "title": "Rapture of the Chaos",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains"],
+        "type": "Boss",
+        "region": "Liyue",
+        "youtubeId": "algmZ_YeoOk",
+        "spotifyId": "0A9RMmSt1rX7Bz9NSwCQNh",
+        "fandomUrl": "Rapture_of_the_Chaos"
+      },
+      {
+        "id": 230,
+        "title": "Foul Legacy",
+        "playedAt": ["Quests", ["Story Quests"]],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "3VW7tX0dST4",
+        "spotifyId": "577kf7x8F5oecwj8kF4G5i",
+        "fandomUrl": "Foul_Legacy"
+      },
+      {
+        "id": 231,
+        "title": "Golden Dreams",
+        "playedAt": ["Domains", "Media"],
+        "type": "Domain",
+        "region": "Liyue",
+        "youtubeId": "VCXsw6QBW-o",
+        "spotifyId": "0qnCMx0c8boj8E5Hd5SVkF",
+        "fandomUrl": "Golden_Dreams"
+      },
+      {
+        "id": 232,
+        "title": "Palace of Jadeite",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Liyue",
+        "youtubeId": "-vS_DtJrok4",
+        "spotifyId": "4FIe1Y9DYvmVYUxGJAmz6o",
+        "fandomUrl": "Palace_of_Jadeite"
+      },
+      {
+        "id": 233,
+        "title": "Moon-Eclipsing Chamber",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "t1geO-hdKh8",
+        "spotifyId": "6fLD1pm7knQYxaGHaYAH2B",
+        "fandomUrl": "Moon-Eclipsing_Chamber"
+      },
+      {
+        "id": 234,
+        "title": "The Imminent Triumph",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "AKjrDu89Utw",
+        "spotifyId": "2uob7DClzOnq9jJ81Pzpg8",
+        "fandomUrl": "The_Imminent_Triumph"
+      },
+      {
+        "id": 235,
+        "title": "A Noble Sacrifice",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "CUVRKKD28-E",
+        "spotifyId": "4ToVSzJAaoJb6i9L1DstGI",
+        "fandomUrl": "A_Noble_Sacrifice"
+      },
+      {
+        "id": 236,
+        "title": "Lingering Bitterness",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "xEWZMuUSwaQ",
+        "spotifyId": "1YAoADajePv9uRSBtjKT36",
+        "fandomUrl": "Lingering_Bitterness"
+      },
+      {
+        "id": 237,
+        "title": "Frostbiting Bloom",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Quest",
+        "region": "Dragonspine",
+        "youtubeId": "sS8aOGgVppg",
+        "spotifyId": "1Q37n3Rp4f5G2aYobV6MP8",
+        "fandomUrl": "Frostbiting_Bloom"
+      },
+      {
+        "id": 238,
+        "title": "Tale of the Yakshas",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "2dTKjWOrRiY",
+        "spotifyId": "1WAMwU8Hl3qFH8amOYOrZm",
+        "fandomUrl": "Tale_of_the_Yakshas"
+      },
+      {
+        "id": 239,
+        "title": "Invitation of Windblume",
+        "playedAt": ["Quests", ["Events"], "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Mondstadt",
+        "youtubeId": "8AHHVqAPkJo",
+        "spotifyId": "5dDZCZJ8q7WGQUdAImxcUW",
+        "fandomUrl": "Invitation_of_Windblume_(The_Shimmering_Voyage)"
+      },
+      {
+        "id": 240,
+        "title": "An Inauspicious Blow",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "ozfBTTlb8_U",
+        "spotifyId": "3n3dZxpkpYZUqnf2zgaC27",
+        "fandomUrl": "An_Inauspicious_Blow"
+      },
+      {
+        "id": 241,
+        "title": "Fateful Departing",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "STLHOrZ1bkA",
+        "spotifyId": "7uW3T79fLmCjHNFkaZ0OEl",
+        "fandomUrl": "Fateful_Departing"
+      },
+      {
+        "id": 242,
+        "title": "Reconnaissance Captain",
+        "playedAt": ["Quests", ["Story Quests"]],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "p8c53q7m60I",
+        "spotifyId": "0bU7ODKTVITfg3lMtxpxrU",
+        "fandomUrl": "Reconnaissance_Captain"
+      },
+      {
+        "id": 243,
+        "title": "Ominous Monolith",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "YReDmjnAeBs",
+        "spotifyId": "5zmh9VqHn9lGbPxnjASlKl",
+        "fandomUrl": "Ominous_Monolith"
+      },
+      {
+        "id": 244,
+        "title": "Through the Eyes of a Dragon",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "19IIuudn6Sc",
+        "spotifyId": "1wuLkJnSS5GqpwlFYxT8tf",
+        "fandomUrl": "Through_the_Eyes_of_a_Dragon"
+      },
+      {
+        "id": 245,
+        "title": "Dvalin Is Landing!",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Quest",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "6jIiJ7e-ZKs",
+        "spotifyId": "36cb0JJ6RCmejYLD7Heeb6",
+        "fandomUrl": "Dvalin_Is_Landing!"
+      },
+      {
+        "id": 246,
+        "title": "Summertime Wonderland",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Quest",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "HQhgWtp2-oQ",
+        "spotifyId": "46DyheUw4MIWnFpGhc7Dxr",
+        "fandomUrl": "Summertime_Wonderland"
+      },
+      {
+        "id": 247,
+        "title": "A New Summer Adventure!",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Quest",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "TqkpaAQqiRE",
+        "spotifyId": "5SITOtiQ3kZUdhlsOin9Wk",
+        "fandomUrl": "A_New_Summer_Adventure!"
+      },
+      {
+        "id": 248,
+        "title": "Tales from the Snow Mountain",
+        "playedAt": ["Media"],
+        "type": "Ambient",
+        "region": "N/A",
+        "youtubeId": "UxOrdoJ2lVw",
+        "spotifyId": "12NSCSLc3sEE8ubtCnaKFP",
+        "fandomUrl": "Tales_from_the_Snow_Mountain"
+      },
+      {
+        "id": 249,
+        "title": "Destined Parting",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Mondstadt",
+        "youtubeId": "_y-5PYPOnzU",
+        "spotifyId": "11XHljZNj1HrUTmAQ5D4eC",
+        "fandomUrl": "Destined_Parting"
+      }
+    ]
   }
 ]
