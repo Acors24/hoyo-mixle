@@ -71,6 +71,10 @@ export default function HowToPlay({
           After 3 incorrect guesses, the moments at which the songs are played
           will be revealed.
         </li>
+        <li>
+          After 4 incorrect guesses, the amount of songs per album will be
+          limited to 4.
+        </li>
       </ul>
       <p>
         Track titles, album titles and game parts are taken from the{" "}
