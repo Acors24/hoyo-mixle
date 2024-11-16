@@ -107,38 +107,81 @@ export default function SongFilter({
         className="px-4 py-2 bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 rounded-xl duration-100"
       />
       <ul className="rounded-xl overflow-auto">
-        {filteredAlbums.map((album) => (
-          <div key={album.title}>
-            {albumsVisible && (
-              <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
-                {album.title}
-              </li>
-            )}
-
-            {album.songs.map(({ id, title, playedAt, region }) => (
-              <li key={id}>
-                <button
-                  className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
-                  onClick={() => onSelect(id)}
-                >
-                  {title}{" "}
-                  {regionsVisible && (
-                    <span className="text-slate-400 text-xs"> ({region})</span>
-                  )}
-                  {playedAtVisible && (
-                    <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
-                      {playedAt.map((moment, index) => (
-                        <Moment key={index} moment={moment} />
-                      ))}
-                    </ul>
-                  )}
-                </button>
+        {!albumsVisible &&
+          allSongs
+            .filter((song) =>
+              song.title.toLowerCase().includes(filterInput.toLowerCase())
+            )
+            .sort((a, b) => a.title.localeCompare(b.title))
+            .map((song) => (
+              <li key={song.id}>
+                <SongButton
+                  song={song}
+                  onSelect={onSelect}
+                  regionsVisible={regionsVisible}
+                  playedAtVisible={playedAtVisible}
+                />
               </li>
             ))}
-          </div>
-        ))}
+
+        {albumsVisible &&
+          filteredAlbums.map((album) => (
+            <div key={album.title}>
+              {albumsVisible && (
+                <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
+                  {album.title}
+                </li>
+              )}
+
+              {album.songs
+                .sort((a, b) => a.title.localeCompare(b.title))
+                .map((song) => (
+                  <li key={song.id}>
+                    <SongButton
+                      song={song}
+                      onSelect={onSelect}
+                      regionsVisible={regionsVisible}
+                      playedAtVisible={playedAtVisible}
+                    />
+                  </li>
+                ))}
+            </div>
+          ))}
       </ul>
     </div>
+  );
+}
+
+function SongButton({
+  song,
+  onSelect,
+  regionsVisible,
+  playedAtVisible,
+}: {
+  song: Song;
+  onSelect: (id: number) => void;
+  regionsVisible: boolean;
+  playedAtVisible: boolean;
+}) {
+  const { id, title, playedAt, region } = song;
+
+  return (
+    <button
+      className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
+      onClick={() => onSelect(id)}
+    >
+      {title}{" "}
+      {regionsVisible && (
+        <span className="text-slate-400 text-xs"> ({region})</span>
+      )}
+      {playedAtVisible && (
+        <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
+          {playedAt.map((moment, index) => (
+            <Moment key={index} moment={moment} />
+          ))}
+        </ul>
+      )}
+    </button>
   );
 }
 
