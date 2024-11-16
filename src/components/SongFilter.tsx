@@ -1,6 +1,7 @@
 import { useState } from "react";
-import { Song } from "../types";
+import { Album, Song } from "../types";
 import { useAlbums } from "../AlbumsContext";
+import { Random } from "random";
 
 export default function SongFilter({
   chosenSong,
@@ -51,6 +52,51 @@ export default function SongFilter({
     chosenSong.region
   );
 
+  const filteredAlbums = albums
+    .filter(({ title }) => {
+      if (!albumsVisible) {
+        return true;
+      }
+
+      if (whitelistedAlbum) {
+        return title === whitelistedAlbum;
+      }
+
+      return !blacklistedAlbums.has(title);
+    })
+    .map(({ title, songs }) => {
+      return {
+        title,
+        songs: songs.filter((song) => {
+          if (playedAtVisible) {
+            if (whitelistedType && song.type !== whitelistedType) {
+              return false;
+            } else if (blacklistedTypes.has(song.type)) {
+              return false;
+            }
+          }
+
+          if (regionsVisible) {
+            if (whitelistedRegion && song.region !== whitelistedRegion) {
+              return false;
+            } else if (blacklistedRegions.has(song.region)) {
+              return false;
+            }
+          }
+
+          if (guesses.includes(song.id)) {
+            return false;
+          }
+
+          return song.title.toLowerCase().includes(filterInput.toLowerCase());
+        }),
+      };
+    })
+    .filter(({ songs }) => songs.length > 0)
+    .map((album) =>
+      guesses.length < 4 ? album : limitAlbumTo4(album, chosenSong)
+    );
+
   return (
     <div className={`flex flex-col gap-2 ${className ?? ""}`}>
       <input
@@ -61,82 +107,36 @@ export default function SongFilter({
         className="px-4 py-2 bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 rounded-xl duration-100"
       />
       <ul className="rounded-xl overflow-auto">
-        {albums
-          .filter(({ title }) => {
-            if (!albumsVisible) {
-              return true;
-            }
+        {filteredAlbums.map((album) => (
+          <div key={album.title}>
+            {albumsVisible && (
+              <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
+                {album.title}
+              </li>
+            )}
 
-            if (whitelistedAlbum) {
-              return title === whitelistedAlbum;
-            }
-
-            return !blacklistedAlbums.has(title);
-          })
-          .map(({ title, songs }) => {
-            return {
-              title,
-              songs: songs.filter((song) => {
-                if (playedAtVisible) {
-                  if (whitelistedType && song.type !== whitelistedType) {
-                    return false;
-                  } else if (blacklistedTypes.has(song.type)) {
-                    return false;
-                  }
-                }
-
-                if (regionsVisible) {
-                  if (whitelistedRegion && song.region !== whitelistedRegion) {
-                    return false;
-                  } else if (blacklistedRegions.has(song.region)) {
-                    return false;
-                  }
-                }
-
-                if (guesses.includes(song.id)) {
-                  return false;
-                }
-
-                return song.title
-                  .toLowerCase()
-                  .includes(filterInput.toLowerCase());
-              }),
-            };
-          })
-          .filter(({ songs }) => songs.length > 0)
-          .map((album) => (
-            <div key={album.title}>
-              {albumsVisible && (
-                <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
-                  {album.title}
-                </li>
-              )}
-
-              {album.songs.map(({ id, title, playedAt, region }) => (
-                <li key={id}>
-                  <button
-                    className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
-                    onClick={() => onSelect(id)}
-                  >
-                    {title}{" "}
-                    {regionsVisible && (
-                      <span className="text-slate-400 text-xs">
-                        {" "}
-                        ({region})
-                      </span>
-                    )}
-                    {playedAtVisible && (
-                      <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
-                        {playedAt.map((moment, index) => (
-                          <Moment key={index} moment={moment} />
-                        ))}
-                      </ul>
-                    )}
-                  </button>
-                </li>
-              ))}
-            </div>
-          ))}
+            {album.songs.map(({ id, title, playedAt, region }) => (
+              <li key={id}>
+                <button
+                  className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
+                  onClick={() => onSelect(id)}
+                >
+                  {title}{" "}
+                  {regionsVisible && (
+                    <span className="text-slate-400 text-xs"> ({region})</span>
+                  )}
+                  {playedAtVisible && (
+                    <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
+                      {playedAt.map((moment, index) => (
+                        <Moment key={index} moment={moment} />
+                      ))}
+                    </ul>
+                  )}
+                </button>
+              </li>
+            ))}
+          </div>
+        ))}
       </ul>
     </div>
   );
@@ -172,4 +172,27 @@ function createBlacklistAndWhitelist<T>(
     },
     [new Set<string>(), undefined] as [Set<string>, string | undefined]
   );
+}
+
+function limitAlbumTo4(album: Album, chosenSong: Song): Album {
+  if (album.songs.length <= 4) {
+    return album;
+  }
+
+  const rng = new Random(
+    `${new Date().toDateString()}${album.title}${chosenSong.title}`
+  );
+  const result: Album = {
+    title: album.title,
+    songs: [chosenSong],
+  };
+  while (result.songs.length < 4) {
+    const song = rng.choice(album.songs)!;
+    if (!result.songs.includes(song)) {
+      result.songs.push(song);
+    }
+  }
+  result.songs.sort((a, b) => a.id - b.id);
+
+  return result;
 }
