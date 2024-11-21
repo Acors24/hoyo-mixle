@@ -40,12 +40,12 @@ export default function SampleControl({
   const state = getSimplePlayerState(playerState);
 
   const icon =
-    state === "playing" ? (
-      <FaStop />
-    ) : state === "idle" ? (
-      <FaPlay />
-    ) : (
+    state === "loading" ? (
       <CgSpinner className="animate-spin" />
+    ) : state === "playing" && id === playingId ? (
+      <FaStop />
+    ) : (
+      <FaPlay />
     );
   const disabled = state === "loading";
 
