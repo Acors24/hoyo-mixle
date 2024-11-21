@@ -127,11 +127,9 @@ export default function SongFilter({
         {albumsVisible &&
           filteredAlbums.map((album) => (
             <div key={album.title}>
-              {albumsVisible && (
-                <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
-                  {album.title}
-                </li>
-              )}
+              <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
+                {album.title}
+              </li>
 
               {album.songs
                 .sort((a, b) => a.title.localeCompare(b.title))
