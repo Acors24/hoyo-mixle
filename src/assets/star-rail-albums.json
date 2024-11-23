@@ -909,5 +909,340 @@
         "fandomUrl": "Samudrartha_(Instrumental)"
       }
     ]
+  },
+  {
+    "title": "Experience the Paths Vol. 1",
+    "songs": [
+      {
+        "id": 86,
+        "title": "Next Stop, the Stars!",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "16DVhYUrxi0",
+        "spotifyId": "1nFFmkdBZV0Su9oGuPMKLD",
+        "fandomUrl": "Next_Stop,_the_Stars!"
+      },
+      {
+        "id": 87,
+        "title": "Let's Take a Photo!",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Astral Express",
+        "youtubeId": "eSGj9Yo_ON4",
+        "spotifyId": "2ohKacGuVUaqKWDill1JmF",
+        "fandomUrl": "Let%27s_Take_a_Photo!"
+      },
+      {
+        "id": 88,
+        "title": "Your Choice",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "Ux6P1Fq9VHw",
+        "spotifyId": "0Xuf3Zl46QlS9hp9HejBu6",
+        "fandomUrl": "Your_Choice_(Soundtrack)"
+      },
+      {
+        "id": 89,
+        "title": "The Cusp of Ignition!",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Jarilo-VI",
+        "youtubeId": "kigIZAPOR9w",
+        "spotifyId": "0qfo2NsePaqGRrXXpp2PB2",
+        "fandomUrl": "The_Cusp_of_Ignition!"
+      },
+      {
+        "id": 90,
+        "title": "To You Who Will Soon Depart",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "CDX-bK48RVI",
+        "spotifyId": "0JBI9jE89mpsyz8aKMYN08",
+        "fandomUrl": "To_You_Who_Will_Soon_Depart"
+      },
+      {
+        "id": 91,
+        "title": "Space Comedy",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "p6q5528Hfb0",
+        "spotifyId": "5fvb5Ms1VbE0mGNK4T1IqY",
+        "fandomUrl": "Space_Comedy"
+      },
+      {
+        "id": 92,
+        "title": "In Torrid Heat",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "NEBEsjdvT70",
+        "spotifyId": "1gCkWnFwQ2IAk7ekDQah9h",
+        "fandomUrl": "In_Torrid_Heat"
+      },
+      {
+        "id": 93,
+        "title": "Tempered Chill",
+        "playedAt": [],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "224LYTPdJlU",
+        "spotifyId": "6bixlEemXONZpjuyi4dS3v",
+        "fandomUrl": "Tempered_Chill"
+      },
+      {
+        "id": 94,
+        "title": "Star Chaser",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Astral Express",
+        "youtubeId": "AvIoG891jnk",
+        "spotifyId": "0tQMMwWCboUksWHDe03gei",
+        "fandomUrl": "Star_Chaser"
+      },
+      {
+        "id": 95,
+        "title": "In the Name of Landau",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Jarilo-VI",
+        "youtubeId": "nugaSPvYwx0",
+        "spotifyId": "2HSlsSz91KXpLcZjwj1dNW",
+        "fandomUrl": "In_the_Name_of_Landau_(Soundtrack)"
+      },
+      {
+        "id": 96,
+        "title": "Uneventful Night",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Jarilo-VI",
+        "youtubeId": "zE9jaF790ek",
+        "spotifyId": "6gYhOiwFpRrPoVec18Aq4Q",
+        "fandomUrl": "Uneventful_Night"
+      },
+      {
+        "id": 97,
+        "title": "Fables About the Stars Part 1",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "VV5xyVpQKMI",
+        "spotifyId": "20KiYfytWSmxFiEwZvZiuw",
+        "fandomUrl": "Fables_About_the_Stars_Part_1"
+      },
+      {
+        "id": 98,
+        "title": "A Flash",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "-xWm3GRDwNY",
+        "spotifyId": "3dn4c44dpruFfdjJCn1o0C",
+        "fandomUrl": "A_Flash"
+      },
+      {
+        "id": 99,
+        "title": "Heaven and Earth as a Chessboard",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "tvFjIpZDxTo",
+        "spotifyId": "42MEebWLhNae34fHKwL79g",
+        "fandomUrl": "Heaven_and_Earth_as_a_Chessboard"
+      },
+      {
+        "id": 100,
+        "title": "Galactic Roaming",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "lp2e_poz-uY",
+        "spotifyId": "1MLKXR3SveBRqTnfyAwW4N",
+        "fandomUrl": "Galactic_Roaming"
+      },
+      {
+        "id": 101,
+        "title": "Got a Date?",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "N/A",
+        "youtubeId": "4D1O8O8ToOw",
+        "spotifyId": "4Pze8L2SEXXzHteWx3gGW7",
+        "fandomUrl": "Got_a_Date%3F"
+      },
+      {
+        "id": 102,
+        "title": "The Traveler And His Oath",
+        "playedAt": [],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "dF8XA6tRffg",
+        "spotifyId": "6iNMPzLsWqpPpaJK7jcIZM",
+        "fandomUrl": "The_Traveler_And_His_Oath"
+      },
+      {
+        "id": 103,
+        "title": "Even Immortality Ends",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "0-yDoSbvs_0",
+        "spotifyId": "2EKLT6dlwvrFNP9kfa32ac",
+        "fandomUrl": "Even_Immortality_Ends"
+      },
+      {
+        "id": 104,
+        "title": "Death Approaches",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "N/A",
+        "youtubeId": "AgfW1E_YtrE",
+        "spotifyId": "7bhNEZGAp5C69VlTkmFUNs",
+        "fandomUrl": "Death_Approaches"
+      },
+      {
+        "id": 105,
+        "title": "A Dramatic Irony",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "N/A",
+        "youtubeId": "PMgUAhcETsQ",
+        "spotifyId": "0gnUjKbhNspUraBox4kdit",
+        "fandomUrl": "A_Dramatic_Irony"
+      },
+      {
+        "id": 106,
+        "title": "The Jepella Rebellion",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "mcDtpOHzdTI",
+        "spotifyId": "0HggnNQt7qTl5Oxh1EdS63",
+        "fandomUrl": "The_Jepella_Rebellion"
+      },
+      {
+        "id": 107,
+        "title": "Celestial Eyes Above Mortal Ruins",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "aes6bv6fDnU",
+        "spotifyId": "1VTmYSCICCZdtDojO8O2ZK",
+        "fandomUrl": "Celestial_Eyes_Above_Mortal_Ruins"
+      },
+      {
+        "id": 108,
+        "title": "General of All Affairs at the Seat of Divine Foresight",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "TlhzSh2_wa4",
+        "spotifyId": "1kH9IJ8jCIuYsCo5cXdPmT",
+        "fandomUrl": "General_of_All_Affairs_at_the_Seat_of_Divine_Foresight"
+      },
+      {
+        "id": 109,
+        "title": "The Prodigal's Return",
+        "playedAt": [],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "b3mB8G7S6ZY",
+        "spotifyId": "2UpoMsbJUMDZzqogeJoCU2",
+        "fandomUrl": "The_Prodigal%27s_Return"
+      },
+      {
+        "id": 110,
+        "title": "Exodus of the Five Dragons",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "wHbSrELpqcM",
+        "spotifyId": "4K1EZjHXNrVvtkuiVHiNmF",
+        "fandomUrl": "Exodus_of_the_Five_Dragons"
+      },
+      {
+        "id": 111,
+        "title": "Ichor of Two Dragons",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "OYpzTCdYmX4",
+        "spotifyId": "70EDlXmH4HSBfE7w0sPXcK",
+        "fandomUrl": "Ichor_of_Two_Dragons"
+      },
+      {
+        "id": 112,
+        "title": "Omniscia Spares None",
+        "playedAt": [],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "ysfA879qdtQ",
+        "spotifyId": "6r0FqX4QVNb9WkN1TDzzpl",
+        "fandomUrl": "Omniscia_Spares_None_(Soundtrack)"
+      },
+      {
+        "id": 113,
+        "title": "Grasp the Stars",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "OkjFnsEkE-A",
+        "spotifyId": "4tgNZGp49P482JcrrqcdJp",
+        "fandomUrl": "Grasp_the_Stars"
+      },
+      {
+        "id": 114,
+        "title": "Jolted Awake From a Winter Dream",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "884HO7V8hjQ",
+        "spotifyId": "1W9kJRvMHCrozOxowHZp9K",
+        "fandomUrl": "Jolted_Awake_From_a_Winter_Dream_(Soundtrack)"
+      },
+      {
+        "id": 115,
+        "title": "On Swords",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "I8kqaOkxl_g",
+        "spotifyId": "14IBkofBe1yyASLytZQ4dZ",
+        "fandomUrl": "On_Swords"
+      },
+      {
+        "id": 116,
+        "title": "Swordward",
+        "playedAt": [],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "MLB2nEdeYxY",
+        "spotifyId": "0OE0Na132c60aazmknbfV1",
+        "fandomUrl": "Swordward"
+      },
+      {
+        "id": 117,
+        "title": "Selection, Planning, and Opportunity",
+        "playedAt": [],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "r1OPHtTBdfY",
+        "spotifyId": "0Oo8bYQcQZRDtCuUUfSJzh",
+        "fandomUrl": "Selection,_Planning,_and_Opportunity"
+      },
+      {
+        "id": 118,
+        "title": "Expert Tutorial",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "N/A",
+        "youtubeId": "GvM1Zr14hy0",
+        "spotifyId": "15s7pbDK9am5QUIqTRqhDY",
+        "fandomUrl": "Expert_Tutorial"
+      }
+    ]
   }
 ]
