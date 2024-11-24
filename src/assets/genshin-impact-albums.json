@@ -2765,5 +2765,741 @@
         "fandomUrl": "Destined_Parting"
       }
     ]
+  },
+  {
+    "title": "Realm of Tranquil Eternity",
+    "songs": [
+      {
+        "id": 250,
+        "title": "Inazuma",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "fLI3T5pOW18",
+        "spotifyId": "7zcmY86LJ8OX4T6ehMX51z",
+        "fandomUrl": "Inazuma_(Soundtrack)"
+      },
+      {
+        "id": 251,
+        "title": "Fall of Maples",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "WcLtPP0L_1s",
+        "spotifyId": "2IY2u9LOIfhDq39xDAWh7w",
+        "fandomUrl": "Fall_of_Maples"
+      },
+      {
+        "id": 252,
+        "title": "Separated Dream",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "xgBH1fbYj9U",
+        "spotifyId": "56L3tcZwfWBN79iAUYeg0v",
+        "fandomUrl": "Separated_Dream"
+      },
+      {
+        "id": 253,
+        "title": "Streets of Elegance",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "5FuAzfo-xHg",
+        "spotifyId": "6boMhSqEsb7LcRWl0mzo9T",
+        "fandomUrl": "Streets_of_Elegance"
+      },
+      {
+        "id": 254,
+        "title": "Lingering Blossom",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "3bAqVfoEWsY",
+        "spotifyId": "4p5cuOjbtCMX5JMmuEoL6G",
+        "fandomUrl": "Lingering_Blossom"
+      },
+      {
+        "id": 255,
+        "title": "The Land of Her Serenity",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Blg7wm-ATw0",
+        "spotifyId": "1MYvyFcBLSmTCRqG3ZW4VW",
+        "fandomUrl": "The_Land_of_Her_Serenity"
+      },
+      {
+        "id": 256,
+        "title": "In the Strange Realm of Sakura",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "LnfBnoHaS9c",
+        "spotifyId": "4FMVa0b9FMV27N9awlWTXu",
+        "fandomUrl": "In_the_Strange_Realm_of_Sakura"
+      },
+      {
+        "id": 257,
+        "title": "Blue Dream",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Uk3IhMZ3pNg",
+        "spotifyId": "46o6h9OsJjh7OwNbo6DpxH",
+        "fandomUrl": "Blue_Dream"
+      },
+      {
+        "id": 258,
+        "title": "Dream of Scattered Petals",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "3HgAq5vtTgU",
+        "spotifyId": "4Iq7C61MCBPIUlfmYEaPrE",
+        "fandomUrl": "Dream_of_Scattered_Petals"
+      },
+      {
+        "id": 259,
+        "title": "Thoughts of Lightning",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "yttgNeV7khQ",
+        "spotifyId": "0IdjQwZyMCuHWDf6VYydoo",
+        "fandomUrl": "Thoughts_of_Lightning"
+      },
+      {
+        "id": 260,
+        "title": "The Mysterious Islands",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "loKVRSDMZKg",
+        "spotifyId": "4s0PLfmtmhDMf8ilMkhVgW",
+        "fandomUrl": "The_Mysterious_Islands"
+      },
+      {
+        "id": 261,
+        "title": "Sakura-Scented Kiseru",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "HKoejW_5dfQ",
+        "spotifyId": "6WNuMACVjjwFI5lzA1a0wO",
+        "fandomUrl": "Sakura-Scented_Kiseru"
+      },
+      {
+        "id": 262,
+        "title": "Her Legacy",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "hgHCJesJkc0",
+        "spotifyId": "1eOvfqpyOHCbr2ezEEJN8C",
+        "fandomUrl": "Her_Legacy"
+      },
+      {
+        "id": 263,
+        "title": "Everlasting Devotion",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "VIvqSndwxuU",
+        "spotifyId": "4ifHykJhgluHtPX6DJad4n",
+        "fandomUrl": "Everlasting_Devotion"
+      },
+      {
+        "id": 264,
+        "title": "Kitsune's Mask",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "qGAtH5hV32o",
+        "spotifyId": "4c9MXzcl7wweI43j3dHHWa",
+        "fandomUrl": "Kitsune%27s_Mask"
+      },
+      {
+        "id": 265,
+        "title": "Hanachirusato",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "h_9bhbmuHUY",
+        "spotifyId": "3I1MJ4DoQUlskDq7FcbM8E",
+        "fandomUrl": "Hanachirusato_(Soundtrack)"
+      },
+      {
+        "id": 266,
+        "title": "Time to Say Farewell",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "lusYQrlIhTQ",
+        "spotifyId": "4hLp1zYxnVwRpQSThAUR5g",
+        "fandomUrl": "Time_to_Say_Farewell"
+      },
+      {
+        "id": 267,
+        "title": "Flickering Sakura",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "zbeDsQ3qLSI",
+        "spotifyId": "4lJPvjvC23sMeVLhHEgI4T",
+        "fandomUrl": "Flickering_Sakura"
+      },
+      {
+        "id": 268,
+        "title": "Sigh of an Old Friend",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "aOGOYtl5dFI",
+        "spotifyId": "7oAh2lwLP3hvK3xTAHMcsx",
+        "fandomUrl": "Sigh_of_an_Old_Friend"
+      },
+      {
+        "id": 269,
+        "title": "The Sealed Harbor",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "W1J-egGB9CY",
+        "spotifyId": "16YKZVKCNRMELuOFkEZyYu",
+        "fandomUrl": "The_Sealed_Harbor"
+      },
+      {
+        "id": 270,
+        "title": "Island for Outlanders",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "uPQtxZUg1Is",
+        "spotifyId": "6GFicUZsx90ZwTNMXVIL83",
+        "fandomUrl": "Island_for_Outlanders"
+      },
+      {
+        "id": 271,
+        "title": "Dream of Homeland",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "SQv-VR3JDmY",
+        "spotifyId": "57F1RBhhTM2mDG7sIRRWSS",
+        "fandomUrl": "Dream_of_Homeland"
+      },
+      {
+        "id": 272,
+        "title": "Interwoven Nostalgia",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "6kOTb0TqgNI",
+        "spotifyId": "4EJ8u6FBT6o5ga7MFUmn2k",
+        "fandomUrl": "Interwoven_Nostalgia"
+      },
+      {
+        "id": 273,
+        "title": "Preparation of Matsuri",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "rNnCscHg-AQ",
+        "spotifyId": "0zSvfU4IZzB1M0QFiVJYAp",
+        "fandomUrl": "Preparation_of_Matsuri"
+      },
+      {
+        "id": 274,
+        "title": "Island of Hanabi",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "qA6T3eT6NB8",
+        "spotifyId": "6eMYAFalI3mXOHF24rGUYg",
+        "fandomUrl": "Island_of_Hanabi"
+      },
+      {
+        "id": 275,
+        "title": "Murmuring Creek",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Y6gK-uT3OoM",
+        "spotifyId": "187hCGC9fuh25XUnK8H8K7",
+        "fandomUrl": "Murmuring_Creek"
+      },
+      {
+        "id": 276,
+        "title": "Remaining Tenderness",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "x0RLyPGDsl4",
+        "spotifyId": "7bBWKq7Do2xm4E35pwjFtr",
+        "fandomUrl": "Remaining_Tenderness"
+      },
+      {
+        "id": 277,
+        "title": "A Harmonious Rest",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "uBYpaxaqyN4",
+        "spotifyId": "1d6YDn3EFAEpjkwhyF0ao2",
+        "fandomUrl": "A_Harmonious_Rest"
+      },
+      {
+        "id": 278,
+        "title": "Hakushin's Lullaby",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "7p9Gldh63HU",
+        "spotifyId": "0FVFRx0dv4xfBHp5VRkt5m",
+        "fandomUrl": "Hakushin%27s_Lullaby"
+      },
+      {
+        "id": 279,
+        "title": "Where the Heart Settles",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "1v5DRihKUFU",
+        "spotifyId": "40gJBY1LCAGsT74aLAlQ2P",
+        "fandomUrl": "Where_the_Heart_Settles"
+      },
+      {
+        "id": 280,
+        "title": "Miko's Night",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "pP-KIXn5K64",
+        "spotifyId": "616gYXwzlMIjaMzRflRgMc",
+        "fandomUrl": "Miko%27s_Night"
+      },
+      {
+        "id": 281,
+        "title": "Where the Shirasagi Dances",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "1topzeQYSOg",
+        "spotifyId": "3T4MoYw425vMgymqnfDNuB",
+        "fandomUrl": "Where_the_Shirasagi_Dances"
+      },
+      {
+        "id": 282,
+        "title": "Shirasagi's Demeanor",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "EhLBfN2DvQ4",
+        "spotifyId": "0Um9mJiH3pq4NBaTasC1e9",
+        "fandomUrl": "Shirasagi%27s_Demeanor"
+      },
+      {
+        "id": 283,
+        "title": "Valor & Prowess",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "6doZglF4F-M",
+        "spotifyId": "5ZGtLRuKY1sTj65XFnzTZ2",
+        "fandomUrl": "Valor_%26_Prowess"
+      },
+      {
+        "id": 284,
+        "title": "A Night Watch",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "VCurGaMTKNM",
+        "spotifyId": "6NdTH9UgmNQRTs4ieEvf1S",
+        "fandomUrl": "A_Night_Watch"
+      },
+      {
+        "id": 285,
+        "title": "Samurai's Sorrow",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Uyy6kdAoBE0",
+        "spotifyId": "08t4okvzHGtCLTq29gVVUQ",
+        "fandomUrl": "Samurai%27s_Sorrow"
+      },
+      {
+        "id": 286,
+        "title": "Scarred Island",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "cyaacqV-dUA",
+        "spotifyId": "6nMJsu6c7aeu5sBfaVr0v1",
+        "fandomUrl": "Scarred_Island"
+      },
+      {
+        "id": 287,
+        "title": "Silent Testimony",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "SCCOFrvB5w0",
+        "spotifyId": "3bALJlVcv2wgFEWeTNKO86",
+        "fandomUrl": "Silent_Testimony"
+      },
+      {
+        "id": 288,
+        "title": "Soul of Soulless Conditions",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "taYAqjINvQA",
+        "spotifyId": "1TL4WDbM7XOcibBtdeAc9B",
+        "fandomUrl": "Soul_of_Soulless_Conditions"
+      },
+      {
+        "id": 289,
+        "title": "Ones Who Strive to Live",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "P4HZxWk5Q5k",
+        "spotifyId": "4P43jtjfE5mkLrd3j9FfhC",
+        "fandomUrl": "Ones_Who_Strive_to_Live"
+      },
+      {
+        "id": 290,
+        "title": "Resounding of Silence",
+        "playedAt": ["Open-World Locations", "Quests", ["Event Quests"]],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "y5QIoaB8Yvc",
+        "spotifyId": "39ZIJWEDWQL7v4C2msxvfZ",
+        "fandomUrl": "Resounding_of_Silence"
+      },
+      {
+        "id": 291,
+        "title": "You Shall Not Tempt It",
+        "playedAt": ["Open-World Locations", "Quests", ["Event Quests"]],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Yr-eTdfCum8",
+        "spotifyId": "4OgFhzfgQVLQf23GMg3ySZ",
+        "fandomUrl": "You_Shall_Not_Tempt_It"
+      },
+      {
+        "id": 292,
+        "title": "The Lost Mound",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Fx4vcvc-y0Q",
+        "spotifyId": "4jUcrVw4vby9CjzA0uQwVO",
+        "fandomUrl": "The_Lost_Mound"
+      },
+      {
+        "id": 293,
+        "title": "Dirge of the Soundless",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "vZxg1Fl-z6s",
+        "spotifyId": "0gFUda0a0KX1hVxdSiaWvo",
+        "fandomUrl": "Dirge_of_the_Soundless"
+      },
+      {
+        "id": 294,
+        "title": "Nothing but Ivy",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Serenitea Pot"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "FCTphebz-E0",
+        "spotifyId": "0MroYLlVo3zeIO2rW7RSU6",
+        "fandomUrl": "Nothing_but_Ivy"
+      },
+      {
+        "id": 295,
+        "title": "Shadow of War",
+        "playedAt": ["Open-World Locations", "Quests", ["Archon Quests"]],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "PQG_DRXauts",
+        "spotifyId": "6izu0SqcWNPNKxe98TEtIT",
+        "fandomUrl": "Shadow_of_War"
+      },
+      {
+        "id": 296,
+        "title": "Another Conflict Incoming",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "mtqCkBa1rKA",
+        "spotifyId": "4H5uZynVAhTGVFOTwHCRoq",
+        "fandomUrl": "Another_Conflict_Incoming"
+      },
+      {
+        "id": 297,
+        "title": "Fortification of Resistance",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "ofXaJ38x1ok",
+        "spotifyId": "15k0jaswNSF6RDs145Q504",
+        "fandomUrl": "Fortification_of_Resistance"
+      },
+      {
+        "id": 298,
+        "title": "Unwavering March",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "sQr_Z4QpGkQ",
+        "spotifyId": "7Dh3yb31q2cmVDBTQ2kYrM",
+        "fandomUrl": "Unwavering_March"
+      },
+      {
+        "id": 299,
+        "title": "Caress of the Spirit",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "OcQ6rjB9bHY",
+        "spotifyId": "4vv7LTuJZBuCBEZatZBJrH",
+        "fandomUrl": "Caress_of_the_Spirit"
+      },
+      {
+        "id": 300,
+        "title": "Stranded Wish",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "xJqMYTOK6fA",
+        "spotifyId": "3g8CxaHlAyiuR1j9Mimrv2",
+        "fandomUrl": "Stranded_Wish"
+      },
+      {
+        "id": 301,
+        "title": "Busy Silhouettes",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "7ydPr1kBt_4",
+        "spotifyId": "7Lppl4wNy0OpeWN9GlibTQ",
+        "fandomUrl": "Busy_Silhouettes"
+      },
+      {
+        "id": 302,
+        "title": "A Hollowed Skull",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "8kvBI0NmEiQ",
+        "spotifyId": "0orko7SzZzYONancQyNpNy",
+        "fandomUrl": "A_Hollowed_Skull"
+      },
+      {
+        "id": 303,
+        "title": "Whispering Tatarigami",
+        "playedAt": ["Open-World Locations", "Quests", ["Archon Quests"]],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "_svfz8Ewpy8",
+        "spotifyId": "4ccGBxCJx3wsKc27Agoxkn",
+        "fandomUrl": "Whispering_Tatarigami"
+      },
+      {
+        "id": 304,
+        "title": "Orobashi's Teaching",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "QZrGAaPlIik",
+        "spotifyId": "3jJlCRjVpffrTq9CrZF0Qe",
+        "fandomUrl": "Orobashi%27s_Teaching"
+      },
+      {
+        "id": 305,
+        "title": "Forgotten Epic",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Hnr3-xWcyWc",
+        "spotifyId": "2TLgsROawT1oJ86JWwKoO9",
+        "fandomUrl": "Forgotten_Epic"
+      },
+      {
+        "id": 306,
+        "title": "Serpent's Tragedy",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "9IU4Wc3Ksgk",
+        "spotifyId": "15CdLrY0MfmFXRsIs2xkPK",
+        "fandomUrl": "Serpent%27s_Tragedy"
+      },
+      {
+        "id": 307,
+        "title": "Embrace of Sea Waves",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "rzKS04LZ7VQ",
+        "spotifyId": "31RAsxl0XswqibKAeeAza7",
+        "fandomUrl": "Embrace_of_Sea_Waves"
+      },
+      {
+        "id": 308,
+        "title": "Duel in the Mist",
+        "playedAt": ["Open-World Combat", "Domains", "Event Gameplay", "Media"],
+        "type": "Combat",
+        "region": "Inazuma",
+        "youtubeId": "Oz5yO7-dkZs",
+        "spotifyId": "1Zcg5aQbHKOToC3zluOMrL",
+        "fandomUrl": "Duel_in_the_Mist"
+      },
+      {
+        "id": 309,
+        "title": "Against the Invisible Net",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Event Gameplay",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Inazuma",
+        "youtubeId": "mKQfYtjpUYU",
+        "spotifyId": "15TvpcADxRquD2tT44FNjM",
+        "fandomUrl": "Against_the_Invisible_Net"
+      },
+      {
+        "id": 310,
+        "title": "Overlord of the Thunderstorm",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Event Gameplay",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Inazuma",
+        "youtubeId": "Edorx9j4gR8",
+        "spotifyId": "19lEu7mX9lz5LRZyPLxNHP",
+        "fandomUrl": "Overlord_of_the_Thunderstorm"
+      },
+      {
+        "id": 311,
+        "title": "Fiery Pursuit",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Boss",
+        "region": "Inazuma",
+        "youtubeId": "BA7QsWpA7aU",
+        "spotifyId": "2l0zHq18cbYPlWInhmt5iq",
+        "fandomUrl": "Fiery_Pursuit"
+      }
+    ]
   }
 ]
