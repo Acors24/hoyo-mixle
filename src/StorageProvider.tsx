@@ -49,6 +49,7 @@ const initialState: LocalStorage = {
   config: {
     volume: 50,
     howToPlaySeen: false,
+    lastChangelogSeen: -1,
   },
 };
 

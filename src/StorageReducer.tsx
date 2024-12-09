@@ -21,6 +21,14 @@ export function StorageReducer(
           volume: action.payload,
         },
       };
+    case "SET_LAST_CHANGELOG_SEEN":
+      return {
+        ...state,
+        config: {
+          ...state.config,
+          lastChangelogSeen: action.payload,
+        },
+      };
     case "SET_GUESSES":
       return {
         ...state,

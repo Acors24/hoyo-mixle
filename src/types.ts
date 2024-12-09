@@ -39,6 +39,7 @@ export type LocalStorage = {
   config: {
     volume: number;
     howToPlaySeen: boolean;
+    lastChangelogSeen: number;
   };
 };
 
@@ -49,6 +50,10 @@ export type StorageAction =
     }
   | {
       type: "SET_VOLUME";
+      payload: number;
+    }
+  | {
+      type: "SET_LAST_CHANGELOG_SEEN";
       payload: number;
     }
   | {

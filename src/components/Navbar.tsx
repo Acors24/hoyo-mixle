@@ -1,10 +1,11 @@
 import { useState } from "react";
-import { FaRegCircleQuestion } from "react-icons/fa6";
+import { FaRegCircleQuestion, FaRegFileLines } from "react-icons/fa6";
 import HowToPlay from "./HowToPlay";
 import { useStorage } from "../StorageContext";
 import { Link } from "@tanstack/react-router";
 import genshinIcon from "../assets/Genshin_Impact.png";
 import starRailIcon from "../assets/Honkai_Star_Rail_App.png";
+import Changelog from "./Changelog";
 
 export default function Navbar() {
   const { state, dispatch } = useStorage();
@@ -12,11 +13,22 @@ export default function Navbar() {
     !state.config.howToPlaySeen
   );
 
+  const [changelogOpen, setChangelogOpen] = useState(false);
+
   const handleHowToPlayClose = () => {
     setHowToPlayOpen(false);
     dispatch({
       type: "SET_HOW_TO_PLAY_SEEN",
       payload: true,
+    });
+  };
+
+  const changelogVersion = 1;
+  const handleChangelogClose = () => {
+    setChangelogOpen(false);
+    dispatch({
+      type: "SET_LAST_CHANGELOG_SEEN",
+      payload: changelogVersion,
     });
   };
 
@@ -36,7 +48,17 @@ export default function Navbar() {
           <img src={starRailIcon} alt="Honkai Star Rail" className="rounded" />
         </Link>
       </div>
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center gap-4">
+        <Changelog open={changelogOpen} onClose={handleChangelogClose} />
+        <button onClick={() => setChangelogOpen(true)} className="relative">
+          {changelogVersion !== state.config.lastChangelogSeen && (
+            <>
+              <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4"></span>
+              <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 animate-ping"></span>
+            </>
+          )}
+          <FaRegFileLines className="text-3xl" />
+        </button>
         <HowToPlay open={howToPlayOpen} onClose={handleHowToPlayClose} />
         <button onClick={() => setHowToPlayOpen(true)}>
           <FaRegCircleQuestion className="text-3xl" />
