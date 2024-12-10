@@ -4,7 +4,10 @@ import { FaRegCircleXmark } from "react-icons/fa6";
 const history = [
   {
     date: "2024-12-10",
-    changes: ['Added "Fleeting Colors in Flight" album (Genshin Impact)'],
+    changes: [
+      'Added "Fleeting Colors in Flight" album (Genshin Impact)',
+      'Added "The Stellar Moments Vol. 2" album (Genshin Impact)',
+    ],
   },
   {
     date: "2024-12-09",

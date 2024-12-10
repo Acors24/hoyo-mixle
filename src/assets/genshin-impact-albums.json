@@ -3536,5 +3536,220 @@
         "fandomUrl": "Devastation_and_Redemption_-_Instrumental"
       }
     ]
+  },
+  {
+    "title": "The Stellar Moments Vol. 2",
+    "songs": [
+      {
+        "id": 315,
+        "title": "Path of Yaksha",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "-cXUkovtA3U",
+        "spotifyId": "6wzG4es0O7bPGYRBux4og0",
+        "fandomUrl": "Path_of_Yaksha"
+      },
+      {
+        "id": 316,
+        "title": "Broker Betwixt Life and Death",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "9mk1KPHqWvo",
+        "spotifyId": "0pxKbK3fSg8tnqeS1KzFnC",
+        "fandomUrl": "Broker_Betwixt_Life_and_Death"
+      },
+      {
+        "id": 317,
+        "title": "Any Last Words?",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "_pHXY8vtMuE",
+        "spotifyId": "2LtGZw2fLFk5TN0nvphVHz",
+        "fandomUrl": "Any_Last_Words%3F"
+      },
+      {
+        "id": 318,
+        "title": "Shadow of Nemesis",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "ZxPCBBcCUkE",
+        "spotifyId": "5LNbcUkbStGuYTGvogRtxm",
+        "fandomUrl": "Shadow_of_Nemesis"
+      },
+      {
+        "id": 319,
+        "title": "Marching of Xiezhi",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "0o9-k0_OE_A",
+        "spotifyId": "1gJbCm3L1NpzRwYiBFmEmv",
+        "fandomUrl": "Marching_of_Xiezhi"
+      },
+      {
+        "id": 320,
+        "title": "The Frozen Emblem",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "c1hFcr1jueQ",
+        "spotifyId": "4NX4kmQcUGft7yxQl9DDL1",
+        "fandomUrl": "The_Frozen_Emblem"
+      },
+      {
+        "id": 321,
+        "title": "Dance of Aphros",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "LBd2HF8lFGI",
+        "spotifyId": "5zWeXNPmxXMZzy0QYeM3rd",
+        "fandomUrl": "Dance_of_Aphros"
+      },
+      {
+        "id": 322,
+        "title": "Iridescent Summer Day",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "AoidM0M1XoE",
+        "spotifyId": "2YuiAaoYrvafdBEwmw23Lh",
+        "fandomUrl": "Iridescent_Summer_Day"
+      },
+      {
+        "id": 323,
+        "title": "Drifter's Destiny",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "ZkzcJc9pJWA",
+        "spotifyId": "2iqvZi9d9wqnf2wPYOM5sr",
+        "fandomUrl": "Drifter%27s_Destiny"
+      },
+      {
+        "id": 324,
+        "title": "Flow of Autumn Wind",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "lqwJnHtN1gw",
+        "spotifyId": "3pCUwvgBB4TZCOiy3AGaXP",
+        "fandomUrl": "Flow_of_Autumn_Wind"
+      },
+      {
+        "id": 325,
+        "title": "Shirasagi Princess",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "fYZtHEQ6-3c",
+        "spotifyId": "4J3hejfolqxx0TSWjk2S2z",
+        "fandomUrl": "Shirasagi_Princess"
+      },
+      {
+        "id": 326,
+        "title": "Muji-Muji Chaos!",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "y973UF8RGm8",
+        "spotifyId": "3R1Tg7XBj4wkSNr1hlgJ50",
+        "fandomUrl": "Muji-Muji_Chaos!"
+      },
+      {
+        "id": 327,
+        "title": "Eternity in a Moment",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "-8G6GbrOVsM",
+        "spotifyId": "3Inkkjvl4toS3ygca6XdBx",
+        "fandomUrl": "Eternity_in_a_Moment"
+      },
+      {
+        "id": 328,
+        "title": "Blossoms of Summer Night",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "bmzmDeh2eAQ",
+        "spotifyId": "1z0VrBfn5iGortE8cikOTl",
+        "fandomUrl": "Blossoms_of_Summer_Night"
+      },
+      {
+        "id": 329,
+        "title": "Will of Thunder",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "wc2RIBJJd24",
+        "spotifyId": "761y6rNDHh5vd6ZBghUl03",
+        "fandomUrl": "Will_of_Thunder"
+      },
+      {
+        "id": 330,
+        "title": "Good Hunting on a New Horizon",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "???",
+        "youtubeId": "lVfcDZXYRRo",
+        "spotifyId": "25hSwHLBBjSD38LJoG72Wb",
+        "fandomUrl": "Good_Hunting_on_a_New_Horizon"
+      },
+      {
+        "id": 331,
+        "title": "Tactician's Grit",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "B27ON7fesl4",
+        "spotifyId": "7vSFS6WN4EebG9xMrSsciE",
+        "fandomUrl": "Tactician%27s_Grit"
+      },
+      {
+        "id": 332,
+        "title": "A Glorious Awakening",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "OdQNtQUvcdM",
+        "spotifyId": "1UHzauqkXrR3itvRmzoJdq",
+        "fandomUrl": "A_Glorious_Awakening"
+      },
+      {
+        "id": 333,
+        "title": "Devotion of the Keeper",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "2_kbbMJa3HM",
+        "spotifyId": "3sOx6kOQK9DGLgee7dAFOS",
+        "fandomUrl": "Devotion_of_the_Keeper"
+      },
+      {
+        "id": 334,
+        "title": "Awake From a Nightmare",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "Elrnl9YdA6Q",
+        "spotifyId": "0anvc18Ur3jHXiu9qZH91w",
+        "fandomUrl": "Awake_From_a_Nightmare"
+      },
+      {
+        "id": 335,
+        "title": "Termination of Desires",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "uAte-2ZptaQ",
+        "spotifyId": "5k6FEGx0ECYATBIXGAWTEd",
+        "fandomUrl": "Termination_of_Desires"
+      }
+    ]
   }
 ]
