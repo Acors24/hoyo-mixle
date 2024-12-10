@@ -3501,5 +3501,40 @@
         "fandomUrl": "Fiery_Pursuit"
       }
     ]
+  },
+  {
+    "title": "Fleeting Colors in Flight",
+    "songs": [
+      {
+        "id": 312,
+        "title": "Devastation and Redemption",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "KbB4YS8xFjI",
+        "spotifyId": "61AwMVSi15AGwZq7J4IJpf",
+        "fandomUrl": "Devastation_and_Redemption"
+      },
+      {
+        "id": 313,
+        "title": "Myriad of Lights",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "UBNEkRZAP04",
+        "spotifyId": "649BiEt5fNOs4C52Xovwfx",
+        "fandomUrl": "Myriad_of_Lights"
+      },
+      {
+        "id": 314,
+        "title": "Devastation and Redemption - Instrumental",
+        "playedAt": [],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "uIsyvVKPXEE",
+        "spotifyId": "1VpfierMDOrmcWfoOsJr5V",
+        "fandomUrl": "Devastation_and_Redemption_-_Instrumental"
+      }
+    ]
   }
 ]
