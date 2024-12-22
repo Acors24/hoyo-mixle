@@ -6,6 +6,7 @@ const history = [
     date: "2024-12-22",
     changes: [
       'Added "Islands of the Lost and Forgotten" album (Genshin Impact)',
+      'Replaced "Ambient" category name with "Open-World"',
     ],
   },
   {
