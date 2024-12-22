@@ -3751,5 +3751,621 @@
         "fandomUrl": "Termination_of_Desires"
       }
     ]
+  },
+  {
+    "title": "Islands of the Lost and Forgotten",
+    "songs": [
+      {
+        "id": 336,
+        "title": "Island of Crystal and Pearl",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "BeQCuNmKAvM",
+        "spotifyId": "1Ngh1FYq2CSZnyMXdnJ9zD",
+        "fandomUrl": "Island_of_Crystal_and_Pearl"
+      },
+      {
+        "id": 337,
+        "title": "Illuminated Coral Palace",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "pPqiFI3pNXw",
+        "spotifyId": "4GuANuPDRPS5P7mmcbkmeM",
+        "fandomUrl": "Illuminated_Coral_Palace"
+      },
+      {
+        "id": 338,
+        "title": "Peaceful Wishes",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Py7Mo0pf4w4",
+        "spotifyId": "7CU2Tuei5MiKDBVcFupdQu",
+        "fandomUrl": "Peaceful_Wishes"
+      },
+      {
+        "id": 339,
+        "title": "A Tranquil Town",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "hM3gEC_VnvE",
+        "spotifyId": "6zBcV9el8CS2lz0Xwj85oR",
+        "fandomUrl": "A_Tranquil_Town"
+      },
+      {
+        "id": 340,
+        "title": "Stroll Along the Beach",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "ysC99WjHBic",
+        "spotifyId": "4mNPmcuISPP2RBztJBOKy0",
+        "fandomUrl": "Stroll_Along_the_Beach"
+      },
+      {
+        "id": 341,
+        "title": "In a Harmonious Atmosphere",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "awiy4q6VCM0",
+        "spotifyId": "69L7SZ3r45zBqp3C1IRg1j",
+        "fandomUrl": "In_a_Harmonious_Atmosphere"
+      },
+      {
+        "id": 342,
+        "title": "Stories Untold",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "IZ_7KSDKLIo",
+        "spotifyId": "5HT3i1xRoD4FFyRuUv62bH",
+        "fandomUrl": "Stories_Untold"
+      },
+      {
+        "id": 343,
+        "title": "What Now Remains",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "314xK35QJls",
+        "spotifyId": "2Zo9BfVzcWmp8gUTTlQhpB",
+        "fandomUrl": "What_Now_Remains"
+      },
+      {
+        "id": 344,
+        "title": "Roaming in Silence",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Zp7QjGk4Vco",
+        "spotifyId": "5Ut8uhVPpjhdaXbjnUDpUj",
+        "fandomUrl": "Roaming_in_Silence"
+      },
+      {
+        "id": 345,
+        "title": "Lonely Journey",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "toN559z954M",
+        "spotifyId": "5AdCD0NK3wd0ICiVQQ10eJ",
+        "fandomUrl": "Lonely_Journey"
+      },
+      {
+        "id": 346,
+        "title": "Swath of Desolation",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "hOTF46vR7t0",
+        "spotifyId": "6xGYb1EXaNOcDqROgpVmL0",
+        "fandomUrl": "Swath_of_Desolation"
+      },
+      {
+        "id": 347,
+        "title": "Echoes of Solitude",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "kgBPOPOpUWg",
+        "spotifyId": "13LDN7bRCiJNjX4IdL1BhN",
+        "fandomUrl": "Echoes_of_Solitude"
+      },
+      {
+        "id": 348,
+        "title": "Mournful Whisperings",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "kGGOHDnrC84",
+        "spotifyId": "2oDZwSAcDTLbz5RarfmIkC",
+        "fandomUrl": "Mournful_Whisperings"
+      },
+      {
+        "id": 349,
+        "title": "Desire for Calm",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "vXFiYTP_yS0",
+        "spotifyId": "2K4vv6JxtTY6viZvdoz6ZW",
+        "fandomUrl": "Desire_for_Calm"
+      },
+      {
+        "id": 350,
+        "title": "A Fragment of Peace",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "I2sqXLKIUMs",
+        "spotifyId": "1qJEaVrFzH5VWpQhkDqm3L",
+        "fandomUrl": "A_Fragment_of_Peace"
+      },
+      {
+        "id": 351,
+        "title": "Slumbering Land of Neko",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "VicAN6PfROU",
+        "spotifyId": "4Unnac4Gu02pPxLKsDT3Hz",
+        "fandomUrl": "Slumbering_Land_of_Neko"
+      },
+      {
+        "id": 352,
+        "title": "Savory Treat",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests", "Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "rxlGB48H3js",
+        "spotifyId": "1dBZ8aRWYYdswzH4YiXLl5",
+        "fandomUrl": "Savory_Treat"
+      },
+      {
+        "id": 353,
+        "title": "Narukami-Bayashi",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "qg-DcH3cX6k",
+        "spotifyId": "4zZe8yUR0m5ofT3CtX8lHj",
+        "fandomUrl": "Narukami-Bayashi"
+      },
+      {
+        "id": 354,
+        "title": "In a Cautious Way",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "ZHONxE_DI78",
+        "spotifyId": "3OfQ5RZgbpcV2glRoEP0a2",
+        "fandomUrl": "In_a_Cautious_Way"
+      },
+      {
+        "id": 355,
+        "title": "Silent Seclusion",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "G8w16DwTD-A",
+        "spotifyId": "1HE8GkYoMqO8D6LGcnjC29",
+        "fandomUrl": "Silent_Seclusion"
+      },
+      {
+        "id": 356,
+        "title": "Contemplation on Eternity",
+        "playedAt": ["Open-World Locations", "Domains"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "pfD5WoHucDk",
+        "spotifyId": "5S0mB7hMqQqNIbyzZa5EFq",
+        "fandomUrl": "Contemplation_on_Eternity"
+      },
+      {
+        "id": 357,
+        "title": "A Sepulchral Gloom",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "mf4R4jauazM",
+        "spotifyId": "4B220O1EUzCm45SRZJrwVZ",
+        "fandomUrl": "A_Sepulchral_Gloom"
+      },
+      {
+        "id": 358,
+        "title": "When All Has Elapsed",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "XA7GA735E4M",
+        "spotifyId": "2Luo06lkUHnr5qEnX74JUt",
+        "fandomUrl": "When_All_Has_Elapsed"
+      },
+      {
+        "id": 359,
+        "title": "Sorrows of Strays",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "i1XqevEp8_k",
+        "spotifyId": "4JCTPUeR73RLTqvYFVAcgk",
+        "fandomUrl": "Sorrows_of_Strays"
+      },
+      {
+        "id": 360,
+        "title": "Misty Truth",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "V8tpMFSKNIg",
+        "spotifyId": "5u69EP1YVOLERBR7TMoY2F",
+        "fandomUrl": "Misty_Truth"
+      },
+      {
+        "id": 361,
+        "title": "Wandering in the Mist",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "MuJdzExqlo4",
+        "spotifyId": "0CnCQRdx9OdDj2k0wR1FHM",
+        "fandomUrl": "Wandering_in_the_Mist"
+      },
+      {
+        "id": 362,
+        "title": "Walking a Pathless Path",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "Uo4U45OQI6I",
+        "spotifyId": "4V0a9ikdNZntbmEqwobHN8",
+        "fandomUrl": "Walking_a_Pathless_Path"
+      },
+      {
+        "id": 363,
+        "title": "Fading Memories",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "1sMzuC4Yza0",
+        "spotifyId": "2Rez0Gi5WLoml09b0lIgao",
+        "fandomUrl": "Fading_Memories"
+      },
+      {
+        "id": 364,
+        "title": "A Memorable Fancy",
+        "playedAt": ["Open-World Locations", "Quests"],
+        "type": "Ambient",
+        "region": "Inazuma",
+        "youtubeId": "TPiIv_X1rKA",
+        "spotifyId": "5eZhnmXQ3s6ODaV4nNvz5e",
+        "fandomUrl": "A_Memorable_Fancy"
+      },
+      {
+        "id": 365,
+        "title": "Ruu's Melody",
+        "playedAt": ["Quests", ["World Quests"], "Serenitea Pot"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "UejrqpW7CnM",
+        "spotifyId": "3ln1tgCPCWy1h8xG2r81wM",
+        "fandomUrl": "Ruu%27s_Melody"
+      },
+      {
+        "id": 366,
+        "title": "Pathway to the Hidden Isles",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "0-WuHSQ1X2A",
+        "spotifyId": "3eC6sodvoa2chilA1hcWtb",
+        "fandomUrl": "Pathway_to_the_Hidden_Isles"
+      },
+      {
+        "id": 367,
+        "title": "Sink Into Oblivion",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "VIk4WOKFu0A",
+        "spotifyId": "1dkP6DKmn1cAhveT7kMvXU",
+        "fandomUrl": "Sink_Into_Oblivion"
+      },
+      {
+        "id": 368,
+        "title": "The Abysmal Region",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "-pPCKzy45gs",
+        "spotifyId": "4jJFbX17jkBG9tE7KsyrlW",
+        "fandomUrl": "The_Abysmal_Region"
+      },
+      {
+        "id": 369,
+        "title": "The Glooming Light",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "IMrVTVo9QRc",
+        "spotifyId": "7mSNGT9V9eVRc3DR8rOmyT",
+        "fandomUrl": "The_Glooming_Light"
+      },
+      {
+        "id": 370,
+        "title": "The Shallow Melancholy",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "J1KM0KUvJPs",
+        "spotifyId": "1mL7CJod69nZWZpAy56afc",
+        "fandomUrl": "The_Shallow_Melancholy"
+      },
+      {
+        "id": 371,
+        "title": "Drops of Time",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "bOD8-NxqFJI",
+        "spotifyId": "6jrEYQ4fQ2ceLDI6PkrNHC",
+        "fandomUrl": "Drops_of_Time"
+      },
+      {
+        "id": 372,
+        "title": "Evanescent Moments",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "Gh692_cumJQ",
+        "spotifyId": "0gWiONKGlOkE68OPHCxTU2",
+        "fandomUrl": "Evanescent_Moments"
+      },
+      {
+        "id": 373,
+        "title": "A Glimpse of Old Dreams",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "CIcRHInMzOI",
+        "spotifyId": "5SQ5rz1242dCG1VViVYyga",
+        "fandomUrl": "A_Glimpse_of_Old_Dreams"
+      },
+      {
+        "id": 374,
+        "title": "Like in a Haze",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "FNa-07dQzxs",
+        "spotifyId": "58IiBZnngNNqNC1tEkywL1",
+        "fandomUrl": "Like_in_a_Haze"
+      },
+      {
+        "id": 375,
+        "title": "Chthonian Voices",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "CFpdCRqehdk",
+        "spotifyId": "29HICmBvTEiwsoSmYfE9RW",
+        "fandomUrl": "Chthonian_Voices"
+      },
+      {
+        "id": 376,
+        "title": "The Gaze of the Ancients",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "smJuV1Dt90E",
+        "spotifyId": "4rrc1VOnze9SWMpJHygp64",
+        "fandomUrl": "The_Gaze_of_the_Ancients"
+      },
+      {
+        "id": 377,
+        "title": "Soft Moans of the Remains",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "a5VyYFmnisk",
+        "spotifyId": "1KyEQJZ7WTg6wmbP8fEbYC",
+        "fandomUrl": "Soft_Moans_of_the_Remains"
+      },
+      {
+        "id": 378,
+        "title": "The Long Dark Night",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "zeBv2_MP58E",
+        "spotifyId": "0w0mW2gBsDDcMdfjzAS7d9",
+        "fandomUrl": "The_Long_Dark_Night"
+      },
+      {
+        "id": 379,
+        "title": "A Dim Echo of the Past",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "7Pq6g3nt_Rc",
+        "spotifyId": "4OSTr8GJalhKo2oVu2w1mL",
+        "fandomUrl": "A_Dim_Echo_of_the_Past"
+      },
+      {
+        "id": 380,
+        "title": "In the Brink of Time",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "S_GXpE6ulHY",
+        "spotifyId": "7oPPAMuxI7IZ3cV4gFRTjQ",
+        "fandomUrl": "In_the_Brink_of_Time"
+      },
+      {
+        "id": 381,
+        "title": "Drift Along the Lethe",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "L3MrnOs2gBY",
+        "spotifyId": "27zNvfuNjikHlznc5k4gpu",
+        "fandomUrl": "Drift_Along_the_Lethe"
+      },
+      {
+        "id": 382,
+        "title": "Now and Forevermore",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "EFqU9cnO-zo",
+        "spotifyId": "0KS3BroF76gADGfaCgB6Tf",
+        "fandomUrl": "Now_and_Forevermore"
+      },
+      {
+        "id": 383,
+        "title": "At Dawn and Dusk",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "BDLccgYElWQ",
+        "spotifyId": "0jNzPWMOMxdh4KaTDB8qht",
+        "fandomUrl": "At_Dawn_and_Dusk"
+      },
+      {
+        "id": 384,
+        "title": "Tales of Woe",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "zloQwFcA7Pk",
+        "spotifyId": "6Osabqj5SyejwKciq9AhMq",
+        "fandomUrl": "Tales_of_Woe"
+      },
+      {
+        "id": 385,
+        "title": "Tearless Souls of Byakuya",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "8z88R2ct2rM",
+        "spotifyId": "6UUitFDDZ2QRrdkQ5dSP06",
+        "fandomUrl": "Tearless_Souls_of_Byakuya"
+      },
+      {
+        "id": 386,
+        "title": "The Realm of Tokoyo",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "biPnQ11tHAs",
+        "spotifyId": "2n7ZfRtpLHMLOQP87TC6rs",
+        "fandomUrl": "The_Realm_of_Tokoyo"
+      },
+      {
+        "id": 387,
+        "title": "Hope or Nostalgia",
+        "playedAt": ["Open-World Locations"],
+        "type": "Ambient",
+        "region": "Enkanomiya",
+        "youtubeId": "ydB3GkMzDig",
+        "spotifyId": "5wH1dfNeJcLXF3w92ioxBI",
+        "fandomUrl": "Hope_or_Nostalgia"
+      },
+      {
+        "id": 388,
+        "title": "Chrysalis Suspirii",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Inazuma",
+        "youtubeId": "51vYKjbchtU",
+        "spotifyId": "1ao0jOg9z7LCcQhf5eLfoz",
+        "fandomUrl": "Chrysalis_Suspirii"
+      },
+      {
+        "id": 389,
+        "title": "Saltatio Favillae",
+        "playedAt": ["Domains"],
+        "type": "Boss",
+        "region": "Inazuma",
+        "youtubeId": "9TKbnQb4mOs",
+        "spotifyId": "6lIAhGqwu54gJwRThk3rNi",
+        "fandomUrl": "Saltatio_Favillae"
+      },
+      {
+        "id": 390,
+        "title": "Bane of Ambitions",
+        "playedAt": ["Domains"],
+        "type": "Boss",
+        "region": "Inazuma",
+        "youtubeId": "75PlZCOel48",
+        "spotifyId": "44wjFIywta2JQdOdmMN9wY",
+        "fandomUrl": "Bane_of_Ambitions"
+      },
+      {
+        "id": 391,
+        "title": "Thunderings of the Merciless",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Inazuma",
+        "youtubeId": "eFJ0f8udERg",
+        "spotifyId": "15iJ31zHVczptyZMLwscJB",
+        "fandomUrl": "Thunderings_of_the_Merciless"
+      },
+      {
+        "id": 392,
+        "title": "The Almighty Violet Thunder",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Inazuma",
+        "youtubeId": "GorVRYcOnfU",
+        "spotifyId": "2EwTOKh8yww7HhHDFPhYrs",
+        "fandomUrl": "The_Almighty_Violet_Thunder"
+      },
+      {
+        "id": 393,
+        "title": "Combat Beneath the Waves",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Combat",
+        "region": "Enkanomiya",
+        "youtubeId": "UEVEmUWsfD0",
+        "spotifyId": "78MorS8NRGXYSLbBrIjtY8",
+        "fandomUrl": "Combat_Beneath_the_Waves"
+      },
+      {
+        "id": 394,
+        "title": "Undersea Encounters",
+        "playedAt": ["Open-World Combat"],
+        "type": "Combat",
+        "region": "Enkanomiya",
+        "youtubeId": "AKp49IHQJRA",
+        "spotifyId": "2PQpHqWvv6vMNvsvFleIBX",
+        "fandomUrl": "Undersea_Encounters"
+      },
+      {
+        "id": 395,
+        "title": "No Turning Back",
+        "playedAt": ["Open-World Combat", "Event Gameplay"],
+        "type": "Boss",
+        "region": "Enkanomiya",
+        "youtubeId": "LIOGWrZLqLo",
+        "spotifyId": "3QkVWLYLCh5FSDZEEqnv4t",
+        "fandomUrl": "No_Turning_Back"
+      }
+    ]
   }
 ]

@@ -23,7 +23,7 @@ export default function Navbar() {
     });
   };
 
-  const changelogVersion = 2;
+  const changelogVersion = 3;
   const handleChangelogClose = () => {
     setChangelogOpen(false);
     dispatch({

@@ -3,6 +3,12 @@ import { FaRegCircleXmark } from "react-icons/fa6";
 
 const history = [
   {
+    date: "2024-12-22",
+    changes: [
+      'Added "Islands of the Lost and Forgotten" album (Genshin Impact)',
+    ],
+  },
+  {
     date: "2024-12-10",
     changes: [
       'Added "Fleeting Colors in Flight" album (Genshin Impact)',
