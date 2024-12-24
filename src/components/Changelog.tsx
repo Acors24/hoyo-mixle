@@ -7,7 +7,7 @@ const history = [
     date: "2024-12-24",
     changes: [
       "Improved the appearance of the song list",
-      "Improved changelog logic",
+      "Improved changelog logic and appearance",
     ],
   },
   {
@@ -110,7 +110,7 @@ export default function Changelog() {
       <dialog
         ref={dialogRef}
         onClose={onClose}
-        className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow *:mt-8 first:*:mt-0"
+        className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow"
       >
         <div className="flex justify-between mb-4">
           <h1 className="text-3xl font-bold">Changelog</h1>
@@ -120,7 +120,12 @@ export default function Changelog() {
         </div>
 
         {history.map(({ date, changes }) => (
-          <ChangeGroup key={date} title={date} changes={changes} />
+          <ChangeGroup
+            key={date}
+            title={date}
+            changes={changes}
+            highlight={date > state.config.lastChangelogSeen}
+          />
         ))}
       </dialog>
       <button onClick={() => setOpen(true)} className="relative">
@@ -136,9 +141,19 @@ export default function Changelog() {
   );
 }
 
-function ChangeGroup({ title, changes }: { title: string; changes: string[] }) {
+function ChangeGroup({
+  title,
+  changes,
+  highlight,
+}: {
+  title: string;
+  changes: string[];
+  highlight: boolean;
+}) {
   return (
-    <div>
+    <div
+      className={`p-4 border-l-2 ${highlight ? "border-l-sky-300 bg-gradient-to-r from-[#7dd3fc20] to-transparent" : "border-l-transparent"}`}
+    >
       <h2 className="font-bold text-xl">{title}</h2>
       <ul className="list-disc list-inside">
         {changes.map((change) => (
