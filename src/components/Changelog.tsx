@@ -1,10 +1,14 @@
-import { useEffect, useRef } from "react";
-import { FaRegCircleXmark } from "react-icons/fa6";
+import { useEffect, useRef, useState } from "react";
+import { FaRegCircleXmark, FaRegFileLines } from "react-icons/fa6";
+import { useStorage } from "../StorageContext";
 
 const history = [
   {
     date: "2024-12-24",
-    changes: ["Improved the appearance of the song list"],
+    changes: [
+      "Improved the appearance of the song list",
+      "Improved changelog logic",
+    ],
   },
   {
     date: "2024-12-22",
@@ -49,7 +53,7 @@ const history = [
     changes: ['Added "Interstellar Journey" album (Honkai: Star Rail)'],
   },
   {
-    date: "2024-11-15",
+    date: "2024-11-14",
     changes: ['Added "Svah Sanishyu" album (Honkai: Star Rail)'],
   },
   {
@@ -75,14 +79,15 @@ const history = [
   },
 ];
 
-export default function Changelog({
-  open,
-  onClose,
-}: {
-  open: boolean;
-  onClose: () => void;
-}) {
+function getChangelogVersion() {
+  const latestEntry = history[0];
+  return `${latestEntry.date}+${latestEntry.changes.length}`;
+}
+
+export default function Changelog() {
   const dialogRef = useRef<HTMLDialogElement>(null);
+  const [open, setOpen] = useState(false);
+  const { state, dispatch } = useStorage();
 
   useEffect(() => {
     if (open) {
@@ -92,23 +97,42 @@ export default function Changelog({
     }
   }, [open]);
 
-  return (
-    <dialog
-      ref={dialogRef}
-      onClose={onClose}
-      className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow *:mt-8 first:*:mt-0"
-    >
-      <div className="flex justify-between mb-4">
-        <h1 className="text-3xl font-bold">Changelog</h1>
-        <button autoFocus onClick={onClose}>
-          <FaRegCircleXmark className="text-2xl" />
-        </button>
-      </div>
+  const onClose = () => {
+    setOpen(false);
+    dispatch({
+      type: "SET_LAST_CHANGELOG_SEEN",
+      payload: getChangelogVersion(),
+    });
+  };
 
-      {history.map(({ date, changes }) => (
-        <ChangeGroup key={date} title={date} changes={changes} />
-      ))}
-    </dialog>
+  return (
+    <>
+      <dialog
+        ref={dialogRef}
+        onClose={onClose}
+        className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow *:mt-8 first:*:mt-0"
+      >
+        <div className="flex justify-between mb-4">
+          <h1 className="text-3xl font-bold">Changelog</h1>
+          <button autoFocus onClick={onClose}>
+            <FaRegCircleXmark className="text-2xl" />
+          </button>
+        </div>
+
+        {history.map(({ date, changes }) => (
+          <ChangeGroup key={date} title={date} changes={changes} />
+        ))}
+      </dialog>
+      <button onClick={() => setOpen(true)} className="relative">
+        {getChangelogVersion() !== state.config.lastChangelogSeen && (
+          <>
+            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4"></span>
+            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 animate-ping"></span>
+          </>
+        )}
+        <FaRegFileLines className="text-3xl" />
+      </button>
+    </>
   );
 }
 

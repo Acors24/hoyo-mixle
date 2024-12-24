@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { FaRegCircleQuestion, FaRegFileLines } from "react-icons/fa6";
+import { FaRegCircleQuestion } from "react-icons/fa6";
 import HowToPlay from "./HowToPlay";
 import { useStorage } from "../StorageContext";
 import { Link } from "@tanstack/react-router";
@@ -13,22 +13,11 @@ export default function Navbar() {
     !state.config.howToPlaySeen
   );
 
-  const [changelogOpen, setChangelogOpen] = useState(false);
-
   const handleHowToPlayClose = () => {
     setHowToPlayOpen(false);
     dispatch({
       type: "SET_HOW_TO_PLAY_SEEN",
       payload: true,
-    });
-  };
-
-  const changelogVersion = 4;
-  const handleChangelogClose = () => {
-    setChangelogOpen(false);
-    dispatch({
-      type: "SET_LAST_CHANGELOG_SEEN",
-      payload: changelogVersion,
     });
   };
 
@@ -49,16 +38,7 @@ export default function Navbar() {
         </Link>
       </div>
       <div className="flex flex-col items-center gap-4">
-        <Changelog open={changelogOpen} onClose={handleChangelogClose} />
-        <button onClick={() => setChangelogOpen(true)} className="relative">
-          {changelogVersion !== state.config.lastChangelogSeen && (
-            <>
-              <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4"></span>
-              <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 animate-ping"></span>
-            </>
-          )}
-          <FaRegFileLines className="text-3xl" />
-        </button>
+        <Changelog />
         <HowToPlay open={howToPlayOpen} onClose={handleHowToPlayClose} />
         <button onClick={() => setHowToPlayOpen(true)}>
           <FaRegCircleQuestion className="text-3xl" />
