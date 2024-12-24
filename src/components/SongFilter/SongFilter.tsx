@@ -1,7 +1,10 @@
 import { useState } from "react";
-import { Album, Song } from "../types";
-import { useAlbums } from "../AlbumsContext";
+import { Album, Song } from "../../types";
+import { useAlbums } from "../../AlbumsContext";
 import { Random } from "random";
+import * as Accordion from "@radix-ui/react-accordion";
+import classes from "./style.module.css";
+import { FaChevronDown } from "react-icons/fa6";
 
 export default function SongFilter({
   chosenSong,
@@ -104,11 +107,11 @@ export default function SongFilter({
         value={filterInput}
         onChange={(event) => setFilterInput(event.target.value)}
         placeholder="Filter..."
-        className="px-4 py-2 bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 rounded-xl duration-100"
+        className={classes.FilterInput}
       />
-      <ul className="rounded-xl overflow-auto">
-        {!albumsVisible &&
-          allSongs
+      {!albumsVisible ? (
+        <ul className={classes.AccordionRoot}>
+          {allSongs
             .filter((song) =>
               song.title.toLowerCase().includes(filterInput.toLowerCase())
             )
@@ -123,29 +126,46 @@ export default function SongFilter({
                 />
               </li>
             ))}
-
-        {albumsVisible &&
-          filteredAlbums.map((album) => (
-            <div key={album.title}>
-              <li className="px-4 pt-4 bg-slate-800 bg-opacity-50 text-slate-400 text-sm select-none sticky top-0 backdrop-blur">
-                {album.title}
-              </li>
-
-              {album.songs
-                .sort((a, b) => a.title.localeCompare(b.title))
-                .map((song) => (
-                  <li key={song.id}>
-                    <SongButton
-                      song={song}
-                      onSelect={onSelect}
-                      regionsVisible={regionsVisible}
-                      playedAtVisible={playedAtVisible}
-                    />
-                  </li>
-                ))}
-            </div>
-          ))}
-      </ul>
+        </ul>
+      ) : (
+        <Accordion.Root
+          type="multiple"
+          defaultValue={albums.map((album) => album.title)}
+          className={classes.AccordionRoot}
+        >
+          {albumsVisible &&
+            filteredAlbums.map((album) => (
+              <Accordion.Item
+                key={album.title}
+                value={album.title}
+                className={classes.AccordionItem}
+              >
+                <Accordion.Header asChild>
+                  <Accordion.Trigger className={classes.AccordionTrigger}>
+                    {album.title}
+                    <FaChevronDown className={classes.AccordionTriggerIcon} />
+                  </Accordion.Trigger>
+                </Accordion.Header>
+                <Accordion.Content className={classes.AccordionContent} asChild>
+                  <ul>
+                    {album.songs
+                      .sort((a, b) => a.title.localeCompare(b.title))
+                      .map((song) => (
+                        <li key={song.id}>
+                          <SongButton
+                            song={song}
+                            onSelect={onSelect}
+                            regionsVisible={regionsVisible}
+                            playedAtVisible={playedAtVisible}
+                          />
+                        </li>
+                      ))}
+                  </ul>
+                </Accordion.Content>
+              </Accordion.Item>
+            ))}
+        </Accordion.Root>
+      )}
     </div>
   );
 }
@@ -164,16 +184,10 @@ function SongButton({
   const { id, title, playedAt, region } = song;
 
   return (
-    <button
-      className="px-4 py-2 w-full text-left bg-slate-800 bg-opacity-50 hover:bg-slate-700 hover:bg-opacity-50 active:bg-slate-900 active:bg-opacity-50 duration-100"
-      onClick={() => onSelect(id)}
-    >
-      {title}{" "}
-      {regionsVisible && (
-        <span className="text-slate-400 text-xs"> ({region})</span>
-      )}
+    <button className={classes.SongButton} onClick={() => onSelect(id)}>
+      {title} {regionsVisible && <span>({region})</span>}
       {playedAtVisible && (
-        <ul className="list-disc pl-4 text-slate-300 text-xs sm:text-sm">
+        <ul>
           {playedAt.map((moment, index) => (
             <Moment key={index} moment={moment} />
           ))}
@@ -189,7 +203,7 @@ function Moment({ moment }: { moment: string | string[] }) {
   }
 
   return (
-    <ul className="list-disc pl-4">
+    <ul>
       {moment.map((subMoment, index) => (
         <li key={index}>{subMoment}</li>
       ))}

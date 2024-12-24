@@ -3,7 +3,7 @@ import GuessIndicatorBar from "./GuessIndicatorBar";
 import { Game as hoyoGame, Song } from "../types";
 import GuessTable from "./GuessTable";
 import SamplePlayer from "./SamplePlayer";
-import SongFilter from "./SongFilter";
+import SongFilter from "./SongFilter/SongFilter";
 import random from "random";
 import SongCard from "./SongCard";
 import { getTodaysSong, getYouTubeThumbnail } from "../utils";
