@@ -9,6 +9,7 @@ const history = [
       `Added "Millelith's Watch" album (Genshin Impact)`,
       'Adjusted "Honkai: Star Rail" album data',
       'Added "Astral Theater" album (Honkai: Star Rail)',
+      "Improved changelog logic",
     ],
   },
   {
@@ -127,14 +128,26 @@ export default function Changelog() {
           </button>
         </div>
 
-        {history.map(({ date, changes }) => (
-          <ChangeGroup
-            key={date}
-            title={date}
-            changes={changes}
-            highlight={date > state.config.lastChangelogSeen}
-          />
-        ))}
+        {history.map(({ date, changes }) => {
+          const lastChangelogDateSeen =
+            state.config.lastChangelogSeen.split("+")[0] ?? "";
+          const lastChangelogChangesSeen = parseInt(
+            state.config.lastChangelogSeen.split("+")[1] ?? "0"
+          );
+          const highlight =
+            date > lastChangelogDateSeen ||
+            (date === lastChangelogDateSeen &&
+              changes.length !== lastChangelogChangesSeen);
+
+          return (
+            <ChangeGroup
+              key={date}
+              title={date}
+              changes={changes}
+              highlight={highlight}
+            />
+          );
+        })}
       </dialog>
       <button onClick={() => setOpen(true)} className="relative">
         {getChangelogVersion() !== state.config.lastChangelogSeen && (
