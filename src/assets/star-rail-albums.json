@@ -1282,5 +1282,328 @@
         "fandomUrl": "Expert_Tutorial"
       }
     ]
+  },
+  {
+    "title": "Astral Theater",
+    "songs": [
+      {
+        "id": 119,
+        "title": "Paean of Indulgence",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "-pq6gOQmxRo",
+        "spotifyId": "0gByEPLLBYXQcAH7zSCWGB",
+        "fandomUrl": "Paean_of_Indulgence"
+      },
+      {
+        "id": 120,
+        "title": "Night Bazaar in Full Glow",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "3DP8WbyHjMA",
+        "spotifyId": "7k2h7ZkP79JdFWP89OG108",
+        "fandomUrl": "Night_Bazaar_in_Full_Glow"
+      },
+      {
+        "id": 121,
+        "title": "Whispers of Departure",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "L2oLdCRLI_I",
+        "spotifyId": "1upvPWzPaQmv1hKG6LPOn9",
+        "fandomUrl": "Whispers_of_Departure"
+      },
+      {
+        "id": 122,
+        "title": "Wedding Wine",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "sxxSNIUDgZM",
+        "spotifyId": "7LETVd4rdUWAxNV3lQBo8l",
+        "fandomUrl": "Wedding_Wine"
+      },
+      {
+        "id": 123,
+        "title": "Nesting Avians",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "1GmfuUq20i4",
+        "spotifyId": "5ErG3MoNnkYniyY20E1Czr",
+        "fandomUrl": "Nesting_Avians"
+      },
+      {
+        "id": 124,
+        "title": "Above The Fray",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Fz2e0a5oy68",
+        "spotifyId": "316NG0XMpTaywWVeRT6m5A",
+        "fandomUrl": "Above_The_Fray"
+      },
+      {
+        "id": 125,
+        "title": "Haunting Hoots",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "y4y5YK_QG7Y",
+        "spotifyId": "1hHUKa15IxCRAQnFMvGcRo",
+        "fandomUrl": "Haunting_Hoots"
+      },
+      {
+        "id": 126,
+        "title": "Dancing Fantasms",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Continuances"],
+          "Domains"
+        ],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Gj4ushUbre4",
+        "spotifyId": "3H5Y5jh5Qz1leHy29GN0zE",
+        "fandomUrl": "Dancing_Fantasms"
+      },
+      {
+        "id": 127,
+        "title": "Age of Innocence",
+        "playedAt": ["Missions", ["Companion Missions"]],
+        "type": "Mission",
+        "region": "Astral Express",
+        "youtubeId": "Ti7faI8sOzA",
+        "spotifyId": "0EVVFcxpLcVQKsVWnU9GGc",
+        "fandomUrl": "Age_of_Innocence"
+      },
+      {
+        "id": 128,
+        "title": "Age of Opulence",
+        "playedAt": ["Missions", ["Companion Missions"]],
+        "type": "Mission",
+        "region": "Astral Express",
+        "youtubeId": "CaBGWotk0ZM",
+        "spotifyId": "4RIG3vyz3NUejOMA29Q6xg",
+        "fandomUrl": "Age_of_Opulence"
+      },
+      {
+        "id": 129,
+        "title": "A Gentleman's Fantasy",
+        "playedAt": ["Enemies", "Missions", ["Companion Missions"], "Domains"],
+        "type": "Boss",
+        "region": "Astral Express",
+        "youtubeId": "_TZ6q1plgHA",
+        "spotifyId": "6XxiQg68WTe4yfUM7Wuqo2",
+        "fandomUrl": "A_Gentleman%2527s_Fantasy"
+      },
+      {
+        "id": 130,
+        "title": "In Disbelief",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Herta Space Station",
+        "youtubeId": "lFX3dV-KLII",
+        "spotifyId": "0eNKRgcSqcsmIe66oGBT6O",
+        "fandomUrl": "In_Disbelief"
+      },
+      {
+        "id": 131,
+        "title": "Aberrant Receptacle",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Continuances"],
+          "Domains"
+        ],
+        "type": "Boss",
+        "region": "Herta Space Station",
+        "youtubeId": "xUDNn-0QJ5c",
+        "spotifyId": "3gMinzKYn46D1kbQRNhkb6",
+        "fandomUrl": "Aberrant_Receptacle"
+      },
+      {
+        "id": 132,
+        "title": "Primordial Resplendence",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Herta Space Station",
+        "youtubeId": "e6TyoGqxtTc",
+        "spotifyId": "5JxXQqCIndtqvbpi7NpIdw",
+        "fandomUrl": "Primordial_Resplendence"
+      },
+      {
+        "id": 133,
+        "title": "Subterranean Enigma",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "njpWBACUDIg",
+        "spotifyId": "3S723sLOLlsgY1B7jLHkMt",
+        "fandomUrl": "Subterranean_Enigma"
+      },
+      {
+        "id": 134,
+        "title": "Everwinter's Collection",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "KhzxDxF95nM",
+        "spotifyId": "0Owg2ureYY7jFwHSdmjBkA",
+        "fandomUrl": "Everwinter%2527s_Collection"
+      },
+      {
+        "id": 135,
+        "title": "Sleepwalking",
+        "playedAt": ["Missions", ["Trailblaze Continuances"], "Media"],
+        "type": "Mission",
+        "region": "Herta Space Station",
+        "youtubeId": "Qgh3Kl4tnt0",
+        "spotifyId": "1mo0HcQd2xfLElSVPca6gM",
+        "fandomUrl": "Sleepwalking"
+      },
+      {
+        "id": 136,
+        "title": "Neuropulse",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions", "Trailblaze Continuances"]
+        ],
+        "type": "Mission",
+        "region": "Herta Space Station",
+        "youtubeId": "JUif50aqZT4",
+        "spotifyId": "7hqi5D0yA1R1ioShAuJnpq",
+        "fandomUrl": "Neuropulse"
+      },
+      {
+        "id": 137,
+        "title": "Lurking Dread",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Herta Space Station",
+        "youtubeId": "Ui6eK6vpxjo",
+        "spotifyId": "6BKYRnXjUO6ihmO8RS7pif",
+        "fandomUrl": "Lurking_Dread"
+      },
+      {
+        "id": 138,
+        "title": "Shadows of Enigma",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Herta Space Station",
+        "youtubeId": "F1v1wLGXsgI",
+        "spotifyId": "5rjrnJEeIRH3ZyJfIFICpp",
+        "fandomUrl": "Shadows_of_Enigma"
+      },
+      {
+        "id": 139,
+        "title": "Oneiros of Borehole Planet",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Herta Space Station",
+        "youtubeId": "yQ-rcBeFKVw",
+        "spotifyId": "0PUuFnuEH6njuMd0B0NK6P",
+        "fandomUrl": "Oneiros_of_Borehole_Planet"
+      },
+      {
+        "id": 140,
+        "title": "Cosmic Sacrifice for Love",
+        "playedAt": [
+          "Missions",
+          ["Companion Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Mission",
+        "region": "Herta Space Station",
+        "youtubeId": "-XtY9rSiWxw",
+        "spotifyId": "0JJSsukRCMiH6H5vEEir1s",
+        "fandomUrl": "Cosmic_Sacrifice_for_Love"
+      },
+      {
+        "id": 141,
+        "title": "Cold Iron, Warming Sun",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Jarilo-VI",
+        "youtubeId": "bNS6AOPntO0",
+        "spotifyId": "3Cn9AThn42PUqtqKt2bm9m",
+        "fandomUrl": "Cold_Iron%2C_Warming_Sun"
+      },
+      {
+        "id": 142,
+        "title": "Battle Arena",
+        "playedAt": ["Locations", "Domains"],
+        "type": "Open-World",
+        "region": "Jarilo-VI",
+        "youtubeId": "sEYqNrwbi1w",
+        "spotifyId": "3iy14eFT0KD5gT3IJVfU3f",
+        "fandomUrl": "Battle_Arena"
+      },
+      {
+        "id": 143,
+        "title": "Welcome to Aetherium Wars!",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "l5tGtlttcm4",
+        "spotifyId": "3KzxxN2pIKXocm8MKwtweI",
+        "fandomUrl": "Welcome_to_Aetherium_Wars%21"
+      },
+      {
+        "id": 144,
+        "title": "Battle! Championship Contender",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "hVgd2CIAsGw",
+        "spotifyId": "4oGlVLrBDEuyTBBQLXIi6p",
+        "fandomUrl": "Battle%21_Championship_Contender"
+      },
+      {
+        "id": 145,
+        "title": "Coliseum of Victory",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "6t_b4oaNQFk",
+        "spotifyId": "47wFJWCKnx04tms3niUelj",
+        "fandomUrl": "Coliseum_of_Victory"
+      },
+      {
+        "id": 146,
+        "title": "Battle! Tournament Winner",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "F2B7pSYNYvU",
+        "spotifyId": "5mHCVpiT6Dd8oKeBsnyH6U",
+        "fandomUrl": "Battle%21_Tournament_Winner"
+      },
+      {
+        "id": 147,
+        "title": "Battle! Ultimate Champion",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "NVrMKUuT0To",
+        "spotifyId": "56xYCeS4Nmw5rVWPcBGANL",
+        "fandomUrl": "Battle%21_Ultimate_Champion"
+      },
+      {
+        "id": 148,
+        "title": "Battle! King of the Snowy Hill",
+        "playedAt": ["Missions", ["Events"], "Event Gameplay"],
+        "type": "Event",
+        "region": "Jarilo-VI",
+        "youtubeId": "wrtZDhaRY4E",
+        "spotifyId": "0URUVB4jGf1LogVoIgJEIl",
+        "fandomUrl": "Battle%21_King_of_the_Snowy_Hill"
+      }
+    ]
   }
 ]

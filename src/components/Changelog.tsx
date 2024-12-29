@@ -8,6 +8,7 @@ const history = [
     changes: [
       `Added "Millelith's Watch" album (Genshin Impact)`,
       'Adjusted "Honkai: Star Rail" album data',
+      'Added "Astral Theater" album (Honkai: Star Rail)',
     ],
   },
   {
