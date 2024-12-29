@@ -5,17 +5,17 @@
       {
         "id": 1,
         "title": "Star Rail",
-        "playedAt": ["Login Menu"],
+        "playedAt": ["Special Gameplay"],
         "type": "Special",
         "region": "N/A",
         "youtubeId": "O72z3z8JvRA",
         "spotifyId": "0DUjvyUU6afa9splXojxjz",
-        "fandomUrl": "Star_Rail_(Soundtrack)"
+        "fandomUrl": "Star_Rail_%28Soundtrack%29"
       },
       {
         "id": 2,
         "title": "Space Walk",
-        "playedAt": ["Locations"],
+        "playedAt": ["Locations", "Media"],
         "type": "Open-World",
         "region": "Herta Space Station",
         "youtubeId": "-vU1CLsGdAQ",
@@ -25,9 +25,9 @@
       {
         "id": 3,
         "title": "The Game Is On",
-        "playedAt": [],
+        "playedAt": ["Phonograph Records"],
         "type": "Special",
-        "region": "Herta Space Station",
+        "region": "N/A",
         "youtubeId": "v_xw1AU1eNQ",
         "spotifyId": "5afGJwgafdzAgsUZxEEYlq",
         "fandomUrl": "The_Game_Is_On"
@@ -35,7 +35,7 @@
       {
         "id": 4,
         "title": "fReeStyLE",
-        "playedAt": ["Missions", ["Trailblaze Missions"], "Phonograph Records"],
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
         "region": "Herta Space Station",
         "youtubeId": "qRfFgaY3-IQ",
@@ -65,7 +65,7 @@
       {
         "id": 7,
         "title": "Drift",
-        "playedAt": ["Locations"],
+        "playedAt": ["Locations", "Media"],
         "type": "Open-World",
         "region": "Herta Space Station",
         "youtubeId": "S_E5dl7R6vI",
@@ -161,9 +161,9 @@
       {
         "id": 16,
         "title": "Salty Moon",
-        "playedAt": [],
-        "type": "Open-World",
-        "region": "Herta Space Station",
+        "playedAt": ["Event Gameplay", "Phonograph Records", "Media"],
+        "type": "Special",
+        "region": "N/A",
         "youtubeId": "J-AJsIrtIZw",
         "spotifyId": "2NJFwkg6npWRLrPw0fcQOP",
         "fandomUrl": "Salty_Moon"
@@ -171,18 +171,18 @@
       {
         "id": 17,
         "title": "Timeline",
-        "playedAt": ["Locations"],
+        "playedAt": ["Locations", "Phonograph Records"],
         "type": "Open-World",
-        "region": "Parlor Car",
+        "region": "Astral Express",
         "youtubeId": "tsYiXYMSQmE",
         "spotifyId": "3Rsiv3Runlb6545DmGhJPK",
-        "fandomUrl": "Timeline_(Soundtrack)"
+        "fandomUrl": "Timeline_%28Soundtrack%29"
       },
       {
         "id": 18,
         "title": "Take the Journey",
-        "playedAt": ["Missions", ["Trailblaze Missions"]],
-        "type": "Cutscene",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Phonograph Records"],
+        "type": "Mission",
         "region": "Herta Space Station",
         "youtubeId": "3FEFtFMBREA",
         "spotifyId": "6Um1e5MZ11SzCLiSNM8n3r",
@@ -244,8 +244,9 @@
         "playedAt": [
           "Locations",
           "Missions",
-          ["Trailblaze Continuances"],
-          "Phonograph Records"
+          ["Trailblaze Missions", "Trailblaze Continuances"],
+          "Phonograph Records",
+          "Media"
         ],
         "type": "Mission",
         "region": "Jarilo-VI",
@@ -256,7 +257,7 @@
       {
         "id": 24,
         "title": "Streets Abuzz",
-        "playedAt": ["Locations"],
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
         "type": "Open-World",
         "region": "Jarilo-VI",
         "youtubeId": "pkYrVrnSufA",
@@ -291,7 +292,7 @@
         "region": "Jarilo-VI",
         "youtubeId": "5Uj-hB27gKQ",
         "spotifyId": "7w5DgI0J5fooydsVrDnl6r",
-        "fandomUrl": "Order_(Soundtrack)"
+        "fandomUrl": "Order_%28Soundtrack%29"
       },
       {
         "id": 28,
@@ -306,7 +307,7 @@
       {
         "id": 29,
         "title": "Warm Sun",
-        "playedAt": ["Locations"],
+        "playedAt": ["Locations", "Phonograph Records"],
         "type": "Open-World",
         "region": "Jarilo-VI",
         "youtubeId": "2sBOuQQ4F1c",
@@ -336,7 +337,7 @@
       {
         "id": 32,
         "title": "Cutting Mistral",
-        "playedAt": ["Missions"],
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
         "region": "Jarilo-VI",
         "youtubeId": "M1Sbz-ovrR4",
@@ -346,7 +347,7 @@
       {
         "id": 33,
         "title": "Tempered Cord",
-        "playedAt": ["Locations"],
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
         "region": "Jarilo-VI",
         "youtubeId": "NWuxwub8yeo",
@@ -366,7 +367,7 @@
       {
         "id": 35,
         "title": "Traceless Drift",
-        "playedAt": ["Locations", "Missions"],
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
         "region": "Jarilo-VI",
         "youtubeId": "tt0z3FByroM",
@@ -376,7 +377,7 @@
       {
         "id": 36,
         "title": "Ghost From the Past",
-        "playedAt": ["Locations"],
+        "playedAt": ["Locations", "Missions", ["Trailblaze Missions"]],
         "type": "Open-World",
         "region": "Jarilo-VI",
         "youtubeId": "LGzXGOqhR-A",
@@ -386,7 +387,7 @@
       {
         "id": 37,
         "title": "Sinking Hoarfrost",
-        "playedAt": ["Locations", "Missions"],
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
         "region": "Jarilo-VI",
         "youtubeId": "UnCKDeEVXgk",
@@ -396,7 +397,7 @@
       {
         "id": 38,
         "title": "Kindling",
-        "playedAt": ["Combat"],
+        "playedAt": ["Combat", "Media"],
         "type": "Combat",
         "region": "Jarilo-VI",
         "youtubeId": "B7WQQlPk3B8",
@@ -437,8 +438,8 @@
         "id": 42,
         "title": "Crystal Tears",
         "playedAt": [],
-        "type": "Open-World",
-        "region": "N/A",
+        "type": "Special",
+        "region": "Jarilo-VI",
         "youtubeId": "OgcVpTuGZwg",
         "spotifyId": "72rjlD9MdFPfKAWhaeoXtd",
         "fandomUrl": "Crystal_Tears"
@@ -446,7 +447,7 @@
       {
         "id": 43,
         "title": "Lingering Heat",
-        "playedAt": ["Missions"],
+        "playedAt": ["Missions", ["Trailblaze Missions", "Companion Missions"]],
         "type": "Mission",
         "region": "Jarilo-VI",
         "youtubeId": "JBarBT9rJUo",
@@ -457,9 +458,8 @@
         "id": 44,
         "title": "Thick Haze",
         "playedAt": [
-          "Locations",
           "Missions",
-          ["Trailblaze Missions"],
+          ["Trailblaze Missions", "Trailblaze Continuances"],
           "Domains"
         ],
         "type": "Mission",
@@ -471,7 +471,7 @@
       {
         "id": 45,
         "title": "Godfather",
-        "playedAt": ["Enemies", "Missions"],
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
         "type": "Boss",
         "region": "Jarilo-VI",
         "youtubeId": "qKkMopnjEzQ",
@@ -486,7 +486,7 @@
         "region": "Jarilo-VI",
         "youtubeId": "oAYYNjARN1k",
         "spotifyId": "6pZ2YJkG2qE5gLQqYZ19wF",
-        "fandomUrl": "Eternal_Freeze_(Soundtrack)"
+        "fandomUrl": "Eternal_Freeze_%28Soundtrack%29"
       },
       {
         "id": 47,
@@ -516,7 +516,7 @@
       {
         "id": 49,
         "title": "Fate",
-        "playedAt": ["Missions"],
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
         "region": "Jarilo-VI",
         "youtubeId": "Zac2JJ6gAio",
@@ -526,7 +526,13 @@
       {
         "id": 50,
         "title": "A Trap With No Return",
-        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
         "type": "Boss",
         "region": "Jarilo-VI",
         "youtubeId": "_indkBy4YO8",
@@ -536,22 +542,28 @@
       {
         "id": 51,
         "title": "Wildfire",
-        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
         "type": "Boss",
         "region": "Jarilo-VI",
         "youtubeId": "SxlW79tDhCA",
         "spotifyId": "2CUSdI74D2yqrvEXRQq2Xl",
-        "fandomUrl": "Wildfire_(Soundtrack)"
+        "fandomUrl": "Wildfire_%28Soundtrack%29"
       },
       {
         "id": 52,
         "title": "Wildfire (Instrumental)",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
-        "type": "Cutscene",
+        "type": "Mission",
         "region": "Jarilo-VI",
         "youtubeId": "KshucrF4at8",
         "spotifyId": "19RFFn4GME6V2y45AFqsOK",
-        "fandomUrl": "Wildfire_(Instrumental)"
+        "fandomUrl": "Wildfire_%28Instrumental%29"
       }
     ]
   },
@@ -635,18 +647,19 @@
           "Enemies",
           "Missions",
           ["Trailblaze Missions"],
-          "Phonograph Records"
+          "Phonograph Records",
+          "Media"
         ],
         "type": "Boss",
         "region": "The Xianzhou Luofu",
         "youtubeId": "HdiUMHlGM7I",
         "spotifyId": "1bceG3sYMTgDDcAQYT9WbO",
-        "fandomUrl": "Hunter%27s_Intuition"
+        "fandomUrl": "Hunter%2527s_Intuition"
       },
       {
         "id": 61,
         "title": "Transient Jubilation",
-        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
         "type": "Mission",
         "region": "The Xianzhou Luofu",
         "youtubeId": "8mgfSknKi_E",
@@ -656,7 +669,7 @@
       {
         "id": 62,
         "title": "Upon the Firmament",
-        "playedAt": ["Locations"],
+        "playedAt": ["Locations", "Media"],
         "type": "Open-World",
         "region": "The Xianzhou Luofu",
         "youtubeId": "Vg_asJ_R6y8",
@@ -686,7 +699,7 @@
       {
         "id": 65,
         "title": "Divine Camaraderie",
-        "playedAt": ["Missions"],
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
         "region": "The Xianzhou Luofu",
         "youtubeId": "Wxl_m7JWVxU",
@@ -720,7 +733,8 @@
           "Enemies",
           "Missions",
           ["Trailblaze Missions"],
-          "Phonograph Records"
+          "Phonograph Records",
+          "Media"
         ],
         "type": "Boss",
         "region": "The Xianzhou Luofu",
@@ -732,7 +746,7 @@
         "id": 69,
         "title": "Skyedge Voyage",
         "playedAt": [],
-        "type": "Open-World",
+        "type": "Special",
         "region": "The Xianzhou Luofu",
         "youtubeId": "fVLjx_CcZnw",
         "spotifyId": "72Em8sgdsKUPJVg98QgrwQ",
@@ -751,7 +765,7 @@
       {
         "id": 71,
         "title": "Terrene Deliverance",
-        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
         "type": "Mission",
         "region": "The Xianzhou Luofu",
         "youtubeId": "0gJdcXmbKRM",
@@ -762,7 +776,7 @@
         "id": 72,
         "title": "Serene Stroll",
         "playedAt": ["Missions"],
-        "type": "Cutscene",
+        "type": "Mission",
         "region": "The Xianzhou Luofu",
         "youtubeId": "OEfmcM8JmRk",
         "spotifyId": "3CwRobzh4ZSoUbNSPyzdYm",
@@ -850,7 +864,8 @@
           "Missions",
           ["Trailblaze Missions"],
           "Domains",
-          "Event Gameplay"
+          "Special Gameplay",
+          "Media"
         ],
         "type": "Mission",
         "region": "The Xianzhou Luofu",
@@ -861,37 +876,60 @@
       {
         "id": 81,
         "title": "Pedujara: Ephemeral Cycle",
-        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
         "type": "Boss",
         "region": "The Xianzhou Luofu",
         "youtubeId": "Fd8iNnRrH98",
         "spotifyId": "5SpqwZfggHFR1BamDyCnqq",
-        "fandomUrl": "Pedujara:_Ephemeral_Cycle"
+        "fandomUrl": "Pedujara%3A_Ephemeral_Cycle"
       },
       {
         "id": 82,
         "title": "Pedujara: Even Immortality Ends",
-        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
         "type": "Boss",
         "region": "The Xianzhou Luofu",
         "youtubeId": "prOx-kbSMcw",
         "spotifyId": "6pWkqjvTgSm6y0JkdkvZ0R",
-        "fandomUrl": "Pedujara:_Even_Immortality_Ends"
+        "fandomUrl": "Pedujara%3A_Even_Immortality_Ends"
       },
       {
         "id": 83,
         "title": "Pedujara: Demiseless Existence",
-        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
         "type": "Boss",
         "region": "The Xianzhou Luofu",
         "youtubeId": "Wx7NEqF0fmU",
         "spotifyId": "3AgeAGG0wfNGt6uZTsUnfG",
-        "fandomUrl": "Pedujara:_Demiseless_Existence"
+        "fandomUrl": "Pedujara%3A_Demiseless_Existence"
       },
       {
         "id": 84,
         "title": "Samudrartha",
-        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records",
+          "Media"
+        ],
         "type": "Mission",
         "region": "The Xianzhou Luofu",
         "youtubeId": "n9Ze1o_0VeA",
@@ -906,7 +944,7 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "XirOcWjnU6A",
         "spotifyId": "3QRZfmOSexgSYH935KRhBx",
-        "fandomUrl": "Samudrartha_(Instrumental)"
+        "fandomUrl": "Samudrartha_%28Instrumental%29"
       }
     ]
   },
@@ -916,47 +954,47 @@
       {
         "id": 86,
         "title": "Next Stop, the Stars!",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
         "region": "N/A",
         "youtubeId": "16DVhYUrxi0",
         "spotifyId": "1nFFmkdBZV0Su9oGuPMKLD",
-        "fandomUrl": "Next_Stop,_the_Stars!"
+        "fandomUrl": "Next_Stop%2C_the_Stars%21"
       },
       {
         "id": 87,
         "title": "Let's Take a Photo!",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "Astral Express",
         "youtubeId": "eSGj9Yo_ON4",
         "spotifyId": "2ohKacGuVUaqKWDill1JmF",
-        "fandomUrl": "Let%27s_Take_a_Photo!"
+        "fandomUrl": "Let%2527s_Take_a_Photo%21"
       },
       {
         "id": 88,
         "title": "Your Choice",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
         "region": "N/A",
         "youtubeId": "Ux6P1Fq9VHw",
         "spotifyId": "0Xuf3Zl46QlS9hp9HejBu6",
-        "fandomUrl": "Your_Choice_(Soundtrack)"
+        "fandomUrl": "Your_Choice_%28Soundtrack%29"
       },
       {
         "id": 89,
         "title": "The Cusp of Ignition!",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "Jarilo-VI",
         "youtubeId": "kigIZAPOR9w",
         "spotifyId": "0qfo2NsePaqGRrXXpp2PB2",
-        "fandomUrl": "The_Cusp_of_Ignition!"
+        "fandomUrl": "The_Cusp_of_Ignition%21"
       },
       {
         "id": 90,
         "title": "To You Who Will Soon Depart",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
         "region": "N/A",
         "youtubeId": "CDX-bK48RVI",
@@ -966,7 +1004,7 @@
       {
         "id": 91,
         "title": "Space Comedy",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
         "region": "N/A",
         "youtubeId": "p6q5528Hfb0",
@@ -986,7 +1024,7 @@
       {
         "id": 93,
         "title": "Tempered Chill",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "The Xianzhou Luofu",
         "youtubeId": "224LYTPdJlU",
@@ -996,7 +1034,7 @@
       {
         "id": 94,
         "title": "Star Chaser",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "Astral Express",
         "youtubeId": "AvIoG891jnk",
@@ -1006,17 +1044,17 @@
       {
         "id": 95,
         "title": "In the Name of Landau",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "Jarilo-VI",
         "youtubeId": "nugaSPvYwx0",
         "spotifyId": "2HSlsSz91KXpLcZjwj1dNW",
-        "fandomUrl": "In_the_Name_of_Landau_(Soundtrack)"
+        "fandomUrl": "In_the_Name_of_Landau_%28Soundtrack%29"
       },
       {
         "id": 96,
         "title": "Uneventful Night",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "Jarilo-VI",
         "youtubeId": "zE9jaF790ek",
@@ -1037,7 +1075,7 @@
         "id": 98,
         "title": "A Flash",
         "playedAt": ["Media"],
-        "type": "Special",
+        "type": "Trailer",
         "region": "The Xianzhou Luofu",
         "youtubeId": "-xWm3GRDwNY",
         "spotifyId": "3dn4c44dpruFfdjJCn1o0C",
@@ -1071,12 +1109,12 @@
         "region": "N/A",
         "youtubeId": "4D1O8O8ToOw",
         "spotifyId": "4Pze8L2SEXXzHteWx3gGW7",
-        "fandomUrl": "Got_a_Date%3F"
+        "fandomUrl": "Got_a_Date%253F"
       },
       {
         "id": 102,
         "title": "The Traveler And His Oath",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "The Xianzhou Luofu",
         "youtubeId": "dF8XA6tRffg",
@@ -1088,7 +1126,7 @@
         "title": "Even Immortality Ends",
         "playedAt": ["Media"],
         "type": "Trailer",
-        "region": "The Xianzhou Luofu",
+        "region": "N/A",
         "youtubeId": "0-yDoSbvs_0",
         "spotifyId": "2EKLT6dlwvrFNP9kfa32ac",
         "fandomUrl": "Even_Immortality_Ends"
@@ -1116,7 +1154,7 @@
       {
         "id": 106,
         "title": "The Jepella Rebellion",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
         "region": "N/A",
         "youtubeId": "mcDtpOHzdTI",
@@ -1137,7 +1175,7 @@
         "id": 108,
         "title": "General of All Affairs at the Seat of Divine Foresight",
         "playedAt": ["Media"],
-        "type": "Special",
+        "type": "Trailer",
         "region": "The Xianzhou Luofu",
         "youtubeId": "TlhzSh2_wa4",
         "spotifyId": "1kH9IJ8jCIuYsCo5cXdPmT",
@@ -1146,12 +1184,12 @@
       {
         "id": 109,
         "title": "The Prodigal's Return",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "The Xianzhou Luofu",
         "youtubeId": "b3mB8G7S6ZY",
         "spotifyId": "2UpoMsbJUMDZzqogeJoCU2",
-        "fandomUrl": "The_Prodigal%27s_Return"
+        "fandomUrl": "The_Prodigal%2527s_Return"
       },
       {
         "id": 110,
@@ -1167,7 +1205,7 @@
         "id": 111,
         "title": "Ichor of Two Dragons",
         "playedAt": ["Media"],
-        "type": "Special",
+        "type": "Trailer",
         "region": "The Xianzhou Luofu",
         "youtubeId": "OYpzTCdYmX4",
         "spotifyId": "70EDlXmH4HSBfE7w0sPXcK",
@@ -1176,18 +1214,18 @@
       {
         "id": 112,
         "title": "Omniscia Spares None",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "The Xianzhou Luofu",
         "youtubeId": "ysfA879qdtQ",
         "spotifyId": "6r0FqX4QVNb9WkN1TDzzpl",
-        "fandomUrl": "Omniscia_Spares_None_(Soundtrack)"
+        "fandomUrl": "Omniscia_Spares_None_%28Soundtrack%29"
       },
       {
         "id": 113,
         "title": "Grasp the Stars",
-        "playedAt": [],
-        "type": "Special",
+        "playedAt": ["Media"],
+        "type": "Trailer",
         "region": "N/A",
         "youtubeId": "OkjFnsEkE-A",
         "spotifyId": "4tgNZGp49P482JcrrqcdJp",
@@ -1196,19 +1234,19 @@
       {
         "id": 114,
         "title": "Jolted Awake From a Winter Dream",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
         "region": "N/A",
         "youtubeId": "884HO7V8hjQ",
         "spotifyId": "1W9kJRvMHCrozOxowHZp9K",
-        "fandomUrl": "Jolted_Awake_From_a_Winter_Dream_(Soundtrack)"
+        "fandomUrl": "Jolted_Awake_From_a_Winter_Dream_%28Soundtrack%29"
       },
       {
         "id": 115,
         "title": "On Swords",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
-        "region": "The Xianzhou Luofu",
+        "region": "N/A",
         "youtubeId": "I8kqaOkxl_g",
         "spotifyId": "14IBkofBe1yyASLytZQ4dZ",
         "fandomUrl": "On_Swords"
@@ -1216,7 +1254,7 @@
       {
         "id": 116,
         "title": "Swordward",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Character",
         "region": "The Xianzhou Luofu",
         "youtubeId": "MLB2nEdeYxY",
@@ -1226,12 +1264,12 @@
       {
         "id": 117,
         "title": "Selection, Planning, and Opportunity",
-        "playedAt": [],
+        "playedAt": ["Media"],
         "type": "Trailer",
         "region": "N/A",
         "youtubeId": "r1OPHtTBdfY",
         "spotifyId": "0Oo8bYQcQZRDtCuUUfSJzh",
-        "fandomUrl": "Selection,_Planning,_and_Opportunity"
+        "fandomUrl": "Selection%2C_Planning%2C_and_Opportunity"
       },
       {
         "id": 118,
