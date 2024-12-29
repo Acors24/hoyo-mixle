@@ -4,6 +4,10 @@ import { useStorage } from "../StorageContext";
 
 const history = [
   {
+    date: "2024-12-29",
+    changes: [`Added "Millelith's Watch" album (Genshin Impact)`],
+  },
+  {
     date: "2024-12-24",
     changes: [
       "Improved the appearance of the song list",
