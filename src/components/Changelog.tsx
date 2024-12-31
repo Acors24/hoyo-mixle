@@ -18,6 +18,7 @@ const history = [
       `Added "The Stellar Moments Vol. 4" album (Genshin Impact)`,
       `Added "Pelagic Primaevality" album (Genshin Impact)`,
       `Added "Jadeite Redolence" album (Genshin Impact)`,
+      `Added "Emberfire" album (Genshin Impact)`,
     ],
   },
   {

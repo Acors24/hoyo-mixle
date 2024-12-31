@@ -11672,5 +11672,30 @@
         "fandomUrl": "Mountainborn_Gale"
       }
     ]
+  },
+  {
+    "title": "Emberfire",
+    "songs": [
+      {
+        "id": 1065,
+        "title": "Emberfire",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "eA9PCA9AhSw",
+        "spotifyId": "6goNk1M5gXZgcAPsJ7TsaH",
+        "fandomUrl": "Emberfire"
+      },
+      {
+        "id": 1066,
+        "title": "Emberfire - Instrumental",
+        "playedAt": [],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "pJlaw3mJglU",
+        "spotifyId": "6A5YjAhUx2CBRpICB55ZNl",
+        "fandomUrl": "Emberfire_-_Instrumental"
+      }
+    ]
   }
 ]
