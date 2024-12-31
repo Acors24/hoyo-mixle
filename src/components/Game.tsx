@@ -226,6 +226,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
             chosenSongId={chosenSong.id}
             guesses={guesses}
             rowAmount={maxAttempts}
+            game={currentGame}
             className="mt-2"
           />
         </div>

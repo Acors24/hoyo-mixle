@@ -1,5 +1,6 @@
 import { useAlbums } from "../AlbumsContext";
-import { Song } from "../types";
+import { Game, Song } from "../types";
+import { FandomButton, SpotifyButton, YouTubeButton } from "./SongCard";
 
 type SongWithAlbum = Song & { album: string };
 
@@ -10,11 +11,13 @@ export default function GuessTable({
   chosenSongId,
   guesses,
   rowAmount,
+  game,
   className,
 }: {
   chosenSongId: number;
   guesses: number[];
   rowAmount: number;
+  game: Game;
   className?: string;
 }) {
   const albums = useAlbums();
@@ -50,16 +53,20 @@ export default function GuessTable({
   const Td = ({
     children,
     result,
+    className,
   }: {
     children?: React.ReactNode;
     result?: boolean;
+    className?: string;
   }) => {
-    let className = "";
+    let bgClassName = "";
     if (result !== undefined) {
-      className = result ? "bg-emerald-700" : "bg-rose-700";
+      bgClassName = result ? "bg-emerald-700" : "bg-rose-700";
     }
     return (
-      <td className={`px-4 py-2 bg-opacity-50 w-auto ${className}`}>
+      <td
+        className={`px-4 py-2 bg-opacity-50 w-auto ${bgClassName} ${className}`}
+      >
         {children}
       </td>
     );
@@ -77,6 +84,7 @@ export default function GuessTable({
           <Th>Album</Th>
           <Th>Type</Th>
           <Th>Region</Th>
+          <th className="w-0"></th>
         </tr>
       </thead>
       <tbody>
@@ -86,6 +94,7 @@ export default function GuessTable({
             if (guessedSongId === null) {
               return (
                 <tr key={index} className="odd:bg-black odd:bg-opacity-10">
+                  <Td>&nbsp;</Td>
                   <Td>&nbsp;</Td>
                   <Td>&nbsp;</Td>
                   <Td>&nbsp;</Td>
@@ -117,6 +126,14 @@ export default function GuessTable({
                     </Td>
                   );
                 })}
+                <Td
+                  result={Object.values(results).every((result) => result)}
+                  className="flex gap-2"
+                >
+                  <YouTubeButton youtubeId={guessedSong.youtubeId} />
+                  <SpotifyButton spotifyId={guessedSong.spotifyId} />
+                  <FandomButton fandomId={guessedSong.fandomUrl} game={game} />
+                </Td>
               </tr>
             );
           })}

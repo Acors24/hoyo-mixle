@@ -24,6 +24,7 @@ const history = [
       `Added "The Shimmering Voyage Vol. 4" album (Genshin Impact)`,
       `Added "Footprints of the Traveler Vol. 3" album (Genshin Impact)`,
       `Added "Passing Memories" album (Genshin Impact)`,
+      "Added song info buttons for the guessed songs",
     ],
   },
   {

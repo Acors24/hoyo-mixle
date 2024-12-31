@@ -132,3 +132,5 @@ function FandomButton({ game, fandomId }: { game: Game; fandomId: string }) {
     />
   );
 }
+
+export { YouTubeButton, SpotifyButton, FandomButton };
