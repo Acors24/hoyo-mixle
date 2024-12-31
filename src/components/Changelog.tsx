@@ -10,6 +10,8 @@ const history = [
       `Added "Footprints of the Traveler" album (Genshin Impact)`,
       `Added "Forest of Jnana and Vidya" album (Genshin Impact)`,
       `Added "The Stellar Moments Vol. 3" album (Genshin Impact)`,
+      `Added "The Unfathomable Sand Dunes" album (Genshin Impact)`,
+      `Added "Footprints of the Traveler Vol. 2" album (Genshin Impact)`,
     ],
   },
   {
