@@ -19,6 +19,7 @@ const history = [
       `Added "Pelagic Primaevality" album (Genshin Impact)`,
       `Added "Jadeite Redolence" album (Genshin Impact)`,
       `Added "Emberfire" album (Genshin Impact)`,
+      `Added "Cantus Aeternus" album (Genshin Impact)`,
     ],
   },
   {

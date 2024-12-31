@@ -11697,5 +11697,400 @@
         "fandomUrl": "Emberfire_-_Instrumental"
       }
     ]
+  },
+  {
+    "title": "Cantus Aeternus",
+    "songs": [
+      {
+        "id": 1067,
+        "title": "Regali teneri",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "bSTYWRjrcxo",
+        "spotifyId": "2krPMRjduqKLu0JrJTZo78",
+        "fandomUrl": "Regali_teneri"
+      },
+      {
+        "id": 1068,
+        "title": "Giorno per giorno",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "Kqvldv1tpg4",
+        "spotifyId": "7xrJMZhBt598ELMCGoegiw",
+        "fandomUrl": "Giorno_per_giorno"
+      },
+      {
+        "id": 1069,
+        "title": "Ed e subito sera",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "pIQH8Xxx4aA",
+        "spotifyId": "1ZB7GxpIdLt92Wx5t1nrg2",
+        "fandomUrl": "Ed_e_subito_sera"
+      },
+      {
+        "id": 1070,
+        "title": "La vita e sogno",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "q0Dv5kL5qPw",
+        "spotifyId": "4MlF8k5JYLQhyrgWCHouq1",
+        "fandomUrl": "La_vita_e_sogno"
+      },
+      {
+        "id": 1071,
+        "title": "Once a Land of Amoene",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "yzBcnO6gzB8",
+        "spotifyId": "5JSNGUAWpYbPtqPVxZiu2v",
+        "fandomUrl": "Once_a_Land_of_Amoene"
+      },
+      {
+        "id": 1072,
+        "title": "Storia Humana",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "VGQlT55181w",
+        "spotifyId": "3zeNhIhxl5j6EJZMQjK6L6",
+        "fandomUrl": "Storia_Humana"
+      },
+      {
+        "id": 1073,
+        "title": "Faded Banquet",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "ZzV9DAhN0lA",
+        "spotifyId": "1o4cHWH5THurMN2oY0t0iv",
+        "fandomUrl": "Faded_Banquet"
+      },
+      {
+        "id": 1074,
+        "title": "Here Be Dragons",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "r33CmYx1RaM",
+        "spotifyId": "08YUAVNha8FSmDEewg3a2t",
+        "fandomUrl": "Here_Be_Dragons"
+      },
+      {
+        "id": 1075,
+        "title": "Splendorous Heritage",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "8OPqgTQh_Fo",
+        "spotifyId": "7mf7datKl3OoJx6MqxUjj4",
+        "fandomUrl": "Splendorous_Heritage"
+      },
+      {
+        "id": 1076,
+        "title": "Aqueous Grief",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "VQuuDTl1FPA",
+        "spotifyId": "7CantXqTbRHnSmOarq86I9",
+        "fandomUrl": "Aqueous_Grief"
+      },
+      {
+        "id": 1077,
+        "title": "Dissolved Dawn",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "lM46DkmBpzA",
+        "spotifyId": "0snofQZRA1FtXFSXKIwwGw",
+        "fandomUrl": "Dissolved_Dawn"
+      },
+      {
+        "id": 1078,
+        "title": "Metres of Boethius",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "BHyMZD0jXiI",
+        "spotifyId": "5zu40c2RnQXzNoJ0olmI2f",
+        "fandomUrl": "Metres_of_Boethius"
+      },
+      {
+        "id": 1079,
+        "title": "Fortuna Variabilis",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "lIoqkFNS8Wg",
+        "spotifyId": "0BSK8g0FWwCixf2vQM0Jvh",
+        "fandomUrl": "Fortuna_Variabilis"
+      },
+      {
+        "id": 1080,
+        "title": "Doxology in the Deep",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "Kn2z_rexdPM",
+        "spotifyId": "7nKLtn2V9zczZfY1Qi8knt",
+        "fandomUrl": "Doxology_in_the_Deep"
+      },
+      {
+        "id": 1081,
+        "title": "Unfinished Ideal",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "x5JibJR0nNo",
+        "spotifyId": "66pfCKAbQWA593c5HR9W3t",
+        "fandomUrl": "Unfinished_Ideal"
+      },
+      {
+        "id": 1082,
+        "title": "Consolation of Many Waters",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "qgePZJhuejA",
+        "spotifyId": "2JyVoOFsVsuxK5czUg385K",
+        "fandomUrl": "Consolation_of_Many_Waters"
+      },
+      {
+        "id": 1083,
+        "title": "Submerged Trumpet",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "_0ONKqL_iA0",
+        "spotifyId": "0eLdBAHafmEeXOIOQkbK5L",
+        "fandomUrl": "Submerged_Trumpet"
+      },
+      {
+        "id": 1084,
+        "title": "The Oracle's Finale",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "3lQUjK0qEz4",
+        "spotifyId": "3CtDfqRCuSx1DckQVeT7Jz",
+        "fandomUrl": "The_Oracle%2527s_Finale"
+      },
+      {
+        "id": 1085,
+        "title": "Deplorable Capital",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "EkeC91tQntM",
+        "spotifyId": "1HeadmeqOPJq6ogVycSNjz",
+        "fandomUrl": "Deplorable_Capital"
+      },
+      {
+        "id": 1086,
+        "title": "Pledge of Peace",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "qwj75QX0a6U",
+        "spotifyId": "5bnzQwsAhmLpRzquQ7xaAl",
+        "fandomUrl": "Pledge_of_Peace"
+      },
+      {
+        "id": 1087,
+        "title": "Tranquil Eternity",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "qHbQl7e65YI",
+        "spotifyId": "1ZOjhbK9V1IjSQCmuYWFRC",
+        "fandomUrl": "Tranquil_Eternity"
+      },
+      {
+        "id": 1088,
+        "title": "Harmonious Capitolium",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "H0vuDli2SqI",
+        "spotifyId": "2oplybcEfVygFN3j4cekEe",
+        "fandomUrl": "Harmonious_Capitolium"
+      },
+      {
+        "id": 1089,
+        "title": "Discordia Neglecta",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "KtKVNP13F-A",
+        "spotifyId": "6OcQ5fBC2trzSNr2wBzcx9",
+        "fandomUrl": "Discordia_Neglecta"
+      },
+      {
+        "id": 1090,
+        "title": "Alucinatio Gloriosa",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "vUzGOx_CTIU",
+        "spotifyId": "7KsrtOoruFuLTPS3fl4q83",
+        "fandomUrl": "Alucinatio_Gloriosa"
+      },
+      {
+        "id": 1091,
+        "title": "Year of Tribulation",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "Uru8qbqcMyo",
+        "spotifyId": "6TLxKkmDn2tgBkCYwQ83Ct",
+        "fandomUrl": "Year_of_Tribulation"
+      },
+      {
+        "id": 1092,
+        "title": "Gathering Tempest",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "DHq23oFnJYk",
+        "spotifyId": "14ikG4oTnmBr63W6zdYNPE",
+        "fandomUrl": "Gathering_Tempest"
+      },
+      {
+        "id": 1093,
+        "title": "Glory and Decay",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "Zb9QHJcHW5c",
+        "spotifyId": "7wWUlxMf4czOju6Xlq8blr",
+        "fandomUrl": "Glory_and_Decay"
+      },
+      {
+        "id": 1094,
+        "title": "Whisper of Domus Aurea",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "kSFPu_UJYtk",
+        "spotifyId": "0nJ004h46ilZMEy5jADuGv",
+        "fandomUrl": "Whisper_of_Domus_Aurea"
+      },
+      {
+        "id": 1095,
+        "title": "Tears of Days Past",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "TVmZ718j4qw",
+        "spotifyId": "3XbVRjZqjjozy0B0LGAvr1",
+        "fandomUrl": "Tears_of_Days_Past"
+      },
+      {
+        "id": 1096,
+        "title": "Locus Amoenus",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "fAYBjrFfQnk",
+        "spotifyId": "1NEVLLTzL6zklXp9OkmxEp",
+        "fandomUrl": "Locus_Amoenus"
+      },
+      {
+        "id": 1097,
+        "title": "Tuba Mirum",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "Y2R3YlaINZs",
+        "spotifyId": "1pFS3hKjdOcS61pnAEYM2k",
+        "fandomUrl": "Tuba_Mirum"
+      },
+      {
+        "id": 1098,
+        "title": "Rex Tremendae",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "ytKndmf71Pw",
+        "spotifyId": "7BDndJg53dbCXdIC8RCZ4S",
+        "fandomUrl": "Rex_Tremendae"
+      },
+      {
+        "id": 1099,
+        "title": "Dies Irae",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "o3pBCQODaDU",
+        "spotifyId": "661y7lQDYNDHeRrDSANy91",
+        "fandomUrl": "Dies_Irae"
+      },
+      {
+        "id": 1100,
+        "title": "Confutatis",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "QbNQERZjX3k",
+        "spotifyId": "3p7TAEWi2WoYc4R28HABmc",
+        "fandomUrl": "Confutatis"
+      },
+      {
+        "id": 1101,
+        "title": "Lacrimosa",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Sea of Bygone Eras",
+        "youtubeId": "gf1IxOi2DeY",
+        "spotifyId": "7dR28bLDwwdgGeRs4ldfAA",
+        "fandomUrl": "Lacrimosa"
+      },
+      {
+        "id": 1102,
+        "title": "Requiem Resonantia",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "pv6119nghXw",
+        "spotifyId": "07H3CL56iKoHGFdznDCEw3",
+        "fandomUrl": "Requiem_Resonantia"
+      },
+      {
+        "id": 1103,
+        "title": "Chorus Cinericius",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "i8jZKybQbN8",
+        "spotifyId": "6dRoXPNXdErSGDyU7E0KIU",
+        "fandomUrl": "Chorus_Cinericius"
+      },
+      {
+        "id": 1104,
+        "title": "Sequentia Sequelarum",
+        "playedAt": ["Quests", ["Story Quests"], "Domains", "Media"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "EpkT4Io4xuk",
+        "spotifyId": "2DGRDYnT9SxmrkiOj0oUAA",
+        "fandomUrl": "Sequentia_Sequelarum"
+      },
+      {
+        "id": 1105,
+        "title": "Absolutio Absoluta Absolutissime",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "iflfqLTIWhA",
+        "spotifyId": "3HGEe5Ca3P5EQJ5gWa54on",
+        "fandomUrl": "Absolutio_Absoluta_Absolutissime"
+      }
+    ]
   }
 ]
