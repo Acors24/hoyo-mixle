@@ -11116,5 +11116,561 @@
         "fandomUrl": "Silhouette_of_Catastrophe"
       }
     ]
+  },
+  {
+    "title": "Jadeite Redolence",
+    "songs": [
+      {
+        "id": 1011,
+        "title": "What a Delightful Scenery",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "3b8chTbSmn0",
+        "spotifyId": "73YpPoMXpku9kZOEEhl0bl",
+        "fandomUrl": "What_a_Delightful_Scenery"
+      },
+      {
+        "id": 1012,
+        "title": "Through Clouds and Rivers",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "x4YPIXc9aOY",
+        "spotifyId": "3ZWQjXPCSeYLEAi8g206he",
+        "fandomUrl": "Through_Clouds_and_Rivers"
+      },
+      {
+        "id": 1013,
+        "title": "A Nice Day at the Port",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "XyCNU7UUEZ4",
+        "spotifyId": "4p45csSstuhz4JNIX6qqYL",
+        "fandomUrl": "A_Nice_Day_at_the_Port"
+      },
+      {
+        "id": 1014,
+        "title": "The Jadeite Reflection",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "FlMkibW5Bvw",
+        "spotifyId": "72VTQKU85XtF7N15rMWvbk",
+        "fandomUrl": "The_Jadeite_Reflection"
+      },
+      {
+        "id": 1015,
+        "title": "Springtide of Qiaoying",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "5qw0CgN8K5w",
+        "spotifyId": "0lsa6YyD0NHvJia2IW36Ox",
+        "fandomUrl": "Springtide_of_Qiaoying"
+      },
+      {
+        "id": 1016,
+        "title": "Verdant Longings",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "zGwHVHWVFbo",
+        "spotifyId": "0ANQmiv4FgagYJPvgX88Ql",
+        "fandomUrl": "Verdant_Longings"
+      },
+      {
+        "id": 1017,
+        "title": "Camellia Night",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "CMANra2qsE8",
+        "spotifyId": "6UFKlGaUjYMIiaOZ3p65D3",
+        "fandomUrl": "Camellia_Night"
+      },
+      {
+        "id": 1018,
+        "title": "Brocade Dreams",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "K53LNgU0k4k",
+        "spotifyId": "4jsV7VJmQcPtlM9siZBQkX",
+        "fandomUrl": "Brocade_Dreams"
+      },
+      {
+        "id": 1019,
+        "title": "The Journey of Tea Leaves",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "2jmS67fnG_8",
+        "spotifyId": "5SWZWOLPWnxVMWhR6QWsfb",
+        "fandomUrl": "The_Journey_of_Tea_Leaves"
+      },
+      {
+        "id": 1020,
+        "title": "Creeks of Nostalgia",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "1tyM0e_3NuM",
+        "spotifyId": "6IaFaGXAcNiDwktiY0AAyc",
+        "fandomUrl": "Creeks_of_Nostalgia"
+      },
+      {
+        "id": 1021,
+        "title": "Whispering Mountains",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "yAsXnSfl-JQ",
+        "spotifyId": "7vL3oNtoezrLEmYhFMtYCW",
+        "fandomUrl": "Whispering_Mountains"
+      },
+      {
+        "id": 1022,
+        "title": "Melody of Morning Dew",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "xMoNkNpVREw",
+        "spotifyId": "7FKa89bgcpbboiJCWNQXcL",
+        "fandomUrl": "Melody_of_Morning_Dew"
+      },
+      {
+        "id": 1023,
+        "title": "Teaplucker's Joy",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "m-u64U4nbCM",
+        "spotifyId": "1SXvYWVlRtZnwVH1Moaavp",
+        "fandomUrl": "Teaplucker%2527s_Joy"
+      },
+      {
+        "id": 1024,
+        "title": "The Absent Hermit",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "vmGXwI8mn_A",
+        "spotifyId": "7pRuT1x3oMTbROhuqDy6mQ",
+        "fandomUrl": "The_Absent_Hermit"
+      },
+      {
+        "id": 1025,
+        "title": "On a Remote Trail",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "RMJozYSybJk",
+        "spotifyId": "6FOyB66yiMTqF6SLDMZvjH",
+        "fandomUrl": "On_a_Remote_Trail"
+      },
+      {
+        "id": 1026,
+        "title": "Mountains of Mist",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "frkjAwSIDRk",
+        "spotifyId": "4ti00hygdH8VykOtxXhkpR",
+        "fandomUrl": "Mountains_of_Mist"
+      },
+      {
+        "id": 1027,
+        "title": "A Jade-Like Ode",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "nPJhm5kMVi4",
+        "spotifyId": "2ZM6foBf2KNYtmCNsjmbov",
+        "fandomUrl": "A_Jade-Like_Ode"
+      },
+      {
+        "id": 1028,
+        "title": "Nightcap at Nightfall",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "ziUeNh-0wC0",
+        "spotifyId": "6eIp3J8cyIDscFczCGKEdu",
+        "fandomUrl": "Nightcap_at_Nightfall"
+      },
+      {
+        "id": 1029,
+        "title": "A Mild Tale Untold",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "Wt-ORihG4iw",
+        "spotifyId": "27a7BIHnVmoq5mTV6fTwYu",
+        "fandomUrl": "A_Mild_Tale_Untold"
+      },
+      {
+        "id": 1030,
+        "title": "Dweller of Bamboo Groves",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "FSj41JJigE4",
+        "spotifyId": "5Lwzv2oJRyPdwDPTRdXG8O",
+        "fandomUrl": "Dweller_of_Bamboo_Groves"
+      },
+      {
+        "id": 1031,
+        "title": "Herb Gatherer's Dream",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "iHd9dTGj4CI",
+        "spotifyId": "7GqMoGKoSoX0kvLlAA7aDK",
+        "fandomUrl": "Herb_Gatherer%2527s_Dream"
+      },
+      {
+        "id": 1032,
+        "title": "Her Silhouette",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "0Nha8cJ_U4A",
+        "spotifyId": "5ikmQOULMqltZonkdLl8xm",
+        "fandomUrl": "Her_Silhouette"
+      },
+      {
+        "id": 1033,
+        "title": "A Jolly Trick",
+        "playedAt": ["Quests", ["Events"], "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "P1LLJV0HYFs",
+        "spotifyId": "1YPWnMGYRlMuzEnZFfpXhU",
+        "fandomUrl": "A_Jolly_Trick"
+      },
+      {
+        "id": 1034,
+        "title": "Pleasure of Rural Life",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "3az7JHGCk-c",
+        "spotifyId": "14UJfe4Nt4I0EYyrbNZadz",
+        "fandomUrl": "Pleasure_of_Rural_Life"
+      },
+      {
+        "id": 1035,
+        "title": "The Rime of the Ancient Bargeman",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "lsfHaLZ8ehI",
+        "spotifyId": "7duhr6X5g8m5EEmfa9DIzb",
+        "fandomUrl": "The_Rime_of_the_Ancient_Bargeman"
+      },
+      {
+        "id": 1036,
+        "title": "The Rime of the Ancient Bargeman (II)",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "N-mTwaUTqQQ",
+        "spotifyId": "5zKLqIPQ3LI8w5xFhrk5mo",
+        "fandomUrl": "The_Rime_of_the_Ancient_Bargeman_%28II%29"
+      },
+      {
+        "id": 1037,
+        "title": "Chenyu Fisherman's Song",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "JOuKQQgyICA",
+        "spotifyId": "10o9B1QBVPeuxsmN0wBdms",
+        "fandomUrl": "Chenyu_Fisherman%2527s_Song"
+      },
+      {
+        "id": 1038,
+        "title": "Chenyu Fisherman's Song (II)",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "iSbKRs6Gkhw",
+        "spotifyId": "3CJJowa0S9JyxWGCJPnZZz",
+        "fandomUrl": "Chenyu_Fisherman%2527s_Song_%28II%29"
+      },
+      {
+        "id": 1039,
+        "title": "Guhua's Legacy",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "JasEmFk-oKI",
+        "spotifyId": "5i6YlZ2pgXzR7ndV7woPDa",
+        "fandomUrl": "Guhua%2527s_Legacy"
+      },
+      {
+        "id": 1040,
+        "title": "Xuanlian's Wavering Light",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "WhfE-a8NfU0",
+        "spotifyId": "6fKsbhsV0fr64yQB9NigkQ",
+        "fandomUrl": "Xuanlian%2527s_Wavering_Light"
+      },
+      {
+        "id": 1041,
+        "title": "Night's Whispering Breath",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "BcG4IB3GSrY",
+        "spotifyId": "3Tyqbe17rgzfShr3OqwHv5",
+        "fandomUrl": "Night%2527s_Whispering_Breath"
+      },
+      {
+        "id": 1042,
+        "title": "Into the Yonder and Water",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "ZAh8v5MwTqc",
+        "spotifyId": "1bbOjAPfkVVqcA1kH7uepd",
+        "fandomUrl": "Into_the_Yonder_and_Water"
+      },
+      {
+        "id": 1043,
+        "title": "Ancient Slumber",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "_tijCJhDDHU",
+        "spotifyId": "4EhYrdyTFERcTFTz9QNSod",
+        "fandomUrl": "Ancient_Slumber"
+      },
+      {
+        "id": 1044,
+        "title": "Jade Chimes",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "7L7kpRaOWjk",
+        "spotifyId": "3K9dI1m3qRW3dZJfZwwOYl",
+        "fandomUrl": "Jade_Chimes"
+      },
+      {
+        "id": 1045,
+        "title": "Spring's Tender Sigh",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "BUdUb4c5ltI",
+        "spotifyId": "79N0I1A6A5PEvkbNqF5uMV",
+        "fandomUrl": "Spring%2527s_Tender_Sigh"
+      },
+      {
+        "id": 1046,
+        "title": "Creek's Shade",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "HGIqZeVjknM",
+        "spotifyId": "7m0SngOkg8Ofamsq3nuOFi",
+        "fandomUrl": "Creek%2527s_Shade"
+      },
+      {
+        "id": 1047,
+        "title": "Embracing a Misty Sheen",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "yV1qqru1ciA",
+        "spotifyId": "0bWTWUibW8DAI8DEIu3S5k",
+        "fandomUrl": "Embracing_a_Misty_Sheen"
+      },
+      {
+        "id": 1048,
+        "title": "Through Ancient Veils",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "6BTugS3btBo",
+        "spotifyId": "2uxOOUj2pRep4nlTZR1VZ5",
+        "fandomUrl": "Through_Ancient_Veils"
+      },
+      {
+        "id": 1049,
+        "title": "Amidst Foggy Mountains",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "Drts640jQuA",
+        "spotifyId": "6nZNGiiZQT13UlpAvGmrtn",
+        "fandomUrl": "Amidst_Foggy_Mountains"
+      },
+      {
+        "id": 1050,
+        "title": "Dusk's Descent",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "ELuekgrKnok",
+        "spotifyId": "7ld4DwrM9v8OAJUrenMyKO",
+        "fandomUrl": "Dusk%2527s_Descent"
+      },
+      {
+        "id": 1051,
+        "title": "When the Herb Fades",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "V3AtRznJ8Ag",
+        "spotifyId": "6rulTww1ZnlyjwfrZ6VlBt",
+        "fandomUrl": "When_the_Herb_Fades"
+      },
+      {
+        "id": 1052,
+        "title": "Trace of Grace",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "mPs1iyKlHI0",
+        "spotifyId": "5OgXgPqXMcVS55mdEeT7rb",
+        "fandomUrl": "Trace_of_Grace"
+      },
+      {
+        "id": 1053,
+        "title": "Distant Gleam of Lingshu",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "04zsGiFRiVo",
+        "spotifyId": "5tkisk8DzynnPrdwLFLVcd",
+        "fandomUrl": "Distant_Gleam_of_Lingshu"
+      },
+      {
+        "id": 1054,
+        "title": "Garden of Jade",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "03QWIe0D-ac",
+        "spotifyId": "1AUplGEDUWAb3hdojyWhhU",
+        "fandomUrl": "Garden_of_Jade"
+      },
+      {
+        "id": 1055,
+        "title": "Shaded Valley's Repose",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "L53jnNTI9No",
+        "spotifyId": "6UkETQ3KCmNZ7Qyo9WzGSY",
+        "fandomUrl": "Shaded_Valley%2527s_Repose"
+      },
+      {
+        "id": 1056,
+        "title": "Isolated Pine",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "tGDSWfBnhdQ",
+        "spotifyId": "205ncWofBtEyAbIXme3SbJ",
+        "fandomUrl": "Isolated_Pine"
+      },
+      {
+        "id": 1057,
+        "title": "Fujin's Chant",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "DkO-1ThAkNk",
+        "spotifyId": "4BnsCgd2n6K6p16ZLTNCMO",
+        "fandomUrl": "Fujin%2527s_Chant"
+      },
+      {
+        "id": 1058,
+        "title": "Retaining Clouds",
+        "playedAt": ["Domains", "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "G2sdzDyekjQ",
+        "spotifyId": "0rC3BiW7WO3HoiV9ILQWA2",
+        "fandomUrl": "Retaining_Clouds"
+      },
+      {
+        "id": 1059,
+        "title": "Past Yearning",
+        "playedAt": [
+          "Quests",
+          ["Story Quests"],
+          "Special Gameplay",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "nUE01WZbof0",
+        "spotifyId": "0HkORYlp0x12vdDiSGktJp",
+        "fandomUrl": "Past_Yearning"
+      },
+      {
+        "id": 1060,
+        "title": "With the Wind, Flowing Epoch",
+        "playedAt": ["Domains", "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "z8ssAswJrbw",
+        "spotifyId": "4T4IstrdJSMM5Y36n9e893",
+        "fandomUrl": "With_the_Wind%2C_Flowing_Epoch"
+      },
+      {
+        "id": 1061,
+        "title": "Thoughts Straying as Clouds",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "0KRCQpYKTVc",
+        "spotifyId": "0AlYodtN9O0ltNM6BZGoT4",
+        "fandomUrl": "Thoughts_Straying_as_Clouds"
+      },
+      {
+        "id": 1062,
+        "title": "Moonlit Lanterns",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "ZmVySYpJLdc",
+        "spotifyId": "1lBJXJdH1Z8UJBNs8i1Psv",
+        "fandomUrl": "Moonlit_Lanterns"
+      },
+      {
+        "id": 1063,
+        "title": "Breaking the Miasma",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Combat",
+        "region": "Liyue",
+        "youtubeId": "vHybSX8vtBs",
+        "spotifyId": "4vszDCLOaVkZjot2VHOIbS",
+        "fandomUrl": "Breaking_the_Miasma"
+      },
+      {
+        "id": 1064,
+        "title": "Mountainborn Gale",
+        "playedAt": ["Open-World Combat", "Domains", "Media"],
+        "type": "Boss",
+        "region": "Liyue",
+        "youtubeId": "zcj3Nl5oQ-g",
+        "spotifyId": "2jZzyFnqqFypHAjHJF3tNO",
+        "fandomUrl": "Mountainborn_Gale"
+      }
+    ]
   }
 ]
