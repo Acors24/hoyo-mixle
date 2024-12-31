@@ -10118,5 +10118,30 @@
         "fandomUrl": "Envoi_of_Coppelius"
       }
     ]
+  },
+  {
+    "title": "La vaguelette",
+    "songs": [
+      {
+        "id": 915,
+        "title": "La vaguelette",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "lm3t3myPspk",
+        "spotifyId": "2BaGvcAlSSQE8zNLXM4VGv",
+        "fandomUrl": "La_vaguelette"
+      },
+      {
+        "id": 916,
+        "title": "La vaguelette - Instrumental",
+        "playedAt": [],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "PUA589qIAtM",
+        "spotifyId": "2XugnQK4nS83R33reYijs9",
+        "fandomUrl": "La_vaguelette_-_Instrumental"
+      }
+    ]
   }
 ]
