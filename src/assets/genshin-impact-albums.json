@@ -12892,5 +12892,80 @@
         "fandomUrl": "Summertide_Scales_and_Tales_%28Soundtrack%29"
       }
     ]
+  },
+  {
+    "title": "Passing Memories",
+    "songs": [
+      {
+        "id": 1184,
+        "title": "经过 - Genshin Impact's 4Th Anniversary Chinese Theme Song",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "eUl1eXWmd3A",
+        "spotifyId": "7KGynHoL522rxNTRfv7HCR",
+        "fandomUrl": "%25E7%25BB%258F%25E8%25BF%2587_-_Genshin_Impact%2527s_4Th_Anniversary_Chinese_Theme_Song"
+      },
+      {
+        "id": 1185,
+        "title": "記憶の旅 - Genshin Impact's 4Th Anniversary Japanese Theme Song",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "Z9i2B7uvF80",
+        "spotifyId": "1ui61jEBAUwP8eBN24rtuy",
+        "fandomUrl": "%25E8%25A8%2598%25E6%2586%25B6%25E3%2581%25AE%25E6%2597%2585_-_Genshin_Impact%2527s_4Th_Anniversary_Japanese_Theme_Song"
+      },
+      {
+        "id": 1186,
+        "title": "Passing Memories - Genshin Impact's 4Th Anniversary English Theme Song",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "pILHHyvVQ9U",
+        "spotifyId": "0Ny1hQdPAyNH57J6qbr9aq",
+        "fandomUrl": "Passing_Memories_-_Genshin_Impact%2527s_4Th_Anniversary_English_Theme_Song"
+      },
+      {
+        "id": 1187,
+        "title": "Passing Memories - Instrumental: Male Key",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "uscJLkCk3W8",
+        "spotifyId": "660wW9g3yd7f3TvFbb0h4T",
+        "fandomUrl": "Passing_Memories_-_Instrumental%3A_Male_Key"
+      },
+      {
+        "id": 1188,
+        "title": "Passing Memories - Instrumental: Male Key Chinese Backing Vocals",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "qOHbUH1HntI",
+        "spotifyId": "7atawrS5QGQudt40a09HbB",
+        "fandomUrl": "Passing_Memories_-_Instrumental%3A_Male_Key_Chinese_Backing_Vocals"
+      },
+      {
+        "id": 1189,
+        "title": "Passing Memories - Instrumental: Female Key Japanese Backing Vocals",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "pjQypIkGv1s",
+        "spotifyId": "6ks6rwrAxngLMvS9dowCT4",
+        "fandomUrl": "Passing_Memories_-_Instrumental%3A_Female_Key_Japanese_Backing_Vocals"
+      },
+      {
+        "id": 1190,
+        "title": "Passing Memories - Instrumental: Female Key English Backing Vocals",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "fqwAhTcyvMY",
+        "spotifyId": "6nAu9Omq2c70v5nuPTwh6i",
+        "fandomUrl": "Passing_Memories_-_Instrumental%3A_Female_Key_English_Backing_Vocals"
+      }
+    ]
   }
 ]
