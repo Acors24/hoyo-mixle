@@ -25,6 +25,7 @@ const history = [
       `Added "Footprints of the Traveler Vol. 3" album (Genshin Impact)`,
       `Added "Passing Memories" album (Genshin Impact)`,
       "Added song info buttons for the guessed songs",
+      "Added experimental song filtering without knowing all attributes",
     ],
   },
   {

@@ -57,9 +57,9 @@ export default function SongFilter({
 
   const filteredAlbums = albums
     .filter(({ title }) => {
-      if (!albumsVisible) {
-        return true;
-      }
+      // if (!albumsVisible) {
+      //   return true;
+      // }
 
       if (whitelistedAlbum) {
         return title === whitelistedAlbum;
@@ -71,21 +71,21 @@ export default function SongFilter({
       return {
         title,
         songs: songs.filter((song) => {
-          if (playedAtVisible) {
-            if (whitelistedType && song.type !== whitelistedType) {
-              return false;
-            } else if (blacklistedTypes.has(song.type)) {
-              return false;
-            }
+          // if (playedAtVisible) {
+          if (whitelistedType && song.type !== whitelistedType) {
+            return false;
+          } else if (blacklistedTypes.has(song.type)) {
+            return false;
           }
+          // }
 
-          if (regionsVisible) {
-            if (whitelistedRegion && song.region !== whitelistedRegion) {
-              return false;
-            } else if (blacklistedRegions.has(song.region)) {
-              return false;
-            }
+          // if (regionsVisible) {
+          if (whitelistedRegion && song.region !== whitelistedRegion) {
+            return false;
+          } else if (blacklistedRegions.has(song.region)) {
+            return false;
           }
+          // }
 
           if (guesses.includes(song.id)) {
             return false;
