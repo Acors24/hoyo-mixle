@@ -22,6 +22,7 @@ const history = [
       `Added "Cantus Aeternus" album (Genshin Impact)`,
       `Added "The Road Not Taken" album (Genshin Impact)`,
       `Added "The Shimmering Voyage Vol. 4" album (Genshin Impact)`,
+      `Added "Footprints of the Traveler Vol. 3" album (Genshin Impact)`,
     ],
   },
   {

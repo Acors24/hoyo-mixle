@@ -12797,5 +12797,100 @@
         "fandomUrl": "Night_of_the_Sacred_Flame"
       }
     ]
+  },
+  {
+    "title": "Footprints of the Traveler Vol. 3",
+    "songs": [
+      {
+        "id": 1175,
+        "title": "As Light Rain Falls Without Reason",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "GwKNvkWqk5M",
+        "spotifyId": "4JW40myrSI0VQ7eTmA5g58",
+        "fandomUrl": "As_Light_Rain_Falls_Without_Reason_%28Soundtrack%29"
+      },
+      {
+        "id": 1176,
+        "title": "To the Stars Shining in the Depths",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "kgpqMfTZDTw",
+        "spotifyId": "2wcQ84dQtVaPFBUkfZOW7i",
+        "fandomUrl": "To_the_Stars_Shining_in_the_Depths_%28Soundtrack%29"
+      },
+      {
+        "id": 1177,
+        "title": "Masquerade of the Guilty",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "axRebByN3QU",
+        "spotifyId": "1aih0ZGQKbJKYQaPy4sUJn",
+        "fandomUrl": "Masquerade_of_the_Guilty_%28Soundtrack%29"
+      },
+      {
+        "id": 1178,
+        "title": "Roses and Muskets",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "vcbIqwUs3BI",
+        "spotifyId": "6r8exHWdBDu9vz6O53aCQW",
+        "fandomUrl": "Roses_and_Muskets_%28Soundtrack%29"
+      },
+      {
+        "id": 1179,
+        "title": "Vibrant Harriers Aloft in Spring Breeze",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "grOgtE-D9nE",
+        "spotifyId": "3dgUtahfT5cU5y6R49GtNg",
+        "fandomUrl": "Vibrant_Harriers_Aloft_in_Spring_Breeze_%28Soundtrack%29"
+      },
+      {
+        "id": 1180,
+        "title": "Blades Weaving Betwixt Brocade",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "rFYEkbFpr80",
+        "spotifyId": "5sGbdINFVmPLkW4VRGLrVA",
+        "fandomUrl": "Blades_Weaving_Betwixt_Brocade_%28Soundtrack%29"
+      },
+      {
+        "id": 1181,
+        "title": "Two Worlds Aflame, the Crimson Night Fades",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "h8NO2qu4Ayk",
+        "spotifyId": "3eb532np91HuIQ2D9x76N0",
+        "fandomUrl": "Two_Worlds_Aflame%2C_the_Crimson_Night_Fades_%28Soundtrack%29"
+      },
+      {
+        "id": 1182,
+        "title": "An Everlasting Dream Intertwined",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Sumeru",
+        "youtubeId": "rl1CFTJeeQQ",
+        "spotifyId": "0iXqPSIufUmh6XFJJoIZt3",
+        "fandomUrl": "An_Everlasting_Dream_Intertwined_%28Soundtrack%29"
+      },
+      {
+        "id": 1183,
+        "title": "Summertide Scales and Tales",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Simulanka",
+        "youtubeId": "eR0_mk5SWuI",
+        "spotifyId": "1hFXMd9dUfWxpNH75YGL8L",
+        "fandomUrl": "Summertide_Scales_and_Tales_%28Soundtrack%29"
+      }
+    ]
   }
 ]
