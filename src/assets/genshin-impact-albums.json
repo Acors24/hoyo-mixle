@@ -4772,5 +4772,585 @@
         "fandomUrl": "Inevitable_Conflict"
       }
     ]
+  },
+  {
+    "title": "The Shimmering Voyage Vol. 2",
+    "songs": [
+      {
+        "id": 436,
+        "title": "Pathos of Shirasagi",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "lbzNoKClsfY",
+        "spotifyId": "3IC7sEwSn8aCMFE9mjy4pG",
+        "fandomUrl": "Pathos_of_Shirasagi"
+      },
+      {
+        "id": 437,
+        "title": "The Comrades' Ambush",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "7-979G1FG_Q",
+        "spotifyId": "2LX8lCmXhgBTEyLXMqWiil",
+        "fandomUrl": "The_Comrades%2527_Ambush"
+      },
+      {
+        "id": 438,
+        "title": "Trial of Thunder",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "YR_Err2b8MM",
+        "spotifyId": "4lccbMd8zvJgoz3mtuwTSM",
+        "fandomUrl": "Trial_of_Thunder"
+      },
+      {
+        "id": 439,
+        "title": "Shogun's Abdication",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "XnpmyWsLJtY",
+        "spotifyId": "3kXQKsmipQfC6aRcNypD2D",
+        "fandomUrl": "Shogun%2527s_Abdication"
+      },
+      {
+        "id": 440,
+        "title": "Unpredicted Conspiracy",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "GxmcckAa-WM",
+        "spotifyId": "2dta3Di8hzwcdHM05I4g7V",
+        "fandomUrl": "Unpredicted_Conspiracy"
+      },
+      {
+        "id": 441,
+        "title": "A Sense of Foreboding",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "type": "Boss",
+        "region": "Inazuma",
+        "youtubeId": "YJhDyU2kjmw",
+        "spotifyId": "2VgSxYpBAr8yS6pWJDkZSH",
+        "fandomUrl": "A_Sense_of_Foreboding"
+      },
+      {
+        "id": 442,
+        "title": "Wreck of Eternal Bane",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "Dr7I4fzzh3M",
+        "spotifyId": "6y05niisQlt5hjnBl1G1ZZ",
+        "fandomUrl": "Wreck_of_Eternal_Bane"
+      },
+      {
+        "id": 443,
+        "title": "Marching to Victory",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "DMJ2JuHc0hY",
+        "spotifyId": "1rFlv7tAHCxaKglvQwvyGS",
+        "fandomUrl": "Marching_to_Victory"
+      },
+      {
+        "id": 444,
+        "title": "Approaching Thunder",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "yPePa7ZcrmA",
+        "spotifyId": "140VuqU1GqH5LvXRpcqOzo",
+        "fandomUrl": "Approaching_Thunder"
+      },
+      {
+        "id": 445,
+        "title": "Bitter Triumph",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "vzgBRqhnlvs",
+        "spotifyId": "2IkehqQyu8rp1U3gNSEtm1",
+        "fandomUrl": "Bitter_Triumph"
+      },
+      {
+        "id": 446,
+        "title": "Her Imperial Majesty",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "AAuJklQV2lM",
+        "spotifyId": "4PVrTMT5axS5zlcjf6kQym",
+        "fandomUrl": "Her_Imperial_Majesty"
+      },
+      {
+        "id": 447,
+        "title": "Eureka Moment",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "dFRlSruqE08",
+        "spotifyId": "6ejLGWHhe4thy71El1P4b7",
+        "fandomUrl": "Eureka_Moment"
+      },
+      {
+        "id": 448,
+        "title": "Odyssey to the Uncharted",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Inazuma",
+        "youtubeId": "AKeDwwghtWc",
+        "spotifyId": "3BRS6SpIWwrCK4tpjLVv5w",
+        "fandomUrl": "Odyssey_to_the_Uncharted"
+      },
+      {
+        "id": 449,
+        "title": "Unforeseen Disaster",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Dragonspine",
+        "youtubeId": "lH4sJbG8nuo",
+        "spotifyId": "4szlr2aKqlLjvqQK7yoFMA",
+        "fandomUrl": "Unforeseen_Disaster"
+      },
+      {
+        "id": 450,
+        "title": "Fury Unleashed",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Dragonspine",
+        "youtubeId": "ysMamJrNQwY",
+        "spotifyId": "7vjXOmYg7qfLmD82GnK7xg",
+        "fandomUrl": "Fury_Unleashed"
+      },
+      {
+        "id": 451,
+        "title": "Separate Ways",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Dragonspine",
+        "youtubeId": "7P-eD7YyRVg",
+        "spotifyId": "1QUhsgWw9hK0dvCg2Hcg90",
+        "fandomUrl": "Separate_Ways"
+      },
+      {
+        "id": 452,
+        "title": "Take This!",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "oBy3wHghRUk",
+        "spotifyId": "5XRFYdaADOlVWVHeGsZ5FA",
+        "fandomUrl": "Take_This%21"
+      },
+      {
+        "id": 453,
+        "title": "Suffering of Parting",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "G_WDaTdIFPo",
+        "spotifyId": "30hBeqhV22W5L45uecsc0r",
+        "fandomUrl": "Suffering_of_Parting"
+      },
+      {
+        "id": 454,
+        "title": "Under the Sun",
+        "playedAt": ["Quests", ["Story Quests"], "Event Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "p2zqpETQ_8A",
+        "spotifyId": "2tweM1pMN6S1l77JVvdE5I",
+        "fandomUrl": "Under_the_Sun"
+      },
+      {
+        "id": 455,
+        "title": "Vanished Beyond Recall",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Enkanomiya",
+        "youtubeId": "2gFDQ2VcdUc",
+        "spotifyId": "2KiKCxUgXo6B4mJhbLrkAL",
+        "fandomUrl": "Vanished_Beyond_Recall"
+      },
+      {
+        "id": 456,
+        "title": "Nothing but a Dream",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Enkanomiya",
+        "youtubeId": "boTxRNaeEFE",
+        "spotifyId": "3vSb9Mbaio5oPykEomuFEy",
+        "fandomUrl": "Nothing_but_a_Dream"
+      },
+      {
+        "id": 457,
+        "title": "Illusory Apparitions",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Enkanomiya",
+        "youtubeId": "INqWuzaefwQ",
+        "spotifyId": "28nXYOoI3xSlmdXjl2soIg",
+        "fandomUrl": "Illusory_Apparitions"
+      },
+      {
+        "id": 458,
+        "title": "Midnight in Mondstadt",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "nHPK2gZQwM8",
+        "spotifyId": "4CqmVfLGD0BgbmbsrBdu4u",
+        "fandomUrl": "Midnight_in_Mondstadt"
+      },
+      {
+        "id": 459,
+        "title": "Tagelied nächtlicher Gedanken",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "LgccaKyOjoQ",
+        "spotifyId": "3Oaqg87fKemjp6T4RQoOCt",
+        "fandomUrl": "Tagelied_n%25C3%25A4chtlicher_Gedanken"
+      },
+      {
+        "id": 460,
+        "title": "Traum durch die Dämmerung, erster Satz",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "gTdUGiAH7Vs",
+        "spotifyId": "7pTJS416z2Kiw3eoQWoepF",
+        "fandomUrl": "Traum_durch_die_D%25C3%25A4mmerung%2C_erster_Satz"
+      },
+      {
+        "id": 461,
+        "title": "Traum durch die Dämmerung, zweiter Satz",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "PbGw0CDCKFo",
+        "spotifyId": "7zXMvj7aqWMQWclTWs6TAJ",
+        "fandomUrl": "Traum_durch_die_D%25C3%25A4mmerung%2C_zweiter_Satz"
+      },
+      {
+        "id": 462,
+        "title": "Das Folkwanglied",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "JhWq-uePEzU",
+        "spotifyId": "5zyx1cqqxuHXagiXGXAZOv",
+        "fandomUrl": "Das_Folkwanglied"
+      },
+      {
+        "id": 463,
+        "title": "Ein vogellin, so wol getan",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "6xp_r-8JJmE",
+        "spotifyId": "7xol0Fl5AsWTdbjbDg9VFu",
+        "fandomUrl": "Ein_vogellin%2C_so_wol_getan"
+      },
+      {
+        "id": 464,
+        "title": "Soliloquy of the Star",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "FoPi2AdvvD4",
+        "spotifyId": "2GdwxUMnRljyHF44rLCdnG",
+        "fandomUrl": "Soliloquy_of_the_Star"
+      },
+      {
+        "id": 465,
+        "title": "Flickering Brightness",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "nIvVen1FtYs",
+        "spotifyId": "1xDlSq1vbhHNg6UCGqX32z",
+        "fandomUrl": "Flickering_Brightness"
+      },
+      {
+        "id": 466,
+        "title": "Burst Into Flames",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Combat",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "vxPCwi0O1uw",
+        "spotifyId": "0VHN6hM6M4V8rQfgWEaYPj",
+        "fandomUrl": "Burst_Into_Flames"
+      },
+      {
+        "id": 467,
+        "title": "Die Mittsommernacht-Fantasie",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Combat",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "Cclxu9T0tcQ",
+        "spotifyId": "4ssqxmfZkAiF0wU7iWOl3l",
+        "fandomUrl": "Die_Mittsommernacht-Fantasie"
+      },
+      {
+        "id": 468,
+        "title": "The Liyue Romans-Fleuves",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "aGLVRuTHTqM",
+        "spotifyId": "2toE6MvJX0QOvy7vg8h5Rh",
+        "fandomUrl": "The_Liyue_Romans-Fleuves"
+      },
+      {
+        "id": 469,
+        "title": "Bravery and Tenderness",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "VyHfsdapJtc",
+        "spotifyId": "3qQA6ldKjzzKXpNT0U3pE3",
+        "fandomUrl": "Bravery_and_Tenderness"
+      },
+      {
+        "id": 470,
+        "title": "Rumble of Thunder",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "rnw5FbwVn_A",
+        "spotifyId": "3HHy1kkb4FBxWw9ypIuRJs",
+        "fandomUrl": "Rumble_of_Thunder"
+      },
+      {
+        "id": 471,
+        "title": "Roots of Tranquil Eternity",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "D1GgNZKpfUc",
+        "spotifyId": "206E2u7tmAKtIOJHqB1cCG",
+        "fandomUrl": "Roots_of_Tranquil_Eternity"
+      },
+      {
+        "id": 472,
+        "title": "Miko's Ingenuity",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "58684zSOC_E",
+        "spotifyId": "6n36lqoZ37FrjfeKGl8MOA",
+        "fandomUrl": "Miko%2527s_Ingenuity"
+      },
+      {
+        "id": 473,
+        "title": "A Region Rediscovered",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Enkanomiya",
+        "youtubeId": "HNxqEa80JcU",
+        "spotifyId": "4Xun1m7m3dTWzq4TF5VBD4",
+        "fandomUrl": "A_Region_Rediscovered"
+      },
+      {
+        "id": 474,
+        "title": "Cold Light",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Enkanomiya",
+        "youtubeId": "wh_GmTMag1s",
+        "spotifyId": "75TtM7Iy78mduUyx4BzcgX",
+        "fandomUrl": "Cold_Light"
+      },
+      {
+        "id": 475,
+        "title": "Broken Blade",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "The Chasm",
+        "youtubeId": "fqUbUI8C1a0",
+        "spotifyId": "4sIH1e4DHp0Hz3dmBXudS3",
+        "fandomUrl": "Broken_Blade"
+      },
+      {
+        "id": 476,
+        "title": "Unfulfilled Aspirations",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "The Chasm",
+        "youtubeId": "NSudArWpqXA",
+        "spotifyId": "27QLSpKSHaoTJftwYtN4UY",
+        "fandomUrl": "Unfulfilled_Aspirations"
+      },
+      {
+        "id": 477,
+        "title": "Evergreen Cypress",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "8Yj6TC0Q5fg",
+        "spotifyId": "2L2QQV4eeqfhpwS6OwMIJn",
+        "fandomUrl": "Evergreen_Cypress"
+      },
+      {
+        "id": 478,
+        "title": "Magnificent Irodori",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Inazuma",
+        "youtubeId": "Ltsfmj2m_QM",
+        "spotifyId": "3PKQtVx7mH8M6fLEzlH25o",
+        "fandomUrl": "Magnificent_Irodori"
+      },
+      {
+        "id": 479,
+        "title": "Breaking Point",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "The Chasm",
+        "youtubeId": "H9yaEpt55lw",
+        "spotifyId": "7mxHBjNsPYQLXImywtmOhX",
+        "fandomUrl": "Breaking_Point"
+      },
+      {
+        "id": 480,
+        "title": "A Clueless Case",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "The Chasm",
+        "youtubeId": "pSXoWLt2tUI",
+        "spotifyId": "1yOe5P6RttBFzwyA1ghBGr",
+        "fandomUrl": "A_Clueless_Case"
+      },
+      {
+        "id": 481,
+        "title": "Hang by a Thread",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "The Chasm",
+        "youtubeId": "mLDH4rI6XW4",
+        "spotifyId": "3ilG6aAOE7pAH6sPudU7R2",
+        "fandomUrl": "Hang_by_a_Thread"
+      },
+      {
+        "id": 482,
+        "title": "Yaksha's Reminiscence",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "The Chasm",
+        "youtubeId": "_f0bkA0cpAk",
+        "spotifyId": "3HLNOLW5S4dovOuNyPrpBX",
+        "fandomUrl": "Yaksha%2527s_Reminiscence"
+      },
+      {
+        "id": 483,
+        "title": "Easier Said Than Done",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "Mx7YAI7MGUw",
+        "spotifyId": "1pdpCd7feFHb3ItLH7bMOa",
+        "fandomUrl": "Easier_Said_Than_Done"
+      },
+      {
+        "id": 484,
+        "title": "A Single Thought",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "us6pLkpYeK4",
+        "spotifyId": "2Tm7x9RNXTtxWhzCCA5XrR",
+        "fandomUrl": "A_Single_Thought"
+      },
+      {
+        "id": 485,
+        "title": "Prelude of Change",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "MDtq8NkCQL4",
+        "spotifyId": "1u44ucu38QJ7LyCsZ6u4Yc",
+        "fandomUrl": "Prelude_of_Change"
+      },
+      {
+        "id": 486,
+        "title": "Phantasm Suite",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "m2OSkUFPK1g",
+        "spotifyId": "4ogDx8gtyIazTWj00XTkxM",
+        "fandomUrl": "Phantasm_Suite"
+      },
+      {
+        "id": 487,
+        "title": "The Everlasting Trail",
+        "playedAt": ["Domains", "Event Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "STXMizHAh6k",
+        "spotifyId": "5f4O9lng0VBe6R9eVghdJI",
+        "fandomUrl": "The_Everlasting_Trail"
+      },
+      {
+        "id": 488,
+        "title": "Dazzling Stars",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "ABzvpRRMe24",
+        "spotifyId": "6du2artkPHF6ValxlwQ5Ie",
+        "fandomUrl": "Dazzling_Stars"
+      },
+      {
+        "id": 489,
+        "title": "The Floating World",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "6z8zrg9g_ko",
+        "spotifyId": "3ckbwpkda1t22s381AJgzu",
+        "fandomUrl": "The_Floating_World"
+      },
+      {
+        "id": 490,
+        "title": "Soar in the Wind",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "refVQVtk0rc",
+        "spotifyId": "4NLrzWNGCCj98vnGSGw0Qd",
+        "fandomUrl": "Soar_in_the_Wind"
+      },
+      {
+        "id": 491,
+        "title": "Elogia Cinerosa",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Snezhnaya",
+        "youtubeId": "yFrH9y_cpLg",
+        "spotifyId": "20nGaeXt8tv7iAQvLVa7gJ",
+        "fandomUrl": "Elogia_Cinerosa"
+      },
+      {
+        "id": 492,
+        "title": "Song of Innocence",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "QDeLhpzqkhs",
+        "spotifyId": "2GBqlO8R963we7tyfC37yR",
+        "fandomUrl": "Song_of_Innocence"
+      }
+    ]
   }
 ]
