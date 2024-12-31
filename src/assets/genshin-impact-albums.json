@@ -12117,5 +12117,685 @@
         "fandomUrl": "The_Road_Not_Taken_-_Instrumental"
       }
     ]
+  },
+  {
+    "title": "The Shimmering Voyage Vol. 4",
+    "songs": [
+      {
+        "id": 1108,
+        "title": "Snuggy Breeze",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "M0GOF_RPIaU",
+        "spotifyId": "5yvGw11embqYu1iJVvoqX6",
+        "fandomUrl": "Snuggy_Breeze"
+      },
+      {
+        "id": 1109,
+        "title": "Romantic Encounter",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "074wzh4Tgcs",
+        "spotifyId": "5fDeiLhym2A3YqXQ6fHLNY",
+        "fandomUrl": "Romantic_Encounter"
+      },
+      {
+        "id": 1110,
+        "title": "Tender Is the Night",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "IoRTMGn-_C4",
+        "spotifyId": "5LXOySjNQXKo14InZr1tKK",
+        "fandomUrl": "Tender_Is_the_Night"
+      },
+      {
+        "id": 1111,
+        "title": "Tipsy Sips",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "0c2Cu5_9gn8",
+        "spotifyId": "3R09ZvxjcNelwjVIdyrK5j",
+        "fandomUrl": "Tipsy_Sips"
+      },
+      {
+        "id": 1112,
+        "title": "Glorious Metropole",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "-m2VDb7aQ7Q",
+        "spotifyId": "32U3D8Az01S23lQwWC01Yh",
+        "fandomUrl": "Glorious_Metropole"
+      },
+      {
+        "id": 1113,
+        "title": "Honorable Landscape",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "7qfFf7ERBQM",
+        "spotifyId": "0d4iwmvkAH82srWSji6NCN",
+        "fandomUrl": "Honorable_Landscape"
+      },
+      {
+        "id": 1114,
+        "title": "The Land of Heart's Desire",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "Tec2p9kbGRM",
+        "spotifyId": "2Wu4PeUgidgHRUtxg3Yrto",
+        "fandomUrl": "The_Land_of_Heart%2527s_Desire"
+      },
+      {
+        "id": 1115,
+        "title": "Down by the Forgotten Gardens",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "hF9qlHBIdms",
+        "spotifyId": "0xwixGeKJDkplj9YOOJ73W",
+        "fandomUrl": "Down_by_the_Forgotten_Gardens"
+      },
+      {
+        "id": 1116,
+        "title": "Twilight Wanderings",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "FCRnOTyXMFI",
+        "spotifyId": "3yWB2MDx7au6EevNrDz0nl",
+        "fandomUrl": "Twilight_Wanderings"
+      },
+      {
+        "id": 1117,
+        "title": "Leisure in Painting",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "yZHiq-rFU20",
+        "spotifyId": "2ZVdkfIKrIchGU871C7b0R",
+        "fandomUrl": "Leisure_in_Painting"
+      },
+      {
+        "id": 1118,
+        "title": "Morning Song in the Forest",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "4lIZO2A74II",
+        "spotifyId": "22MefUXrQ0ccOAjZ9n77fR",
+        "fandomUrl": "Morning_Song_in_the_Forest"
+      },
+      {
+        "id": 1119,
+        "title": "The Parade of Flying Squirrels",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "u9eqY_5gX28",
+        "spotifyId": "5JOQHMV1I2vg2rpABcnJjb",
+        "fandomUrl": "The_Parade_of_Flying_Squirrels"
+      },
+      {
+        "id": 1120,
+        "title": "The Songs of the Wrens",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "Jtgg2mKYWhk",
+        "spotifyId": "7L42FGBTm2pjk8sc3XRNRt",
+        "fandomUrl": "The_Songs_of_the_Wrens"
+      },
+      {
+        "id": 1121,
+        "title": "Gentle Breeze Through the Pines",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "VaWhQ1RyivM",
+        "spotifyId": "5sCJY5kjEgDYncpRevw3M1",
+        "fandomUrl": "Gentle_Breeze_Through_the_Pines"
+      },
+      {
+        "id": 1122,
+        "title": "Tales From the Hills",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "hMRsUQeEpZQ",
+        "spotifyId": "2y5vdTnfexDaNYTaRfuqGK",
+        "fandomUrl": "Tales_From_the_Hills"
+      },
+      {
+        "id": 1123,
+        "title": "Patches of Sunlight",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "cRa8DarUu-o",
+        "spotifyId": "3nGSgQgob4EO7xDIu9AZRK",
+        "fandomUrl": "Patches_of_Sunlight"
+      },
+      {
+        "id": 1124,
+        "title": "The Hour Before the Dawn",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "wIn7SToAmoA",
+        "spotifyId": "30EeYDJn7RPE507ft0e4rI",
+        "fandomUrl": "The_Hour_Before_the_Dawn"
+      },
+      {
+        "id": 1125,
+        "title": "Per Amica Silentia Lunae",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "HyeB9Gs2Fxs",
+        "spotifyId": "2VdtgccgORPqHN5FNdD7TW",
+        "fandomUrl": "Per_Amica_Silentia_Lunae"
+      },
+      {
+        "id": 1126,
+        "title": "Pathfinder of Darkness",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "ai4mTComdHE",
+        "spotifyId": "7beQbzMCphbe9B05GuNC4c",
+        "fandomUrl": "Pathfinder_of_Darkness"
+      },
+      {
+        "id": 1127,
+        "title": "Benediction of Dreams",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "qWqhyBs8l1Y",
+        "spotifyId": "5LBEdOD491iJhnfiXJfpm1",
+        "fandomUrl": "Benediction_of_Dreams"
+      },
+      {
+        "id": 1128,
+        "title": "Benedictio Somnii",
+        "playedAt": ["Domains", "Media"],
+        "type": "Domain",
+        "region": "Simulanka",
+        "youtubeId": "7EUrWoNsZVE",
+        "spotifyId": "2dyBeZMoQDCEUbGEEDzgnn",
+        "fandomUrl": "Benedictio_Somnii"
+      },
+      {
+        "id": 1129,
+        "title": "Tread the Tide",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Simulanka",
+        "youtubeId": "iCf-fXTfsg8",
+        "spotifyId": "4Vt4hGTiqCnXkP6lUwNmsU",
+        "fandomUrl": "Tread_the_Tide"
+      },
+      {
+        "id": 1130,
+        "title": "Summer Souvenir",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Simulanka",
+        "youtubeId": "ySJF87UI3M4",
+        "spotifyId": "2AUwDDIxVJE4VJUiY7W6MH",
+        "fandomUrl": "Summer_Souvenir"
+      },
+      {
+        "id": 1131,
+        "title": "Teegesellschaft of the Hexenzirkel",
+        "playedAt": ["Domains", "Media"],
+        "type": "Domain",
+        "region": "Mondstadt",
+        "youtubeId": "2-rZrlslsLo",
+        "spotifyId": "7yiQwf7qoxt7OxQUyzK1oC",
+        "fandomUrl": "Teegesellschaft_of_the_Hexenzirkel"
+      },
+      {
+        "id": 1132,
+        "title": "Everlasting Promise",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "e0MNWJhWgOI",
+        "spotifyId": "09f5vi5fflc0L0kxWPUJRx",
+        "fandomUrl": "Everlasting_Promise"
+      },
+      {
+        "id": 1133,
+        "title": "Meeting and Passing",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "ACgShfNe7mg",
+        "spotifyId": "1I6yJHDlv72qo8c8vaOAt9",
+        "fandomUrl": "Meeting_and_Passing"
+      },
+      {
+        "id": 1134,
+        "title": "La nuit fantastique",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "ROrv0agTHJY",
+        "spotifyId": "4BzJSWVacGzWOuZADXJjZy",
+        "fandomUrl": "La_nuit_fantastique"
+      },
+      {
+        "id": 1135,
+        "title": "Unforeseen Peril",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "6dQo-UwJJo4",
+        "spotifyId": "7s0pGwOgC8CNOcm90BNb6M",
+        "fandomUrl": "Unforeseen_Peril"
+      },
+      {
+        "id": 1136,
+        "title": "Pas de deux di Rosula e Candela",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "LNAfTABoIrU",
+        "spotifyId": "5OpbxOle1u6JQGMxiPxVra",
+        "fandomUrl": "Pas_de_deux_di_Rosula_e_Candela"
+      },
+      {
+        "id": 1137,
+        "title": "Pendente Lite",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "ercMKsvmvQM",
+        "spotifyId": "5ywZV5kSDzAohtX7zno5Vr",
+        "fandomUrl": "Pendente_Lite"
+      },
+      {
+        "id": 1138,
+        "title": "Whale Dream",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "KYzp1szjZW4",
+        "spotifyId": "7g2BYFnHucnGCFfhS1EyEl",
+        "fandomUrl": "Whale_Dream"
+      },
+      {
+        "id": 1139,
+        "title": "Surging Calamity",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "F2OrcBy03Io",
+        "spotifyId": "3KoxPXIc7QENwzWcx7sSu7",
+        "fandomUrl": "Surging_Calamity"
+      },
+      {
+        "id": 1140,
+        "title": "Oracle of Deep Waters",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "qasBDYf4HYM",
+        "spotifyId": "7C4eHrEyhd3h0zzgDU3rxL",
+        "fandomUrl": "Oracle_of_Deep_Waters"
+      },
+      {
+        "id": 1141,
+        "title": "La tristezza della Rosula",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "ks-BRybtfIY",
+        "spotifyId": "3jaoOgXPVxJIpBcMOeno6T",
+        "fandomUrl": "La_tristezza_della_Rosula"
+      },
+      {
+        "id": 1142,
+        "title": "La confession interrompue",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "S2B7m_rhQ0c",
+        "spotifyId": "6BYYAyKQzDiC0wJr1d6ruI",
+        "fandomUrl": "La_confession_interrompue"
+      },
+      {
+        "id": 1143,
+        "title": "Lightless Dissonance",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "rfAozglcQvI",
+        "spotifyId": "0IB8o0vVDvhTaeAXWQiltw",
+        "fandomUrl": "Lightless_Dissonance"
+      },
+      {
+        "id": 1144,
+        "title": "La comedie ni humaine ni divine",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "Yql9NDlJvp0",
+        "spotifyId": "07K7Tt65gr1izU0fRFS6B6",
+        "fandomUrl": "La_comedie_ni_humaine_ni_divine"
+      },
+      {
+        "id": 1145,
+        "title": "Tout est bien qui finit bien",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "my-z6URjvy4",
+        "spotifyId": "1WJi1zMIs5kdocHvNeAc0L",
+        "fandomUrl": "Tout_est_bien_qui_finit_bien"
+      },
+      {
+        "id": 1146,
+        "title": "Sheaths of Void",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "4Esq55V9Vc4",
+        "spotifyId": "273322Htb1Zunzz37hcZmV",
+        "fandomUrl": "Sheaths_of_Void"
+      },
+      {
+        "id": 1147,
+        "title": "Le ciel clair qu'elle avait songe",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "BkeKSCs21UA",
+        "spotifyId": "6lHZnF15sLWtL8R0RmcGy2",
+        "fandomUrl": "Le_ciel_clair_qu%2527elle_avait_songe"
+      },
+      {
+        "id": 1148,
+        "title": "Callirhoe's Prayer",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Mondstadt",
+        "youtubeId": "MdILsgtkDgI",
+        "spotifyId": "5YpwB4fbBIAw8TcibvJg0M",
+        "fandomUrl": "Callirhoe%2527s_Prayer"
+      },
+      {
+        "id": 1149,
+        "title": "Revealed Retribution",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "LvHpEbuhzzQ",
+        "spotifyId": "5t05htbpBpcb29ANxlF3PG",
+        "fandomUrl": "Revealed_Retribution"
+      },
+      {
+        "id": 1150,
+        "title": "I Got Reincarnated as an Onikabuto... And Flipped the World Upside Down - Instrumental",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Inazuma",
+        "youtubeId": "RiaOZjFHvWI",
+        "spotifyId": "6ym0Gbv2l5K8sf30r7tzMX",
+        "fandomUrl": "I_Got_Reincarnated_as_an_Onikabuto..._And_Flipped_the_World_Upside_Down_-_Instrumental"
+      },
+      {
+        "id": 1151,
+        "title": "Twice-Told Tales",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Simulanka",
+        "youtubeId": "zCrDj5YYQuc",
+        "spotifyId": "19JtgUFz2ILssFF7uRiVtv",
+        "fandomUrl": "Twice-Told_Tales"
+      },
+      {
+        "id": 1152,
+        "title": "Constant Trajectory",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Simulanka",
+        "youtubeId": "975EgukrCgc",
+        "spotifyId": "3Pv7CIbyNxHADJjbrq6ui2",
+        "fandomUrl": "Constant_Trajectory"
+      },
+      {
+        "id": 1153,
+        "title": "When the Axles Break",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Simulanka",
+        "youtubeId": "ODmEhTx9m7w",
+        "spotifyId": "1SDnkwjyGQd0CI8rTbnoQi",
+        "fandomUrl": "When_the_Axles_Break"
+      },
+      {
+        "id": 1154,
+        "title": "Makurakotoba of Dew",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Simulanka",
+        "youtubeId": "tp8oG3GbV3k",
+        "spotifyId": "4rR576Z0nkJhUmTqMX7UzT",
+        "fandomUrl": "Makurakotoba_of_Dew"
+      },
+      {
+        "id": 1155,
+        "title": "Shrouded Honor",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "StS86CygPqw",
+        "spotifyId": "0TNTusi7U8vMGO5Knzg5MH",
+        "fandomUrl": "Shrouded_Honor"
+      },
+      {
+        "id": 1156,
+        "title": "Glacial Castigation",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "1sd4CGYU3DQ",
+        "spotifyId": "0eIe1sOwkdQMsU1XU8lP7c",
+        "fandomUrl": "Glacial_Castigation"
+      },
+      {
+        "id": 1157,
+        "title": "All Passed With the Rain",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "ER1zw3yQ88Y",
+        "spotifyId": "5gru7HtXQO6UJlGiPdwLvd",
+        "fandomUrl": "All_Passed_With_the_Rain"
+      },
+      {
+        "id": 1158,
+        "title": "La condotta della Rosula",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "jAg5p8DY0cs",
+        "spotifyId": "6bBfOVYhB7MdG8Bke5ymYV",
+        "fandomUrl": "La_condotta_della_Rosula"
+      },
+      {
+        "id": 1159,
+        "title": "Weaving Nishiki",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "w37VTqDnR7I",
+        "spotifyId": "0w9qoEYxlGMxxwIvCNIU0x",
+        "fandomUrl": "Weaving_Nishiki"
+      },
+      {
+        "id": 1160,
+        "title": "Balemoon's Chastisement",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "6puSzozJ7ZY",
+        "spotifyId": "2DRtYlUbw4rMpWgSfGQFvG",
+        "fandomUrl": "Balemoon%2527s_Chastisement"
+      },
+      {
+        "id": 1161,
+        "title": "The Last Promise",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "Ngos-W3fr-4",
+        "spotifyId": "1eXDEN1sACBjQOTEomRam5",
+        "fandomUrl": "The_Last_Promise"
+      },
+      {
+        "id": 1162,
+        "title": "Secret Orders of the Sands",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "pSdBZp3KmxA",
+        "spotifyId": "1NhKZCa5HPOKzthVUPpcli",
+        "fandomUrl": "Secret_Orders_of_the_Sands"
+      },
+      {
+        "id": 1163,
+        "title": "Madrigale della Candela",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "Q6tmisbuww8",
+        "spotifyId": "6PmGHGL6rlTafsEkqYV6cp",
+        "fandomUrl": "Madrigale_della_Candela"
+      },
+      {
+        "id": 1164,
+        "title": "Beautiful, Delightful Vision",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "Nf5n4ifilhI",
+        "spotifyId": "3YXs2ovu1GmUhdXMvNbCRu",
+        "fandomUrl": "Beautiful%2C_Delightful_Vision"
+      },
+      {
+        "id": 1165,
+        "title": "Timeless Warmth",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "Q8FYR4QclWw",
+        "spotifyId": "4lb1NVnBxBSUxhhSZmj1uJ",
+        "fandomUrl": "Timeless_Warmth"
+      },
+      {
+        "id": 1166,
+        "title": "Hidden Sillage",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "jA0_cuQKFTI",
+        "spotifyId": "4OTlQnCrynDSTP0jcj3ZPu",
+        "fandomUrl": "Hidden_Sillage"
+      },
+      {
+        "id": 1167,
+        "title": "A la recherche des grandes eaux",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "9fxShYcUzLI",
+        "spotifyId": "1xNzQod6qr7CLyJS5gaGxf",
+        "fandomUrl": "A_la_recherche_des_grandes_eaux"
+      },
+      {
+        "id": 1168,
+        "title": "The Song Burning in the Embers",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "dyHPLQ2NWs0",
+        "spotifyId": "7sAX6R7bdFdobP5QXZCgRX",
+        "fandomUrl": "The_Song_Burning_in_the_Embers_%28Soundtrack%29"
+      },
+      {
+        "id": 1169,
+        "title": "Starlight Voyage",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "oUEDlXoDAnY",
+        "spotifyId": "3YUsKSU5xELc8l7Hs5r0sA",
+        "fandomUrl": "Starlight_Voyage"
+      },
+      {
+        "id": 1170,
+        "title": "Dreams of the Ancient Realm",
+        "playedAt": ["Domains", "Media"],
+        "type": "Domain",
+        "region": "Mondstadt",
+        "youtubeId": "0qUFmf_YL_s",
+        "spotifyId": "49ZKcRYZDVjILDhFVAqM2j",
+        "fandomUrl": "Dreams_of_the_Ancient_Realm"
+      },
+      {
+        "id": 1171,
+        "title": "Memories of a Lost Castle",
+        "playedAt": ["Domains", "Media"],
+        "type": "Domain",
+        "region": "Mondstadt",
+        "youtubeId": "Zh_e4HGvBkk",
+        "spotifyId": "0HbutZmCPi0Qzkzp1kfEPp",
+        "fandomUrl": "Memories_of_a_Lost_Castle"
+      },
+      {
+        "id": 1172,
+        "title": "Astral Yearning",
+        "playedAt": ["Domains", "Media"],
+        "type": "Domain",
+        "region": "Mondstadt",
+        "youtubeId": "2EjktyYWjxA",
+        "spotifyId": "2W8h3dr7t2EgIjg8Z01lzv",
+        "fandomUrl": "Astral_Yearning"
+      },
+      {
+        "id": 1173,
+        "title": "Dragon and Determination",
+        "playedAt": ["Domains", "Media"],
+        "type": "Event",
+        "region": "Simulanka",
+        "youtubeId": "RUGxkmfBnNo",
+        "spotifyId": "49vbJqkghyuAY7jhfCBQo4",
+        "fandomUrl": "Dragon_and_Determination"
+      },
+      {
+        "id": 1174,
+        "title": "Night of the Sacred Flame",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "a8BYerZzSJQ",
+        "spotifyId": "1mNKa6dSDggTAFL9FeYESc",
+        "fandomUrl": "Night_of_the_Sacred_Flame"
+      }
+    ]
   }
 ]

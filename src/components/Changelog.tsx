@@ -21,6 +21,7 @@ const history = [
       `Added "Emberfire" album (Genshin Impact)`,
       `Added "Cantus Aeternus" album (Genshin Impact)`,
       `Added "The Road Not Taken" album (Genshin Impact)`,
+      `Added "The Shimmering Voyage Vol. 4" album (Genshin Impact)`,
     ],
   },
   {
