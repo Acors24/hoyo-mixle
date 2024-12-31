@@ -8,6 +8,7 @@ const history = [
     changes: [
       `Added "The Shimmering Voyage Vol. 2" album (Genshin Impact)`,
       `Added "Footprints of the Traveler" album (Genshin Impact)`,
+      `Added "Forest of Jnana and Vidya" album (Genshin Impact)`,
     ],
   },
   {

@@ -5507,5 +5507,1229 @@
         "fandomUrl": "Summer_Fantasia_%28Soundtrack%29"
       }
     ]
+  },
+  {
+    "title": "Forest of Jnana and Vidya",
+    "songs": [
+      {
+        "id": 508,
+        "title": "Sumeru",
+        "playedAt": ["Quests", ["Archon Quests"], "Event Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "p_HmwQRfxQU",
+        "spotifyId": "1F00hgp905cG0jtO3B84ua",
+        "fandomUrl": "Sumeru_%28Soundtrack%29"
+      },
+      {
+        "id": 509,
+        "title": "Whirling of Leaves and Petals",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "if2wekRykF0",
+        "spotifyId": "0miJVuI8pfzFtkj37IZYUO",
+        "fandomUrl": "Whirling_of_Leaves_and_Petals"
+      },
+      {
+        "id": 510,
+        "title": "Flickering Shadows of Trees",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests", "Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "1CH_akV9WFs",
+        "spotifyId": "5buKZ6bEgWF5kA8Vmqp4JH",
+        "fandomUrl": "Flickering_Shadows_of_Trees"
+      },
+      {
+        "id": 511,
+        "title": "For Riddles, for Wonders",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "p2QSNcAJLTI",
+        "spotifyId": "5IPpsjsivn5HPrMnX2CE0M",
+        "fandomUrl": "For_Riddles%2C_for_Wonders"
+      },
+      {
+        "id": 512,
+        "title": "Evergreen Wish",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "Ywl4nhaAYUI",
+        "spotifyId": "2zY9QUxcYVeFysG9mjS4WT",
+        "fandomUrl": "Evergreen_Wish"
+      },
+      {
+        "id": 513,
+        "title": "Many-Colored Smiles and Tears",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "2s6SJyPjAI4",
+        "spotifyId": "1Lar9WxehJTuw2r5L2U2tB",
+        "fandomUrl": "Many-Colored_Smiles_and_Tears"
+      },
+      {
+        "id": 514,
+        "title": "Overnight Dew in the Woods",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "f0ELe-1HtWM",
+        "spotifyId": "0DPedrjZdMWNlkml11HRbf",
+        "fandomUrl": "Overnight_Dew_in_the_Woods"
+      },
+      {
+        "id": 515,
+        "title": "Thoughts and Prayers",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "Vfx7tz3IIpI",
+        "spotifyId": "6umjBYkrLUAbBMaVmpq8PI",
+        "fandomUrl": "Thoughts_and_Prayers"
+      },
+      {
+        "id": 516,
+        "title": "Those Lucid Dreams",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "N5pd-8T4UPw",
+        "spotifyId": "3U2azofTVrb1bdl21FZ0Jg",
+        "fandomUrl": "Those_Lucid_Dreams"
+      },
+      {
+        "id": 517,
+        "title": "Silent Starry Night",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "MZSIszUES-Q",
+        "spotifyId": "7H7ln1aJtKVOLoi5NnmvDj",
+        "fandomUrl": "Silent_Starry_Night"
+      },
+      {
+        "id": 518,
+        "title": "Fresh Breezes of Dawn",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "LJ1y9wO5Rt0",
+        "spotifyId": "6ZNr7eAdsUnC0qQyc2tpy8",
+        "fandomUrl": "Fresh_Breezes_of_Dawn"
+      },
+      {
+        "id": 519,
+        "title": "Halcyon Times",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "9xuKIdRAm5I",
+        "spotifyId": "5RQqUynsXrkoxFmqMMQFnA",
+        "fandomUrl": "Halcyon_Times"
+      },
+      {
+        "id": 520,
+        "title": "Return to Trueness",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "wAARCl77v94",
+        "spotifyId": "2AbvRK0EWhb9yYc2rdNimX",
+        "fandomUrl": "Return_to_Trueness"
+      },
+      {
+        "id": 521,
+        "title": "Hustle and Bustle of Ormos",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "G4UabWhrlx4",
+        "spotifyId": "5Jz9y9DNWFKEKlR1edaDfq",
+        "fandomUrl": "Hustle_and_Bustle_of_Ormos"
+      },
+      {
+        "id": 522,
+        "title": "End of the Feast",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "ABW6ueWVSq0",
+        "spotifyId": "7FSWiqsXhllw0pzv7JSjC4",
+        "fandomUrl": "End_of_the_Feast"
+      },
+      {
+        "id": 523,
+        "title": "Bustling Streets",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "knnal42nFvA",
+        "spotifyId": "1peJBlcYVoRJHU4LMpkNvs",
+        "fandomUrl": "Bustling_Streets"
+      },
+      {
+        "id": 524,
+        "title": "Sleepless Night",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "CWcD4xyhEDw",
+        "spotifyId": "03TcsyimsEIUx9gwJCduej",
+        "fandomUrl": "Sleepless_Night"
+      },
+      {
+        "id": 525,
+        "title": "Village Surrounded by Green",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "-qm0lPo7f4w",
+        "spotifyId": "6l9wudWT5cyDqp57NrAhEA",
+        "fandomUrl": "Village_Surrounded_by_Green"
+      },
+      {
+        "id": 526,
+        "title": "Enchanting Bedtime Stories",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "5bp51REb1pw",
+        "spotifyId": "7cMYNyU5PZjZsMzWtTkE5g",
+        "fandomUrl": "Enchanting_Bedtime_Stories"
+      },
+      {
+        "id": 527,
+        "title": "Scorching Outpost",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "Tm6mzCkDrD0",
+        "spotifyId": "0T333pmX0c65aPfckIbIxZ",
+        "fandomUrl": "Scorching_Outpost"
+      },
+      {
+        "id": 528,
+        "title": "Unyielding Witness",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "WNwzekSarec",
+        "spotifyId": "5JgdDFeZpj9Yp04jRJAQ3i",
+        "fandomUrl": "Unyielding_Witness"
+      },
+      {
+        "id": 529,
+        "title": "In Yonder Ribat",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "kXpa9RnfirQ",
+        "spotifyId": "1X1h3LEW8ejnyv5kz0mhP1",
+        "fandomUrl": "In_Yonder_Ribat"
+      },
+      {
+        "id": 530,
+        "title": "Vigilant Minders",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "XgaoXVIFs7o",
+        "spotifyId": "1hpsgR2icrMYXJixyXDHug",
+        "fandomUrl": "Vigilant_Minders"
+      },
+      {
+        "id": 531,
+        "title": "Forest in the Light",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "3m5tzS4igF4",
+        "spotifyId": "2MFgjdD45njuNM2nnMDCoO",
+        "fandomUrl": "Forest_in_the_Light"
+      },
+      {
+        "id": 532,
+        "title": "Rustling of Tender Foliage",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "1idiJKLl_o0",
+        "spotifyId": "5C51WrpJm9ZtUC8F7vqCEU",
+        "fandomUrl": "Rustling_of_Tender_Foliage"
+      },
+      {
+        "id": 533,
+        "title": "A Desultory Stroll",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "hOOsBFgReDs",
+        "spotifyId": "0b4Pif3jMINIPQkr1kL5Lt",
+        "fandomUrl": "A_Desultory_Stroll"
+      },
+      {
+        "id": 534,
+        "title": "Chasing the Reflection",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "Go8z6tMTJAg",
+        "spotifyId": "2CdPzoX5xiZL8BSHbJjfco",
+        "fandomUrl": "Chasing_the_Reflection"
+      },
+      {
+        "id": 535,
+        "title": "As the Soft Wind Blows",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "cwd41KRaCRE",
+        "spotifyId": "5JpKlHADb8lKvZXIFPKs2P",
+        "fandomUrl": "As_the_Soft_Wind_Blows"
+      },
+      {
+        "id": 536,
+        "title": "Languid and Quiet Moment",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "shgCs6I_BGU",
+        "spotifyId": "7gusXTarARmpgoLZAfv21r",
+        "fandomUrl": "Languid_and_Quiet_Moment"
+      },
+      {
+        "id": 537,
+        "title": "Moonlit Night in Sumeru",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "DHHJ82375M0",
+        "spotifyId": "3lDaALpIklUsJxK45BWUJA",
+        "fandomUrl": "Moonlit_Night_in_Sumeru"
+      },
+      {
+        "id": 538,
+        "title": "Vagrant Wandering",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Domains",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "yam9HQz7Ie0",
+        "spotifyId": "5oHZA6pe5rKA0OknpF273G",
+        "fandomUrl": "Vagrant_Wandering"
+      },
+      {
+        "id": 539,
+        "title": "A Drowsy Sensation",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "Gu70TI76VMo",
+        "spotifyId": "0kaR8jJ6pY3Nak4PWufPd9",
+        "fandomUrl": "A_Drowsy_Sensation"
+      },
+      {
+        "id": 540,
+        "title": "Ethereal Mildness",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "vz-hG1zjAs8",
+        "spotifyId": "4vZ0zP2UOy8vSJjobfGox1",
+        "fandomUrl": "Ethereal_Mildness"
+      },
+      {
+        "id": 541,
+        "title": "Resonant Chant in the Woods",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "KF_zTZYAFQU",
+        "spotifyId": "5qwENSYaWoCg6ejaYCkMrr",
+        "fandomUrl": "Resonant_Chant_in_the_Woods"
+      },
+      {
+        "id": 542,
+        "title": "Varuna's Mercy",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "7w4ykl1n5oo",
+        "spotifyId": "3ofOP3uIyZz5mHoV80QJiP",
+        "fandomUrl": "Varuna%2527s_Mercy"
+      },
+      {
+        "id": 543,
+        "title": "Jungle Wanderers",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "vGyqQ4J3xI8",
+        "spotifyId": "5zCvCpqRCRWRaavpzv67Ii",
+        "fandomUrl": "Jungle_Wanderers"
+      },
+      {
+        "id": 544,
+        "title": "Dissipating Mist",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "1rc7LbEIwyA",
+        "spotifyId": "4HMNK6VPgQZisvXz9paAZd",
+        "fandomUrl": "Dissipating_Mist"
+      },
+      {
+        "id": 545,
+        "title": "Dewy Morn in the Forest",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "6QMRY24jwGI",
+        "spotifyId": "7Ev9TNAdqiCihYmp0Y8cHf",
+        "fandomUrl": "Dewy_Morn_in_the_Forest"
+      },
+      {
+        "id": 546,
+        "title": "Stream of Twilight Thoughts",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "U0YXGJLf3Z4",
+        "spotifyId": "7CmzOImacqySGcndV6Xwez",
+        "fandomUrl": "Stream_of_Twilight_Thoughts"
+      },
+      {
+        "id": 547,
+        "title": "Hymns of Eventide",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "_LsbH8eBse4",
+        "spotifyId": "6wFF70f3MHyP7XSmRNmLkT",
+        "fandomUrl": "Hymns_of_Eventide"
+      },
+      {
+        "id": 548,
+        "title": "Over the Tumbling Rivulet",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "0awwq801x58",
+        "spotifyId": "2ZFuD9xW7ilOophhwMgAh8",
+        "fandomUrl": "Over_the_Tumbling_Rivulet"
+      },
+      {
+        "id": 549,
+        "title": "A Shallow Promise",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "T71n9zUISB0",
+        "spotifyId": "4prv61XBmlXLfnZBQlmKet",
+        "fandomUrl": "A_Shallow_Promise"
+      },
+      {
+        "id": 550,
+        "title": "Lost in Sweet Gentle Breezes",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "ACJ98t0HI20",
+        "spotifyId": "08trw9f8slch0SG8BLt2Kt",
+        "fandomUrl": "Lost_in_Sweet_Gentle_Breezes"
+      },
+      {
+        "id": 551,
+        "title": "Into the Valley of Solitude",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "mR2O7Iv20pA",
+        "spotifyId": "1rG7J6H4DwumYGEAhpYANL",
+        "fandomUrl": "Into_the_Valley_of_Solitude"
+      },
+      {
+        "id": 552,
+        "title": "Speechless Sorrows",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "kIjTZn4nDsQ",
+        "spotifyId": "2vm27flqW9k6cyBxbh5UJg",
+        "fandomUrl": "Speechless_Sorrows"
+      },
+      {
+        "id": 553,
+        "title": "Faint Afterglow",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "FPbPuPodlsQ",
+        "spotifyId": "2kf0xk2A5VGf6MMToo1gNu",
+        "fandomUrl": "Faint_Afterglow"
+      },
+      {
+        "id": 554,
+        "title": "A Puff of Cool Breeze",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "nFODrb3TARQ",
+        "spotifyId": "2DSY7GuLoK7ZusYiSgUyok",
+        "fandomUrl": "A_Puff_of_Cool_Breeze"
+      },
+      {
+        "id": 555,
+        "title": "A Whisper of Evening Star",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "asaRVQqV4no",
+        "spotifyId": "1Bu5thK3QhUekeDCfevmxP",
+        "fandomUrl": "A_Whisper_of_Evening_Star"
+      },
+      {
+        "id": 556,
+        "title": "Distant Yearning",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "T2W4lds4Low",
+        "spotifyId": "3ELgz2s7fcF1YjLdNk9fJ3",
+        "fandomUrl": "Distant_Yearning"
+      },
+      {
+        "id": 557,
+        "title": "Funneled Gorge",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "hAkcM0cUstQ",
+        "spotifyId": "70f5XCJ6faW7gbgktGwFzI",
+        "fandomUrl": "Funneled_Gorge"
+      },
+      {
+        "id": 558,
+        "title": "Whitewood Memorabilia",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "k4GpfsptfOg",
+        "spotifyId": "2wFXHocVm4j4lAsdMghj96",
+        "fandomUrl": "Whitewood_Memorabilia"
+      },
+      {
+        "id": 559,
+        "title": "Gone With the Wind",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "IdxjhURKEEE",
+        "spotifyId": "6M8RxebcOX2HKpobLmijVl",
+        "fandomUrl": "Gone_With_the_Wind"
+      },
+      {
+        "id": 560,
+        "title": "Transparent Night",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "aquNpZJxf1M",
+        "spotifyId": "4WZMWMAo8mBNXBzE7EYMA0",
+        "fandomUrl": "Transparent_Night"
+      },
+      {
+        "id": 561,
+        "title": "Tangled Vines",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "rbYvGSXy3QU",
+        "spotifyId": "2SEu1M6MtSaPLvyp3M5TPp",
+        "fandomUrl": "Tangled_Vines"
+      },
+      {
+        "id": 562,
+        "title": "Lingering Memories",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "J1EXh37OyRY",
+        "spotifyId": "0Y1uWpbZIzbpnhI5B0wChC",
+        "fandomUrl": "Lingering_Memories"
+      },
+      {
+        "id": 563,
+        "title": "Vestige of Dahri",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "E84beUHlIYw",
+        "spotifyId": "3wR2YyRqmjd7g5E7MiOX0i",
+        "fandomUrl": "Vestige_of_Dahri"
+      },
+      {
+        "id": 564,
+        "title": "Dust-Laden Recollections",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "wmJV7p_waNY",
+        "spotifyId": "5uEr08vysH2axMXHlO1HLo",
+        "fandomUrl": "Dust-Laden_Recollections"
+      },
+      {
+        "id": 565,
+        "title": "Midnight Reflections",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "AY4YrI0hj9A",
+        "spotifyId": "1Sy8ylQsAMUazGdfimx4OM",
+        "fandomUrl": "Midnight_Reflections"
+      },
+      {
+        "id": 566,
+        "title": "Lonely Star's Longing",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "RIHn20fwV6c",
+        "spotifyId": "739279SuDKkn5I4i0jIRx4",
+        "fandomUrl": "Lonely_Star%2527s_Longing"
+      },
+      {
+        "id": 567,
+        "title": "In the Solemn Gloom",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "YTUc9nsLp_w",
+        "spotifyId": "4lYvm1rrSRduOgBL5p1UTJ",
+        "fandomUrl": "In_the_Solemn_Gloom"
+      },
+      {
+        "id": 568,
+        "title": "Faith in the Percept",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "h_0bcXlwU8k",
+        "spotifyId": "2MfGtCJnMHauGNybAZrc6N",
+        "fandomUrl": "Faith_in_the_Percept"
+      },
+      {
+        "id": 569,
+        "title": "A Luminous Path",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "-lkwqagsaXc",
+        "spotifyId": "21NNB8i95ZCCIBkwNgEo7Y",
+        "fandomUrl": "A_Luminous_Path"
+      },
+      {
+        "id": 570,
+        "title": "Dance With Fireflies",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "0R8501iSCKU",
+        "spotifyId": "4UvdzjZ3ax5ookZtVvPyCZ",
+        "fandomUrl": "Dance_With_Fireflies"
+      },
+      {
+        "id": 571,
+        "title": "Silky Crooning",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Events"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "lQTXHUlp8Mc",
+        "spotifyId": "35D951wQCFEjorSiLJioSP",
+        "fandomUrl": "Silky_Crooning"
+      },
+      {
+        "id": 572,
+        "title": "Beyond Klesha",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "sGCydUXWqgA",
+        "spotifyId": "4XlHIPyjaSDRNVUEpgu0to",
+        "fandomUrl": "Beyond_Klesha"
+      },
+      {
+        "id": 573,
+        "title": "Melody of Bright New Buds",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "VKB2IcUBR4I",
+        "spotifyId": "5fosBAdJ3wBAZnNHrzbJ4p",
+        "fandomUrl": "Melody_of_Bright_New_Buds"
+      },
+      {
+        "id": 574,
+        "title": "Melody of Sprouting Flowers",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "4Sk1_n45htk",
+        "spotifyId": "1TjbZ25ZrFkvoCXYfnj5hm",
+        "fandomUrl": "Melody_of_Sprouting_Flowers"
+      },
+      {
+        "id": 575,
+        "title": "Melody of Fresh Dewdrops",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "6p5GPzulioQ",
+        "spotifyId": "1zMeJyKnmeoniCPZLUgTLx",
+        "fandomUrl": "Melody_of_Fresh_Dewdrops"
+      },
+      {
+        "id": 576,
+        "title": "Melody of Hidden Seeds",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "w_14Ibukqo4",
+        "spotifyId": "04okHA12scZChRv8RXrMCA",
+        "fandomUrl": "Melody_of_Hidden_Seeds"
+      },
+      {
+        "id": 577,
+        "title": "Melody of Brave Seeds",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "XhCIceK_ETQ",
+        "spotifyId": "6kwrfZXpmml33OLJiVIYmQ",
+        "fandomUrl": "Melody_of_Brave_Seeds"
+      },
+      {
+        "id": 578,
+        "title": "Melody of Dream Home",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "3wz819hpvjw",
+        "spotifyId": "66JgWDBpCdzPONZWM6Dzrm",
+        "fandomUrl": "Melody_of_Dream_Home"
+      },
+      {
+        "id": 579,
+        "title": "Melody of Young Leaves",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "H5MDVBolYqs",
+        "spotifyId": "3ZD6HhIpr6o85x0TtKOFap",
+        "fandomUrl": "Melody_of_Young_Leaves"
+      },
+      {
+        "id": 580,
+        "title": "Melody of Distant Green Fields",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "BF_wbIHX1ks",
+        "spotifyId": "7Jx33O9VJf84Apzl52KxWT",
+        "fandomUrl": "Melody_of_Distant_Green_Fields"
+      },
+      {
+        "id": 581,
+        "title": "Chatter Between Roots",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "ba5e3s45cY0",
+        "spotifyId": "1FRA7Of4B7WJpqbeOnGIEa",
+        "fandomUrl": "Chatter_Between_Roots"
+      },
+      {
+        "id": 582,
+        "title": "Long-Lost Chapters",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "UVEOzm0Q1lM",
+        "spotifyId": "1DMWlAyeAcwzIRsHIq1eT5",
+        "fandomUrl": "Long-Lost_Chapters"
+      },
+      {
+        "id": 583,
+        "title": "Nameless Days",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "-wg9DKw0ACE",
+        "spotifyId": "1o8zn5NU2t5v75VJW8F9K5",
+        "fandomUrl": "Nameless_Days"
+      },
+      {
+        "id": 584,
+        "title": "Whispers of Immensity",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "YBG-sspJExw",
+        "spotifyId": "0RSZKicFVBs0CoJ8Hiund2",
+        "fandomUrl": "Whispers_of_Immensity"
+      },
+      {
+        "id": 585,
+        "title": "Immemorial Land",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "2wthWiPSAMI",
+        "spotifyId": "3UNM1rDSV60V05guijfCa4",
+        "fandomUrl": "Immemorial_Land"
+      },
+      {
+        "id": 586,
+        "title": "In a Forgotten Tongue",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "pVCREF1aQ_w",
+        "spotifyId": "5IP2rPs96WDNzGC9oREgmA",
+        "fandomUrl": "In_a_Forgotten_Tongue"
+      },
+      {
+        "id": 587,
+        "title": "Walk Through the Silent Path",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "DMSYlM7iKGk",
+        "spotifyId": "78KAHsY1FHoj4yErOmI2RW",
+        "fandomUrl": "Walk_Through_the_Silent_Path"
+      },
+      {
+        "id": 588,
+        "title": "A Fruitless Search",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "OVHdCE5GWa0",
+        "spotifyId": "2AZfUOm3D4UTvLbj3oVnF0",
+        "fandomUrl": "A_Fruitless_Search"
+      },
+      {
+        "id": 589,
+        "title": "Unbounded Barrenness",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "3itsoWv1uL0",
+        "spotifyId": "5ENN1gNl2BtwieUyJsm6uP",
+        "fandomUrl": "Unbounded_Barrenness"
+      },
+      {
+        "id": 590,
+        "title": "Dream of Ageless Time",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "hDXQcqAvV0Y",
+        "spotifyId": "2x2DH8j4Kjumuh2DAmeR0z",
+        "fandomUrl": "Dream_of_Ageless_Time"
+      },
+      {
+        "id": 591,
+        "title": "Dust and Tears",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "TUVgAuBiF24",
+        "spotifyId": "4oZZQ23BPyY9NHvtHxW2Wa",
+        "fandomUrl": "Dust_and_Tears"
+      },
+      {
+        "id": 592,
+        "title": "Descending Into the Dark",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "pitcGNGf0NA",
+        "spotifyId": "0hssFjNZaaSO20KeM2AuHl",
+        "fandomUrl": "Descending_Into_the_Dark"
+      },
+      {
+        "id": 593,
+        "title": "Hollow Echoes",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "AL6ZWLeM2kU",
+        "spotifyId": "629oRBqtCeo0994MD7KqzY",
+        "fandomUrl": "Hollow_Echoes"
+      },
+      {
+        "id": 594,
+        "title": "A Sense of Furtive Unrest",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "iSY0K1L0ZOo",
+        "spotifyId": "5rqgAB2WHTC2ThAEf5ukG7",
+        "fandomUrl": "A_Sense_of_Furtive_Unrest"
+      },
+      {
+        "id": 595,
+        "title": "Fading Light",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "S_VVOK1PbL0",
+        "spotifyId": "0kEsSCTer8u2luR7bYQVR5",
+        "fandomUrl": "Fading_Light"
+      },
+      {
+        "id": 596,
+        "title": "Listless and Numb Ground",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "HugZKrr5qLs",
+        "spotifyId": "2FIhDVoixnDVa3KxWBcrHE",
+        "fandomUrl": "Listless_and_Numb_Ground"
+      },
+      {
+        "id": 597,
+        "title": "In Barren Ashes",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "iadGUG6DSK4",
+        "spotifyId": "3kpAstwzvnd6hm0lRS9BMm",
+        "fandomUrl": "In_Barren_Ashes"
+      },
+      {
+        "id": 598,
+        "title": "Struggle of Dying Embers",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Combat",
+        "region": "Sumeru",
+        "youtubeId": "Oai7rtkWsjs",
+        "spotifyId": "0CGchckDHHY0xGIrC142S2",
+        "fandomUrl": "Struggle_of_Dying_Embers"
+      },
+      {
+        "id": 599,
+        "title": "Feelings of Smothering",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "oHjA5d9iLHM",
+        "spotifyId": "7vbB6bnXld8Ms1RoFNefSB",
+        "fandomUrl": "Feelings_of_Smothering"
+      },
+      {
+        "id": 600,
+        "title": "Snare Awaiting",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Combat",
+        "region": "Sumeru",
+        "youtubeId": "X_ME_LndEi4",
+        "spotifyId": "0joBrMbAeP95I8nP4EGlLI",
+        "fandomUrl": "Snare_Awaiting"
+      },
+      {
+        "id": 601,
+        "title": "Dreamless Earth",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "R6o188MvSUs",
+        "spotifyId": "4v4GRz6MqRjcfYEbd5i9gK",
+        "fandomUrl": "Dreamless_Earth"
+      },
+      {
+        "id": 602,
+        "title": "Fatal Confrontation",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "ypS8R_807zg",
+        "spotifyId": "5gu0iRmQbLHuKaqvFpYOMz",
+        "fandomUrl": "Fatal_Confrontation"
+      },
+      {
+        "id": 603,
+        "title": "Before the Light Fades",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "Kg6FZVnfdWY",
+        "spotifyId": "03knqQsTHOVt2a4wgj1kzl",
+        "fandomUrl": "Before_the_Light_Fades"
+      },
+      {
+        "id": 604,
+        "title": "Swirls of the Stream",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Special Gameplay",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Sumeru",
+        "youtubeId": "gjWRmoFIjjw",
+        "spotifyId": "5GEsBMoWtwrLce3t0pgDps",
+        "fandomUrl": "Swirls_of_the_Stream"
+      },
+      {
+        "id": 605,
+        "title": "Rhymes of Vales",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Special Gameplay",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Sumeru",
+        "youtubeId": "EXaKoH2zZSQ",
+        "spotifyId": "58F6mrvnIx5iupnuTOsq5e",
+        "fandomUrl": "Rhymes_of_Vales"
+      },
+      {
+        "id": 606,
+        "title": "Gilded Runner",
+        "playedAt": ["Open-World Combat", "Domains", "Event Gameplay", "Media"],
+        "type": "Combat",
+        "region": "Sumeru",
+        "youtubeId": "DIclOmL1LGg",
+        "spotifyId": "4vhfKGfxS6VAT3cqrmh8oI",
+        "fandomUrl": "Gilded_Runner"
+      },
+      {
+        "id": 607,
+        "title": "Jolts in the Forest",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Boss",
+        "region": "Sumeru",
+        "youtubeId": "Nahr59G12Ss",
+        "spotifyId": "66gP5QcIdCIZWRQALVtPJT",
+        "fandomUrl": "Jolts_in_the_Forest"
+      }
+    ]
   }
 ]
