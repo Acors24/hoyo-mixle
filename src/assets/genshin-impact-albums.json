@@ -10143,5 +10143,270 @@
         "fandomUrl": "La_vaguelette_-_Instrumental"
       }
     ]
+  },
+  {
+    "title": "The Stellar Moments Vol. 4",
+    "songs": [
+      {
+        "id": 917,
+        "title": "Novatio Novena",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "Gi2AnndCSCo",
+        "spotifyId": "7ksNcVxk22ZCsBjud4Wm1q",
+        "fandomUrl": "Novatio_Novena"
+      },
+      {
+        "id": 918,
+        "title": "Ashes of Anupadhisesa",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "eFmAK7px6Hs",
+        "spotifyId": "3nKIOEcNWK8DFqZNOJNK2l",
+        "fandomUrl": "Ashes_of_Anupadhisesa"
+      },
+      {
+        "id": 919,
+        "title": "Whirling of Vairambhaka",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "EhFmWUVzN2Y",
+        "spotifyId": "4Oz5AghJdradyGJylNIPco",
+        "fandomUrl": "Whirling_of_Vairambhaka"
+      },
+      {
+        "id": 920,
+        "title": "Serene Contemplation",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "2hGvbJFDX5M",
+        "spotifyId": "7DvxsM6oYHcbMB4xVsKb9Y",
+        "fandomUrl": "Serene_Contemplation"
+      },
+      {
+        "id": 921,
+        "title": "Immaculate Ardency",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "0daRtzMj5yM",
+        "spotifyId": "4ScUy4hNaC5BxFVjQaL1Xl",
+        "fandomUrl": "Immaculate_Ardency"
+      },
+      {
+        "id": 922,
+        "title": "Language of Eternity",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "MQBMaWpW8nw",
+        "spotifyId": "5qJqa7w1PzYLJZGjCbzeF0",
+        "fandomUrl": "Language_of_Eternity"
+      },
+      {
+        "id": 923,
+        "title": "Cogitation of Epochs",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "1fQQAjym1V8",
+        "spotifyId": "1nwNZYLBPOGbHu44gMzld7",
+        "fandomUrl": "Cogitation_of_Epochs"
+      },
+      {
+        "id": 924,
+        "title": "By the Dawn's First Radiance",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "YioFVKzw2zw",
+        "spotifyId": "2ls9Ey3rsFHSgqdEjbqynh",
+        "fandomUrl": "By_the_Dawn%2527s_First_Radiance"
+      },
+      {
+        "id": 925,
+        "title": "Fervent Flare",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "UvzMM7Cf6YE",
+        "spotifyId": "5Mt9FE61NEDl5fUULM92NN",
+        "fandomUrl": "Fervent_Flare"
+      },
+      {
+        "id": 926,
+        "title": "Sunfrost Breeze",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "-BvbqUKLiLE",
+        "spotifyId": "7eyq28cDblrBe6FFHUysyd",
+        "fandomUrl": "Sunfrost_Breeze"
+      },
+      {
+        "id": 927,
+        "title": "Empyrean Stairway",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "UMsFQmDKkxA",
+        "spotifyId": "2Peu3BrDdDZFG8vdMkuHr3",
+        "fandomUrl": "Empyrean_Stairway"
+      },
+      {
+        "id": 928,
+        "title": "Whisper of Verdure",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "0g8Z4aZxgOM",
+        "spotifyId": "0HK8qDIBYwIkWYg7hv1JBr",
+        "fandomUrl": "Whisper_of_Verdure"
+      },
+      {
+        "id": 929,
+        "title": "In the Wake of Rain",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "TbuFZE5065w",
+        "spotifyId": "1TTXPYwve99Kl5ZHRepLaI",
+        "fandomUrl": "In_the_Wake_of_Rain"
+      },
+      {
+        "id": 930,
+        "title": "Cat's Cosy Course",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "Wl5wp5YzTTU",
+        "spotifyId": "42kyS0BwOIbkFmPY2nHFOb",
+        "fandomUrl": "Cat%2527s_Cosy_Course"
+      },
+      {
+        "id": 931,
+        "title": "Resplendent Couture",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Special",
+        "region": "Mondstadt",
+        "youtubeId": "xSBmS5ySA8A",
+        "spotifyId": "5pOXgb03vJIYrzyEgJzujL",
+        "fandomUrl": "Resplendent_Couture"
+      },
+      {
+        "id": 932,
+        "title": "Illusory Truth",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "QCowZZIUIrc",
+        "spotifyId": "0e327OELwoeDp9WKYBwhDp",
+        "fandomUrl": "Illusory_Truth"
+      },
+      {
+        "id": 933,
+        "title": "Lustrous Trick",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "-rnNqFWjwUA",
+        "spotifyId": "1S96TS725xQTaChC9ELfBF",
+        "fandomUrl": "Lustrous_Trick"
+      },
+      {
+        "id": 934,
+        "title": "Chasing the Wind",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "xM4xh6tW_CI",
+        "spotifyId": "6ycCtGalMnHQLvHjFNRNvF",
+        "fandomUrl": "Chasing_the_Wind"
+      },
+      {
+        "id": 935,
+        "title": "Frigid Reverie",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "1OY4c3IOrKo",
+        "spotifyId": "3clOKIeRHi5EjrNs4wACfl",
+        "fandomUrl": "Frigid_Reverie"
+      },
+      {
+        "id": 936,
+        "title": "Eleusis Dicis Gratia",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "rnCPrP-7Un0",
+        "spotifyId": "7cc2h0MHjkjzSuADe8T5XH",
+        "fandomUrl": "Eleusis_Dicis_Gratia"
+      },
+      {
+        "id": 937,
+        "title": "Parousia Diluvi",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "UGd4ZF2lnkU",
+        "spotifyId": "6ZzQjmSvIa0cmKbJ0t1mEV",
+        "fandomUrl": "Parousia_Diluvi"
+      },
+      {
+        "id": 938,
+        "title": "Sonnet of Profundity",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "Woak3Z8wGaY",
+        "spotifyId": "0JKz8h38EgTgFZ1WiVHSr7",
+        "fandomUrl": "Sonnet_of_Profundity"
+      },
+      {
+        "id": 939,
+        "title": "Nippy Bout",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "1rS1nHRFvbw",
+        "spotifyId": "3JNSadS2THKFBNxKO5M2xo",
+        "fandomUrl": "Nippy_Bout"
+      },
+      {
+        "id": 940,
+        "title": "Veritas Numquam Perit",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "r6LZtCzb7T4",
+        "spotifyId": "3OoA65lzDd85dOGUWQal8Q",
+        "fandomUrl": "Veritas_Numquam_Perit"
+      },
+      {
+        "id": 941,
+        "title": "Chantons a plusieurs",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "agNyOE1RqOk",
+        "spotifyId": "5UzSQh18urU7emnyIHYXHv",
+        "fandomUrl": "Chantons_a_plusieurs"
+      },
+      {
+        "id": 942,
+        "title": "Se mettre sur son trente-et-un !",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "Arhwh0knLe4",
+        "spotifyId": "1193qECKuBt1IshFEibWJ2",
+        "fandomUrl": "Se_mettre_sur_son_trente-et-un_%21"
+      }
+    ]
   }
 ]
