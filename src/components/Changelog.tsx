@@ -20,6 +20,7 @@ const history = [
       `Added "Jadeite Redolence" album (Genshin Impact)`,
       `Added "Emberfire" album (Genshin Impact)`,
       `Added "Cantus Aeternus" album (Genshin Impact)`,
+      `Added "The Road Not Taken" album (Genshin Impact)`,
     ],
   },
   {

@@ -12092,5 +12092,30 @@
         "fandomUrl": "Absolutio_Absoluta_Absolutissime"
       }
     ]
+  },
+  {
+    "title": "The Road Not Taken",
+    "songs": [
+      {
+        "id": 1106,
+        "title": "The Road Not Taken",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "Jg-nWIrwvSw",
+        "spotifyId": "13ZiVkjad58eXSASbOFqwB",
+        "fandomUrl": "The_Road_Not_Taken_%28Soundtrack%29"
+      },
+      {
+        "id": 1107,
+        "title": "The Road Not Taken - Instrumental",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "AzbDzbVptIQ",
+        "spotifyId": "0GdzHUvce02NTnN6DeybS2",
+        "fandomUrl": "The_Road_Not_Taken_-_Instrumental"
+      }
+    ]
   }
 ]
