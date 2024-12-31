@@ -12,6 +12,8 @@ const history = [
       `Added "The Stellar Moments Vol. 3" album (Genshin Impact)`,
       `Added "The Unfathomable Sand Dunes" album (Genshin Impact)`,
       `Added "Footprints of the Traveler Vol. 2" album (Genshin Impact)`,
+      `Added "The Shimmering Voyage Vol. 3" album (Genshin Impact)`,
+      `Added "Fountain of Belleau" album (Genshin Impact)`,
     ],
   },
   {

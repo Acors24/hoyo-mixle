@@ -8282,5 +8282,1841 @@
         "fandomUrl": "Secret_Summer_Paradise_%28Soundtrack%29"
       }
     ]
+  },
+  {
+    "title": "The Shimmering Voyage Vol. 3",
+    "songs": [
+      {
+        "id": 751,
+        "title": "Euphoric Ride",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "TN0kNe3UWxA",
+        "spotifyId": "6E0SGwVVyr4SfR2IkkGTAJ",
+        "fandomUrl": "Euphoric_Ride"
+      },
+      {
+        "id": 752,
+        "title": "Let's Get Started!",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "tAFHu-NgkGw",
+        "spotifyId": "2V4Zcnpf53lWNBX9KBjiyN",
+        "fandomUrl": "Let%2527s_Get_Started%21"
+      },
+      {
+        "id": 753,
+        "title": "Bustling Bazaar",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "01b1ELYSbZ0",
+        "spotifyId": "2RIcMoJGFD0ATWwJSYkqmE",
+        "fandomUrl": "Bustling_Bazaar"
+      },
+      {
+        "id": 754,
+        "title": "Flanerie sur le marche",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "WYx1W1phZCc",
+        "spotifyId": "4ESUDYgm5Drp09IVkRZVqn",
+        "fandomUrl": "Flanerie_sur_le_marche"
+      },
+      {
+        "id": 755,
+        "title": "Soothing Nightfall",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "lMNSvV6Enxc",
+        "spotifyId": "67DmVXEhgfVs8XQK0komcU",
+        "fandomUrl": "Soothing_Nightfall"
+      },
+      {
+        "id": 756,
+        "title": "Eventide Caprice",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "2JtNy0B3FuU",
+        "spotifyId": "3VuSiZ4cAOuYz23Z92qQzZ",
+        "fandomUrl": "Eventide_Caprice"
+      },
+      {
+        "id": 757,
+        "title": "Triumph of Mirth",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "ryoT6f1HtIQ",
+        "spotifyId": "3R2d2W5voaMJEzBghASeLz",
+        "fandomUrl": "Triumph_of_Mirth"
+      },
+      {
+        "id": 758,
+        "title": "Cheerful March",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "AMpeRRkjMIE",
+        "spotifyId": "4NFBVhq2fSIHAIQeA884OL",
+        "fandomUrl": "Cheerful_March"
+      },
+      {
+        "id": 759,
+        "title": "Blissful Little Ditty",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "TIyEA3IyQpI",
+        "spotifyId": "1GeES1Bp7oBIq2C5t7UINB",
+        "fandomUrl": "Blissful_Little_Ditty"
+      },
+      {
+        "id": 760,
+        "title": "Chirping With Glee",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "HsXH8UofMrs",
+        "spotifyId": "3sh2vJxO5myel4uB0rnm17",
+        "fandomUrl": "Chirping_With_Glee"
+      },
+      {
+        "id": 761,
+        "title": "Voyage of the Black Crystal",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "uiTZG_Ks71w",
+        "spotifyId": "463g45vk6vHLe9QHuPR21s",
+        "fandomUrl": "Voyage_of_the_Black_Crystal"
+      },
+      {
+        "id": 762,
+        "title": "Fantastical Fairytale",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "GtyRuyfm1L8",
+        "spotifyId": "0PyHum8snddhmi6DAkXJYO",
+        "fandomUrl": "Fantastical_Fairytale"
+      },
+      {
+        "id": 763,
+        "title": "Soothing Slumber",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "QmkFM9SY7EI",
+        "spotifyId": "04qo3tOoPF7PUVmh9nBJYZ",
+        "fandomUrl": "Soothing_Slumber"
+      },
+      {
+        "id": 764,
+        "title": "Pensees tranquilles",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "wxeGAkQCPZI",
+        "spotifyId": "1UqO7UIeZWgga7OFppVpGV",
+        "fandomUrl": "Pensees_tranquilles"
+      },
+      {
+        "id": 765,
+        "title": "Les tendres souhaits",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "ViRvgc2cbfc",
+        "spotifyId": "2qWnSmDdxKeAzwzSL5k6AA",
+        "fandomUrl": "Les_tendres_souhaits"
+      },
+      {
+        "id": 766,
+        "title": "Astral Chime",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "Zbl18b5EHF8",
+        "spotifyId": "3RyhmBRau7zxj74CDRT0Oy",
+        "fandomUrl": "Astral_Chime"
+      },
+      {
+        "id": 767,
+        "title": "Dreamlike Reflection",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "AukTTD7qG-o",
+        "spotifyId": "7zwuqntFyXnO6QN2bCdZUK",
+        "fandomUrl": "Dreamlike_Reflection"
+      },
+      {
+        "id": 768,
+        "title": "Journey by the Moonlight",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "7HUmeD7uG34",
+        "spotifyId": "1DhfsVFhMtBOOEppIkhGDm",
+        "fandomUrl": "Journey_by_the_Moonlight"
+      },
+      {
+        "id": 769,
+        "title": "The Owls' Nocturne",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "JwhrU2-qrPY",
+        "spotifyId": "2WYmriPYXf3oIaf4xDOXmA",
+        "fandomUrl": "The_Owls%2527_Nocturne"
+      },
+      {
+        "id": 770,
+        "title": "Towers of Afrasiab",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "nG7ShB_w2Uc",
+        "spotifyId": "2Ow0F5EBJ5jEesqDsF0qnd",
+        "fandomUrl": "Towers_of_Afrasiab"
+      },
+      {
+        "id": 771,
+        "title": "Foregone Depiction",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "nQ5vKia5zrw",
+        "spotifyId": "4wQWu5GO1uzVYMgLILkIQv",
+        "fandomUrl": "Foregone_Depiction"
+      },
+      {
+        "id": 772,
+        "title": "Distant Portrayal",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "n3DM6dcTGCQ",
+        "spotifyId": "7aoZrm4VqQ722tCZ7611l3",
+        "fandomUrl": "Distant_Portrayal"
+      },
+      {
+        "id": 773,
+        "title": "Moment of Conflict",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "bcq99M3RXiY",
+        "spotifyId": "2M0zWU87SLt69TaBuFBdIG",
+        "fandomUrl": "Moment_of_Conflict"
+      },
+      {
+        "id": 774,
+        "title": "Dream of White Branches",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Sumeru",
+        "youtubeId": "1sjKPJuyKEw",
+        "spotifyId": "5ZoZoe0b8hFwXbbdsGt5CF",
+        "fandomUrl": "Dream_of_White_Branches"
+      },
+      {
+        "id": 775,
+        "title": "With Witty Wit",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "EIyC1YJY2wY",
+        "spotifyId": "52gXz92CI4ab6mFV99WyTi",
+        "fandomUrl": "With_Witty_Wit"
+      },
+      {
+        "id": 776,
+        "title": "Sipping in the Soft Breeze",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "STFG2-2PWAk",
+        "spotifyId": "1oVun05W8QdRK6TeTEO8VQ",
+        "fandomUrl": "Sipping_in_the_Soft_Breeze"
+      },
+      {
+        "id": 777,
+        "title": "Sanctuary for the Sick",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Liyue",
+        "youtubeId": "J0ct9dRcdmo",
+        "spotifyId": "1dIGxUaLv83yOO7arGdaHt",
+        "fandomUrl": "Sanctuary_for_the_Sick"
+      },
+      {
+        "id": 778,
+        "title": "Tipsy Poetry",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "ifskQW6DjjM",
+        "spotifyId": "6PdeVj4nnwjspTE3BYxFPs",
+        "fandomUrl": "Tipsy_Poetry"
+      },
+      {
+        "id": 779,
+        "title": "Melody of Utsava",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "W7QS2xOGOeU",
+        "spotifyId": "2R3wVGri5uazTL7tTb72hk",
+        "fandomUrl": "Melody_of_Utsava"
+      },
+      {
+        "id": 780,
+        "title": "Descendants of Deshret",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "m4GpwWIs0UU",
+        "spotifyId": "1H1H3a2Zlv58PkIPidt4R6",
+        "fandomUrl": "Descendants_of_Deshret"
+      },
+      {
+        "id": 781,
+        "title": "Dance of Sabzeruz",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "tVJwPTDy9Rc",
+        "spotifyId": "6zL6gKUXnaBNNfkafIzrKa",
+        "fandomUrl": "Dance_of_Sabzeruz_%28Soundtrack%29"
+      },
+      {
+        "id": 782,
+        "title": "Note of Calamity",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "X1Udn6hxNso",
+        "spotifyId": "3jfWI4z3pOlGdrlBMWmGE1",
+        "fandomUrl": "Note_of_Calamity"
+      },
+      {
+        "id": 783,
+        "title": "Foreboding Beat",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "mRXg4aqzbZc",
+        "spotifyId": "48q386pwroCCfSZxIq5r1Y",
+        "fandomUrl": "Foreboding_Beat"
+      },
+      {
+        "id": 784,
+        "title": "Unrequited Yearning",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "TYajyixLbtM",
+        "spotifyId": "5cIrCCMNEfzorbZel6amSi",
+        "fandomUrl": "Unrequited_Yearning"
+      },
+      {
+        "id": 785,
+        "title": "Eccentric Reception",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "Zbi9USIZSt8",
+        "spotifyId": "6sIWNTtCl5M8VcTmRBYFjX",
+        "fandomUrl": "Eccentric_Reception"
+      },
+      {
+        "id": 786,
+        "title": "Hyakuin of Blossoming Mirage",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "-80VO3T5vho",
+        "spotifyId": "7k9sstds7g5Eoc2GirbTnP",
+        "fandomUrl": "Hyakuin_of_Blossoming_Mirage"
+      },
+      {
+        "id": 787,
+        "title": "Moment of Tribulation",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "3pF0a9oqiUo",
+        "spotifyId": "4T2nqdLpNeHXu693uT4XRA",
+        "fandomUrl": "Moment_of_Tribulation"
+      },
+      {
+        "id": 788,
+        "title": "Smiting Scope",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "IRXI0V45Nlc",
+        "spotifyId": "33nAmJdwEbyHWA27lT7wmd",
+        "fandomUrl": "Smiting_Scope"
+      },
+      {
+        "id": 789,
+        "title": "Crumbling Sands",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "gA1SOsWxnJA",
+        "spotifyId": "3QhS90UTLp38ZRkR2ej1RH",
+        "fandomUrl": "Crumbling_Sands"
+      },
+      {
+        "id": 790,
+        "title": "Whisper of Weinlesefest",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Mondstadt",
+        "youtubeId": "F7dCLbhmopo",
+        "spotifyId": "5pqU9HNzqAKX3nz7C1NAue",
+        "fandomUrl": "Whisper_of_Weinlesefest"
+      },
+      {
+        "id": 791,
+        "title": "Parcener of Heptas",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "CaVv4-xHr8U",
+        "spotifyId": "1K4fiXQKRJyD8K5p0CPKCZ",
+        "fandomUrl": "Parcener_of_Heptas"
+      },
+      {
+        "id": 792,
+        "title": "Two Hearts Rejoice",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "7x-xG7xf6Gs",
+        "spotifyId": "3Ed177Z5Fx5K2nl1892Cn1",
+        "fandomUrl": "Two_Hearts_Rejoice"
+      },
+      {
+        "id": 793,
+        "title": "The Moving Finger Writes",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "6vZODnGwSAQ",
+        "spotifyId": "5BnqdnKM7eEoFIeWgyjtGx",
+        "fandomUrl": "The_Moving_Finger_Writes"
+      },
+      {
+        "id": 794,
+        "title": "Inebriation of Raghs-e-Nilou",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "e0v0RUxowMc",
+        "spotifyId": "4MJ5HzH9zzkiS7HCRkflJQ",
+        "fandomUrl": "Inebriation_of_Raghs-e-Nilou"
+      },
+      {
+        "id": 795,
+        "title": "Trifaria Conscientia",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "bpHSxFeBW9Y",
+        "spotifyId": "3bGupYFTe688K93rTv7dBV",
+        "fandomUrl": "Trifaria_Conscientia"
+      },
+      {
+        "id": 796,
+        "title": "All in One, All in Vain",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "qtNZN5ztRws",
+        "spotifyId": "2SvgzAACX8zPgHDZTLRMj1",
+        "fandomUrl": "All_in_One%2C_All_in_Vain"
+      },
+      {
+        "id": 797,
+        "title": "Heart of Yuugen",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "xCUvpHwkBRA",
+        "spotifyId": "6l3fpkaQ18bzSnqeDhdlNJ",
+        "fandomUrl": "Heart_of_Yuugen"
+      },
+      {
+        "id": 798,
+        "title": "Remembrance of Akitsu",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Inazuma",
+        "youtubeId": "6yKBTLw2bmE",
+        "spotifyId": "4w6kegsfeHzeYdJicFFZKz",
+        "fandomUrl": "Remembrance_of_Akitsu"
+      },
+      {
+        "id": 799,
+        "title": "The Blaze Lilies",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "vklA38haRlI",
+        "spotifyId": "33p0jbuHo8BlHqGrpBy8RV",
+        "fandomUrl": "The_Blaze_Lilies"
+      },
+      {
+        "id": 800,
+        "title": "First Blossom of Spring",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "4lEKKJKzaGE",
+        "spotifyId": "3c5wGXQuIlcGU6ops857mL",
+        "fandomUrl": "First_Blossom_of_Spring"
+      },
+      {
+        "id": 801,
+        "title": "The Name Is Legion",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "-c9K3znVgIU",
+        "spotifyId": "1meZjMtYCPlhbp0ITZvvrW",
+        "fandomUrl": "The_Name_Is_Legion"
+      },
+      {
+        "id": 802,
+        "title": "Serenade of the Distant Realm",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "2ZUDOZZ6Ego",
+        "spotifyId": "3SWVTUK00mnmbN8r8TZGiX",
+        "fandomUrl": "Serenade_of_the_Distant_Realm"
+      },
+      {
+        "id": 803,
+        "title": "Occluded Blight",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "fnx3mQWHY80",
+        "spotifyId": "2WJ7NgM2S1nFdgw60In2MP",
+        "fandomUrl": "Occluded_Blight"
+      },
+      {
+        "id": 804,
+        "title": "Love Is in the Air",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Mondstadt",
+        "youtubeId": "acs_2n_xjbI",
+        "spotifyId": "2cnAZsvCb9OyaYdj6vk9rR",
+        "fandomUrl": "Love_Is_in_the_Air"
+      },
+      {
+        "id": 805,
+        "title": "Heliacal Path",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "abNLCIodp1E",
+        "spotifyId": "7thbi5EzKEQRc4aqfDwBmD",
+        "fandomUrl": "Heliacal_Path"
+      },
+      {
+        "id": 806,
+        "title": "Glowing Embers",
+        "playedAt": ["Quests", ["Story Quests", "Events"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "N_dmBrBIJUs",
+        "spotifyId": "22vGElosb1XGLhiK0zekY4",
+        "fandomUrl": "Glowing_Embers"
+      },
+      {
+        "id": 807,
+        "title": "Purposeful Purity",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "0XKEHbG2idg",
+        "spotifyId": "7GpQinP0S08GtXl0tfy7WL",
+        "fandomUrl": "Purposeful_Purity"
+      },
+      {
+        "id": 808,
+        "title": "Pulse of Spring",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Liyue",
+        "youtubeId": "FAbNJAG66zI",
+        "spotifyId": "4XuJdDuADFSu6QcOkJB2oz",
+        "fandomUrl": "Pulse_of_Spring"
+      },
+      {
+        "id": 809,
+        "title": "Coronation of Providence",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "FPnlSY6Qs1A",
+        "spotifyId": "2X8DtxBcAh637AZD3rhwPl",
+        "fandomUrl": "Coronation_of_Providence"
+      },
+      {
+        "id": 810,
+        "title": "A Pensive Sigh",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Teyvat",
+        "youtubeId": "czvpQSz8gAM",
+        "spotifyId": "2LT7hs3Nyqt79wdYhhwQf0",
+        "fandomUrl": "A_Pensive_Sigh"
+      },
+      {
+        "id": 811,
+        "title": "Chasing Starlight With You",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "fU4kzm5ZPE8",
+        "spotifyId": "4EDqg2HqInVK6zd3j9v36A",
+        "fandomUrl": "Chasing_Starlight_With_You"
+      },
+      {
+        "id": 812,
+        "title": "Crystalline Reverie",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "V265GNh_vEI",
+        "spotifyId": "5yCpopDK9iyExVDXTUhnIT",
+        "fandomUrl": "Crystalline_Reverie"
+      },
+      {
+        "id": 813,
+        "title": "Dharana Iaksana",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Sumeru",
+        "youtubeId": "Zohu4kOWFdI",
+        "spotifyId": "0emN0b60tnDblo0R4PupYv",
+        "fandomUrl": "Dharana_Iaksana"
+      },
+      {
+        "id": 814,
+        "title": "Invokation Game",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Mondstadt",
+        "youtubeId": "xuU5B_JE1_E",
+        "spotifyId": "2KKsgUxV7HQEJ77VASW0D9",
+        "fandomUrl": "Invokation_Game"
+      },
+      {
+        "id": 815,
+        "title": "Voyage Suite",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "X1ZZTfn9_0E",
+        "spotifyId": "6yG1nRZpuVJNgp72jvydny",
+        "fandomUrl": "Voyage_Suite"
+      },
+      {
+        "id": 816,
+        "title": "Polumnia Omnia (Performance Version)",
+        "playedAt": ["Media"],
+        "type": "Boss",
+        "region": "Sumeru",
+        "youtubeId": "6C-WQQ20lVE",
+        "spotifyId": "7BuFO7WrEi2Kve940o0By4",
+        "fandomUrl": "Polumnia_Omnia_%28Performance_Version%29"
+      },
+      {
+        "id": 817,
+        "title": "Virtuous Guardian",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "5UkCjjXQsfw",
+        "spotifyId": "540v71ADvNVo35oEDA4GOd",
+        "fandomUrl": "Virtuous_Guardian"
+      },
+      {
+        "id": 818,
+        "title": "The Final Feast",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "tm0saB6PNoU",
+        "spotifyId": "0DFU2d36z4K6ytXosUa5i5",
+        "fandomUrl": "The_Final_Feast"
+      }
+    ]
+  },
+  {
+    "title": "Fountain of Belleau",
+    "songs": [
+      {
+        "id": 819,
+        "title": "Fontaine",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "tiulg9ySfR8",
+        "spotifyId": "7gEpP0zIY3lVwTl7I5GZmH",
+        "fandomUrl": "Fontaine_%28Soundtrack%29"
+      },
+      {
+        "id": 820,
+        "title": "Le Souvenir avec le crepuscule",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "F_S8EeiJjPE",
+        "spotifyId": "42fHftcN2NYb0g8x4nRzhL",
+        "fandomUrl": "Le_Souvenir_avec_le_crepuscule"
+      },
+      {
+        "id": 821,
+        "title": "Ballad of Many Waters",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "pPGRSPlpqw4",
+        "spotifyId": "7euZixqo4FiextUHHJyuaD",
+        "fandomUrl": "Ballad_of_Many_Waters"
+      },
+      {
+        "id": 822,
+        "title": "City of Mellifluous Glory",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "yAiPU950ikk",
+        "spotifyId": "7kJrHJShEYNAoUT4TAIxi2",
+        "fandomUrl": "City_of_Mellifluous_Glory"
+      },
+      {
+        "id": 823,
+        "title": "Leisurely Days in Fontaine",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "0iJvtXlPUXA",
+        "spotifyId": "5LEgtsYV2m7Z6zwMIWW8YB",
+        "fandomUrl": "Leisurely_Days_in_Fontaine"
+      },
+      {
+        "id": 824,
+        "title": "Poesy of Chrysolite",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "nEPlw6NRMMo",
+        "spotifyId": "7cS75FqPtwhZtWSzFKwnzW",
+        "fandomUrl": "Poesy_of_Chrysolite"
+      },
+      {
+        "id": 825,
+        "title": "Luminescence of Eventide",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "1fPpO4-qBIg",
+        "spotifyId": "3YRpIMbPLRrBXvzi5fxJPU",
+        "fandomUrl": "Luminescence_of_Eventide"
+      },
+      {
+        "id": 826,
+        "title": "Coruscating Street",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "hfrF38SeiME",
+        "spotifyId": "279o2ouBYhWsksgEdmF369",
+        "fandomUrl": "Coruscating_Street"
+      },
+      {
+        "id": 827,
+        "title": "Dreams' Swirling Whispers",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "K2P9FwTXkgU",
+        "spotifyId": "5LPxfyatdLSPYxlm7znics",
+        "fandomUrl": "Dreams%2527_Swirling_Whispers"
+      },
+      {
+        "id": 828,
+        "title": "La nuit silencieuse et paisible",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "rkSFNsSEpnE",
+        "spotifyId": "0pPrJ7a0kzLrmClZGVUseU",
+        "fandomUrl": "La_nuit_silencieuse_et_paisible"
+      },
+      {
+        "id": 829,
+        "title": "Quand la lumiere resplendira",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "87w5NImyStc",
+        "spotifyId": "4KvmuDvt1UYzIi20INNiJs",
+        "fandomUrl": "Quand_la_lumiere_resplendira"
+      },
+      {
+        "id": 830,
+        "title": "Symposion of Spectacle",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "XlSZ3_b02SI",
+        "spotifyId": "5UXkYhdsMS8p7uzoNBgA2P",
+        "fandomUrl": "Symposion_of_Spectacle"
+      },
+      {
+        "id": 831,
+        "title": "Harmonia of Polysynodie",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "wRmH6ig7YXQ",
+        "spotifyId": "6IgFQBq0LtIDC0Guji1eld",
+        "fandomUrl": "Harmonia_of_Polysynodie"
+      },
+      {
+        "id": 832,
+        "title": "Pluie sur la ville",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "osuoqNILLXo",
+        "spotifyId": "5sE33EjGqWk0lSAze2k25L",
+        "fandomUrl": "Pluie_sur_la_ville"
+      },
+      {
+        "id": 833,
+        "title": "Le fleuve secret",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "mlpRq6RXsNI",
+        "spotifyId": "4IZT0ZkprHbIYlScAc8ibw",
+        "fandomUrl": "Le_fleuve_secret"
+      },
+      {
+        "id": 834,
+        "title": "Cakes and Ale for the Exiled",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "Xdz3HXdR69E",
+        "spotifyId": "6mgjcfRdvJyGSAT7acXz2k",
+        "fandomUrl": "Cakes_and_Ale_for_the_Exiled"
+      },
+      {
+        "id": 835,
+        "title": "Romaritime Recollection",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "HAeWvR0aLDk",
+        "spotifyId": "4M1OGiyCRI2owUO0EXUZHv",
+        "fandomUrl": "Romaritime_Recollection"
+      },
+      {
+        "id": 836,
+        "title": "Pilot's Rest",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "R7FUvXskYEc",
+        "spotifyId": "7tDhvwzklo5TmF5butJQIc",
+        "fandomUrl": "Pilot%2527s_Rest"
+      },
+      {
+        "id": 837,
+        "title": "Limpide est le sanglot d'eau",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "tXN28FrVm2Y",
+        "spotifyId": "5S6Vjrm5RORoAajPcprvbA",
+        "fandomUrl": "Limpide_est_le_sanglot_d%2527eau"
+      },
+      {
+        "id": 838,
+        "title": "Clair de lune",
+        "playedAt": ["Open-World Locations", "Quests", ["Events"], "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "jgX-8yqilOI",
+        "spotifyId": "4cYIdz1bfJITLJoR38o5PU",
+        "fandomUrl": "Clair_de_lune"
+      },
+      {
+        "id": 839,
+        "title": "Spring Song",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "_eMVXeoi4xI",
+        "spotifyId": "5B6FmxaVPGDCqquUblVcFl",
+        "fandomUrl": "Spring_Song"
+      },
+      {
+        "id": 840,
+        "title": "Where All Waters Converge",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "OccVHia2I7c",
+        "spotifyId": "6zUJ1GAfxM4oCMnCJ4CY46",
+        "fandomUrl": "Where_All_Waters_Converge"
+      },
+      {
+        "id": 841,
+        "title": "Raven Gloss of Darkness",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "t2THfnfXAsg",
+        "spotifyId": "4ySrzWOk8vq1SgfwQx36JV",
+        "fandomUrl": "Raven_Gloss_of_Darkness"
+      },
+      {
+        "id": 842,
+        "title": "Le spectacle doit continuer",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "w1d7_SE0PzY",
+        "spotifyId": "0S7jJ0L4RpdRyhHjgHA47e",
+        "fandomUrl": "Le_spectacle_doit_continuer"
+      },
+      {
+        "id": 843,
+        "title": "The Oratrice's Verdict",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "qUkxoIu9nfo",
+        "spotifyId": "6IwxGrwKckxuAJJGfACSaE",
+        "fandomUrl": "The_Oratrice%2527s_Verdict"
+      },
+      {
+        "id": 844,
+        "title": "Searching for Clues",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "SIZhOtiGkHk",
+        "spotifyId": "0NQT1dmPWnt4mkmM6OBUsQ",
+        "fandomUrl": "Searching_for_Clues"
+      },
+      {
+        "id": 845,
+        "title": "Sensational Sentence",
+        "playedAt": [
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "Us0uyr5v_tU",
+        "spotifyId": "55F7CDF1bp47i3aPYwvOH5",
+        "fandomUrl": "Sensational_Sentence"
+      },
+      {
+        "id": 846,
+        "title": "Deductive Rendition",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "9-BECZPbXpU",
+        "spotifyId": "3qnkXT4Vsh6DKHBturx9IH",
+        "fandomUrl": "Deductive_Rendition"
+      },
+      {
+        "id": 847,
+        "title": "Contemporary Testimony",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "IYeYiCaDKmA",
+        "spotifyId": "1LbdMnmb49IwW6DHoqvKh4",
+        "fandomUrl": "Contemporary_Testimony"
+      },
+      {
+        "id": 848,
+        "title": "Je sais le nom de l'etranger !",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "rwLT7T5CpPY",
+        "spotifyId": "5oMKgc3S3k2LOYP3FCHp56",
+        "fandomUrl": "Je_sais_le_nom_de_l%2527etranger_%21"
+      },
+      {
+        "id": 849,
+        "title": "Caliginous Hearthfire",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "rlfV6KHe0AM",
+        "spotifyId": "4WeE1vqmkWJpEVJ3dBWZpY",
+        "fandomUrl": "Caliginous_Hearthfire"
+      },
+      {
+        "id": 850,
+        "title": "Il Nome della Rosula",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "PF-vJOjp6Lo",
+        "spotifyId": "0NQsfWCUSij0F9lgkWbl0w",
+        "fandomUrl": "Il_Nome_della_Rosula"
+      },
+      {
+        "id": 851,
+        "title": "Il Crepuscolo di Poisson",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "NX_RLC7udG4",
+        "spotifyId": "0n8YRN3Fdt4gYrX8jCzA9C",
+        "fandomUrl": "Il_Crepuscolo_di_Poisson"
+      },
+      {
+        "id": 852,
+        "title": "Ann's Quiescent Residence",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "N7wowNflnu4",
+        "spotifyId": "0eQ0LwbZO0e2vA9cuIT9nG",
+        "fandomUrl": "Ann%2527s_Quiescent_Residence"
+      },
+      {
+        "id": 853,
+        "title": "Cruising in the Balmy Breeze",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "WuRwbW-yF4c",
+        "spotifyId": "6gtVADqgsUuGlWXE0i4kyZ",
+        "fandomUrl": "Cruising_in_the_Balmy_Breeze"
+      },
+      {
+        "id": 854,
+        "title": "Rippling Wavelet",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "bf9IHO4qbbQ",
+        "spotifyId": "7bYhX8ahLp52hiEiKfTH5v",
+        "fandomUrl": "Rippling_Wavelet"
+      },
+      {
+        "id": 855,
+        "title": "Cerulean Tour",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "zfs2kOqYgZI",
+        "spotifyId": "54QvZkHacgytDYkfm8b1Ht",
+        "fandomUrl": "Cerulean_Tour"
+      },
+      {
+        "id": 856,
+        "title": "Across the Meadows",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "j2ysPe2hjpk",
+        "spotifyId": "64xQGVkJO6C1ecIBwFO4nG",
+        "fandomUrl": "Across_the_Meadows"
+      },
+      {
+        "id": 857,
+        "title": "Cobalt Remembrance",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "QGREo0fx5VE",
+        "spotifyId": "3KgAmJKSYGSg7wHIXTZmCZ",
+        "fandomUrl": "Cobalt_Remembrance"
+      },
+      {
+        "id": 858,
+        "title": "Susurrating Holt",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "NCRewlGBGJM",
+        "spotifyId": "5NqXdclYK5vYjsAK01nVVZ",
+        "fandomUrl": "Susurrating_Holt"
+      },
+      {
+        "id": 859,
+        "title": "Clement Rillet",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "6xwUxcxg5w0",
+        "spotifyId": "5gYkn85KYs0Hfe0d5QMxcM",
+        "fandomUrl": "Clement_Rillet"
+      },
+      {
+        "id": 860,
+        "title": "Reve d'alouette",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "hkmOP6XlNXI",
+        "spotifyId": "34lfGMKF3TPh69XvVuyPtR",
+        "fandomUrl": "Reve_d%2527alouette"
+      },
+      {
+        "id": 861,
+        "title": "Que le vent soit doux",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "8xNMVqg44ts",
+        "spotifyId": "0A0MT6Tn8DCmNfc6Kz2dr7",
+        "fandomUrl": "Que_le_vent_soit_doux"
+      },
+      {
+        "id": 862,
+        "title": "Ondulations du rythme",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "DoGmQGzyLp4",
+        "spotifyId": "0RzXE0iJ5MZ53zxv4UM3lv",
+        "fandomUrl": "Ondulations_du_rythme"
+      },
+      {
+        "id": 863,
+        "title": "Expectation for Exploration",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "nqjbAZVuTng",
+        "spotifyId": "7rFrJUa76Im03Rlj15ZqVT",
+        "fandomUrl": "Expectation_for_Exploration"
+      },
+      {
+        "id": 864,
+        "title": "Peripatetic Peregrination",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "uG-7IoBDkyw",
+        "spotifyId": "48Si7MMwrgljS4pbP1SJXS",
+        "fandomUrl": "Peripatetic_Peregrination"
+      },
+      {
+        "id": 865,
+        "title": "Langage des fleurs",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "xlR_Op96jmE",
+        "spotifyId": "16Em5o5s2w8Zhs0DNyNQub",
+        "fandomUrl": "Langage_des_fleurs"
+      },
+      {
+        "id": 866,
+        "title": "Demain, des l'aube",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "MpBtN42e3WU",
+        "spotifyId": "6sA9pQvAl4vlnRxMWuwDD9",
+        "fandomUrl": "Demain%2C_des_l%2527aube"
+      },
+      {
+        "id": 867,
+        "title": "Les murmures des flots",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "bCF0bkZIL7I",
+        "spotifyId": "2ZLZ1XpvO73NZaJZpvIs5M",
+        "fandomUrl": "Les_murmures_des_flots"
+      },
+      {
+        "id": 868,
+        "title": "Gloomy Drizzle",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "Cuhqr0yQKA0",
+        "spotifyId": "7hSbpEfwPjoRCY0gmNvSCG",
+        "fandomUrl": "Gloomy_Drizzle"
+      },
+      {
+        "id": 869,
+        "title": "Quo Vadis",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "vnWtoot2X3Q",
+        "spotifyId": "1PjqnvAN2jETAF7GXTBnNb",
+        "fandomUrl": "Quo_Vadis"
+      },
+      {
+        "id": 870,
+        "title": "Vespers of Pluviose",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "d77B8NOwIzg",
+        "spotifyId": "2IGeCvegk3V2jyohXf1k9p",
+        "fandomUrl": "Vespers_of_Pluviose"
+      },
+      {
+        "id": 871,
+        "title": "Lustrous Stars",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests", "Events"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "dAJt0_1q5HU",
+        "spotifyId": "1RHVv6maFNHlKAcc4Klfqj",
+        "fandomUrl": "Lustrous_Stars"
+      },
+      {
+        "id": 872,
+        "title": "Sombre of the White Spring",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "UAoUTDKVbDs",
+        "spotifyId": "43zK1u3WAInpq4arHLD3Iq",
+        "fandomUrl": "Sombre_of_the_White_Spring"
+      },
+      {
+        "id": 873,
+        "title": "Floating Into Distance",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "BnTyU5QSye0",
+        "spotifyId": "6MYamqlF1pslpMX9OxpTOt",
+        "fandomUrl": "Floating_Into_Distance"
+      },
+      {
+        "id": 874,
+        "title": "Les Nuits",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "fWFe1OYrex0",
+        "spotifyId": "6Rxi1aDQ6OfhlGqBxWDu8c",
+        "fandomUrl": "Les_Nuits"
+      },
+      {
+        "id": 875,
+        "title": "Nocturnal Illumination",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "cldutghaGKs",
+        "spotifyId": "35YjNszL3bVxu5sOVnrGWo",
+        "fandomUrl": "Nocturnal_Illumination"
+      },
+      {
+        "id": 876,
+        "title": "Intricate Ruse",
+        "playedAt": ["Domains", "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "EtEfbtj-t3Q",
+        "spotifyId": "7wgXIu8Ctqz8TD0FS8RUN6",
+        "fandomUrl": "Intricate_Ruse"
+      },
+      {
+        "id": 877,
+        "title": "Qui me freine a un tel moment",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests", "Events"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "X5Rxs1Z2Xog",
+        "spotifyId": "6bfmNCckxRm9Bwp0E4rdbM",
+        "fandomUrl": "Qui_me_freine_a_un_tel_moment"
+      },
+      {
+        "id": 878,
+        "title": "Nymphs' Tea Party",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "pG8JvfqLq4g",
+        "spotifyId": "5XtLyIoBEFqjUsdkoMKrwV",
+        "fandomUrl": "Nymphs%2527_Tea_Party"
+      },
+      {
+        "id": 879,
+        "title": "Dream Through the Looking-Glass",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "qvb670HkwaE",
+        "spotifyId": "1FNJ52Som0i9jnmKFKuoQJ",
+        "fandomUrl": "Dream_Through_the_Looking-Glass"
+      },
+      {
+        "id": 880,
+        "title": "Melody of Merusea",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "dxCN5r8XI_o",
+        "spotifyId": "1qGdbmYAUfiihHxQL74fIE",
+        "fandomUrl": "Melody_of_Merusea"
+      },
+      {
+        "id": 881,
+        "title": "Miraculous Whisper",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "ETozwSefU0c",
+        "spotifyId": "4U9HbAYmbS21Rjef6NITeA",
+        "fandomUrl": "Miraculous_Whisper"
+      },
+      {
+        "id": 882,
+        "title": "La cite en la mer",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "ENy9JiEaixM",
+        "spotifyId": "59XyZD7w72WDvRhiOqNbio",
+        "fandomUrl": "La_cite_en_la_mer"
+      },
+      {
+        "id": 883,
+        "title": "Passage of an Era",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "yB1-JazWjNE",
+        "spotifyId": "4bp21jpHfKIesaeuxCKX1Q",
+        "fandomUrl": "Passage_of_an_Era"
+      },
+      {
+        "id": 884,
+        "title": "Fading Anticipation",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "BoTr3WOYzDQ",
+        "spotifyId": "2gwb2R3ZHnDamEoXV4K0Sw",
+        "fandomUrl": "Fading_Anticipation"
+      },
+      {
+        "id": 885,
+        "title": "Tranquil Plains",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "6gEpv1D5cig",
+        "spotifyId": "6W8UXGoT8H8P28u2RGUQlD",
+        "fandomUrl": "Tranquil_Plains"
+      },
+      {
+        "id": 886,
+        "title": "Ebb and Flow",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Events"],
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "Qn3n_kW7f4g",
+        "spotifyId": "0oaqGh26M2L0cU32damoIY",
+        "fandomUrl": "Ebb_and_Flow_%28Soundtrack%29"
+      },
+      {
+        "id": 887,
+        "title": "Throughout the Flow of Years",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "PCY01o8BEwY",
+        "spotifyId": "5wZrsjtJDd1mlU9mUPtSKX",
+        "fandomUrl": "Throughout_the_Flow_of_Years"
+      },
+      {
+        "id": 888,
+        "title": "Oath of Many Waters",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "aS7mnduOGqs",
+        "spotifyId": "3WvizAqdAASOywUPfncT71",
+        "fandomUrl": "Oath_of_Many_Waters"
+      },
+      {
+        "id": 889,
+        "title": "Following the Torrent",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "6eJuMFs7J00",
+        "spotifyId": "23oJIVAWglwjwf75g0iPtV",
+        "fandomUrl": "Following_the_Torrent"
+      },
+      {
+        "id": 890,
+        "title": "Surging Reminiscence",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "XeFWyeLBTBU",
+        "spotifyId": "4wAbQ86OeDgLLKCA4evrAv",
+        "fandomUrl": "Surging_Reminiscence"
+      },
+      {
+        "id": 891,
+        "title": "Diaphanous Dream",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "aoBoVtvkH5w",
+        "spotifyId": "6rAj1nRJlAuPFBckdMDdRn",
+        "fandomUrl": "Diaphanous_Dream"
+      },
+      {
+        "id": 892,
+        "title": "Shade of Flowers",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "dHxfxIS7gvg",
+        "spotifyId": "4L3mxU5BPS5jKD2oSnKyMA",
+        "fandomUrl": "Shade_of_Flowers"
+      },
+      {
+        "id": 893,
+        "title": "Les etoiles semblent s'estomper",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "LsJqMfFWQx8",
+        "spotifyId": "6Picnc65DCkfdbCcEf4DqT",
+        "fandomUrl": "Les_etoiles_semblent_s%2527estomper"
+      },
+      {
+        "id": 894,
+        "title": "Calamitous Tides",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "2q16RgPnQbc",
+        "spotifyId": "6zBK1Eb3xloYcZWJKr5PYS",
+        "fandomUrl": "Calamitous_Tides"
+      },
+      {
+        "id": 895,
+        "title": "Ann's Anapausis",
+        "playedAt": [
+          "Open-World Locations",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "JR04sXOFEDo",
+        "spotifyId": "1sBVF1CL4ZDZraWaF6My5b",
+        "fandomUrl": "Ann%2527s_Anapausis"
+      },
+      {
+        "id": 896,
+        "title": "Marcescent Floret",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "93n1HNy0XTU",
+        "spotifyId": "3QD7qmgJr29GuEOxEQPPhX",
+        "fandomUrl": "Marcescent_Floret"
+      },
+      {
+        "id": 897,
+        "title": "All in the Golden Afternoon",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "ixWLG5MRL8c",
+        "spotifyId": "2jXv2SOtp8E0NSXOLyQxHB",
+        "fandomUrl": "All_in_the_Golden_Afternoon"
+      },
+      {
+        "id": 898,
+        "title": "Withered Wreath of Flowers",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "dpVXFarK6HQ",
+        "spotifyId": "28pvFX66wNBZhX4RXoYIQr",
+        "fandomUrl": "Withered_Wreath_of_Flowers"
+      },
+      {
+        "id": 899,
+        "title": "Ancient Reverberation",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "o568Wbr4Grc",
+        "spotifyId": "53zHmaGY6NtGlncSLBQalP",
+        "fandomUrl": "Ancient_Reverberation"
+      },
+      {
+        "id": 900,
+        "title": "The Shadow Out of Time",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "20Nve6yU8cM",
+        "spotifyId": "6A0ZSEtDyiXXgwLNjazMII",
+        "fandomUrl": "The_Shadow_Out_of_Time"
+      },
+      {
+        "id": 901,
+        "title": "Till All the Seas",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "ulhgmJt29HQ",
+        "spotifyId": "22PWyDLazZjMlKPJwz1Kwu",
+        "fandomUrl": "Till_All_the_Seas"
+      },
+      {
+        "id": 902,
+        "title": "The Vision and the Voice",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "qjx6gFfknqE",
+        "spotifyId": "6CR16dFgs8OKXhy50agP3U",
+        "fandomUrl": "The_Vision_and_the_Voice"
+      },
+      {
+        "id": 903,
+        "title": "Revelatio Finalis",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "qbMAT4Ece1Q",
+        "spotifyId": "4BaY4JeafQoF7IH9dhNrDv",
+        "fandomUrl": "Revelatio_Finalis"
+      },
+      {
+        "id": 904,
+        "title": "Ex Favilla Incendi",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "G5T7LJLDmoM",
+        "spotifyId": "1jTiPisZNk9VqXCevY7vOA",
+        "fandomUrl": "Ex_Favilla_Incendi"
+      },
+      {
+        "id": 905,
+        "title": "Sequestered Springs",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "-HfN0fhA42E",
+        "spotifyId": "6xowtoVK3H9QKkAlmxGEQe",
+        "fandomUrl": "Sequestered_Springs"
+      },
+      {
+        "id": 906,
+        "title": "Le dormeur du val",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "hXN4Og12nwE",
+        "spotifyId": "3ketZx9ZeocMpq27E32hAl",
+        "fandomUrl": "Le_dormeur_du_val"
+      },
+      {
+        "id": 907,
+        "title": "Trail of Shadows",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "_Ehrgm43qi4",
+        "spotifyId": "3rwLBTPaptJPzuJvmWsHsV",
+        "fandomUrl": "Trail_of_Shadows"
+      },
+      {
+        "id": 908,
+        "title": "Path of Desolation",
+        "playedAt": ["Domains", "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "MwQ_k-t-F8w",
+        "spotifyId": "6azWDqYSvcKpbZzgtCFC1T",
+        "fandomUrl": "Path_of_Desolation"
+      },
+      {
+        "id": 909,
+        "title": "Obscure Obsession",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "SwocvTy51O4",
+        "spotifyId": "6F7jJcs7VAHnFwi1ipdSpD",
+        "fandomUrl": "Obscure_Obsession"
+      },
+      {
+        "id": 910,
+        "title": "Rondeau des fleurs et des rapieres",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Special Gameplay",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Fontaine",
+        "youtubeId": "lsSz0to5MnA",
+        "spotifyId": "5IS84qb7q67X6lCpiV7wC5",
+        "fandomUrl": "Rondeau_des_fleurs_et_des_rapieres"
+      },
+      {
+        "id": 911,
+        "title": "Lamentation et Triomphe",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Special Gameplay",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "MCNFSzVHrxA",
+        "spotifyId": "1ES8b4IBiOXWwUmk66mCYE",
+        "fandomUrl": "Lamentation_et_Triomphe"
+      },
+      {
+        "id": 912,
+        "title": "Virelai des marees",
+        "playedAt": ["Open-World Combat", "Domains", "Event Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "khHAaErEqTQ",
+        "spotifyId": "71pnZOhidnDBzgODJIEFZ3",
+        "fandomUrl": "Virelai_des_marees"
+      },
+      {
+        "id": 913,
+        "title": "Aubade of Coppelia",
+        "playedAt": ["Open-World Combat", "Event Gameplay", "Media"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "OyjtZ7jhtSY",
+        "spotifyId": "5kc4KdJDpYnIL2ANg0cv31",
+        "fandomUrl": "Aubade_of_Coppelia"
+      },
+      {
+        "id": 914,
+        "title": "Envoi of Coppelius",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "wNPnIfJJTxY",
+        "spotifyId": "4IqbcHtfreV0Rh6uNqhXgF",
+        "fandomUrl": "Envoi_of_Coppelius"
+      }
+    ]
   }
 ]
