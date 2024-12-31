@@ -10408,5 +10408,713 @@
         "fandomUrl": "Se_mettre_sur_son_trente-et-un_%21"
       }
     ]
+  },
+  {
+    "title": "Pelagic Primaevality",
+    "songs": [
+      {
+        "id": 943,
+        "title": "Mellow Alize",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "QSJZyx8Sdxk",
+        "spotifyId": "12mJ5Du7ETzuywCYmKCrhg",
+        "fandomUrl": "Mellow_Alize"
+      },
+      {
+        "id": 944,
+        "title": "Lumidouce's Repose",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "0IFUMqEDfbo",
+        "spotifyId": "4JtLDLJVROlPS65UnwHEui",
+        "fandomUrl": "Lumidouce%2527s_Repose"
+      },
+      {
+        "id": 945,
+        "title": "Toast to Coast",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "LE7HEOi8p88",
+        "spotifyId": "3ndrDXHWjXrGCehl1KDRlT",
+        "fandomUrl": "Toast_to_Coast"
+      },
+      {
+        "id": 946,
+        "title": "Willow of Sorrow",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "tlTDMnlIymU",
+        "spotifyId": "0GiRAOgJD5BIEtTrUwxzIC",
+        "fandomUrl": "Willow_of_Sorrow"
+      },
+      {
+        "id": 947,
+        "title": "Loch's Revitalization",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "toGFtRkhT_I",
+        "spotifyId": "2mxWETJ8MKA5ClhNDmm2A6",
+        "fandomUrl": "Loch%2527s_Revitalization"
+      },
+      {
+        "id": 948,
+        "title": "Neath the Fountain",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Event Gameplay"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "S3O43t9trEE",
+        "spotifyId": "4n6IHp9LxyPemzSzPDKSR3",
+        "fandomUrl": "Neath_the_Fountain"
+      },
+      {
+        "id": 949,
+        "title": "Les fumees blanches",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "Jgu4FPIhwe4",
+        "spotifyId": "0CwVDttjNbcT5aFgt9FQ9g",
+        "fandomUrl": "Les_fumees_blanches"
+      },
+      {
+        "id": 950,
+        "title": "Songe de la plus haute tour",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "xFqJD5HPvJw",
+        "spotifyId": "5jpxXPxqYc3ECUHFPHform",
+        "fandomUrl": "Songe_de_la_plus_haute_tour"
+      },
+      {
+        "id": 951,
+        "title": "Magick Without Tears",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "KlZeFYF2yIA",
+        "spotifyId": "1tfflArUgQXNVDtZL9fXLT",
+        "fandomUrl": "Magick_Without_Tears"
+      },
+      {
+        "id": 952,
+        "title": "Veiled in Shadows",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "Rm_pGYU1zDY",
+        "spotifyId": "6SCVqTcjxbQlR3ZbM8BjPS",
+        "fandomUrl": "Veiled_in_Shadows"
+      },
+      {
+        "id": 953,
+        "title": "Narcissus Without Water",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "-fwmY_ieY1Y",
+        "spotifyId": "3mBe5j1QJxQ2yrw9Mdsggs",
+        "fandomUrl": "Narcissus_Without_Water"
+      },
+      {
+        "id": 954,
+        "title": "Ordeals, Rituals, Laws",
+        "playedAt": ["Open-World Combat"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "rVs3h9HYUV4",
+        "spotifyId": "652uTwuZyUcfSRqNWKaWAn",
+        "fandomUrl": "Ordeals%2C_Rituals%2C_Laws"
+      },
+      {
+        "id": 955,
+        "title": "Lonely Melody of Yore",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "glb9py4WYUo",
+        "spotifyId": "0aI94Kj6YNW3KF5fr3TLNp",
+        "fandomUrl": "Lonely_Melody_of_Yore"
+      },
+      {
+        "id": 956,
+        "title": "La mer, la mere",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "rQyoixjA2lE",
+        "spotifyId": "3BAeiYr1Xjaj9KbYgVf4ZY",
+        "fandomUrl": "La_mer%2C_la_mere"
+      },
+      {
+        "id": 957,
+        "title": "Les voici ! Voici le duo !",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "4v49YXHqK9I",
+        "spotifyId": "5Ca4ffd7hbx5t7qoyjXtCD",
+        "fandomUrl": "Les_voici_%21_Voici_le_duo_%21"
+      },
+      {
+        "id": 958,
+        "title": "Incontro: Bellezza e Rosula",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "UMoyTZi48_o",
+        "spotifyId": "1C8eFDaaBJv72UdT3S3kHL",
+        "fandomUrl": "Incontro%3A_Bellezza_e_Rosula"
+      },
+      {
+        "id": 959,
+        "title": "Beneath Light and Shadow",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "cIyhNiHNjnc",
+        "spotifyId": "512VqCBBj4a4VWwFhFop4I",
+        "fandomUrl": "Beneath_Light_and_Shadow"
+      },
+      {
+        "id": 960,
+        "title": "Retribution, Served Cold",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "NLvErxXpOt8",
+        "spotifyId": "3TwywkvCKQddSVjKDWtEhM",
+        "fandomUrl": "Retribution%2C_Served_Cold"
+      },
+      {
+        "id": 961,
+        "title": "La derniere opportunite",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains"
+        ],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "bQvPp03_Ygk",
+        "spotifyId": "5YVi6cHYb4dQO8SKmdbbbO",
+        "fandomUrl": "La_derniere_opportunite"
+      },
+      {
+        "id": 962,
+        "title": "Les muets",
+        "playedAt": ["Domains"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "2B1dCdJo3Yk",
+        "spotifyId": "5wnIlHq1xatmyTAnrFIHZ6",
+        "fandomUrl": "Les_muets"
+      },
+      {
+        "id": 963,
+        "title": "L'envers et l'endroit",
+        "playedAt": ["Domains"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "hIOoxGD_ZsE",
+        "spotifyId": "1AGvW1X0xkScULmpvGNmHC",
+        "fandomUrl": "L%2527envers_et_l%2527endroit"
+      },
+      {
+        "id": 964,
+        "title": "Prophetie of Predestination",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "s0Pp7RdjjWU",
+        "spotifyId": "4dY9c466e760MYRCeMDNbF",
+        "fandomUrl": "Prophetie_of_Predestination"
+      },
+      {
+        "id": 965,
+        "title": "Le commencement de la fin",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "kuYs3etUpsM",
+        "spotifyId": "3nzzR1qdlDYEGxdKkaMP9a",
+        "fandomUrl": "Le_commencement_de_la_fin"
+      },
+      {
+        "id": 966,
+        "title": "Comme il vous plaira",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "nE_UdwZIuS0",
+        "spotifyId": "1rnoBhJ6f2z7UDVHoOGjNB",
+        "fandomUrl": "Comme_il_vous_plaira"
+      },
+      {
+        "id": 967,
+        "title": "The Last Rose of the Sinner",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "GMo8jlrTSFI",
+        "spotifyId": "7BxYV9TA6Xg1La8SDJXudg",
+        "fandomUrl": "The_Last_Rose_of_the_Sinner"
+      },
+      {
+        "id": 968,
+        "title": "Crepuscule des idoles",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "Wfnam0rL7Ew",
+        "spotifyId": "5Z1QHOzKL26hSh8sOY7gHt",
+        "fandomUrl": "Crepuscule_des_idoles"
+      },
+      {
+        "id": 969,
+        "title": "Clio's Memoirs",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "TcUzuMxEf9o",
+        "spotifyId": "0XMyR67cQLootY3hWRmoJR",
+        "fandomUrl": "Clio%2527s_Memoirs"
+      },
+      {
+        "id": 970,
+        "title": "Thelxie's Murmurs",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Fontaine",
+        "youtubeId": "ISLi9IxSrNk",
+        "spotifyId": "5Z7I45sOaFFMVSkUSWvyal",
+        "fandomUrl": "Thelxie%2527s_Murmurs"
+      },
+      {
+        "id": 971,
+        "title": "Rainbow Cradlesong",
+        "playedAt": ["Quests", ["Story Quests", "Events"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "DE2y5iPrQEU",
+        "spotifyId": "2DhSlnRxBJ6ku3KBOWhfeg",
+        "fandomUrl": "Rainbow_Cradlesong"
+      },
+      {
+        "id": 972,
+        "title": "Coral Coronation",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Event",
+        "region": "Fontaine",
+        "youtubeId": "GE39Q-51vxw",
+        "spotifyId": "2PvieN4Zj3xxkRNoK2YjxQ",
+        "fandomUrl": "Coral_Coronation"
+      },
+      {
+        "id": 973,
+        "title": "Dream Anamnesis",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "HzRwOOmxhnM",
+        "spotifyId": "6NTK6l4mUYd5xfIZALSok5",
+        "fandomUrl": "Dream_Anamnesis"
+      },
+      {
+        "id": 974,
+        "title": "A Narcissus Lullaby",
+        "playedAt": ["Open-World Locations", "Quests", ["World Quests"]],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "3hQSUMOTtu0",
+        "spotifyId": "7xkuZ8mK9FMr3rSCsJ4PPy",
+        "fandomUrl": "A_Narcissus_Lullaby"
+      },
+      {
+        "id": 975,
+        "title": "Clockwork Waltz",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "M3DBK0wpqr0",
+        "spotifyId": "3x8inQ5FHMNrkIiFs1nc3v",
+        "fandomUrl": "Clockwork_Waltz"
+      },
+      {
+        "id": 976,
+        "title": "The Rotating Realm",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Domains",
+          "Serenitea Pot",
+          "Event Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "gFoQ7XPWa5s",
+        "spotifyId": "7tKSAeGdHSgwOIGKK5s8rd",
+        "fandomUrl": "The_Rotating_Realm"
+      },
+      {
+        "id": 977,
+        "title": "Welcome to the Industry",
+        "playedAt": ["Open-World Locations", "Domains"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "d90UTnzTTQk",
+        "spotifyId": "2cqCfrAJjIyo8pAvj2TrZF",
+        "fandomUrl": "Welcome_to_the_Industry"
+      },
+      {
+        "id": 978,
+        "title": "Sting Like a Bee!",
+        "playedAt": ["Quests", ["World Quests"]],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "L7AtLW4VQXU",
+        "spotifyId": "0bF2gupRzQSlghzoVv4KTT",
+        "fandomUrl": "Sting_Like_a_Bee%21"
+      },
+      {
+        "id": 979,
+        "title": "Le duc sous l'eau",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "HjXynbcqAp4",
+        "spotifyId": "7nORD62JlJeBSv52adDi11",
+        "fandomUrl": "Le_duc_sous_l%2527eau"
+      },
+      {
+        "id": 980,
+        "title": "Crystal Curtains",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "mKKcKE1xnLA",
+        "spotifyId": "6vStiMMm0HBHKhVkLDnlpE",
+        "fandomUrl": "Crystal_Curtains"
+      },
+      {
+        "id": 981,
+        "title": "Submerged Meditation",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "OweXNB2_4dg",
+        "spotifyId": "4d4hGzlyBJ9IQzgPf41XkJ",
+        "fandomUrl": "Submerged_Meditation"
+      },
+      {
+        "id": 982,
+        "title": "Whale's Whisper",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "AaNK76TNsss",
+        "spotifyId": "4ZQrUJYnzYeCaJ5v4Ozetn",
+        "fandomUrl": "Whale%2527s_Whisper"
+      },
+      {
+        "id": 983,
+        "title": "No Trespassing",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "0z1T32FmxJA",
+        "spotifyId": "4xejiH9wLSlrc9nDMBdD3S",
+        "fandomUrl": "No_Trespassing"
+      },
+      {
+        "id": 984,
+        "title": "Restoration Through Labor",
+        "playedAt": ["Open-World Locations", "Domains", "Event Gameplay"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "p6HxGc65lJo",
+        "spotifyId": "0F4I1LWL4dyBJ6vjw7PHi0",
+        "fandomUrl": "Restoration_Through_Labor"
+      },
+      {
+        "id": 985,
+        "title": "To Each What He Deserves",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "mM0W4d7J4G0",
+        "spotifyId": "7jvQwgEWBcqHrzVdclzN0k",
+        "fandomUrl": "To_Each_What_He_Deserves"
+      },
+      {
+        "id": 986,
+        "title": "Rhythm of Inquiry",
+        "playedAt": ["Open-World Locations", "Domains", "Serenitea Pot"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "I44lXU1U1hQ",
+        "spotifyId": "4gOBTHEIlosO1zNc2fqpwt",
+        "fandomUrl": "Rhythm_of_Inquiry"
+      },
+      {
+        "id": 987,
+        "title": "Crystalline Path",
+        "playedAt": [
+          "Open-World Locations",
+          "Domains",
+          "Serenitea Pot",
+          "Event Gameplay"
+        ],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "pyTTegT9biM",
+        "spotifyId": "44ZL8fcoqLZLDFYJS6VCDM",
+        "fandomUrl": "Crystalline_Path"
+      },
+      {
+        "id": 988,
+        "title": "Refractions of Silence",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "hcgxAieNVK4",
+        "spotifyId": "3IZqJyQSpzZtyYChpv88PE",
+        "fandomUrl": "Refractions_of_Silence"
+      },
+      {
+        "id": 989,
+        "title": "Un nouvel espoir",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "2JHZ8yWwuSc",
+        "spotifyId": "5n7wJEU7zYfemHoyO524Cw",
+        "fandomUrl": "Un_nouvel_espoir"
+      },
+      {
+        "id": 990,
+        "title": "Comedy of Errors",
+        "playedAt": ["Open-World Locations", "Event Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "0HwG2Nymjq0",
+        "spotifyId": "2lg8OkoIwo9iZHC2kHz8sX",
+        "fandomUrl": "Comedy_of_Errors"
+      },
+      {
+        "id": 991,
+        "title": "The Faded Idyll",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "FIni1-Zsyk8",
+        "spotifyId": "2T3DJ5nWVOiQH2XLFpIhwE",
+        "fandomUrl": "The_Faded_Idyll"
+      },
+      {
+        "id": 992,
+        "title": "Resonance of Longing",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "USnqUu5dRyA",
+        "spotifyId": "1WFXL8USilEB4mNB26yrKP",
+        "fandomUrl": "Resonance_of_Longing"
+      },
+      {
+        "id": 993,
+        "title": "The Drifting Beauty",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "XxW8zc1kctg",
+        "spotifyId": "3Ju4HArB09dKH3QxlE7wsp",
+        "fandomUrl": "The_Drifting_Beauty"
+      },
+      {
+        "id": 994,
+        "title": "Huldra's Retreat",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "s7OQMxgk7EU",
+        "spotifyId": "7mLwL4HN2dDIookkJSl8Ux",
+        "fandomUrl": "Huldra%2527s_Retreat"
+      },
+      {
+        "id": 995,
+        "title": "Vestige of Belleau",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "dYVcw-5bcmk",
+        "spotifyId": "7qzcSHiRxb2SwVsrLVdBc3",
+        "fandomUrl": "Vestige_of_Belleau"
+      },
+      {
+        "id": 996,
+        "title": "Whispering Dewdrops",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "JMhB6x-GykQ",
+        "spotifyId": "3zBxJxyK1rQ2qShWQ8yZ5T",
+        "fandomUrl": "Whispering_Dewdrops"
+      },
+      {
+        "id": 997,
+        "title": "A Sweet Dream in Fontaine",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "pQfwSKNizQQ",
+        "spotifyId": "4UDQGhDrJqVg2o7MdGOM5y",
+        "fandomUrl": "A_Sweet_Dream_in_Fontaine"
+      },
+      {
+        "id": 998,
+        "title": "Moonlit Tides",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "luNFjAJoIPg",
+        "spotifyId": "42QNUKmnICLaHqN9kLbAIT",
+        "fandomUrl": "Moonlit_Tides"
+      },
+      {
+        "id": 999,
+        "title": "Sink Into Slumber",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "6P58TYpF8uU",
+        "spotifyId": "4XG9Y0b80jPdezkU65uTxL",
+        "fandomUrl": "Sink_Into_Slumber"
+      },
+      {
+        "id": 1000,
+        "title": "Floating Lullaby",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "iwIOVp0rU24",
+        "spotifyId": "4NV2QBvYpaVPTRXTqrpcr3",
+        "fandomUrl": "Floating_Lullaby"
+      },
+      {
+        "id": 1001,
+        "title": "Gymnopedies of Lune",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "PhLoPSzAn04",
+        "spotifyId": "1EZocFLE91jAiZo3tuNdeo",
+        "fandomUrl": "Gymnopedies_of_Lune"
+      },
+      {
+        "id": 1002,
+        "title": "Par les soirs bleus d'ete",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "be6jchNPoQ8",
+        "spotifyId": "1e95HXSuAWn87OqXhHYDQB",
+        "fandomUrl": "Par_les_soirs_bleus_d%2527ete"
+      },
+      {
+        "id": 1003,
+        "title": "Les rivieres aeriennes",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "WM0hLVTpEzo",
+        "spotifyId": "3RyJPbgRSjx862kcuwoJtJ",
+        "fandomUrl": "Les_rivieres_aeriennes"
+      },
+      {
+        "id": 1004,
+        "title": "Aloft the Realm of Gears",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "AyS0Q4j7wco",
+        "spotifyId": "3LApZwbNg2q8GQBvMPQRUu",
+        "fandomUrl": "Aloft_the_Realm_of_Gears"
+      },
+      {
+        "id": 1005,
+        "title": "Truncated Verse",
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "BfZlrB8fpC4",
+        "spotifyId": "4So9tIz2QRLqSzfJebF2Py",
+        "fandomUrl": "Truncated_Verse"
+      },
+      {
+        "id": 1006,
+        "title": "Les tenebres et l'oubli",
+        "playedAt": ["Open-World Locations"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "sbfEVk7Nxz4",
+        "spotifyId": "4o5gGLUrMaRU1zlpST7460",
+        "fandomUrl": "Les_tenebres_et_l%2527oubli"
+      },
+      {
+        "id": 1007,
+        "title": "Chordal Past",
+        "playedAt": ["Open-World Locations"],
+        "type": "Quest",
+        "region": "Fontaine",
+        "youtubeId": "8bmCILOHfg8",
+        "spotifyId": "6Kc06w7Pxrgv2mKRZ0KAzv",
+        "fandomUrl": "Chordal_Past"
+      },
+      {
+        "id": 1008,
+        "title": "Le secret cache",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Fontaine",
+        "youtubeId": "EU2SGoC14o8",
+        "spotifyId": "5hexVYBMAwc8bRNEMP2qux",
+        "fandomUrl": "Le_secret_cache"
+      },
+      {
+        "id": 1009,
+        "title": "Eschatologia Iudicata",
+        "playedAt": ["Domains"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "VQioRMgtB-k",
+        "spotifyId": "5SHzX6M9La5azqQF9JVJCq",
+        "fandomUrl": "Eschatologia_Iudicata"
+      },
+      {
+        "id": 1010,
+        "title": "Silhouette of Catastrophe",
+        "playedAt": ["Domains"],
+        "type": "Boss",
+        "region": "Fontaine",
+        "youtubeId": "lweHfPL81Eo",
+        "spotifyId": "0iU3NzSKZbcLdvhGEmW2H1",
+        "fandomUrl": "Silhouette_of_Catastrophe"
+      }
+    ]
   }
 ]

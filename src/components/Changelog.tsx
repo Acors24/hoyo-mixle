@@ -16,6 +16,7 @@ const history = [
       `Added "Fountain of Belleau" album (Genshin Impact)`,
       `Added "La vaguelette" album (Genshin Impact)`,
       `Added "The Stellar Moments Vol. 4" album (Genshin Impact)`,
+      `Added "Pelagic Primaevality" album (Genshin Impact)`,
     ],
   },
   {
