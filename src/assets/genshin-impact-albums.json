@@ -6731,5 +6731,270 @@
         "fandomUrl": "Jolts_in_the_Forest"
       }
     ]
+  },
+  {
+    "title": "The Stellar Moments Vol. 3",
+    "songs": [
+      {
+        "id": 608,
+        "title": "Time to Shine",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "Arf8nmW4tmc",
+        "spotifyId": "1cxTovnLTwYuQEex52KuYl",
+        "fandomUrl": "Time_to_Shine"
+      },
+      {
+        "id": 609,
+        "title": "The Spotlight's on Me!",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "islGmBeMtjE",
+        "spotifyId": "0GkdpwuRA7YTatoGW4j1Wg",
+        "fandomUrl": "The_Spotlight%2527s_on_Me%21"
+      },
+      {
+        "id": 610,
+        "title": "Astute and Fearless Leader",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "ymW6CmVBYI4",
+        "spotifyId": "30yjnKACVun2gXEu5GMM6Y",
+        "fandomUrl": "Astute_and_Fearless_Leader"
+      },
+      {
+        "id": 611,
+        "title": "As Charming as Ever",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "1S-tWymGCvI",
+        "spotifyId": "5DI9bBLY71nGHCskmVrqKG",
+        "fandomUrl": "As_Charming_as_Ever"
+      },
+      {
+        "id": 612,
+        "title": "Days Free of Anguish",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "V7cSucveUiQ",
+        "spotifyId": "2yE8dKJfaB7UeEhpAYKJSw",
+        "fandomUrl": "Days_Free_of_Anguish"
+      },
+      {
+        "id": 613,
+        "title": "The Crane Cries",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "vNMNGwbXajE",
+        "spotifyId": "10CEeUwA32ncqXH8ZXoqD0",
+        "fandomUrl": "The_Crane_Cries"
+      },
+      {
+        "id": 614,
+        "title": "Chapter of a New Era",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "dscXN_ymQjU",
+        "spotifyId": "27AkA3XJzHZ5ZkJ9O6eRr2",
+        "fandomUrl": "Chapter_of_a_New_Era"
+      },
+      {
+        "id": 615,
+        "title": "As Miko Pleases",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "iD761xDIu0w",
+        "spotifyId": "2WcamW79ZU9WGJAQ5lwX1o",
+        "fandomUrl": "As_Miko_Pleases"
+      },
+      {
+        "id": 616,
+        "title": "Nothing but Trickery",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "3-40exJ0jGY",
+        "spotifyId": "2hFKWDpAv2RISXcDYVEmO3",
+        "fandomUrl": "Nothing_but_Trickery"
+      },
+      {
+        "id": 617,
+        "title": "Wishes Unspoken",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "F2RHNabLMX0",
+        "spotifyId": "1yQhBoSgpAA8V0AHWAS5g1",
+        "fandomUrl": "Wishes_Unspoken"
+      },
+      {
+        "id": 618,
+        "title": "Serene and Fathomless",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "xmBUSYgGeVs",
+        "spotifyId": "082fG4OpnIoePJ1X8SBCRB",
+        "fandomUrl": "Serene_and_Fathomless"
+      },
+      {
+        "id": 619,
+        "title": "There Is No Escape",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "cvz-4S1WMuE",
+        "spotifyId": "6rNRDriXcRwYTpVbbalESN",
+        "fandomUrl": "There_Is_No_Escape"
+      },
+      {
+        "id": 620,
+        "title": "Graceful Dexterity",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "VaCfr1ydBdE",
+        "spotifyId": "6DGuhuHZbho9Xn8ewjPOlt",
+        "fandomUrl": "Graceful_Dexterity"
+      },
+      {
+        "id": 621,
+        "title": "Adroit Deputy",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "FS_ZYGdcWAo",
+        "spotifyId": "4RkXW91tNvOMerzwk4mFbD",
+        "fandomUrl": "Adroit_Deputy"
+      },
+      {
+        "id": 622,
+        "title": "Storm Chaser",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "dnSO9qoN5oA",
+        "spotifyId": "6gNnHOEKj57yi5lsFyRGyx",
+        "fandomUrl": "Storm_Chaser"
+      },
+      {
+        "id": 623,
+        "title": "Evening Luxury",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Mondstadt",
+        "youtubeId": "SG3z1_NMPUw",
+        "spotifyId": "1GuRgII0eD8pKuK2SJejmu",
+        "fandomUrl": "Evening_Luxury"
+      },
+      {
+        "id": 624,
+        "title": "Winding Through Avidya",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "4fULTzFIddg",
+        "spotifyId": "2fPEhyR9tmTZt3mPclZd5v",
+        "fandomUrl": "Winding_Through_Avidya"
+      },
+      {
+        "id": 625,
+        "title": "Caprice of the Leaves",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "3O3MRKGbDYs",
+        "spotifyId": "6TpGHTm9BdyBSj5zr4C1az",
+        "fandomUrl": "Caprice_of_the_Leaves"
+      },
+      {
+        "id": 626,
+        "title": "Thanks for Your Patronage!",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "bwXFE9VRFnw",
+        "spotifyId": "45lLVMJ0Jg9sBPLwJrgQag",
+        "fandomUrl": "Thanks_for_Your_Patronage%21"
+      },
+      {
+        "id": 627,
+        "title": "Chant of Nine Bows",
+        "playedAt": ["Quests", ["Story Quests"], "Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "crzb93011n4",
+        "spotifyId": "0AbFP8AzhYILkqbqnFYK3W",
+        "fandomUrl": "Chant_of_Nine_Bows"
+      },
+      {
+        "id": 628,
+        "title": "Order of Silence",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "vu-6T727eaY",
+        "spotifyId": "5GgJx8z9yJxovd9LxXsj4Z",
+        "fandomUrl": "Order_of_Silence"
+      },
+      {
+        "id": 629,
+        "title": "Nephrite of Deshret",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "GO4tzRMNRl4",
+        "spotifyId": "5Cko4gSWarrbBJHlNCxZ1O",
+        "fandomUrl": "Nephrite_of_Deshret"
+      },
+      {
+        "id": 630,
+        "title": "Lotus of Haftkarsvar",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "FxhSQ29TctE",
+        "spotifyId": "7MAm4fEZuFunKiQKxPjX2M",
+        "fandomUrl": "Lotus_of_Haftkarsvar"
+      },
+      {
+        "id": 631,
+        "title": "Surreal Noctivaga",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "dzb6LAsJxWY",
+        "spotifyId": "5bjbmRK8WIu1peUD3qgX3Q",
+        "fandomUrl": "Surreal_Noctivaga"
+      },
+      {
+        "id": 632,
+        "title": "Dreamy Felicitation",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "nxDHyoynSI4",
+        "spotifyId": "13UiHGptSnHO9T234zGo3X",
+        "fandomUrl": "Dreamy_Felicitation"
+      },
+      {
+        "id": 633,
+        "title": "Surasthana Fantasia",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "a64fqO0qtAY",
+        "spotifyId": "2nIPnuqm1z0wITCSV5di22",
+        "fandomUrl": "Surasthana_Fantasia"
+      }
+    ]
   }
 ]
