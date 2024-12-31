@@ -5352,5 +5352,160 @@
         "fandomUrl": "Song_of_Innocence"
       }
     ]
+  },
+  {
+    "title": "Footprints of the Traveler",
+    "songs": [
+      {
+        "id": 493,
+        "title": "A New Star Approaches",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "ZCArFXlIxJA",
+        "spotifyId": "3RfVKiTJp3xCmYgxQbK3Rt",
+        "fandomUrl": "A_New_Star_Approaches_%28Soundtrack%29"
+      },
+      {
+        "id": 494,
+        "title": "The Chalk Prince and the Dragon",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Dragonspine",
+        "youtubeId": "z1EdeaVe9qA",
+        "spotifyId": "0GhbqDhr4LOBewuJDivFyg",
+        "fandomUrl": "The_Chalk_Prince_and_the_Dragon_%28Soundtrack%29"
+      },
+      {
+        "id": 495,
+        "title": "All That Glitters",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "dFORIrfw2zc",
+        "spotifyId": "4uBD12E2Z25Ow9CcXq2J7p",
+        "fandomUrl": "All_That_Glitters_%28Soundtrack%29"
+      },
+      {
+        "id": 496,
+        "title": "Invitation of Windblume",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Mondstadt",
+        "youtubeId": "YuiBMPiq6Wg",
+        "spotifyId": "47OZbG6MMFM56Fad7bqzyp",
+        "fandomUrl": "Invitation_of_Windblume_%28Footprints_of_the_Traveler%29"
+      },
+      {
+        "id": 497,
+        "title": "Beneath the Light of Jadeite",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "mmYchrwJn-I",
+        "spotifyId": "4KvgEMkKfWjNCA8oGhtC5o",
+        "fandomUrl": "Beneath_the_Light_of_Jadeite_%28Soundtrack%29"
+      },
+      {
+        "id": 498,
+        "title": "Midsummer Island Adventure",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "RmgHerT_UEI",
+        "spotifyId": "7neihdqFkSxZmC1vJcLj2G",
+        "fandomUrl": "Midsummer_Island_Adventure_%28Soundtrack%29"
+      },
+      {
+        "id": 499,
+        "title": "The Immovable God and the Eternal Euthymia",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "HQOZ8aUlN0A",
+        "spotifyId": "19gjP0BHBkW9aFLQRHyoeC",
+        "fandomUrl": "The_Immovable_God_and_the_Eternal_Euthymia_%28Soundtrack%29"
+      },
+      {
+        "id": 500,
+        "title": "Floating World Under the Moonlight",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "_wul3bdTpLs",
+        "spotifyId": "4yso0v5t48ODcByJgoJfB2",
+        "fandomUrl": "Floating_World_Under_the_Moonlight_%28Soundtrack%29"
+      },
+      {
+        "id": 501,
+        "title": "Into the Perilous Labyrinth of Fog",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "qpE9Qux0Caw",
+        "spotifyId": "3DclYfLkdd5Wl7HzC19RLq",
+        "fandomUrl": "Into_the_Perilous_Labyrinth_of_Fog_%28Soundtrack%29"
+      },
+      {
+        "id": 502,
+        "title": "Shadows Amidst Snowstorms",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Special",
+        "region": "Dragonspine",
+        "youtubeId": "PAdm41t5GZY",
+        "spotifyId": "4bWYfeajfjh8MxZ2deO85I",
+        "fandomUrl": "Shadows_Amidst_Snowstorms_%28Soundtrack%29"
+      },
+      {
+        "id": 503,
+        "title": "Fleeting Colors in Flight",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "fm0nowDMY3A",
+        "spotifyId": "2xzTRZ5fjvsyeH7NclNXid",
+        "fandomUrl": "Fleeting_Colors_in_Flight_%28Soundtrack%29"
+      },
+      {
+        "id": 504,
+        "title": "When the Sakura Bloom",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "IAtQs-wJqI8",
+        "spotifyId": "7AlaeOUUdJqBvVytXAjiL0",
+        "fandomUrl": "When_the_Sakura_Bloom_%28Soundtrack%29"
+      },
+      {
+        "id": 505,
+        "title": "Zephyr of the Violet Garden",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "ux4Il-1FvrU",
+        "spotifyId": "6HBcf4WPcGYVgfwg1VYGuo",
+        "fandomUrl": "Zephyr_of_the_Violet_Garden_%28Soundtrack%29"
+      },
+      {
+        "id": 506,
+        "title": "Hidden Dreams in the Depths",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "The Chasm",
+        "youtubeId": "dTImIw8uPsg",
+        "spotifyId": "7j2mWplxTk0pxDBpaii8Po",
+        "fandomUrl": "Hidden_Dreams_in_the_Depths_%28Soundtrack%29"
+      },
+      {
+        "id": 507,
+        "title": "Summer Fantasia",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Golden Apple Archipelago",
+        "youtubeId": "GQslzEJD8c0",
+        "spotifyId": "4I1m3WSAenWlEQv0JIaGKo",
+        "fandomUrl": "Summer_Fantasia_%28Soundtrack%29"
+      }
+    ]
   }
 ]
