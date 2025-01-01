@@ -1,7 +1,19 @@
 import { useEffect, useState } from "react";
-import night from "../assets/night.png";
-import starrail from "../assets/starrail.png";
+import genshinImpactBg from "../assets/backgrounds/genshin-impact.png";
+import honkaiStarRailBg from "../assets/backgrounds/honkai-star-rail.png";
+import zenlessZoneZeroBg from "../assets/backgrounds/zenless-zone-zero.png";
 import { Game } from "../types";
+
+function getDefaultBackground(game: Game) {
+  switch (game) {
+    case "genshinImpact":
+      return genshinImpactBg;
+    case "starRail":
+      return honkaiStarRailBg;
+    case "zenlessZoneZero":
+      return zenlessZoneZeroBg;
+  }
+}
 
 export default function Background({
   game,
@@ -14,7 +26,7 @@ export default function Background({
   dailySrc: string;
   endlessSrc: string;
 }) {
-  const defaultBackground = game === "genshinImpact" ? night : starrail;
+  const defaultBackground = getDefaultBackground(game);
   const [delayedDailySrc, setDelayedDailySrc] = useState(dailySrc);
   const [delayedEndlessSrc, setDelayedEndlessSrc] = useState(endlessSrc);
 

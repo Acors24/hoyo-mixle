@@ -1,7 +1,8 @@
 import HowToPlay from "../HowToPlay";
 import { Link } from "@tanstack/react-router";
-import genshinIcon from "../../assets/Genshin_Impact.png";
-import starRailIcon from "../../assets/Honkai_Star_Rail_App.png";
+import genshinIcon from "../../assets/icons/genshin-impact.png";
+import starRailIcon from "../../assets/icons/honkai-star-rail.png";
+import zenlessZoneZeroIcon from "../../assets/icons/zenless-zone-zero.png";
 import Changelog from "../Changelog";
 import classes from "./style.module.css";
 import About from "../About";
@@ -16,6 +17,9 @@ export default function Navbar() {
           </Link>
           <Link to="/star-rail" className={classes.GameIcon}>
             <img src={starRailIcon} alt="Honkai Star Rail" />
+          </Link>
+          <Link to="/zenless-zone-zero" className={classes.GameIcon}>
+            <img src={zenlessZoneZeroIcon} alt="Zenless Zone Zero" />
           </Link>
         </div>
         <div className={classes.UtilityIcons}>

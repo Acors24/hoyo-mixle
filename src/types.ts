@@ -15,7 +15,7 @@ export type Song = {
   context?: string;
 };
 
-export type Game = "genshinImpact" | "starRail";
+export type Game = "genshinImpact" | "starRail" | "zenlessZoneZero";
 
 export type Mode = "daily" | "endless";
 

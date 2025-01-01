@@ -3,48 +3,39 @@ import { StorageReducer } from "./StorageReducer";
 import { StorageContext } from "./StorageContext";
 import { Album, Game, LocalStorage } from "./types";
 
-import genshinImpactAlbums from "./assets/genshin-impact-albums.json";
-import starRailAlbums from "./assets/star-rail-albums.json";
+import genshinImpactAlbums from "./assets/albums/genshin-impact.json";
+import starRailAlbums from "./assets/albums/honkai-star-rail.json";
+import zenlessZoneZeroAlbums from "./assets/albums/zenless-zone-zero.json";
 
 const allAlbums: {
   [k in Game]: Album[];
 } = {
   genshinImpact: genshinImpactAlbums,
   starRail: starRailAlbums,
+  zenlessZoneZero: zenlessZoneZeroAlbums,
 };
+
+const getDefaultGameState = () => ({
+  validForSongs: 0,
+  daily: {
+    day: "",
+    guesses: [],
+    streak: 0,
+    highestStreak: 0,
+  },
+  endless: {
+    songId: null,
+    guesses: [],
+    streak: 0,
+    highestStreak: 0,
+  },
+});
 
 const initialState: LocalStorage = {
   gameData: {
-    genshinImpact: {
-      validForSongs: 0,
-      daily: {
-        day: "",
-        guesses: [],
-        streak: 0,
-        highestStreak: 0,
-      },
-      endless: {
-        songId: null,
-        guesses: [],
-        streak: 0,
-        highestStreak: 0,
-      },
-    },
-    starRail: {
-      validForSongs: 0,
-      daily: {
-        day: "",
-        guesses: [],
-        streak: 0,
-        highestStreak: 0,
-      },
-      endless: {
-        songId: null,
-        guesses: [],
-        streak: 0,
-        highestStreak: 0,
-      },
-    },
+    genshinImpact: getDefaultGameState(),
+    starRail: getDefaultGameState(),
+    zenlessZoneZero: getDefaultGameState(),
   },
   config: {
     volume: 50,
@@ -146,6 +137,8 @@ export default function StorageProvider({
     migrateEndlessStreak(playerData);
 
     playerData.gameData.starRail ??= initialState.gameData.starRail;
+    playerData.gameData.zenlessZoneZero ??=
+      initialState.gameData.zenlessZoneZero;
     playerData.config.lastChangelogSeen ??=
       initialState.config.lastChangelogSeen;
 

@@ -1,16 +1,16 @@
 import { createLazyFileRoute } from "@tanstack/react-router";
-import Game from "../components/Game";
 import { AlbumsContext } from "../AlbumsContext";
-import albums from "../assets/albums/genshin-impact.json";
+import Game from "../components/Game";
+import albums from "../assets/albums/zenless-zone-zero.json";
 
-export const Route = createLazyFileRoute("/genshin-impact")({
+export const Route = createLazyFileRoute("/zenless-zone-zero")({
   component: RouteComponent,
 });
 
 function RouteComponent() {
   return (
     <AlbumsContext.Provider value={albums}>
-      <Game currentGame="genshinImpact" />
+      <Game currentGame="zenlessZoneZero" />
     </AlbumsContext.Provider>
   );
 }

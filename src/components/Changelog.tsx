@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-04-03",
+    changes: ['Added "Zenless Zone Zero" mode'],
+  },
+  {
     date: "2025-03-29",
     changes: [
       'Added "Allegory of the Cave (Part 1)" album (Honkai: Star Rail) (missing some Fandom links)',

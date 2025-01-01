@@ -1,7 +1,7 @@
 import { createLazyFileRoute } from "@tanstack/react-router";
 import { AlbumsContext } from "../AlbumsContext";
 import Game from "../components/Game";
-import albums from "../assets/star-rail-albums.json";
+import albums from "../assets/albums/honkai-star-rail.json";
 
 export const Route = createLazyFileRoute("/star-rail")({
   component: RouteComponent,
