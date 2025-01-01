@@ -239,7 +239,7 @@ function limitAlbumTo4(album: Album, chosenSong: Song): Album {
   );
   const result: Album = {
     title: album.title,
-    songs: [chosenSong],
+    songs: album.songs.includes(chosenSong) ? [chosenSong] : [],
   };
   while (result.songs.length < 4) {
     const song = rng.choice(album.songs)!;

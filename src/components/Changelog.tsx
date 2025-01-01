@@ -4,6 +4,10 @@ import { useStorage } from "../StorageContext";
 
 const history = [
   {
+    date: "2025-01-01",
+    changes: ["Fix incorrect song selection on the 5th guess"],
+  },
+  {
     date: "2024-12-31",
     changes: [
       `Added "The Shimmering Voyage Vol. 2" album (Genshin Impact)`,
