@@ -1,7 +1,7 @@
 import { useState } from "react";
 import GuessIndicatorBar from "./GuessIndicatorBar";
 import { Game as hoyoGame, Song } from "../types";
-import GuessTable from "./GuessTable";
+import GuessTable from "./GuessTable/GuessTable";
 import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter/SongFilter";
 import random from "random";
@@ -193,7 +193,10 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
           endlessSrc={endlessBg}
         />
       </div>
-      <div className="overflow-auto">
+      <div
+        className="overflow-auto"
+        style={{ scrollbarGutter: "stable both-sides" }}
+      >
         <div className="max-w-[1200px] mx-auto p-2">
           <div className="flex flex-col sm:flex-row sm:*:flex-1 gap-2">
             <div className="flex flex-col items-center justify-center">

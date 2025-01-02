@@ -20,7 +20,13 @@ export const Route = createRootRoute({
   component: () => (
     <>
       <StorageProvider>
-        <div className="w-screen h-screen grid grid-cols-[auto_1fr] overflow-auto">
+        <div
+          className="w-screen h-screen grid grid-cols-[auto_1fr] overflow-auto"
+          style={{
+            scrollbarColor: "rgb(255 255 255 / 0.2) rgb(255 255 255 / 0.1)",
+            scrollbarWidth: "thin",
+          }}
+        >
           <Navbar />
           <Outlet />
         </div>
