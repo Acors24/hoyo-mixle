@@ -9,35 +9,26 @@ type Guess = Pick<SongWithAlbum, "title" | "album" | "type" | "region">;
 type CheckedGuess = { [K in keyof Guess]: boolean };
 
 export default function GuessTable({
-  chosenSongId,
+  chosenSong,
   guesses,
   rowAmount,
   game,
   className,
 }: {
-  chosenSongId: number;
-  guesses: number[];
+  chosenSong: Song;
+  guesses: Song[];
   rowAmount: number;
   game: Game;
   className?: string;
 }) {
   const albums = useAlbums();
-  const [chosenAlbum, chosenSong] = (() => {
-    const chosenSong = albums
-      .flatMap((album) => album.songs)
-      .find((song) => song.id === chosenSongId)!;
-    const chosenAlbum = albums.find((album) =>
-      album.songs.some((song) => song.id === chosenSongId)
-    )!;
-    return [chosenAlbum, chosenSong];
-  })();
+  const chosenAlbum = albums.find((album) =>
+    album.songs.some((song) => song === chosenSong)
+  )!;
 
-  const checkGuess = (guessedSongPoolId: number): CheckedGuess => {
+  const checkGuess = (guessedSong: Song): CheckedGuess => {
     const guessedAlbum = albums.find((album) =>
-      album.songs.some((song) => song.id === guessedSongPoolId)
-    )!;
-    const guessedSong = guessedAlbum.songs.find(
-      (song) => song.id === guessedSongPoolId
+      album.songs.some((song) => song === guessedSong)
     )!;
     return {
       title: chosenSong.title === guessedSong.title,
@@ -61,8 +52,8 @@ export default function GuessTable({
       <tbody>
         {guesses
           .concat(Array(rowAmount - guesses.length).fill(null))
-          .map((guessedSongId, index) => {
-            if (guessedSongId === null) {
+          .map((guessedSong, index) => {
+            if (guessedSong === null) {
               return (
                 <tr key={index}>
                   <td>&nbsp;</td>
@@ -75,17 +66,14 @@ export default function GuessTable({
             }
 
             const guessedAlbum = albums.find((album) =>
-              album.songs.some((song) => song.id === guessedSongId)
-            )!;
-            const guessedSong = guessedAlbum.songs.find(
-              (song) => song.id === guessedSongId
+              album.songs.some((song) => song === guessedSong)
             )!;
             const guessedSongWithAlbum = {
               ...guessedSong,
               album: guessedAlbum.title,
             };
 
-            const results = checkGuess(guessedSongId);
+            const results = checkGuess(guessedSong);
             return (
               <tr key={index}>
                 <td className={results.title ? classes.correct : classes.wrong}>

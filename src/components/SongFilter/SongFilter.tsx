@@ -13,7 +13,7 @@ export default function SongFilter({
   className,
 }: {
   chosenSong: Song;
-  guesses: number[];
+  guesses: Song[];
   onSelect: (id: number) => void;
   className?: string;
 }) {
@@ -33,10 +33,10 @@ export default function SongFilter({
     })
   );
   const guessedSongs = guesses.map(
-    (id) => allSongs.find((song) => song.id === id)!
+    (guess) => allSongs.find((song) => song.id === guess.id)!
   );
   const chosenAlbum = albums.find((album) =>
-    album.songs.some((song) => song.id === chosenSong.id)
+    album.songs.some((song) => song === chosenSong)
   )!;
 
   const [blacklistedAlbums, whitelistedAlbum] = createBlacklistAndWhitelist(
@@ -87,7 +87,7 @@ export default function SongFilter({
           }
           // }
 
-          if (guesses.includes(song.id)) {
+          if (guesses.includes(song)) {
             return false;
           }
 

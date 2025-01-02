@@ -1,10 +1,12 @@
+import { Song } from "../types";
+
 export default function GuessIndicatorBar({
-  chosenSongId,
+  chosenSong,
   guesses,
   maxGuesses,
 }: {
-  chosenSongId: number;
-  guesses: number[];
+  chosenSong: Song;
+  guesses: Song[];
   maxGuesses: number;
 }) {
   return (
@@ -19,7 +21,7 @@ export default function GuessIndicatorBar({
           return (
             <GuessIndicator
               key={index}
-              variant={guess === chosenSongId ? "correct" : "wrong"}
+              variant={guess === chosenSong ? "correct" : "wrong"}
             />
           );
         })}

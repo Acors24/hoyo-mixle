@@ -5,7 +5,10 @@ import { useStorage } from "../StorageContext";
 const history = [
   {
     date: "2025-01-02",
-    changes: ["Improved the appearance of the scrollbars and the guess table"],
+    changes: [
+      "Improved the appearance of the scrollbars and the guess table",
+      "Optimized the song list (maybe)",
+    ],
   },
   {
     date: "2025-01-01",

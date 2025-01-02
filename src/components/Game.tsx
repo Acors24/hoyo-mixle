@@ -1,6 +1,6 @@
 import { useState } from "react";
 import GuessIndicatorBar from "./GuessIndicatorBar";
-import { Game as hoyoGame, Song } from "../types";
+import { Album, Game as hoyoGame, Song } from "../types";
 import GuessTable from "./GuessTable/GuessTable";
 import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter/SongFilter";
@@ -10,6 +10,13 @@ import { getTodaysSong, getYouTubeThumbnail } from "../utils";
 import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
+
+function idsToSongs(ids: number[], albums: Album[]): Song[] {
+  return ids.map(
+    (id) =>
+      albums.flatMap((album) => album.songs).find((song) => song.id === id)!
+  );
+}
 
 export default function Game({ currentGame }: { currentGame: hoyoGame }) {
   const albums = useAlbums();
@@ -21,8 +28,8 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
   };
 
   const [chosenSong, setChosenSong] = useState<Song>(getTodaysSong(albums));
-  const [guesses, setGuesses] = useState<number[]>(
-    state.gameData[currentGame].daily.guesses
+  const [guesses, setGuesses] = useState<Song[]>(
+    idsToSongs(state.gameData[currentGame].daily.guesses, albums)
   );
   const [endlessMode, setEndlessMode] = useState(false);
   const [endlessToggleDisabled, setEndlessToggleDisabled] = useState(false);
@@ -55,17 +62,19 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
         });
       }
       setChosenSong(song);
-      setGuesses(state.gameData[currentGame].endless.guesses);
+      setGuesses(
+        idsToSongs(state.gameData[currentGame].endless.guesses, albums)
+      );
       setEndlessBg(getYouTubeThumbnail(song.youtubeId));
     } else {
       setChosenSong(getTodaysSong(albums));
-      setGuesses(state.gameData[currentGame].daily.guesses);
+      setGuesses(idsToSongs(state.gameData[currentGame].daily.guesses, albums));
     }
   };
 
   const maxAttempts = 5;
   const gameState = (() => {
-    if (guesses.includes(chosenSong.id)) {
+    if (guesses.includes(chosenSong)) {
       return "won";
     } else if (guesses.length >= maxAttempts) {
       return "lost";
@@ -79,14 +88,14 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
       return;
     }
 
-    const newGuesses = [...guesses, id];
+    const newGuesses = [...guesses, idsToSongs([id], albums)[0]];
     setGuesses(newGuesses);
 
     dispatch({
       type: "SET_GUESSES",
       payload: {
         game: currentGame,
-        guesses: newGuesses,
+        guesses: newGuesses.map((song) => song.id),
         mode: endlessMode ? "endless" : "daily",
         songId: chosenSong.id,
         validForSongs: albums.reduce(
@@ -118,7 +127,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
   const stats = (
     <div className="flex items-center justify-center gap-2 select-none flex-wrap">
       <GuessIndicatorBar
-        chosenSongId={chosenSong.id}
+        chosenSong={chosenSong}
         guesses={guesses}
         maxGuesses={maxAttempts}
       />
@@ -226,7 +235,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
             )}
           </div>
           <GuessTable
-            chosenSongId={chosenSong.id}
+            chosenSong={chosenSong}
             guesses={guesses}
             rowAmount={maxAttempts}
             game={currentGame}
