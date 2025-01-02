@@ -132,7 +132,7 @@ export default function StorageProvider({
 }) {
   const [state, dispatch] = useReducer(StorageReducer, initialState, () => {
     const saved = localStorage.getItem(storageKey);
-    const playerData = saved ? JSON.parse(saved) : initialState;
+    const playerData: LocalStorage = saved ? JSON.parse(saved) : initialState;
 
     migrateVolume(playerData);
     migrateHowToPlaySeen(playerData);
@@ -141,6 +141,8 @@ export default function StorageProvider({
     migrateEndlessStreak(playerData);
 
     playerData.gameData.starRail ??= initialState.gameData.starRail;
+    playerData.config.lastChangelogSeen ??=
+      initialState.config.lastChangelogSeen;
 
     updateDailies(playerData);
     validateSongAmounts(playerData);
