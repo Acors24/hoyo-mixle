@@ -6,7 +6,7 @@ import { Album, Game, LocalStorage } from "./types";
 import genshinImpactAlbums from "./assets/genshin-impact-albums.json";
 import starRailAlbums from "./assets/star-rail-albums.json";
 
-const albums: {
+const allAlbums: {
   [k in Game]: Album[];
 } = {
   genshinImpact: genshinImpactAlbums,
@@ -109,7 +109,12 @@ function updateDailies(state: LocalStorage) {
 function validateSongAmounts(state: LocalStorage) {
   for (const game in state.gameData) {
     const data = state.gameData[game as Game];
-    const totalSongs = albums[game as Game].reduce(
+    const gameAlbums = allAlbums[game as Game];
+    if (gameAlbums === undefined) {
+      continue;
+    }
+
+    const totalSongs = gameAlbums.reduce(
       (acc, album) => acc + album.songs.length,
       0
     );
