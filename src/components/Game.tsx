@@ -1,5 +1,5 @@
 import { useState } from "react";
-import GuessIndicatorBar from "./GuessIndicatorBar";
+import GuessIndicatorBar from "./GuessIndicatorBar/GuessIndicatorBar";
 import { Album, Game as hoyoGame, Song } from "../types";
 import GuessTable from "./GuessTable/GuessTable";
 import SamplePlayer from "./SamplePlayer";

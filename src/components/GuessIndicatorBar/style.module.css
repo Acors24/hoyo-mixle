@@ -1,0 +1,30 @@
+.IndicatorBar {
+  @apply bg-slate-800 bg-opacity-50 shadow;
+  width: max-content;
+  border-radius: 9999px;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.Indicator {
+  @apply shadow-glow;
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 9999px;
+  display: inline-block;
+  transition-duration: 200ms;
+
+  &[data-status="unknown"] {
+    @apply bg-white bg-opacity-10;
+  }
+
+  &[data-status="correct"] {
+    @apply bg-emerald-500 shadow-emerald-500;
+  }
+
+  &[data-status="wrong"] {
+    @apply bg-rose-500 shadow-rose-500;
+  }
+}
