@@ -25,11 +25,15 @@ export default function SongCard({
         className="flex-none w-60 h-60 sm:w-52 sm:h-52"
       />
       <div className="flex flex-col">
-        <div>
-          <h2 className="text-2xl font-bold">{song.title}</h2>
-          <p>{album.title}</p>
-        </div>
-        <ul className="*:text-sm text-slate-200 list-disc pl-4 my-4">
+        <h2 className="text-2xl font-bold">{song.title}</h2>
+        <h3>{album.title}</h3>
+        <h4 className="text-sm text-slate-200">
+          <span className="pr-4 border-r-2 border-r-[#fff4] mr-4">
+            {song.type}
+          </span>
+          <span>{song.region}</span>
+        </h4>
+        <ul className="text-sm text-slate-200 list-disc pl-4 my-4">
           {song.playedAt.map((moment, index) => (
             <Moment key={index} moment={moment} />
           ))}
@@ -67,7 +71,7 @@ function Thumbnail({
 }) {
   return (
     <div
-      className={`rounded select-none overflow-hidden shadow ${
+      className={`rounded select-none overflow-hidden shadow aspect-square ${
         className ?? ""
       }`}
     >
