@@ -2314,5 +2314,30 @@
         "fandomUrl": "Nevermore"
       }
     ]
+  },
+  {
+    "title": "Had I Not Seen The Sun",
+    "songs": [
+      {
+        "id": 214,
+        "title": "Had I Not Seen The Sun",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "kdV4K17KqAE",
+        "spotifyId": "59oOaUav2cqt9zkhpQgmru",
+        "fandomUrl": "Had_I_Not_Seen_The_Sun"
+      },
+      {
+        "id": 215,
+        "title": "Had I Not Seen The Sun - Instrumental",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "H4MMaIAPSb8",
+        "spotifyId": "2BApwYuSRNyiOyuB6H6nqB",
+        "fandomUrl": "Had_I_Not_Seen_The_Sun_-_Instrumental"
+      }
+    ]
   }
 ]
