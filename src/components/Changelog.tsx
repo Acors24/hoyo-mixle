@@ -8,6 +8,7 @@ const history = [
     changes: [
       'Added "WHITE NIGHT" album (Honkai: Star Rail)',
       'Added "Experience the Paths Vol. 2" album (Honkai: Star Rail)',
+      'Added "INSIDE" album (Honkai: Star Rail)',
       'Added "The Flapper Sinthome (Part 1)" album (Honkai: Star Rail)',
       "Adjusted song card styling",
     ],
