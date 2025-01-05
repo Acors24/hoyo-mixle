@@ -1605,5 +1605,714 @@
         "fandomUrl": "Battle%21_King_of_the_Snowy_Hill"
       }
     ]
+  },
+  {
+    "title": "WHITE NIGHT (Honkai: Star Rail Penacony Theme Song)",
+    "songs": [
+      {
+        "id": 149,
+        "title": "WHITE NIGHT",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "TursZNv5dA8",
+        "spotifyId": "49xooPdasAQlKhW6Sf1Rhq",
+        "fandomUrl": "WHITE_NIGHT"
+      },
+      {
+        "id": 150,
+        "title": "不眠之夜",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "Z4NNFrQdLR4",
+        "spotifyId": "7iOA2YVu4WQHvedbXUQwWh",
+        "fandomUrl": "%25E4%25B8%258D%25E7%259C%25A0%25E4%25B9%258B%25E5%25A4%259C"
+      },
+      {
+        "id": 151,
+        "title": "WHITE NIGHT (Japanese Ver.)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "_eFQUEY-auo",
+        "spotifyId": "4v8zRmBLQH04dHcwFOqfqP",
+        "fandomUrl": "WHITE_NIGHT_%28Japanese_Ver.%29"
+      },
+      {
+        "id": 152,
+        "title": "WHITE NIGHT (Korean Ver.)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "gkTxrtpJAWg",
+        "spotifyId": "3j7aVlWZiJGOSUI8lryEyZ",
+        "fandomUrl": "WHITE_NIGHT_%28Korean_Ver.%29"
+      },
+      {
+        "id": 153,
+        "title": "WHITE NIGHT (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "EaO2tSWIIzA",
+        "spotifyId": "4LIja2GKfBoSrK9KNQr26R",
+        "fandomUrl": "WHITE_NIGHT_%28Instrumental%29"
+      }
+    ]
+  },
+  {
+    "title": "Experience the Paths Vol. 2",
+    "songs": [
+      {
+        "id": 154,
+        "title": "The Crepuscule Zone",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "5mXG2dzAja4",
+        "spotifyId": "6Z9qBlBgxBR1PKlq7Nlf1B",
+        "fandomUrl": "The_Crepuscule_Zone"
+      },
+      {
+        "id": 155,
+        "title": "Night of Thrills",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Yk7rUe8muA4",
+        "spotifyId": "6uMG5kq1Wr2fQtX6zTfiYZ",
+        "fandomUrl": "Night_of_Thrills"
+      },
+      {
+        "id": 156,
+        "title": "Chivalric Romances",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Knights of Beauty",
+        "youtubeId": "w-ib9-kXFEc",
+        "spotifyId": "1Kwi5sCsmo9ShGW7a3coWV",
+        "fandomUrl": "Chivalric_Romances"
+      },
+      {
+        "id": 157,
+        "title": "A Story That Never Grows Dull",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "rNagUZSXrY4",
+        "spotifyId": "0ncaoc9tECzi7hbJWRNF6c",
+        "fandomUrl": "A_Story_That_Never_Grows_Dull"
+      },
+      {
+        "id": 158,
+        "title": "Crown of the Mundane and Divine",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Herta Space Station",
+        "youtubeId": "_LgOouV6--w",
+        "spotifyId": "42nxiplTgVMCEg49N5FFZI",
+        "fandomUrl": "Crown_of_the_Mundane_and_Divine_%28Soundtrack%29"
+      },
+      {
+        "id": 159,
+        "title": "Transcendent Ruan Tunes, Blushing Mei Blooms",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Herta Space Station",
+        "youtubeId": "UGYNrHbPms0",
+        "spotifyId": "2Pyrq6ual0XBdef5h4dzi0",
+        "fandomUrl": "Transcendent_Ruan_Tunes%2C_Blushing_Mei_Blooms"
+      },
+      {
+        "id": 160,
+        "title": "In All Does Life Flow",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Herta Space Station",
+        "youtubeId": "DSikVOoY1-U",
+        "spotifyId": "03gCndJoyKs8OZR4PVeyPR",
+        "fandomUrl": "In_All_Does_Life_Flow"
+      },
+      {
+        "id": 161,
+        "title": "Supreme Idiocy",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Intelligentsia Guild",
+        "youtubeId": "1oBVKRdu4DA",
+        "spotifyId": "12BqJ4HAHNFC8AciK8cmOZ",
+        "fandomUrl": "Supreme_Idiocy"
+      },
+      {
+        "id": 162,
+        "title": "A Night of Ever-Flame: Scene 33",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "-91mcDs1iFo",
+        "spotifyId": "6n8olbVSMoU8EirtVW10mg",
+        "fandomUrl": "A_Night_of_Ever-Flame%3A_Scene_33"
+      },
+      {
+        "id": 163,
+        "title": "A Revisiting of Past Dreams",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "o-pgIIGdcJc",
+        "spotifyId": "4ZzwQQvauweaHovXUAd2yi",
+        "fandomUrl": "A_Revisiting_of_Past_Dreams"
+      },
+      {
+        "id": 164,
+        "title": "Lullaby",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "9BlBVsNG0fs",
+        "spotifyId": "2A8dqNUq6coB5cw5OV0GD8",
+        "fandomUrl": "Lullaby"
+      },
+      {
+        "id": 165,
+        "title": "Harmony Greets the New Year",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "l9Bv8jGqmV8",
+        "spotifyId": "5C7hEGwOI7wn5VigEMhKvX",
+        "fandomUrl": "Harmony_Greets_the_New_Year"
+      },
+      {
+        "id": 166,
+        "title": "Welcome to Dreamville! Part.1",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "FU0K3LNXRnM",
+        "spotifyId": "0FrTYYqdU9ryDFv2WbIFQO",
+        "fandomUrl": "Welcome_to_Dreamville%21_Part.1"
+      },
+      {
+        "id": 167,
+        "title": "Welcome to Dreamville! Part.2",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "HG6ocL5nZSE",
+        "spotifyId": "2zWZIvwyNOgpwraKqZzSjh",
+        "fandomUrl": "Welcome_to_Dreamville%21_Part.2"
+      },
+      {
+        "id": 168,
+        "title": "Welcome to Dreamville! Part.3",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "USrNsSH6AWM",
+        "spotifyId": "638LUGkvCM5IxAhRQSq6H5",
+        "fandomUrl": "Welcome_to_Dreamville%21_Part.3"
+      },
+      {
+        "id": 169,
+        "title": "Monodrama",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "WNau8kgJ3XE",
+        "spotifyId": "109MwAtejD7y1PE8n6Z1jK",
+        "fandomUrl": "Monodrama_%28Soundtrack%29"
+      },
+      {
+        "id": 170,
+        "title": "Sparkle: Behind the Curtain",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "wkFtTUVda4U",
+        "spotifyId": "4uWeGwWHRXymz6s9m3SirT",
+        "fandomUrl": "Sparkle%3A_Behind_the_Curtain"
+      },
+      {
+        "id": 171,
+        "title": "Your Color",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "-tHYCYgEX2I",
+        "spotifyId": "1E3K7hYYyaR0w5yYIV4f2y",
+        "fandomUrl": "Your_Color"
+      },
+      {
+        "id": 172,
+        "title": "Kyoden: A Cleave Across the Transient World",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "S-Yef4ySfOk",
+        "spotifyId": "3bXX7nmqxJnCwWS1SSpclF",
+        "fandomUrl": "Kyoden%3A_A_Cleave_Across_the_Transient_World"
+      },
+      {
+        "id": 173,
+        "title": "Rondo Across Countless Kalpas",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "B5UeNLlnUOA",
+        "spotifyId": "43TWyxGr27ehA3x9aJhL4a",
+        "fandomUrl": "Rondo_Across_Countless_Kalpas"
+      },
+      {
+        "id": 174,
+        "title": "Into the Yawning Chasm",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "KUpW6hRkEJY",
+        "spotifyId": "6tkcYkilATFxhfPpLSK0d2",
+        "fandomUrl": "Into_the_Yawning_Chasm_%28Experience_the_Paths_Vol._2%29"
+      },
+      {
+        "id": 175,
+        "title": "Wanna Go Have Some Fun!",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "3hC7lTtypLg",
+        "spotifyId": "4HuNB0XVK8das6v9H0a7xu",
+        "fandomUrl": "Wanna_Go_Have_Some_Fun%21"
+      }
+    ]
+  },
+  {
+    "title": "INSIDE",
+    "songs": [
+      {
+        "id": 176,
+        "title": "Sway to My Beat in Cosmos",
+        "playedAt": [],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "npyiiInMA0w",
+        "spotifyId": "2AnvQvVqWORCmgRzLR0sHe",
+        "fandomUrl": "Sway_to_My_Beat_in_Cosmos"
+      },
+      {
+        "id": 177,
+        "title": "If I Can Stop One Heart From Breaking",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "8v0RVyPlUA4",
+        "spotifyId": "7f3GFn9aFk8yKrrSQ8VnTp",
+        "fandomUrl": "If_I_Can_Stop_One_Heart_From_Breaking_%28Soundtrack%29"
+      },
+      {
+        "id": 178,
+        "title": "Hope Is the Thing With Feathers",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Boss",
+        "region": "Penacony",
+        "youtubeId": "aPyt41nnM0k",
+        "spotifyId": "3FUaNR2HD1XaeOmw4puhkz",
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+      },
+      {
+        "id": 179,
+        "title": "Sway to My Beat in Cosmos - Instrumental",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "oHGcqHBIFcs",
+        "spotifyId": "7oTia7anTqcBeAxlUBxEWY",
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+      },
+      {
+        "id": 180,
+        "title": "If I Can Stop One Heart From Breaking - Instrumental",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "_VCOCgbYJ6s",
+        "spotifyId": "5vRij7ATn2nZiAGT9W8S0T",
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+      },
+      {
+        "id": 181,
+        "title": "Hope Is the Thing With Feathers - Instrumental",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "1bCXbmLNqXw",
+        "spotifyId": "115Nh6Xv3Di4quT0qFOzHe",
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+      }
+    ]
+  },
+  {
+    "title": "The Flapper Sinthome (Part 1)",
+    "songs": [
+      {
+        "id": 182,
+        "title": "This Side of Paradise",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "6ZxYjqE6dXQ",
+        "spotifyId": "1hLTBInGs7KetRltXojS7X",
+        "fandomUrl": "This_Side_of_Paradise_%28Soundtrack%29"
+      },
+      {
+        "id": 183,
+        "title": "Ace in the Hole",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "J1Qt3gtmiwk",
+        "spotifyId": "2B92InUq3ke9shJo6FXrmJ",
+        "fandomUrl": "Ace_in_the_Hole"
+      },
+      {
+        "id": 184,
+        "title": "Hi, Dolly!",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "VlQZcUvQHZc",
+        "spotifyId": "7o6LK6sV52ploAkyqjqNol",
+        "fandomUrl": "Hi%2C_Dolly%21"
+      },
+      {
+        "id": 185,
+        "title": "Golden Land",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "RgdEeiWDLQI",
+        "spotifyId": "2FRKZvpj8Ej84x7v9hC5Oq",
+        "fandomUrl": "Golden_Land"
+      },
+      {
+        "id": 186,
+        "title": "The Big Sleep",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "UJsCvVb18Ec",
+        "spotifyId": "3aqYJjUGsVYnynSoaam5Yd",
+        "fandomUrl": "The_Big_Sleep"
+      },
+      {
+        "id": 187,
+        "title": "Dreamwalker",
+        "playedAt": ["Locations", "Event Gameplay"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "27iuE4NloD0",
+        "spotifyId": "2Bnl3CQxGb52nQALw2l2HP",
+        "fandomUrl": "Dreamwalker_%28Soundtrack%29"
+      },
+      {
+        "id": 188,
+        "title": "The Player on the Other Side",
+        "playedAt": ["Combat", "Phonograph Records", "Media"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "gJXv2_3nKI0",
+        "spotifyId": "0f2wa2O2a0aPNcAANJV6vP",
+        "fandomUrl": "The_Player_on_the_Other_Side"
+      },
+      {
+        "id": 189,
+        "title": "Fair Play",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "GMaaC6IBcpc",
+        "spotifyId": "0NFS2MSaGz48JONuPw2gHR",
+        "fandomUrl": "Fair_Play"
+      },
+      {
+        "id": 190,
+        "title": "If One Wakes at Midnight",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "upIKan-ZuZo",
+        "spotifyId": "4LiqXhSkVHCdbnDC2KnnGL",
+        "fandomUrl": "If_One_Wakes_at_Midnight"
+      },
+      {
+        "id": 191,
+        "title": "Realitätsprinzip",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "kihFu2lpIw4",
+        "spotifyId": "7ek6wt4lmUVBtGuB6GXrOJ",
+        "fandomUrl": "Realit%25C3%25A4tsprinzip"
+      },
+      {
+        "id": 192,
+        "title": "Lustprinzip",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "OY9HK36ucE4",
+        "spotifyId": "04khRmLogSxBJrmAM5cQkE",
+        "fandomUrl": "Lustprinzip"
+      },
+      {
+        "id": 193,
+        "title": "Against The Day",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "dQnfCbZHHG0",
+        "spotifyId": "0BcuYG07PQd5zyzbXv95gO",
+        "fandomUrl": "Against_The_Day"
+      },
+      {
+        "id": 194,
+        "title": "Challenge to the Reader",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "MY5kzo7-hbM",
+        "spotifyId": "6qH4XX9tpvKEoz58ddOgCB",
+        "fandomUrl": "Challenge_to_the_Reader"
+      },
+      {
+        "id": 195,
+        "title": "Lucid Dreams",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "OY0L92V7NyU",
+        "spotifyId": "1iB3FskurpHS3yxjrzxRrq",
+        "fandomUrl": "Lucid_Dreams"
+      },
+      {
+        "id": 196,
+        "title": "Halfway House",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "hG_j3bSguPs",
+        "spotifyId": "3bJ5Ib55SgHoWZ4XdnqIXr",
+        "fandomUrl": "Halfway_House"
+      },
+      {
+        "id": 197,
+        "title": "Full House",
+        "playedAt": ["Locations", "Event Gameplay"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "tkwr7r2q9_8",
+        "spotifyId": "2OUXWtqQTqtNd8deptWf8H",
+        "fandomUrl": "Full_House"
+      },
+      {
+        "id": 198,
+        "title": "The Midnight Special",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "56f7pvfXb_g",
+        "spotifyId": "6iBBRx9VM1TXLUume7deRV",
+        "fandomUrl": "The_Midnight_Special"
+      },
+      {
+        "id": 199,
+        "title": "Spellbound",
+        "playedAt": ["Locations", "Event Gameplay", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "A2-jgHA92G0",
+        "spotifyId": "6MfHpXVwtEFKkkm78Y0lWH",
+        "fandomUrl": "Spellbound"
+      },
+      {
+        "id": 200,
+        "title": "City Upon a Hill",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "yBU2h7KOBXU",
+        "spotifyId": "2brOCn6yRkyOAtuMgoddg9",
+        "fandomUrl": "City_Upon_a_Hill"
+      },
+      {
+        "id": 201,
+        "title": "The Fool Always Rings Twice",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "eJ9dcKxaD1Q",
+        "spotifyId": "109vAWCty4KzqgeVTXACJa",
+        "fandomUrl": "The_Fool_Always_Rings_Twice_%28Soundtrack%29"
+      },
+      {
+        "id": 202,
+        "title": "Wet Dog",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions", "Trailblaze Continuances"]
+        ],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "_rWueqkR5P0",
+        "spotifyId": "2RdD7nxQ4njTW4c7ukT0i0",
+        "fandomUrl": "Wet_Dog"
+      },
+      {
+        "id": 203,
+        "title": "Latent Content of Dream",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "l2pS3Nqe12o",
+        "spotifyId": "43cFyZV9COv3bUyRlYpFG7",
+        "fandomUrl": "Latent_Content_of_Dream"
+      },
+      {
+        "id": 204,
+        "title": "On the Disintegration of Evermemoria",
+        "playedAt": ["Phonograph Records", "Special Gameplay"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "akJTsq_FNOY",
+        "spotifyId": "54g5o8EZfiazZjD4mW7CK1",
+        "fandomUrl": "On_the_Disintegration_of_Evermemoria"
+      },
+      {
+        "id": 205,
+        "title": "Citizen Hanunue",
+        "playedAt": [
+          "Event Gameplay",
+          "Phonograph Records",
+          "Special Gameplay"
+        ],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "DvNiYl-bn9Y",
+        "spotifyId": "3RVK6j8rr6Wv1rz96xpVDi",
+        "fandomUrl": "Citizen_Hanunue"
+      },
+      {
+        "id": 206,
+        "title": "Manifest Content of Dream",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions", "Trailblaze Continuances"]
+        ],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "5O3E33ncLjo",
+        "spotifyId": "4rYMuuLsYBdJjIEK64kdvs",
+        "fandomUrl": "Manifest_Content_of_Dream"
+      },
+      {
+        "id": 207,
+        "title": "Chaîne Signifiante",
+        "playedAt": [
+          "Locations",
+          "Event Gameplay",
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "iMFCTMEXMBo",
+        "spotifyId": "2KWOrlwngXh9srPcFDMAZo",
+        "fandomUrl": "Cha%25C3%25AEne_Signifiante"
+      },
+      {
+        "id": 208,
+        "title": "Stade du Miroir",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "teeGQwHrSZE",
+        "spotifyId": "3FWVmr7rNhhSC9mnrq3KWx",
+        "fandomUrl": "Stade_du_Miroir"
+      },
+      {
+        "id": 209,
+        "title": "Todestrieb",
+        "playedAt": ["Locations", "Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "JILMap6D7zs",
+        "spotifyId": "6sOrylZvee1db0tpEvTmv0",
+        "fandomUrl": "Todestrieb"
+      },
+      {
+        "id": 210,
+        "title": "Return of None",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "Penacony",
+        "youtubeId": "WdBxJ3jqqik",
+        "spotifyId": "4lVb4RuW0f2bEJHnrsrhvj",
+        "fandomUrl": "Return_of_None"
+      },
+      {
+        "id": 211,
+        "title": "If I Can Stop One Heart From Breaking (Encore)",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "fzkSL8W5gzg",
+        "spotifyId": "3QenS0JxMbFJCvracxWwZR",
+        "fandomUrl": "If_I_Can_Stop_One_Heart_From_Breaking_%28Encore%29"
+      },
+      {
+        "id": 212,
+        "title": "Quoth the Raven",
+        "playedAt": ["Locations", "Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "X4cWmcu2ZMQ",
+        "spotifyId": "7eCZYgQnxUmODlKBUD1ynS",
+        "fandomUrl": "Quoth_the_Raven"
+      },
+      {
+        "id": 213,
+        "title": "Nevermore",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Penacony",
+        "youtubeId": "LOzEbtrOiTE",
+        "spotifyId": "46awG7l3U6XBpudXVadEXg",
+        "fandomUrl": "Nevermore"
+      }
+    ]
   }
 ]

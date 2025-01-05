@@ -4,6 +4,14 @@ import { useStorage } from "../StorageContext";
 
 const history = [
   {
+    date: "2025-01-05",
+    changes: [
+      'Added "WHITE NIGHT" album (Honkai: Star Rail)',
+      'Added "Experience the Paths Vol. 2" album (Honkai: Star Rail)',
+      'Added "The Flapper Sinthome (Part 1)" album (Honkai: Star Rail)',
+    ],
+  },
+  {
     date: "2025-01-04",
     changes: [
       "Added type and region to the song card",
