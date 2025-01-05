@@ -1109,7 +1109,7 @@
         "region": "N/A",
         "youtubeId": "4D1O8O8ToOw",
         "spotifyId": "4Pze8L2SEXXzHteWx3gGW7",
-        "fandomUrl": "Got_a_Date%253F"
+        "fandomUrl": "Got_a_Date%3F"
       },
       {
         "id": 102,
@@ -1627,7 +1627,7 @@
         "region": "Penacony",
         "youtubeId": "Z4NNFrQdLR4",
         "spotifyId": "7iOA2YVu4WQHvedbXUQwWh",
-        "fandomUrl": "%25E4%25B8%258D%25E7%259C%25A0%25E4%25B9%258B%25E5%25A4%259C"
+        "fandomUrl": "%E4%B8%8D%E7%9C%A0%E4%B9%8B%E5%A4%9C"
       },
       {
         "id": 151,
@@ -2071,7 +2071,7 @@
         "region": "Penacony",
         "youtubeId": "kihFu2lpIw4",
         "spotifyId": "7ek6wt4lmUVBtGuB6GXrOJ",
-        "fandomUrl": "Realit%25C3%25A4tsprinzip"
+        "fandomUrl": "Realit%C3%A4tsprinzip"
       },
       {
         "id": 192,
@@ -2246,7 +2246,7 @@
         "region": "Penacony",
         "youtubeId": "iMFCTMEXMBo",
         "spotifyId": "2KWOrlwngXh9srPcFDMAZo",
-        "fandomUrl": "Cha%25C3%25AEne_Signifiante"
+        "fandomUrl": "Cha%C3%AEne_Signifiante"
       },
       {
         "id": 208,
@@ -2361,7 +2361,7 @@
         "region": "Penacony",
         "youtubeId": "z5CV6wbdj5E",
         "spotifyId": "2IUZXGNq8ipL99QumBNzwE",
-        "fandomUrl": "Omert%25C3%25A0"
+        "fandomUrl": "Omert%C3%A0"
       },
       {
         "id": 218,
@@ -2456,7 +2456,7 @@
         "region": "Penacony",
         "youtubeId": "qS3oGhziwSI",
         "spotifyId": "0XDbkfrG5nsDgmNQzSrzej",
-        "fandomUrl": "Fast_%2526_Furynuts_%28Soundtrack%29"
+        "fandomUrl": "Fast_%26_Furynuts_%28Soundtrack%29"
       },
       {
         "id": 227,
@@ -2571,7 +2571,7 @@
         "region": "Penacony",
         "youtubeId": "XkUMyRBstME",
         "spotifyId": "4GdsaIirEM6tgTsWp41adr",
-        "fandomUrl": "Oed%2527_und_leer_das_Meer"
+        "fandomUrl": "Oed%27_und_leer_das_Meer"
       },
       {
         "id": 238,
@@ -2692,7 +2692,7 @@
         "region": "Penacony",
         "youtubeId": "sJRjZvJwFlI",
         "spotifyId": "4Tm5eLCcSofqSXtxY8tUkj",
-        "fandomUrl": "Symphony_No._8_%2527A_Thousand_Suns%2527"
+        "fandomUrl": "Symphony_No._8_%27A_Thousand_Suns%27"
       }
     ]
   },
@@ -2747,7 +2747,7 @@
         "region": "Penacony",
         "youtubeId": "hofvi0-8e5o",
         "spotifyId": "3ZSKqtKzKxI1fzwYJaZgQf",
-        "fandomUrl": "Cowboy%2527s_Got_Business"
+        "fandomUrl": "Cowboy%27s_Got_Business"
       },
       {
         "id": 254,
@@ -2817,7 +2817,7 @@
         "region": "IPC",
         "youtubeId": "rT0cX4X-P9g",
         "spotifyId": "1822WpdHxDnQj8DmYDq4yS",
-        "fandomUrl": "Stoneheart%2527s_Oath_Ring%3A_Both_Ends_of_the_Scale"
+        "fandomUrl": "Stoneheart%27s_Oath_Ring%3A_Both_Ends_of_the_Scale"
       },
       {
         "id": 261,
@@ -3002,7 +3002,7 @@
         "region": "Penacony",
         "youtubeId": "e52Yq083HPM",
         "spotifyId": "7JqikQlTY9ubONTzBrHcYn",
-        "fandomUrl": "La_Messe_de_l%2527ath%25C3%25A9e"
+        "fandomUrl": "La_Messe_de_l%27ath%C3%A9e"
       },
       {
         "id": 279,
@@ -3052,7 +3052,7 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "E8DqhIzniG8",
         "spotifyId": "6hub4G5flWpijMDbuvun5m",
-        "fandomUrl": "Life%2527s_Suffering%2C_An_Endless_Tide"
+        "fandomUrl": "Life%27s_Suffering%2C_An_Endless_Tide"
       },
       {
         "id": 284,
@@ -3082,7 +3082,7 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Gb_uCpSX9O0",
         "spotifyId": "6YD6TZuA9nBxES94GtksSs",
-        "fandomUrl": "Welkin%2527s_Advent"
+        "fandomUrl": "Welkin%27s_Advent"
       },
       {
         "id": 287,
@@ -3248,6 +3248,61 @@
         "youtubeId": "h44X3DYNn0A",
         "spotifyId": "3Ouwgp4Yl7zSLEJfIlvZXD",
         "fandomUrl": "The_Slumbernana_Song_-_Instrumental"
+      }
+    ]
+  },
+  {
+    "title": "Nameless Faces (Honkai: Star Rail Amphoreus Theme Song)",
+    "songs": [
+      {
+        "id": 300,
+        "title": "Nameless Faces (English Ver.)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "6KBhZCKZ-R4",
+        "spotifyId": "4fCDFyZWf3N6D5y2vQgPT8",
+        "fandomUrl": "Nameless_Faces_%28English_Ver.%29"
+      },
+      {
+        "id": 301,
+        "title": "Nameless Faces (Chinese Ver.)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "kdAVG8dE5qc",
+        "spotifyId": "2jKMvp96oL1M7jPX9aHo9D",
+        "fandomUrl": "Nameless_Faces_%28Chinese_Ver.%29"
+      },
+      {
+        "id": 302,
+        "title": "Nameless Faces (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "Fkf6a9raDJI",
+        "spotifyId": "0hESUxvDbleuquiouuwNnM",
+        "fandomUrl": "Nameless_Faces_%28Instrumental%29"
+      },
+      {
+        "id": 303,
+        "title": "Nameless Faces (English Harmonic Accompaniment)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "1PdTnDca5fk",
+        "spotifyId": "3HFZXtY1dySOn2XN9mz0Cj",
+        "fandomUrl": "Nameless_Faces_%28English_Harmonic_Accompaniment%29"
+      },
+      {
+        "id": 304,
+        "title": "Nameless Faces (Chinese Harmonic Accompaniment)",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "1PdTnDca5fk",
+        "spotifyId": "0a5eBiyeYyMrfuZXPTwI5D",
+        "fandomUrl": "Nameless_Faces_%28Chinese_Harmonic_Accompaniment%29"
       }
     ]
   }
