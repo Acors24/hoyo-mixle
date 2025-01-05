@@ -2912,10 +2912,35 @@
     ]
   },
   {
-    "title": "Astral Theater Vol. 2",
+    "title": "No Dazzle, No Break",
     "songs": [
       {
         "id": 270,
+        "title": "No Dazzle, No Break",
+        "playedAt": ["Missions", ["Trailblaze Continuances"], "Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "WbhL7DHSJ1A",
+        "spotifyId": "3kY5GH6J11WMEspRKNJHXo",
+        "fandomUrl": "No_Dazzle%2C_No_Break"
+      },
+      {
+        "id": 271,
+        "title": "No Dazzle, No Break - Instrumental",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "_kEZ7QlLdKA",
+        "spotifyId": "6823Q7g7WTpsam2d8xCQM1",
+        "fandomUrl": "No_Dazzle%2C_No_Break_-_Instrumental"
+      }
+    ]
+  },
+  {
+    "title": "Astral Theater Vol. 2",
+    "songs": [
+      {
+        "id": 272,
         "title": "The Slumbernana Song - Chinese Ver.",
         "playedAt": ["Missions", ["Trailblaze Continuances"]],
         "type": "Mission",
@@ -2925,7 +2950,7 @@
         "fandomUrl": "The_Slumbernana_Song_-_Chinese_Ver."
       },
       {
-        "id": 271,
+        "id": 273,
         "title": "The Slumbernana Song - Japanese Ver.",
         "playedAt": ["Missions", ["Trailblaze Continuances"]],
         "type": "Mission",
@@ -2935,7 +2960,7 @@
         "fandomUrl": "The_Slumbernana_Song_-_Japanese_Ver."
       },
       {
-        "id": 272,
+        "id": 274,
         "title": "The Slumbernana Song - English Ver.",
         "playedAt": ["Missions", ["Trailblaze Continuances"], "Media"],
         "type": "Mission",
@@ -2945,7 +2970,7 @@
         "fandomUrl": "The_Slumbernana_Song_-_English_Ver."
       },
       {
-        "id": 273,
+        "id": 275,
         "title": "The Slumbernana Song - Korean Ver.",
         "playedAt": ["Missions", ["Trailblaze Continuances"]],
         "type": "Mission",
@@ -2955,7 +2980,7 @@
         "fandomUrl": "The_Slumbernana_Song_-_Korean_Ver."
       },
       {
-        "id": 274,
+        "id": 276,
         "title": "Ensemble Cast",
         "playedAt": ["Missions", ["Trailblaze Missions"]],
         "type": "Mission",
@@ -2965,7 +2990,7 @@
         "fandomUrl": "Ensemble_Cast"
       },
       {
-        "id": 275,
+        "id": 277,
         "title": "Alone Time",
         "playedAt": ["Locations"],
         "type": "Open-World",
@@ -2975,7 +3000,7 @@
         "fandomUrl": "Alone_Time"
       },
       {
-        "id": 276,
+        "id": 278,
         "title": "Now, Voyager",
         "playedAt": ["Locations"],
         "type": "Open-World",
@@ -2985,7 +3010,7 @@
         "fandomUrl": "Now%2C_Voyager"
       },
       {
-        "id": 277,
+        "id": 279,
         "title": "My Sword Stirs Starlight",
         "playedAt": ["Event Gameplay", "Media"],
         "type": "Event",
@@ -2995,7 +3020,7 @@
         "fandomUrl": "My_Sword_Stirs_Starlight_%28Soundtrack%29"
       },
       {
-        "id": 278,
+        "id": 280,
         "title": "La Messe de l'athée",
         "playedAt": ["Locations", "Special Gameplay"],
         "type": "Special",
@@ -3005,7 +3030,7 @@
         "fandomUrl": "La_Messe_de_l%27ath%C3%A9e"
       },
       {
-        "id": 279,
+        "id": 281,
         "title": "Reversed Moments",
         "playedAt": ["Special Gameplay"],
         "type": "Special",
@@ -3015,7 +3040,7 @@
         "fandomUrl": "Reversed_Moments"
       },
       {
-        "id": 280,
+        "id": 282,
         "title": "To Naraka We Sink",
         "playedAt": ["Locations", "Phonograph Records"],
         "type": "Open-World",
@@ -3025,7 +3050,7 @@
         "fandomUrl": "To_Naraka_We_Sink"
       },
       {
-        "id": 281,
+        "id": 283,
         "title": "Eight Great Cold Hells",
         "playedAt": ["Locations", "Phonograph Records"],
         "type": "Open-World",
@@ -3035,7 +3060,7 @@
         "fandomUrl": "Eight_Great_Cold_Hells"
       },
       {
-        "id": 282,
+        "id": 284,
         "title": "Moonhowl Stampede",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -3045,7 +3070,7 @@
         "fandomUrl": "Moonhowl_Stampede"
       },
       {
-        "id": 283,
+        "id": 285,
         "title": "Life's Suffering, An Endless Tide",
         "playedAt": ["Combat"],
         "type": "Combat",
@@ -3055,7 +3080,7 @@
         "fandomUrl": "Life%27s_Suffering%2C_An_Endless_Tide"
       },
       {
-        "id": 284,
+        "id": 286,
         "title": "Cloudwide Voyage",
         "playedAt": ["Locations", "Media"],
         "type": "Open-World",
@@ -3065,7 +3090,7 @@
         "fandomUrl": "Cloudwide_Voyage"
       },
       {
-        "id": 285,
+        "id": 287,
         "title": "With My Heartstring as Bow",
         "playedAt": ["Missions", ["Trailblaze Continuances"]],
         "type": "Mission",
@@ -3075,7 +3100,7 @@
         "fandomUrl": "With_My_Heartstring_as_Bow"
       },
       {
-        "id": 286,
+        "id": 288,
         "title": "Welkin's Advent",
         "playedAt": ["Event Gameplay"],
         "type": "Event",
@@ -3085,7 +3110,7 @@
         "fandomUrl": "Welkin%27s_Advent"
       },
       {
-        "id": 287,
+        "id": 289,
         "title": "A Duel of Connecting Blades",
         "playedAt": ["Event Gameplay"],
         "type": "Event",
@@ -3095,7 +3120,7 @@
         "fandomUrl": "A_Duel_of_Connecting_Blades"
       },
       {
-        "id": 288,
+        "id": 290,
         "title": "Fatal Clash of Swordgraves",
         "playedAt": [
           "Enemies",
@@ -3110,7 +3135,7 @@
         "fandomUrl": "Fatal_Clash_of_Swordgraves"
       },
       {
-        "id": 289,
+        "id": 291,
         "title": "Inner Beast Vanquished",
         "playedAt": [
           "Enemies",
@@ -3127,7 +3152,7 @@
         "fandomUrl": "Inner_Beast_Vanquished"
       },
       {
-        "id": 290,
+        "id": 292,
         "title": "The Epitome of Young Morals",
         "playedAt": ["Event Gameplay"],
         "type": "Event",
@@ -3137,7 +3162,7 @@
         "fandomUrl": "The_Epitome_of_Young_Morals_%28Soundtrack%29"
       },
       {
-        "id": 291,
+        "id": 293,
         "title": "Color Your Dreams",
         "playedAt": ["Locations"],
         "type": "Open-World",
@@ -3147,7 +3172,7 @@
         "fandomUrl": "Color_Your_Dreams"
       },
       {
-        "id": 292,
+        "id": 294,
         "title": "Takeoff at Dusk",
         "playedAt": ["Locations"],
         "type": "Open-World",
@@ -3157,7 +3182,7 @@
         "fandomUrl": "Takeoff_at_Dusk"
       },
       {
-        "id": 293,
+        "id": 295,
         "title": "Emperors Reverie",
         "playedAt": ["Special Gameplay"],
         "type": "Special",
@@ -3167,7 +3192,7 @@
         "fandomUrl": "Emperors_Reverie"
       },
       {
-        "id": 294,
+        "id": 296,
         "title": "Dream Drifting",
         "playedAt": ["Missions", ["Trailblaze Continuances"]],
         "type": "Mission",
@@ -3177,7 +3202,7 @@
         "fandomUrl": "Dream_Drifting"
       },
       {
-        "id": 295,
+        "id": 297,
         "title": "Dance in a Deep Dream",
         "playedAt": [
           "Locations",
@@ -3193,7 +3218,7 @@
         "fandomUrl": "Dance_in_a_Deep_Dream"
       },
       {
-        "id": 296,
+        "id": 298,
         "title": "Floating Tempo",
         "playedAt": [
           "Locations",
@@ -3209,7 +3234,7 @@
         "fandomUrl": "Floating_Tempo"
       },
       {
-        "id": 297,
+        "id": 299,
         "title": "Up to This",
         "playedAt": [
           "Locations",
@@ -3224,7 +3249,7 @@
         "fandomUrl": "Up_to_This"
       },
       {
-        "id": 298,
+        "id": 300,
         "title": "Melody of Dazzling Light",
         "playedAt": [
           "Locations",
@@ -3240,7 +3265,7 @@
         "fandomUrl": "Melody_of_Dazzling_Light"
       },
       {
-        "id": 299,
+        "id": 301,
         "title": "The Slumbernana Song - Instrumental",
         "playedAt": [],
         "type": "Special",
@@ -3255,7 +3280,7 @@
     "title": "Nameless Faces",
     "songs": [
       {
-        "id": 300,
+        "id": 302,
         "title": "Nameless Faces (English Ver.)",
         "playedAt": ["Media"],
         "type": "Trailer",
@@ -3265,7 +3290,7 @@
         "fandomUrl": "Nameless_Faces_%28English_Ver.%29"
       },
       {
-        "id": 301,
+        "id": 303,
         "title": "Nameless Faces (Chinese Ver.)",
         "playedAt": ["Media"],
         "type": "Trailer",

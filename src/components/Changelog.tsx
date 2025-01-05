@@ -15,6 +15,7 @@ const history = [
       'Added "Had I Not Seen The Sun" album (Honkai: Star Rail)',
       'Added "The Flapper Sinthome (Part 2)" album (Honkai: Star Rail)',
       'Added "Experience the Paths Vol. 3" album (Honkai: Star Rail)',
+      'Added "No Dazzle, No Break" album (Honkai: Star Rail)',
       'Added "Astral Theater Vol. 2" album (Honkai: Star Rail)',
       'Added "Nameless Faces" album (Honkai: Star Rail)',
     ],
