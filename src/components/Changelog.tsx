@@ -6,6 +6,7 @@ const history = [
   {
     date: "2025-01-05",
     changes: [
+      "Adjusted indicator styling",
       'Added "WHITE NIGHT" album (Honkai: Star Rail)',
       'Added "Experience the Paths Vol. 2" album (Honkai: Star Rail)',
       'Added "INSIDE" album (Honkai: Star Rail)',
