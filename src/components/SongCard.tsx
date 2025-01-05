@@ -22,7 +22,7 @@ export default function SongCard({
     >
       <Thumbnail
         youtubeId={song.youtubeId}
-        className="flex-none w-60 h-60 sm:w-52 sm:h-52"
+        className="flex-none w-60 h-60 sm:w-80 sm:h-80"
       />
       <div className="flex flex-col">
         <h2 className="text-2xl font-bold">{song.title}</h2>
