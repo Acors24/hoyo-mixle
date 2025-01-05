@@ -2695,5 +2695,560 @@
         "fandomUrl": "Symphony_No._8_%2527A_Thousand_Suns%2527"
       }
     ]
+  },
+  {
+    "title": "Experience the Paths Vol. 3",
+    "songs": [
+      {
+        "id": 249,
+        "title": "The Golden Touch",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "IPC",
+        "youtubeId": "PwAXq6Chx7A",
+        "spotifyId": "23fRpbDtRm6fGakpdFsJgu",
+        "fandomUrl": "The_Golden_Touch"
+      },
+      {
+        "id": 250,
+        "title": "Then Wake to Weep",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "sz6hgv8oWSQ",
+        "spotifyId": "3rIsv8I8623KMTRsAimVns",
+        "fandomUrl": "Then_Wake_to_Weep_%28Soundtrack%29"
+      },
+      {
+        "id": 251,
+        "title": "Before the Show Starts",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "ZLnnHhCnPaw",
+        "spotifyId": "5hNsLUUCEb85vEJZeOx65k",
+        "fandomUrl": "Before_the_Show_Starts"
+      },
+      {
+        "id": 252,
+        "title": "If We Had Wings",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "Kc_o6GAbWeY",
+        "spotifyId": "4CZp6HNJDqb00g3dVHCGQR",
+        "fandomUrl": "If_We_Had_Wings"
+      },
+      {
+        "id": 253,
+        "title": "Cowboy's Got Business",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "hofvi0-8e5o",
+        "spotifyId": "3ZSKqtKzKxI1fzwYJaZgQf",
+        "fandomUrl": "Cowboy%2527s_Got_Business"
+      },
+      {
+        "id": 254,
+        "title": "Farewell, Penacony",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "8yHqUeSCnus",
+        "spotifyId": "2eICHwniFDwXDiIaTf2lQd",
+        "fandomUrl": "Farewell%2C_Penacony_%28Soundtrack%29"
+      },
+      {
+        "id": 255,
+        "title": "Art of Dreaming",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "ncr_TVzLZR0",
+        "spotifyId": "3iRbLxVgpeISuURCMqpw8A",
+        "fandomUrl": "Art_of_Dreaming"
+      },
+      {
+        "id": 256,
+        "title": "Presently, Beneath a Shared Sky of Stars",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Stellaron Hunters",
+        "youtubeId": "anZWEwclwpM",
+        "spotifyId": "2kJd2p92wawek7PeS86EbC",
+        "fandomUrl": "Presently%2C_Beneath_a_Shared_Sky_of_Stars"
+      },
+      {
+        "id": 257,
+        "title": "The Embers of Glamoth",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Stellaron Hunters",
+        "youtubeId": "sT26iQirX3E",
+        "spotifyId": "7apOsuK7Qa9tgkSsYwfIwP",
+        "fandomUrl": "The_Embers_of_Glamoth"
+      },
+      {
+        "id": 258,
+        "title": "Embers in a Shell",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Stellaron Hunters",
+        "youtubeId": "HH4Cx0jTp4M",
+        "spotifyId": "0JCWRo5vragpKb3wkhld9K",
+        "fandomUrl": "Embers_in_a_Shell"
+      },
+      {
+        "id": 259,
+        "title": "A Collection of Desires",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "IPC",
+        "youtubeId": "y2Te8lQs7QE",
+        "spotifyId": "3fqBcwk4h7jYqcU4RLemq6",
+        "fandomUrl": "A_Collection_of_Desires"
+      },
+      {
+        "id": 260,
+        "title": "Stoneheart's Oath Ring: Both Ends of the Scale",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "IPC",
+        "youtubeId": "rT0cX4X-P9g",
+        "spotifyId": "1822WpdHxDnQj8DmYDq4yS",
+        "fandomUrl": "Stoneheart%2527s_Oath_Ring%3A_Both_Ends_of_the_Scale"
+      },
+      {
+        "id": 261,
+        "title": "Finest Duel Under the Pristine Blue",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "tsEO13jvbvc",
+        "spotifyId": "2IKLfV4bnMYJj3twkOG364",
+        "fandomUrl": "Finest_Duel_Under_the_Pristine_Blue_%28Soundtrack%29"
+      },
+      {
+        "id": 262,
+        "title": "Challenges Come Anywhere, Anytime",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "vuvEF61xVbQ",
+        "spotifyId": "5C9VqtaVVovjVYm4sqnFHt",
+        "fandomUrl": "Challenges_Come_Anywhere%2C_Anytime"
+      },
+      {
+        "id": 263,
+        "title": "Mind the Swelter, Watch the Furnace",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "XIrw_Z0Ssk0",
+        "spotifyId": "6SWbf6kzjv1xNkBc35eP2P",
+        "fandomUrl": "Mind_the_Swelter%2C_Watch_the_Furnace"
+      },
+      {
+        "id": 264,
+        "title": "Serendipity",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "dzHqWEGN_qg",
+        "spotifyId": "7zm8zBirLfYS9Ifv4z2EKP",
+        "fandomUrl": "Serendipity"
+      },
+      {
+        "id": 265,
+        "title": "Pneumanull Rice",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "njk0IiAE1ic",
+        "spotifyId": "149XUxRmLew2gxII0Zrm0Z",
+        "fandomUrl": "Pneumanull_Rice"
+      },
+      {
+        "id": 266,
+        "title": "Flying Aureus Shot to Lupine Rue",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "uhOio2bSF7c",
+        "spotifyId": "4nNMgyfDqOHpxPAc19kp1t",
+        "fandomUrl": "Flying_Aureus_Shot_to_Lupine_Rue_%28Soundtrack%29"
+      },
+      {
+        "id": 267,
+        "title": "The Arrow that Seeks the Stars",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "yKMsaEI1nOQ",
+        "spotifyId": "2zXUieJLSlss8XVfYzRgUv",
+        "fandomUrl": "The_Arrow_that_Seeks_the_Stars"
+      },
+      {
+        "id": 268,
+        "title": "Taking It Easy",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "p8rBMTG2QWw",
+        "spotifyId": "2l3uQAok6YJMRMlu3BTq8I",
+        "fandomUrl": "Taking_It_Easy"
+      },
+      {
+        "id": 269,
+        "title": "Nothing to Laugh At",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "LuKkAMKC3-0",
+        "spotifyId": "5PKcZsMyCYiMYu4F3BtHai",
+        "fandomUrl": "Nothing_to_Laugh_At"
+      }
+    ]
+  },
+  {
+    "title": "Astral Theater Vol. 2",
+    "songs": [
+      {
+        "id": 270,
+        "title": "The Slumbernana Song - Chinese Ver.",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "hf4k6Xzn1qw",
+        "spotifyId": "3QV4iVd90REIdhm53p5BMe",
+        "fandomUrl": "The_Slumbernana_Song_-_Chinese_Ver."
+      },
+      {
+        "id": 271,
+        "title": "The Slumbernana Song - Japanese Ver.",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "LY4Lallrn7s",
+        "spotifyId": "0yez4FKALXlF66bGzl5ywN",
+        "fandomUrl": "The_Slumbernana_Song_-_Japanese_Ver."
+      },
+      {
+        "id": 272,
+        "title": "The Slumbernana Song - English Ver.",
+        "playedAt": ["Missions", ["Trailblaze Continuances"], "Media"],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "FlpqVaOhh6A",
+        "spotifyId": "370lhF3KN4v2jgpZbU1eC5",
+        "fandomUrl": "The_Slumbernana_Song_-_English_Ver."
+      },
+      {
+        "id": 273,
+        "title": "The Slumbernana Song - Korean Ver.",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "mmDyngfCkCQ",
+        "spotifyId": "3oshoBFd7qTg41OBavdmVw",
+        "fandomUrl": "The_Slumbernana_Song_-_Korean_Ver."
+      },
+      {
+        "id": 274,
+        "title": "Ensemble Cast",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "e9_3iBZLX30",
+        "spotifyId": "1TcXizy3km2CgJhpJAgz4v",
+        "fandomUrl": "Ensemble_Cast"
+      },
+      {
+        "id": 275,
+        "title": "Alone Time",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "28ucY7O4Lqw",
+        "spotifyId": "7szntJRwrEfiBRKGjPAUkO",
+        "fandomUrl": "Alone_Time"
+      },
+      {
+        "id": 276,
+        "title": "Now, Voyager",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "218YdIE0QYQ",
+        "spotifyId": "4LzmR5tIesRG5sX9vUlbCs",
+        "fandomUrl": "Now%2C_Voyager"
+      },
+      {
+        "id": 277,
+        "title": "My Sword Stirs Starlight",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "TQJ7Tlm9YVU",
+        "spotifyId": "78bZ5hS2JdMyFJqlYoxsGE",
+        "fandomUrl": "My_Sword_Stirs_Starlight_%28Soundtrack%29"
+      },
+      {
+        "id": 278,
+        "title": "La Messe de l'athée",
+        "playedAt": ["Locations", "Special Gameplay"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "e52Yq083HPM",
+        "spotifyId": "7JqikQlTY9ubONTzBrHcYn",
+        "fandomUrl": "La_Messe_de_l%2527ath%25C3%25A9e"
+      },
+      {
+        "id": 279,
+        "title": "Reversed Moments",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "CPSHrsW0Ya0",
+        "spotifyId": "6755PUGa4AYV8LtrBizheq",
+        "fandomUrl": "Reversed_Moments"
+      },
+      {
+        "id": 280,
+        "title": "To Naraka We Sink",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "eZx06ZmWUx8",
+        "spotifyId": "2zmc5ZU4BMYOK4S6FmudkG",
+        "fandomUrl": "To_Naraka_We_Sink"
+      },
+      {
+        "id": 281,
+        "title": "Eight Great Cold Hells",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "WlOQTU5QHsI",
+        "spotifyId": "5Zkk3NBwdjxxD4LC6fau5n",
+        "fandomUrl": "Eight_Great_Cold_Hells"
+      },
+      {
+        "id": 282,
+        "title": "Moonhowl Stampede",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "AKsP2KFYqRY",
+        "spotifyId": "4EzUUav4f9ldZAJP4nKNXq",
+        "fandomUrl": "Moonhowl_Stampede"
+      },
+      {
+        "id": 283,
+        "title": "Life's Suffering, An Endless Tide",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "E8DqhIzniG8",
+        "spotifyId": "6hub4G5flWpijMDbuvun5m",
+        "fandomUrl": "Life%2527s_Suffering%2C_An_Endless_Tide"
+      },
+      {
+        "id": 284,
+        "title": "Cloudwide Voyage",
+        "playedAt": ["Locations", "Media"],
+        "type": "Open-World",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "rMzcHehkMZM",
+        "spotifyId": "5rIWxPpciJMYMeV418hFhW",
+        "fandomUrl": "Cloudwide_Voyage"
+      },
+      {
+        "id": 285,
+        "title": "With My Heartstring as Bow",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "bM9mCjaF3Ro",
+        "spotifyId": "2bhL42nMa0kivYpwbrLoLR",
+        "fandomUrl": "With_My_Heartstring_as_Bow"
+      },
+      {
+        "id": 286,
+        "title": "Welkin's Advent",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "Gb_uCpSX9O0",
+        "spotifyId": "6YD6TZuA9nBxES94GtksSs",
+        "fandomUrl": "Welkin%2527s_Advent"
+      },
+      {
+        "id": 287,
+        "title": "A Duel of Connecting Blades",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "itC-KgR0LeE",
+        "spotifyId": "3DL6oQvRcr6FLBwt7C74eq",
+        "fandomUrl": "A_Duel_of_Connecting_Blades"
+      },
+      {
+        "id": 288,
+        "title": "Fatal Clash of Swordgraves",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Continuances"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "KkOlPrXd0LA",
+        "spotifyId": "2AAGr3jEfv4IW6LzaClpGQ",
+        "fandomUrl": "Fatal_Clash_of_Swordgraves"
+      },
+      {
+        "id": 289,
+        "title": "Inner Beast Vanquished",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Continuances"],
+          "Domains",
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Boss",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "3gQSBHfk-9U",
+        "spotifyId": "0iO3z9CI73MeWdDK4RLNAl",
+        "fandomUrl": "Inner_Beast_Vanquished"
+      },
+      {
+        "id": 290,
+        "title": "The Epitome of Young Morals",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "NPNcXbsioWQ",
+        "spotifyId": "3IaFzRgOOBAZDrjnSeXat2",
+        "fandomUrl": "The_Epitome_of_Young_Morals_%28Soundtrack%29"
+      },
+      {
+        "id": 291,
+        "title": "Color Your Dreams",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "ccW0TAbgPaE",
+        "spotifyId": "5nBIEARWhxHI5Eh9qhZD4J",
+        "fandomUrl": "Color_Your_Dreams"
+      },
+      {
+        "id": 292,
+        "title": "Takeoff at Dusk",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "pVln6C687ts",
+        "spotifyId": "6EkDlUwE4BcplaMVuwVGb2",
+        "fandomUrl": "Takeoff_at_Dusk"
+      },
+      {
+        "id": 293,
+        "title": "Emperors Reverie",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Herta Space Station",
+        "youtubeId": "3ePhZJTcgQQ",
+        "spotifyId": "65NpqKVEVal4oqnrmB25Jk",
+        "fandomUrl": "Emperors_Reverie"
+      },
+      {
+        "id": 294,
+        "title": "Dream Drifting",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "TYA8Il2KK1U",
+        "spotifyId": "3NSSnKJ9hsIEhNkaCXFpZW",
+        "fandomUrl": "Dream_Drifting"
+      },
+      {
+        "id": 295,
+        "title": "Dance in a Deep Dream",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Events"],
+          "Event Gameplay",
+          "Phonograph Records"
+        ],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "vZXSkY35JL0",
+        "spotifyId": "3y7uWlGDy8mTWd1BChSeQc",
+        "fandomUrl": "Dance_in_a_Deep_Dream"
+      },
+      {
+        "id": 296,
+        "title": "Floating Tempo",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Events"],
+          "Event Gameplay",
+          "Phonograph Records"
+        ],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "bH6hXMXxnFI",
+        "spotifyId": "3iWeyCW3ATdYT6ICMHk4wd",
+        "fandomUrl": "Floating_Tempo"
+      },
+      {
+        "id": 297,
+        "title": "Up to This",
+        "playedAt": [
+          "Locations",
+          "Event Gameplay",
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "gDb1l1ucMq8",
+        "spotifyId": "6f6WAscQn8xNrBhc7Yy4uD",
+        "fandomUrl": "Up_to_This"
+      },
+      {
+        "id": 298,
+        "title": "Melody of Dazzling Light",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Events"],
+          "Event Gameplay",
+          "Phonograph Records"
+        ],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "07O57t6vzdU",
+        "spotifyId": "5jtzruUCNzxMgaQLNzGiqK",
+        "fandomUrl": "Melody_of_Dazzling_Light"
+      },
+      {
+        "id": 299,
+        "title": "The Slumbernana Song - Instrumental",
+        "playedAt": [],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "h44X3DYNn0A",
+        "spotifyId": "3Ouwgp4Yl7zSLEJfIlvZXD",
+        "fandomUrl": "The_Slumbernana_Song_-_Instrumental"
+      }
+    ]
   }
 ]
