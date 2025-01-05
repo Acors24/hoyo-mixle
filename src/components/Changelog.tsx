@@ -12,6 +12,7 @@ const history = [
       'Added "The Flapper Sinthome (Part 1)" album (Honkai: Star Rail)',
       "Adjusted song card styling",
       'Added "Had I Not Seen The Sun" album (Honkai: Star Rail)',
+      'Added "The Flapper Sinthome (Part 2)" album (Honkai: Star Rail)',
     ],
   },
   {

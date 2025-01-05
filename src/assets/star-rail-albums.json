@@ -2339,5 +2339,361 @@
         "fandomUrl": "Had_I_Not_Seen_The_Sun_-_Instrumental"
       }
     ]
+  },
+  {
+    "title": "The Flapper Sinthome (Part 2)",
+    "songs": [
+      {
+        "id": 216,
+        "title": "Dream First!",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "njsoynWWAZ0",
+        "spotifyId": "0vWj0yUo99g2rm4ggLieU4",
+        "fandomUrl": "Dream_First%21"
+      },
+      {
+        "id": 217,
+        "title": "Omertà",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "z5CV6wbdj5E",
+        "spotifyId": "2IUZXGNq8ipL99QumBNzwE",
+        "fandomUrl": "Omert%25C3%25A0"
+      },
+      {
+        "id": 218,
+        "title": "Speedy Hamz",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "BssU6E-0EhI",
+        "spotifyId": "4TPYBXCBd9tJlvZ84zbFTo",
+        "fandomUrl": "Speedy_Hamz"
+      },
+      {
+        "id": 219,
+        "title": "The Game of Chicken",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "243CN3Jr4vY",
+        "spotifyId": "3FfJ0Yo9DTocPmUrwAxisD",
+        "fandomUrl": "The_Game_of_Chicken"
+      },
+      {
+        "id": 220,
+        "title": "Hell Is Preferable to Nihility",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Penacony",
+        "youtubeId": "Sl9_wcOLass",
+        "spotifyId": "1LOWcYBbD6GEC2UzzLJ4Gk",
+        "fandomUrl": "Hell_Is_Preferable_to_Nihility"
+      },
+      {
+        "id": 221,
+        "title": "Nought May Endure But Mutability",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "px4xO2Jw20E",
+        "spotifyId": "7d50XxHg3nRmocxbWYPnMC",
+        "fandomUrl": "Nought_May_Endure_But_Mutability"
+      },
+      {
+        "id": 222,
+        "title": "Polaris",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "6ON0uDL0eYU",
+        "spotifyId": "0vPxdgKOMMsWKoPOvLf2mt",
+        "fandomUrl": "Polaris"
+      },
+      {
+        "id": 223,
+        "title": "Lodestar in Evernight",
+        "playedAt": ["Locations", "Event Gameplay"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "MOye5gsIW2g",
+        "spotifyId": "2xu8kQ18mxitvx5SS00IjD",
+        "fandomUrl": "Lodestar_in_Evernight"
+      },
+      {
+        "id": 224,
+        "title": "Stranger Than Paradise",
+        "playedAt": ["Locations", "Event Gameplay", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "V8Ed9MtHKR4",
+        "spotifyId": "4QAgXpjd6Z6TiH6UM8d8t0",
+        "fandomUrl": "Stranger_Than_Paradise"
+      },
+      {
+        "id": 225,
+        "title": "The Dice in the Other Room",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Penacony",
+        "youtubeId": "pnc0xLRkYsk",
+        "spotifyId": "4u3mqpQZg5MKN2CTaTluIP",
+        "fandomUrl": "The_Dice_in_the_Other_Room"
+      },
+      {
+        "id": 226,
+        "title": "Fast & Furynuts",
+        "playedAt": ["Event Gameplay", "Phonograph Records"],
+        "type": "Event",
+        "region": "Penacony",
+        "youtubeId": "qS3oGhziwSI",
+        "spotifyId": "0XDbkfrG5nsDgmNQzSrzej",
+        "fandomUrl": "Fast_%2526_Furynuts_%28Soundtrack%29"
+      },
+      {
+        "id": 227,
+        "title": "Into the Cracked Earth",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "ClDU6YPGlS4",
+        "spotifyId": "03y1UA8QziVMGj0B3399Jw",
+        "fandomUrl": "Into_the_Cracked_Earth"
+      },
+      {
+        "id": 228,
+        "title": "The City in the Sea",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "eF4ekaSV68Y",
+        "spotifyId": "05YBHiJwuq4vLMKDdbtftD",
+        "fandomUrl": "The_City_in_the_Sea"
+      },
+      {
+        "id": 229,
+        "title": "A Star Is Born",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "3UIYDjnRrcU",
+        "spotifyId": "66WYHgQVABQ6zuzZInwXtt",
+        "fandomUrl": "A_Star_Is_Born"
+      },
+      {
+        "id": 230,
+        "title": "An Actor Prepares",
+        "playedAt": ["Locations", "Event Gameplay", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "0ODl4sqvyeQ",
+        "spotifyId": "3r68emtltertoDA76t6HZe",
+        "fandomUrl": "An_Actor_Prepares"
+      },
+      {
+        "id": 231,
+        "title": "Little Little Caesar",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "J-iMXkcFW8o",
+        "spotifyId": "2pN7pCeeTz1YqzNoApINd1",
+        "fandomUrl": "Little_Little_Caesar"
+      },
+      {
+        "id": 232,
+        "title": "Nobility of Time",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "xzO9yWogTWU",
+        "spotifyId": "6acQkNvNyivTZlGScu9b0C",
+        "fandomUrl": "Nobility_of_Time"
+      },
+      {
+        "id": 233,
+        "title": "Some Like It Hot",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "aYH00kAIQms",
+        "spotifyId": "5hGrTE22IeNTXYeHOLj3s6",
+        "fandomUrl": "Some_Like_It_Hot"
+      },
+      {
+        "id": 234,
+        "title": "No Business Like Show Business",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "A8UOfg4n4eg",
+        "spotifyId": "3u8ILej7Nr1vGjlrwU0jd8",
+        "fandomUrl": "No_Business_Like_Show_Business"
+      },
+      {
+        "id": 235,
+        "title": "Walk of Fame",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "wIbXvDigJRU",
+        "spotifyId": "7hdYMQTYlJOKeij7ptSGHR",
+        "fandomUrl": "Walk_of_Fame"
+      },
+      {
+        "id": 236,
+        "title": "Caged Wings",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "o3Ua6Cch_-A",
+        "spotifyId": "5dsApkgjX3PsyMAGpO9eg2",
+        "fandomUrl": "Caged_Wings"
+      },
+      {
+        "id": 237,
+        "title": "Oed' und leer das Meer",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "XkUMyRBstME",
+        "spotifyId": "4GdsaIirEM6tgTsWp41adr",
+        "fandomUrl": "Oed%2527_und_leer_das_Meer"
+      },
+      {
+        "id": 238,
+        "title": "The Past, Present, and Eternal Show",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "pb0j5yA-kXs",
+        "spotifyId": "0Efez0Lsj0nuUKo23uYeWo",
+        "fandomUrl": "The_Past%2C_Present%2C_and_Eternal_Show_%28Soundtrack%29"
+      },
+      {
+        "id": 239,
+        "title": "The Strength of Sin Is the Law",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "IvOnEisrM14",
+        "spotifyId": "3R5SoHYhtimZpAAR9bpDUu",
+        "fandomUrl": "The_Strength_of_Sin_Is_the_Law"
+      },
+      {
+        "id": 240,
+        "title": "The Sting of Death Is Sin",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Penacony",
+        "youtubeId": "phykALx6FtM",
+        "spotifyId": "2yRy5rv7PkdhG1ZxESNJCg",
+        "fandomUrl": "The_Sting_of_Death_Is_Sin"
+      },
+      {
+        "id": 241,
+        "title": "Im Anfang war das Wort",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "D-WYoicHI4s",
+        "spotifyId": "2igMJBxdCfAgqScZktqEsv",
+        "fandomUrl": "Im_Anfang_war_das_Wort"
+      },
+      {
+        "id": 242,
+        "title": "Confutatis",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "E7VCCPIW4pA",
+        "spotifyId": "4dTI1lvbW1cdEoaxapoTCu",
+        "fandomUrl": "Confutatis"
+      },
+      {
+        "id": 243,
+        "title": "Agnus Aeon",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "lO0KFN7yoNg",
+        "spotifyId": "7D1W1nMBJ4SAYiZjqKG4mU",
+        "fandomUrl": "Agnus_Aeon"
+      },
+      {
+        "id": 244,
+        "title": "Requiem Aeternam",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "k7c0KtmJbE8",
+        "spotifyId": "6AkpYjoqrV2NYGmqzCKfgV",
+        "fandomUrl": "Requiem_Aeternam"
+      },
+      {
+        "id": 245,
+        "title": "Lux Aeterna",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Phonograph Records"],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "Vv4s3uiwDsQ",
+        "spotifyId": "0lIITunZ2taO9wQiBSnMgq",
+        "fandomUrl": "Lux_Aeterna"
+      },
+      {
+        "id": 246,
+        "title": "Hosanna in Excelsis",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "al_Bzg1gwSE",
+        "spotifyId": "2pyBklY8VUldFi7wFlztH2",
+        "fandomUrl": "Hosanna_in_Excelsis"
+      },
+      {
+        "id": 247,
+        "title": "Infirma Nostri Corporis",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Penacony",
+        "youtubeId": "QX9Jtd5tNnE",
+        "spotifyId": "3mYMOhze2NUqrdci8XoRDr",
+        "fandomUrl": "Infirma_Nostri_Corporis"
+      },
+      {
+        "id": 248,
+        "title": "Symphony No. 8 'A Thousand Suns'",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Penacony",
+        "youtubeId": "sJRjZvJwFlI",
+        "spotifyId": "4Tm5eLCcSofqSXtxY8tUkj",
+        "fandomUrl": "Symphony_No._8_%2527A_Thousand_Suns%2527"
+      }
+    ]
   }
 ]
