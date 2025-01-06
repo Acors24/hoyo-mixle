@@ -10,6 +10,7 @@ import { getTodaysSong, getYouTubeThumbnail } from "../utils";
 import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
+import * as Switch from "@radix-ui/react-switch";
 
 function idsToSongs(ids: number[], albums: Album[]): Song[] {
   return ids.map(
@@ -39,15 +40,15 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
     getYouTubeThumbnail(chosenSong.youtubeId)
   );
 
-  const handleEndlessModeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setEndlessMode(e.target.checked);
+  const handleEndlessModeChange = (checked: boolean) => {
+    setEndlessMode(checked);
 
     setEndlessToggleDisabled(true);
     setTimeout(() => {
       setEndlessToggleDisabled(false);
     }, 2000);
 
-    if (e.target.checked) {
+    if (checked) {
       const alreadyPlaying = state.gameData[currentGame].endless.songId;
       const song =
         alreadyPlaying !== null
@@ -147,15 +148,16 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
           }
         </span>
       </div>
-      <label className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2">
-        <input
-          type="checkbox"
-          className="mr-2"
-          checked={endlessMode}
-          onChange={handleEndlessModeChange}
-          disabled={endlessToggleDisabled}
-        />
+      <label className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2 flex items-center gap-2">
         Endless mode
+        <Switch.Root
+          checked={endlessMode}
+          onCheckedChange={handleEndlessModeChange}
+          disabled={endlessToggleDisabled}
+          className="SwitchRoot"
+        >
+          <Switch.Thumb className="SwitchThumb" />
+        </Switch.Root>
       </label>
       {gameState !== "playing" && endlessMode && (
         <button

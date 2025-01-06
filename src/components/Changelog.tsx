@@ -11,6 +11,7 @@ const history = [
       "Added a button for clearing the song filter input",
       "Improved navbar and dialog styling",
       "Split How to Play and About into separate dialogs",
+      "Replaced Endless Mode checkbox with a switch",
     ],
   },
   {
