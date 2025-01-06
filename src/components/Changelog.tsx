@@ -5,7 +5,7 @@ import { useStorage } from "../StorageContext";
 const history = [
   {
     date: "2025-01-06",
-    changes: ["Adjusted HSR album data"],
+    changes: ["Adjusted HSR album data", "Adjusted song card styling"],
   },
   {
     date: "2025-01-05",

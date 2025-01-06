@@ -16,14 +16,11 @@ export default function SongCard({
 }) {
   return (
     <div
-      className={`flex flex-col sm:flex-row gap-4 bg-slate-800 bg-opacity-50 rounded-xl p-4 w-min sm:w-auto ${
+      className={`flex flex-col sm:flex-row gap-4 bg-slate-800 bg-opacity-50 rounded-xl p-4 sm:w-auto ${
         className ?? ""
       }`}
     >
-      <Thumbnail
-        youtubeId={song.youtubeId}
-        className="flex-none w-60 h-60 sm:w-80 sm:h-80"
-      />
+      <Thumbnail youtubeId={song.youtubeId} className="sm:w-80" />
       <div className="flex flex-col">
         <h2 className="text-2xl font-bold">{song.title}</h2>
         <h3>{album.title}</h3>
@@ -70,17 +67,11 @@ function Thumbnail({
   className?: string;
 }) {
   return (
-    <div
-      className={`rounded select-none overflow-hidden shadow aspect-square ${
-        className ?? ""
-      }`}
-    >
-      <img
-        src={getYouTubeThumbnail(youtubeId)}
-        alt="YouTube thumbnail"
-        className="w-full h-full object-cover pointer-events-none"
-      />
-    </div>
+    <img
+      src={getYouTubeThumbnail(youtubeId)}
+      alt=""
+      className={`object-cover rounded pointer-events-none select-none aspect-square shadow ${className ?? ""}`}
+    />
   );
 }
 
