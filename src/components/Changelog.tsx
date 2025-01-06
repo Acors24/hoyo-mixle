@@ -12,6 +12,7 @@ const history = [
       "Improved navbar and dialog styling",
       "Split How to Play and About into separate dialogs",
       "Replaced Endless Mode checkbox with a switch",
+      "Adjusted the appearance of the volume slider",
     ],
   },
   {

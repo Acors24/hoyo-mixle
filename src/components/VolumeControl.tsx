@@ -1,6 +1,7 @@
 import { useRef, useState } from "react";
 import { FaVolumeHigh, FaVolumeLow, FaVolumeXmark } from "react-icons/fa6";
 import IconButton from "./IconButton";
+import * as Slider from "@radix-ui/react-slider";
 
 export default function VolumeControl({
   initialVolume,
@@ -9,9 +10,9 @@ export default function VolumeControl({
   initialVolume: number;
   onVolumeChange: (volume: number) => void;
 }) {
-  const handleVolumeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    onVolumeChange(Number(e.target.value));
-    setVolume(Number(e.target.value));
+  const handleVolumeChange = (value: number) => {
+    onVolumeChange(Number(value));
+    setVolume(Number(value));
   };
 
   const [volume, setVolume] = useState(initialVolume);
@@ -30,13 +31,17 @@ export default function VolumeControl({
 
   return (
     <div className="flex flex-col items-center gap-2 bg-slate-800 bg-opacity-50 rounded-full h-full">
-      <input
-        type="range"
-        value={volume}
-        onChange={handleVolumeChange}
-        style={{ writingMode: "vertical-lr", direction: "rtl" }}
-        className="mt-4"
-      />
+      <Slider.Root
+        className="SliderRoot mt-4"
+        value={[volume]}
+        onValueChange={(vs) => handleVolumeChange(vs[0])}
+        orientation="vertical"
+      >
+        <Slider.Track className="SliderTrack">
+          <Slider.Range className="SliderRange" />
+        </Slider.Track>
+        <Slider.Thumb className="SliderThumb" />
+      </Slider.Root>
       <IconButton
         icon={
           volume > 50 ? (
