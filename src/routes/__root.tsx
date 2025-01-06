@@ -1,7 +1,7 @@
 import { createRootRoute, Link, Outlet } from "@tanstack/react-router";
 import "../index.css";
 import StorageProvider from "../StorageProvider";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/Navbar/Navbar";
 import React from "react";
 
 const TanStackRouterDevtools =

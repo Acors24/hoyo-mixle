@@ -125,7 +125,7 @@ export default function HowToPlay() {
         </div>
       </dialog>
       <button onClick={() => setOpen(true)}>
-        <FaRegCircleQuestion className="text-3xl" />
+        <FaRegCircleQuestion />
       </button>
     </>
   );

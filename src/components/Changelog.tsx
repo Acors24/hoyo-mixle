@@ -9,6 +9,7 @@ const history = [
       "Adjusted HSR album data",
       "Adjusted song card styling",
       "Added a button for clearing the song filter input",
+      "Improved navbar styling",
     ],
   },
   {
@@ -220,11 +221,11 @@ export default function Changelog() {
       <button onClick={() => setOpen(true)} className="relative">
         {getChangelogVersion() !== state.config.lastChangelogSeen && (
           <>
-            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4"></span>
-            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 animate-ping"></span>
+            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 z-10 pointer-events-none"></span>
+            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 z-10 pointer-events-none animate-ping"></span>
           </>
         )}
-        <FaRegFileLines className="text-3xl" />
+        <FaRegFileLines />
       </button>
     </>
   );
