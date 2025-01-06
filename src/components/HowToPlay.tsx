@@ -26,11 +26,7 @@ export default function HowToPlay() {
 
   return (
     <>
-      <dialog
-        ref={dialogRef}
-        onClose={onClose}
-        className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow *:mt-2 first:*:mt-0"
-      >
+      <dialog ref={dialogRef} onClose={onClose} className="*:mt-2 first:*:mt-0">
         <div className="flex justify-between mb-4">
           <h2 className="text-3xl font-bold">How to play</h2>
           <button autoFocus onClick={onClose}>

@@ -185,11 +185,7 @@ export default function Changelog() {
 
   return (
     <>
-      <dialog
-        ref={dialogRef}
-        onClose={onClose}
-        className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow"
-      >
+      <dialog ref={dialogRef} onClose={onClose}>
         <div className="flex justify-between mb-4">
           <h1 className="text-3xl font-bold">Changelog</h1>
           <button autoFocus onClick={onClose}>

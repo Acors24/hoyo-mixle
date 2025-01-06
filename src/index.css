@@ -9,3 +9,7 @@ html {
 body {
   @apply h-screen bg-slate-900 text-white;
 }
+
+dialog {
+  @apply bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow;
+}
