@@ -5,6 +5,7 @@ import { Random } from "random";
 import * as Accordion from "@radix-ui/react-accordion";
 import classes from "./style.module.css";
 import { FaChevronDown } from "react-icons/fa6";
+import { RxCross1 } from "react-icons/rx";
 
 export default function SongFilter({
   chosenSong,
@@ -102,13 +103,19 @@ export default function SongFilter({
 
   return (
     <div className={`flex flex-col gap-2 ${className ?? ""}`}>
-      <input
-        type="text"
-        value={filterInput}
-        onChange={(event) => setFilterInput(event.target.value)}
-        placeholder="Filter..."
-        className={classes.FilterInput}
-      />
+      <div className="relative">
+        <input
+          type="text"
+          value={filterInput}
+          onChange={(event) => setFilterInput(event.target.value)}
+          placeholder="Filter..."
+          className={classes.FilterInput}
+        />
+        <RxCross1
+          onClick={() => setFilterInput("")}
+          className={classes.ClearButton}
+        />
+      </div>
       {!albumsVisible ? (
         <ul className={classes.AccordionRoot}>
           {allSongs
