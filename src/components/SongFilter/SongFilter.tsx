@@ -5,7 +5,7 @@ import { Random } from "random";
 import * as Accordion from "@radix-ui/react-accordion";
 import classes from "./style.module.css";
 import { FaChevronDown } from "react-icons/fa6";
-import { RxCross1 } from "react-icons/rx";
+import { FiX } from "react-icons/fi";
 
 export default function SongFilter({
   chosenSong,
@@ -111,7 +111,7 @@ export default function SongFilter({
           placeholder="Filter..."
           className={classes.FilterInput}
         />
-        <RxCross1
+        <FiX
           onClick={() => setFilterInput("")}
           className={classes.ClearButton}
         />

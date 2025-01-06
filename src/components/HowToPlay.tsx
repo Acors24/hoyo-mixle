@@ -1,7 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import { FaExternalLinkAlt } from "react-icons/fa";
-import { FaRegCircleQuestion, FaRegCircleXmark } from "react-icons/fa6";
 import { useStorage } from "../StorageContext";
+import { FiExternalLink, FiHelpCircle, FiX } from "react-icons/fi";
 
 export default function HowToPlay() {
   const dialogRef = useRef<HTMLDialogElement>(null);
@@ -26,11 +25,14 @@ export default function HowToPlay() {
 
   return (
     <>
+      <button onClick={() => setOpen(true)}>
+        <FiHelpCircle />
+      </button>
       <dialog ref={dialogRef} onClose={onClose} className="*:mt-2 first:*:mt-0">
         <div className="flex justify-between mb-4">
           <h2 className="text-3xl font-bold">How to play</h2>
           <button autoFocus onClick={onClose}>
-            <FaRegCircleXmark className="text-2xl" />
+            <FiX className="text-2xl" />
           </button>
         </div>
 
@@ -43,7 +45,7 @@ export default function HowToPlay() {
             className="text-amber-200 hover:underline"
           >
             HOYO-MiX
-            <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
+            <FiExternalLink className="ml-1 inline text-xs align-baseline" />
           </a>{" "}
           song is chosen. 3 short samples are randomly selected for this song.
         </p>
@@ -78,29 +80,6 @@ export default function HowToPlay() {
             limited to 4.
           </li>
         </ul>
-        <p>
-          Track titles, album titles and game parts are taken from the{" "}
-          <a
-            href="https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki"
-            target="_blank"
-            rel="noreferrer"
-            className="text-amber-200 hover:underline"
-          >
-            Genshin Impact Fandom Wiki
-            <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
-          </a>{" "}
-          and{" "}
-          <a
-            href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki"
-            target="_blank"
-            rel="noreferrer"
-            className="text-amber-200 hover:underline"
-          >
-            Honkai: Star Rail Fandom Wiki
-            <FaExternalLinkAlt className="ml-1 inline text-xs align-baseline" />
-          </a>
-          . Track types and regions are decided by me and may not be accurate.
-        </p>
 
         <div className="bg-rose-500 bg-opacity-10 border-rose-500 border rounded-xl p-2">
           <p>
@@ -108,21 +87,7 @@ export default function HowToPlay() {
             playing while listening to the samples.
           </p>
         </div>
-
-        <div className="bg-amber-500 bg-opacity-10 border-amber-500 border rounded-xl p-2">
-          <p>
-            This is currently a work in progress. More features and
-            improvements, including more albums, will be added in the future.
-          </p>
-          <p className="mt-2">
-            You can report any issues or suggest improvements by messaging{" "}
-            <span className="font-bold text-sky-200">acors</span> on Discord.
-          </p>
-        </div>
       </dialog>
-      <button onClick={() => setOpen(true)}>
-        <FaRegCircleQuestion />
-      </button>
     </>
   );
 }

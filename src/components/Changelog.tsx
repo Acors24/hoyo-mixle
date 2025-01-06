@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import { FaRegCircleXmark, FaRegFileLines } from "react-icons/fa6";
 import { useStorage } from "../StorageContext";
+import { FiFileText, FiX } from "react-icons/fi";
 
 const history = [
   {
@@ -9,7 +9,8 @@ const history = [
       "Adjusted HSR album data",
       "Adjusted song card styling",
       "Added a button for clearing the song filter input",
-      "Improved navbar styling",
+      "Improved navbar and dialog styling",
+      "Split How to Play and About into separate dialogs",
     ],
   },
   {
@@ -189,7 +190,7 @@ export default function Changelog() {
         <div className="flex justify-between mb-4">
           <h1 className="text-3xl font-bold">Changelog</h1>
           <button autoFocus onClick={onClose}>
-            <FaRegCircleXmark className="text-2xl" />
+            <FiX className="text-2xl" />
           </button>
         </div>
 
@@ -221,7 +222,7 @@ export default function Changelog() {
             <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 z-10 pointer-events-none animate-ping"></span>
           </>
         )}
-        <FaRegFileLines />
+        <FiFileText />
       </button>
     </>
   );

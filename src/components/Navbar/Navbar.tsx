@@ -4,6 +4,7 @@ import genshinIcon from "../../assets/Genshin_Impact.png";
 import starRailIcon from "../../assets/Honkai_Star_Rail_App.png";
 import Changelog from "../Changelog";
 import classes from "./style.module.css";
+import About from "../About";
 
 export default function Navbar() {
   return (
@@ -17,6 +18,7 @@ export default function Navbar() {
         </Link>
       </div>
       <div className={classes.UtilityIcons}>
+        <About />
         <Changelog />
         <HowToPlay />
       </div>
