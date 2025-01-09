@@ -4,6 +4,10 @@ import { FiFileText, FiX } from "react-icons/fi";
 
 const history = [
   {
+    date: "2025-01-10",
+    changes: ["Improved the appearance of the trackbar"],
+  },
+  {
     date: "2025-01-06",
     changes: [
       "Adjusted HSR album data",

@@ -26,7 +26,7 @@ export default function TrackBar({
       const time =
         (await playerRef.current?.internalPlayer?.getCurrentTime()) ?? 0;
       setTime(time);
-    }, 30);
+    }, 100);
   }, [playerRef]);
 
   const stopPainting = () => {
@@ -101,7 +101,7 @@ export default function TrackBar({
       >
         <div className="bg-white bg-opacity-20 relative h-full rounded-full overflow-hidden">
           <span
-            className="absolute bg-white bg-opacity-50 left-0 h-full"
+            className="absolute bg-white bg-opacity-50 left-0 h-full duration-100 ease-linear"
             style={{
               width: `${(time / duration) * 100}%`,
             }}
