@@ -12967,5 +12967,1479 @@
         "fandomUrl": "Passing_Memories_-_Instrumental%3A_Female_Key_English_Backing_Vocals"
       }
     ]
+  },
+  {
+    "title": "Land of Tleyaoyotl",
+    "songs": [
+      {
+        "id": 1191,
+        "title": "Natlan",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "lLr1iCQlLEU",
+        "spotifyId": "50DSZxWROadOxgMOscPZIR",
+        "fandomUrl": "Natlan_%28Soundtrack%29"
+      },
+      {
+        "id": 1192,
+        "title": "Jubilation of Calcine",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "cc1QhrkBLgo",
+        "spotifyId": "3cHkdEFhmapUBMOfOne1aR",
+        "fandomUrl": "Jubilation_of_Calcine"
+      },
+      {
+        "id": 1193,
+        "title": "Scarlet Song",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "hdkmW2gqWfU",
+        "spotifyId": "3Uyp7QKDdylnLR2B8h350k",
+        "fandomUrl": "Scarlet_Song"
+      },
+      {
+        "id": 1194,
+        "title": "Thanks for the Fire",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "mzeCHt95DKw",
+        "spotifyId": "1OABk4yMFAi6VRnNEbpJIB",
+        "fandomUrl": "Thanks_for_the_Fire"
+      },
+      {
+        "id": 1195,
+        "title": "After So Many Words",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "d9js9g1Z_Pk",
+        "spotifyId": "4Gfbsv6xyx6cpdmdBgUpiF",
+        "fandomUrl": "After_So_Many_Words"
+      },
+      {
+        "id": 1196,
+        "title": "Undanced Dance",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "BH4tYhGogmo",
+        "spotifyId": "1tM34r8WuCfJh1vwTVdiqK",
+        "fandomUrl": "Undanced_Dance"
+      },
+      {
+        "id": 1197,
+        "title": "A Night of Their Own",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "8nOCKiGS2Lc",
+        "spotifyId": "2X4tG9EhmDzwdzwBycPiTj",
+        "fandomUrl": "A_Night_of_Their_Own"
+      },
+      {
+        "id": 1198,
+        "title": "Campa timoyetzticah, Cempaxochitl?",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "XhnsjgfzZPM",
+        "spotifyId": "45bwrj2x3XmfVpmYFALzZH",
+        "fandomUrl": "Campa_timoyetzticah%2C_Cempaxochitl%253F"
+      },
+      {
+        "id": 1199,
+        "title": "Halls of Hueyteotl",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "l1h4VLKLoqk",
+        "spotifyId": "6Raua4C2vuXfpjyUpTUu34",
+        "fandomUrl": "Halls_of_Hueyteotl"
+      },
+      {
+        "id": 1200,
+        "title": "Bequeathed to the Beloved",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "Z_cgBUkhFJY",
+        "spotifyId": "1PLD7ptp79qdV2QmXh6nge",
+        "fandomUrl": "Bequeathed_to_the_Beloved"
+      },
+      {
+        "id": 1201,
+        "title": "Descendants of Ahkantenal",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "LBqJ6sFH_bI",
+        "spotifyId": "2Arkb4xouRbaMsUcRQdZ8x",
+        "fandomUrl": "Descendants_of_Ahkantenal"
+      },
+      {
+        "id": 1202,
+        "title": "Arcana of Zipacna",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "mhjCyv6wulA",
+        "spotifyId": "3fDsEtBRBRbRNlxaUkoJVM",
+        "fandomUrl": "Arcana_of_Zipacna"
+      },
+      {
+        "id": 1203,
+        "title": "Beat of Boulders",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "eNr7twDJ8ko",
+        "spotifyId": "6iinxafhOrvxuOJLHDFOe3",
+        "fandomUrl": "Beat_of_Boulders"
+      },
+      {
+        "id": 1204,
+        "title": "Baba we Twasali",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "UMssyzge9no",
+        "spotifyId": "7aZ7XCnWWuQUAKUb9NmRpY",
+        "fandomUrl": "Baba_we_Twasali"
+      },
+      {
+        "id": 1205,
+        "title": "The Heights of Rumikunamanta",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "CLItw1Mf4w4",
+        "spotifyId": "46kwyBEXn40FdA7J0ePusS",
+        "fandomUrl": "The_Heights_of_Rumikunamanta"
+      },
+      {
+        "id": 1206,
+        "title": "Whirl of Chalchiuhtlicue",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "r0UWcGcnuS8",
+        "spotifyId": "1PMN2fMvVNtcxeHAfSabEJ",
+        "fandomUrl": "Whirl_of_Chalchiuhtlicue"
+      },
+      {
+        "id": 1207,
+        "title": "Sifu Moto",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "m0TydhURdjs",
+        "spotifyId": "1WzQahe3p0Ig77aRUKjq8S",
+        "fandomUrl": "Sifu_Moto"
+      },
+      {
+        "id": 1208,
+        "title": "Cuicatl of Kongamato",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "D6UMX5S6X8c",
+        "spotifyId": "2tD1fhyU47J7X01uyti0R4",
+        "fandomUrl": "Cuicatl_of_Kongamato"
+      },
+      {
+        "id": 1209,
+        "title": "Makani 'olu'olu",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "ImeaQLRPRKc",
+        "spotifyId": "2oN0weYQNS9hFLYkAyWOEk",
+        "fandomUrl": "Makani_%2527olu%2527olu"
+      },
+      {
+        "id": 1210,
+        "title": "Reverie of Pua Aloalo",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "MD_WrBQIqmM",
+        "spotifyId": "0JgIpghWUnerFNRcioL6IH",
+        "fandomUrl": "Reverie_of_Pua_Aloalo"
+      },
+      {
+        "id": 1211,
+        "title": "Dazzling Moon of Metztli",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "aTeCGVQME4s",
+        "spotifyId": "4LJ3QzfSc9IEO8T1TtjiZK",
+        "fandomUrl": "Dazzling_Moon_of_Metztli"
+      },
+      {
+        "id": 1212,
+        "title": "Chimes on the Blue Shore",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "kKDTFAE7oGo",
+        "spotifyId": "1301fh9adTNbdYdHQkgsaw",
+        "fandomUrl": "Chimes_on_the_Blue_Shore"
+      },
+      {
+        "id": 1213,
+        "title": "Rainbow Leis",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "rJH292sRCfY",
+        "spotifyId": "6Bk578bXFHGDkxSbZE48pO",
+        "fandomUrl": "Rainbow_Leis"
+      },
+      {
+        "id": 1214,
+        "title": "Promises by the Spring",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "SbF8ma3bhEc",
+        "spotifyId": "5b9f8oO2Vf7fy0AuxLMqpQ",
+        "fandomUrl": "Promises_by_the_Spring"
+      },
+      {
+        "id": 1215,
+        "title": "Moment of Solace",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "sfu-6BYtfhE",
+        "spotifyId": "6wazf56AUA6pJlBEZN1F8x",
+        "fandomUrl": "Moment_of_Solace"
+      },
+      {
+        "id": 1216,
+        "title": "Blazing Proclamation",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "scW7nQto75A",
+        "spotifyId": "3sH3qK1Q8PhtlOEK1R7lde",
+        "fandomUrl": "Blazing_Proclamation"
+      },
+      {
+        "id": 1217,
+        "title": "Ode of Resurrection: Doxology",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "7rSaw11Ncu0",
+        "spotifyId": "0xct3VmJH9MgvJhELG1rQq",
+        "fandomUrl": "Ode_of_Resurrection%3A_Doxology"
+      },
+      {
+        "id": 1218,
+        "title": "Ode of Resurrection: Excerpt",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "bFG_NeShBhY",
+        "spotifyId": "7b01VdmLLgTFDG6bzr77sp",
+        "fandomUrl": "Ode_of_Resurrection%3A_Excerpt"
+      },
+      {
+        "id": 1219,
+        "title": "...Times Come Again No More",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "JXMkEMCma8A",
+        "spotifyId": "5a247LxPiaTqksLSbHD16f",
+        "fandomUrl": "...Times_Come_Again_No_More"
+      },
+      {
+        "id": 1220,
+        "title": "Realm of Ethereal Murk",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "WdwktdlynRY",
+        "spotifyId": "5LZZ6aqlDdAyS180JoK21O",
+        "fandomUrl": "Realm_of_Ethereal_Murk"
+      },
+      {
+        "id": 1221,
+        "title": "Blaze of Fervent Night",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "DPoUUy1dsbI",
+        "spotifyId": "5r7Z1BFJO14Ur7a3xV1Olv",
+        "fandomUrl": "Blaze_of_Fervent_Night"
+      },
+      {
+        "id": 1222,
+        "title": "Inheritance of an Ancient Name",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "TWDvfV4AbsU",
+        "spotifyId": "1H3kVSe3kt74jZ7tzqplVt",
+        "fandomUrl": "Inheritance_of_an_Ancient_Name"
+      },
+      {
+        "id": 1223,
+        "title": "Metaphor for Calamity",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "SHsUJkO2Sv8",
+        "spotifyId": "3q0ypa2TFjhq0oEyn3VzoG",
+        "fandomUrl": "Metaphor_for_Calamity"
+      },
+      {
+        "id": 1224,
+        "title": "Introduction to a Little Friend",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "2m2X0L2-BNM",
+        "spotifyId": "7nVnxQJNJ6NWnL8i0o02zX",
+        "fandomUrl": "Introduction_to_a_Little_Friend"
+      },
+      {
+        "id": 1225,
+        "title": "A Distant Farewell",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "O9wsQJhQePM",
+        "spotifyId": "62xRtzGXcCSD40eDPIruCu",
+        "fandomUrl": "A_Distant_Farewell"
+      },
+      {
+        "id": 1226,
+        "title": "Chasing Flames Like Strings",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "P1WxfSNSpzc",
+        "spotifyId": "6l6hIrUmZvLwnbEs6IDUnx",
+        "fandomUrl": "Chasing_Flames_Like_Strings"
+      },
+      {
+        "id": 1227,
+        "title": "Flower Writing",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "6-U-a5X0F6g",
+        "spotifyId": "4spknjmdBxFfxEXp12fyRP",
+        "fandomUrl": "Flower_Writing"
+      },
+      {
+        "id": 1228,
+        "title": "Dream of Tranquility",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "HbVAyyIVXkQ",
+        "spotifyId": "0af7iDBUFdERE77dbXjG4M",
+        "fandomUrl": "Dream_of_Tranquility"
+      },
+      {
+        "id": 1229,
+        "title": "Feast and Bounty",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "uUwovnOzYVA",
+        "spotifyId": "6ViMQAOOtNhGIB4rxwAqzA",
+        "fandomUrl": "Feast_and_Bounty"
+      },
+      {
+        "id": 1230,
+        "title": "Chirping of Canyons",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "JwDtuy8En8o",
+        "spotifyId": "79e7ZYZXbQ29dYURynVoQl",
+        "fandomUrl": "Chirping_of_Canyons"
+      },
+      {
+        "id": 1231,
+        "title": "When Rain Clouds Gather",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "5n16OUkxNJw",
+        "spotifyId": "1atPKtjNY0TEYkpRhnzxrO",
+        "fandomUrl": "When_Rain_Clouds_Gather"
+      },
+      {
+        "id": 1232,
+        "title": "Fog of the Seasons",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "1ARo-yqI4FI",
+        "spotifyId": "3kJ4NcKD1HI4ZM6JFzBFMM",
+        "fandomUrl": "Fog_of_the_Seasons"
+      },
+      {
+        "id": 1233,
+        "title": "Quetzal's Yearning",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "MBwE14NpCjA",
+        "spotifyId": "419LgzWk8h4JfbClmGOv8C",
+        "fandomUrl": "Quetzal%2527s_Yearning"
+      },
+      {
+        "id": 1234,
+        "title": "Delightful Whimsy",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "dCRMV_mOr2E",
+        "spotifyId": "4avFq1ZeJxCMKYm4aXfYcb",
+        "fandomUrl": "Delightful_Whimsy"
+      },
+      {
+        "id": 1235,
+        "title": "Eventide Chant",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "WMOE259PU8Y",
+        "spotifyId": "16IH0xoWBeEpACkAgVbnmz",
+        "fandomUrl": "Eventide_Chant"
+      },
+      {
+        "id": 1236,
+        "title": "Silent Voices of the Night",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "CbgDprI1l6k",
+        "spotifyId": "3e3ZgmC79eVRuMa0Ra8hLA",
+        "fandomUrl": "Silent_Voices_of_the_Night"
+      },
+      {
+        "id": 1237,
+        "title": "Dust of Dusklands",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "tZbrjROXoi4",
+        "spotifyId": "7qAWCvJjwEuraZoLc9Tvn4",
+        "fandomUrl": "Dust_of_Dusklands"
+      },
+      {
+        "id": 1238,
+        "title": "Flute of Uilacapitztli",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "9TtVIr-Qa_g",
+        "spotifyId": "16WInKzst6TG3LE6KI0gVh",
+        "fandomUrl": "Flute_of_Uilacapitztli"
+      },
+      {
+        "id": 1239,
+        "title": "A Harvest of Dreams",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "E4QT7z2oRUo",
+        "spotifyId": "49xoaLooekUnvEba6vgmvq",
+        "fandomUrl": "A_Harvest_of_Dreams"
+      },
+      {
+        "id": 1240,
+        "title": "Until the Morning After",
+        "playedAt": ["Open-World Locations", "Serenitea Pot", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "KuI_55dnAmI",
+        "spotifyId": "4xo5aDf4JUkSBRUjhpyO0e",
+        "fandomUrl": "Until_the_Morning_After"
+      },
+      {
+        "id": 1241,
+        "title": "The Nocturnal Firmament's Luster",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "3EKVTzTL6Qc",
+        "spotifyId": "7LcUPrbHQcOC5N8rL7GkCc",
+        "fandomUrl": "The_Nocturnal_Firmament%2527s_Luster"
+      },
+      {
+        "id": 1242,
+        "title": "Shedding Twilight",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "d2KdLYBZcHA",
+        "spotifyId": "1NhmRRDaYP5NOmcbvkE4nb",
+        "fandomUrl": "Shedding_Twilight"
+      },
+      {
+        "id": 1243,
+        "title": "Above the Glorious Crown",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "TQFk3fA3CDU",
+        "spotifyId": "3Huzv0VqvsEjWWMYx8R6PK",
+        "fandomUrl": "Above_the_Glorious_Crown"
+      },
+      {
+        "id": 1244,
+        "title": "Cozy in the Light",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "5FggiBrlbKo",
+        "spotifyId": "2pa5quEhTYtYV5IX47JldI",
+        "fandomUrl": "Cozy_in_the_Light"
+      },
+      {
+        "id": 1245,
+        "title": "Where the Breeze Stills",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "CG_IYivUhkg",
+        "spotifyId": "5xBa0Rt3PzqagSQAdy5vu6",
+        "fandomUrl": "Where_the_Breeze_Stills"
+      },
+      {
+        "id": 1246,
+        "title": "Moon of Hanan Pacha",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "UmC273X0MLM",
+        "spotifyId": "6VdM4NUdPaHeyViWqlhjhi",
+        "fandomUrl": "Moon_of_Hanan_Pacha"
+      },
+      {
+        "id": 1247,
+        "title": "The Sea and the Bells",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "5FkxKwy2IS4",
+        "spotifyId": "3bAWctUns5kzJs3SUQdzaK",
+        "fandomUrl": "The_Sea_and_the_Bells"
+      },
+      {
+        "id": 1248,
+        "title": "The Nights' Wish",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "ks6QotLFkOc",
+        "spotifyId": "4f1sGA9DIgB8FxCPloPUXc",
+        "fandomUrl": "The_Nights%2527_Wish"
+      },
+      {
+        "id": 1249,
+        "title": "Striving for the Wind",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "tzvh1iHHXWM",
+        "spotifyId": "0DZt2LywMn6fRW72YmypqV",
+        "fandomUrl": "Striving_for_the_Wind"
+      },
+      {
+        "id": 1250,
+        "title": "Glow of Nawpa Pacha",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "FRp7uKBtK-I",
+        "spotifyId": "2ue54QggoTd7L70T0ohMi7",
+        "fandomUrl": "Glow_of_Nawpa_Pacha"
+      },
+      {
+        "id": 1251,
+        "title": "Whistles of Monetoo",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "BeDifmh_5UQ",
+        "spotifyId": "2O684t7BpdxmOBr3WVkH1p",
+        "fandomUrl": "Whistles_of_Monetoo"
+      },
+      {
+        "id": 1252,
+        "title": "Foundry of the Golden",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "UqBw7sHAfg4",
+        "spotifyId": "6ncxZIFIR3yCitH9CWsvKq",
+        "fandomUrl": "Foundry_of_the_Golden"
+      },
+      {
+        "id": 1253,
+        "title": "Ravine's Calcination",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "TOktRBY3u84",
+        "spotifyId": "6OiausSglK9clL61UVI7wI",
+        "fandomUrl": "Ravine%2527s_Calcination"
+      },
+      {
+        "id": 1254,
+        "title": "Land of Tecalco",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "UyeSJcUaYZU",
+        "spotifyId": "1SLO5oa79084yXIUx0GHZu",
+        "fandomUrl": "Land_of_Tecalco"
+      },
+      {
+        "id": 1255,
+        "title": "House of Cinders",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "V_T25hU6yWA",
+        "spotifyId": "6VlOKVGss6o3HFY5db2MP9",
+        "fandomUrl": "House_of_Cinders"
+      },
+      {
+        "id": 1256,
+        "title": "Reminiscent of the Stolen Flame",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Domains",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "dUCAQgMDsbY",
+        "spotifyId": "2bXdmv14kKdNPRL4UHYTwK",
+        "fandomUrl": "Reminiscent_of_the_Stolen_Flame"
+      },
+      {
+        "id": 1257,
+        "title": "Breath of Blazing Earth",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "t_J2NXEbWlw",
+        "spotifyId": "2tWmhahc6GTDnY9pFXpCqB",
+        "fandomUrl": "Breath_of_Blazing_Earth"
+      },
+      {
+        "id": 1258,
+        "title": "Smoke of Fallen Flames",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "rpBZpvF79Zs",
+        "spotifyId": "6hsIfNTPkPzsktRKKh7EJ1",
+        "fandomUrl": "Smoke_of_Fallen_Flames"
+      },
+      {
+        "id": 1259,
+        "title": "Arduous Path",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "BOBRFOdI508",
+        "spotifyId": "7tzGnr33dneGEzE2Vqvpga",
+        "fandomUrl": "Arduous_Path"
+      },
+      {
+        "id": 1260,
+        "title": "A Long Way Gone",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "35MiZFRbCKE",
+        "spotifyId": "6CCY50UXSuPdC9ZuXEBEe7",
+        "fandomUrl": "A_Long_Way_Gone"
+      },
+      {
+        "id": 1261,
+        "title": "Dirge of Soul and of Dust",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "ElzwuCKsyDg",
+        "spotifyId": "0szavLhFE9OOs6uEaXYUFC",
+        "fandomUrl": "Dirge_of_Soul_and_of_Dust"
+      },
+      {
+        "id": 1262,
+        "title": "Delving Into the Hidden",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "cDg71QjZgkk",
+        "spotifyId": "3jh2KVJpCH7upn2NveM30i",
+        "fandomUrl": "Delving_Into_the_Hidden"
+      },
+      {
+        "id": 1263,
+        "title": "Anthem of the Savannah",
+        "playedAt": [
+          "Open-World Combat",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Domains",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Natlan",
+        "youtubeId": "IZNrWFHh8WI",
+        "spotifyId": "0WnhA21YHvJ3a5YKqPcYHj",
+        "fandomUrl": "Anthem_of_the_Savannah"
+      },
+      {
+        "id": 1264,
+        "title": "Venture of Tonalamatl",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Natlan",
+        "youtubeId": "MDMRoyWGLzU",
+        "spotifyId": "1Vt59IXac2Cr0pKqc27wuh",
+        "fandomUrl": "Venture_of_Tonalamatl"
+      },
+      {
+        "id": 1265,
+        "title": "A Dance in Fire",
+        "playedAt": [
+          "Open-World Combat",
+          "Domains",
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Combat",
+        "region": "Natlan",
+        "youtubeId": "Y69mDJxFsRA",
+        "spotifyId": "264gHhr99efdU1no0cUqUo",
+        "fandomUrl": "A_Dance_in_Fire"
+      },
+      {
+        "id": 1266,
+        "title": "Grim Is the Night",
+        "playedAt": ["Open-World Combat", "Domains", "Media"],
+        "type": "Combat",
+        "region": "Natlan",
+        "youtubeId": "kSe-8377b9k",
+        "spotifyId": "7L3WlG90umsi0LsUJqK3Nu",
+        "fandomUrl": "Grim_Is_the_Night"
+      },
+      {
+        "id": 1267,
+        "title": "Lightning Racing",
+        "playedAt": ["Quests", ["Story Quests"], "Event Gameplay", "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "fMo8qo6jpTs",
+        "spotifyId": "5KKYHpEOVRkmdffGyHt0rv",
+        "fandomUrl": "Lightning_Racing"
+      },
+      {
+        "id": 1268,
+        "title": "Chasing the Rainbow",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "g4YBghCcUoo",
+        "spotifyId": "5A2OUsMfoWYq6hlLOtlVvx",
+        "fandomUrl": "Chasing_the_Rainbow"
+      }
+    ]
+  },
+  {
+    "title": "Eternal Sun, Eternal Want",
+    "songs": [
+      {
+        "id": 1269,
+        "title": "Prismatic Proverbs",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "s7XObAVh-c8",
+        "spotifyId": "4CGadkRXsbLzuQADqdhj11",
+        "fandomUrl": "Prismatic_Proverbs"
+      },
+      {
+        "id": 1270,
+        "title": "Soothing of Soul and Sand",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "Pjj0WXR2fgs",
+        "spotifyId": "3hG9xfidRJcGrRNtT4PJC2",
+        "fandomUrl": "Soothing_of_Soul_and_Sand"
+      },
+      {
+        "id": 1271,
+        "title": "Springtime in a Mirror",
+        "playedAt": ["Open-World Locations", "Domains", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "KlRJTVPCO64",
+        "spotifyId": "3xFr2gtaYmR9Btbwiooe8f",
+        "fandomUrl": "Springtime_in_a_Mirror"
+      },
+      {
+        "id": 1272,
+        "title": "Night's Crown of Flowers",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "dxbR3V2yRcE",
+        "spotifyId": "0Zh0FkHD9zV1t3DSVdXIso",
+        "fandomUrl": "Night%2527s_Crown_of_Flowers"
+      },
+      {
+        "id": 1273,
+        "title": "A Fragment of Night",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "rg1q86BWMPI",
+        "spotifyId": "7gvZAXWgeYzA5DxN27xHJx",
+        "fandomUrl": "A_Fragment_of_Night"
+      },
+      {
+        "id": 1274,
+        "title": "Choir's Cypher",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "HJDXVKZcElk",
+        "spotifyId": "3D8pUkq4XyI8nfB9gftbP8",
+        "fandomUrl": "Choir%2527s_Cypher"
+      },
+      {
+        "id": 1275,
+        "title": "Where the Mists Enshroud",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "AdVhhFcC8zI",
+        "spotifyId": "1FaxbaVhcMkK4zzSkiRgO2",
+        "fandomUrl": "Where_the_Mists_Enshroud"
+      },
+      {
+        "id": 1276,
+        "title": "Cloud of Thirteen Katuns",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "SYTqRQthvoE",
+        "spotifyId": "3GXtuGkgldNMz50F44JOJT",
+        "fandomUrl": "Cloud_of_Thirteen_Katuns"
+      },
+      {
+        "id": 1277,
+        "title": "Tanyolche's Memories",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "IjXFpRCHjjg",
+        "spotifyId": "4PZUPPgo5qTHpFcV37J1cW",
+        "fandomUrl": "Tanyolche%2527s_Memories"
+      },
+      {
+        "id": 1278,
+        "title": "Touring the Dawn",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "AyhlfS3ZvJg",
+        "spotifyId": "60aoWzY183qhTIunNV0EhW",
+        "fandomUrl": "Touring_the_Dawn"
+      },
+      {
+        "id": 1279,
+        "title": "Hanging in the Heart of the Wind",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "_SJcqWXPKbQ",
+        "spotifyId": "4flWFpDha0uvJsoADjd9GI",
+        "fandomUrl": "Hanging_in_the_Heart_of_the_Wind"
+      },
+      {
+        "id": 1280,
+        "title": "Bells in Bloom",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "p-bKH2i3mys",
+        "spotifyId": "5UML3bTZd8MCf5ThVWsc8A",
+        "fandomUrl": "Bells_in_Bloom"
+      },
+      {
+        "id": 1281,
+        "title": "Beyond the Flute's Whispers",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "u3TYexmORuY",
+        "spotifyId": "1h8QerR9Bxlb5VD2gKVgn8",
+        "fandomUrl": "Beyond_the_Flute%2527s_Whispers"
+      },
+      {
+        "id": 1282,
+        "title": "Frosted Hue of Stars",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "egGQGsPtZUo",
+        "spotifyId": "5JrKqVrS1QD9RDlYsaRCJa",
+        "fandomUrl": "Frosted_Hue_of_Stars"
+      },
+      {
+        "id": 1283,
+        "title": "Starcaller's Wishes",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "Q-1AjYqe5FY",
+        "spotifyId": "2c388gZewL6RBPzywBXVzR",
+        "fandomUrl": "Starcaller%2527s_Wishes"
+      },
+      {
+        "id": 1284,
+        "title": "Hushed Canopy of Night",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "hAJsqEG7xvs",
+        "spotifyId": "6CDGZZVv21zeCEVZCu2AAH",
+        "fandomUrl": "Hushed_Canopy_of_Night"
+      },
+      {
+        "id": 1285,
+        "title": "Once Upon a Time in the Vale",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "pQucU4WZC2c",
+        "spotifyId": "6SgGUyIfFKeo4rctyiw1ch",
+        "fandomUrl": "Once_Upon_a_Time_in_the_Vale"
+      },
+      {
+        "id": 1286,
+        "title": "Homeward Bound",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "BbdUqVMtivI",
+        "spotifyId": "0yvqWyQaCaJSpIGTG5KBmW",
+        "fandomUrl": "Homeward_Bound"
+      },
+      {
+        "id": 1287,
+        "title": "Malinalco's Dusk",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "Y4uQ4uk-mes",
+        "spotifyId": "1NXoHx30K4781AWgnYadXF",
+        "fandomUrl": "Malinalco%2527s_Dusk"
+      },
+      {
+        "id": 1288,
+        "title": "Mountain's Hymn",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "U-U_LLdWg-A",
+        "spotifyId": "30HqMLabJxDYXmGNRvrwld",
+        "fandomUrl": "Mountain%2527s_Hymn"
+      },
+      {
+        "id": 1289,
+        "title": "Dance of the Brown Deer",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "fOuA_379AX4",
+        "spotifyId": "2bhOssz42gpAmzYadxZLnb",
+        "fandomUrl": "Dance_of_the_Brown_Deer"
+      },
+      {
+        "id": 1290,
+        "title": "When the Breeze Ceases",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "2NMMCUf3JLU",
+        "spotifyId": "0OwbsFxWFSMP6fc5VrykkV",
+        "fandomUrl": "When_the_Breeze_Ceases"
+      },
+      {
+        "id": 1291,
+        "title": "Rain of an Ancient Dream",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "qCAAerSyYjw",
+        "spotifyId": "4AXxI5lsgHu7yT036gAHWd",
+        "fandomUrl": "Rain_of_an_Ancient_Dream"
+      },
+      {
+        "id": 1292,
+        "title": "All the Pretty Courses",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "kJVJPOKSXgw",
+        "spotifyId": "1Oemu3Uit0kvIFEYgtK6ye",
+        "fandomUrl": "All_the_Pretty_Courses"
+      },
+      {
+        "id": 1293,
+        "title": "Salute of Eagles",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "k9AmFZ4yMjo",
+        "spotifyId": "0bvt5rMIwy3kmlvwTsCzmY",
+        "fandomUrl": "Salute_of_Eagles"
+      },
+      {
+        "id": 1294,
+        "title": "Idle Hours",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "_HQCHRQ2yDg",
+        "spotifyId": "35XzRjYTF5dgGbzimHn2d5",
+        "fandomUrl": "Idle_Hours"
+      },
+      {
+        "id": 1295,
+        "title": "Feathered Moonlight",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "V3aurgnqKIY",
+        "spotifyId": "0jUquah7dNQCLX6rXdaHvD",
+        "fandomUrl": "Feathered_Moonlight"
+      },
+      {
+        "id": 1296,
+        "title": "Fading Dawn",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "TP1q4Gj3xgw",
+        "spotifyId": "1BObPfzgaDmmTDMz7JNAmp",
+        "fandomUrl": "Fading_Dawn"
+      },
+      {
+        "id": 1297,
+        "title": "Afterglow of the Sky",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "N2vFDYgroxE",
+        "spotifyId": "3nRJbBWinYPT5XSUhZihep",
+        "fandomUrl": "Afterglow_of_the_Sky"
+      },
+      {
+        "id": 1298,
+        "title": "Sigh, the Breath of Yore",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "c5qwndBYvJ4",
+        "spotifyId": "4plMqhTU1TkBIgemnAhtpN",
+        "fandomUrl": "Sigh%2C_the_Breath_of_Yore"
+      },
+      {
+        "id": 1299,
+        "title": "For an Unmarked Grave",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "5lLr9vBaKJU",
+        "spotifyId": "7wgpHN9vLBpthCunVGdgw7",
+        "fandomUrl": "For_an_Unmarked_Grave"
+      },
+      {
+        "id": 1300,
+        "title": "A Dream Yet to Come",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "zmorKEEhZvU",
+        "spotifyId": "25CmCQeMGA5pP2mrDh15KT",
+        "fandomUrl": "A_Dream_Yet_to_Come"
+      },
+      {
+        "id": 1301,
+        "title": "Hidden Path Above the Savannah",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "nFcNLqS5GH4",
+        "spotifyId": "4M9BrzjHnhNqmdeDpDCUc1",
+        "fandomUrl": "Hidden_Path_Above_the_Savannah"
+      },
+      {
+        "id": 1302,
+        "title": "Someone Walked These Paths",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "GrhftsnnFEE",
+        "spotifyId": "0Ls8TnkS9No7hsB0OUgpb0",
+        "fandomUrl": "Someone_Walked_These_Paths"
+      },
+      {
+        "id": 1303,
+        "title": "Ashes of Presumption",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "RvWcDEhCn_s",
+        "spotifyId": "6Ec9x7MduAVUGntQEXhOpq",
+        "fandomUrl": "Ashes_of_Presumption"
+      },
+      {
+        "id": 1304,
+        "title": "The Fading Voices of Cinder",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "nOPO_UJFZ0c",
+        "spotifyId": "2jRoKgIqRlrF0uZTdhMh5U",
+        "fandomUrl": "The_Fading_Voices_of_Cinder"
+      },
+      {
+        "id": 1305,
+        "title": "Comfort in Visions",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "OQsUrNCaCnY",
+        "spotifyId": "5dnhLvsSXZT0SuVUUDXnUy",
+        "fandomUrl": "Comfort_in_Visions"
+      },
+      {
+        "id": 1306,
+        "title": "Serpent's Endgame",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "e71NfgPbnBQ",
+        "spotifyId": "1Z60ZZ0pjvJ8rKQAlGRwP9",
+        "fandomUrl": "Serpent%2527s_Endgame"
+      },
+      {
+        "id": 1307,
+        "title": "Formidable Usurper",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "s_89W_8RbQk",
+        "spotifyId": "32wTa3QOLezxQTEseBKIy1",
+        "fandomUrl": "Formidable_Usurper"
+      },
+      {
+        "id": 1308,
+        "title": "Indisputable Commandments",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "tFG0xHuILd0",
+        "spotifyId": "6jiuYU0uj5GSYN0PDPOpXz",
+        "fandomUrl": "Indisputable_Commandments"
+      },
+      {
+        "id": 1309,
+        "title": "Dripping Gloom",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests", "Story Quests"],
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "gZfegjZYL3o",
+        "spotifyId": "2J80Z7wxp1QPb1o8K9D0bt",
+        "fandomUrl": "Dripping_Gloom"
+      },
+      {
+        "id": 1310,
+        "title": "Eclipsed Star",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "EsRZVLG-T-s",
+        "spotifyId": "7FiKAGCbLfbcwAUSLKYaK5",
+        "fandomUrl": "Eclipsed_Star"
+      },
+      {
+        "id": 1311,
+        "title": "Onset of Omens",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "5frpOFAMw7I",
+        "spotifyId": "24h8qdBnX1q1mFcsVRPrsC",
+        "fandomUrl": "Onset_of_Omens"
+      },
+      {
+        "id": 1312,
+        "title": "Wingless Wail",
+        "playedAt": ["Domains", "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "wiaF5xQ1kJY",
+        "spotifyId": "3dZgutk9pseU0YFwlTrNGr",
+        "fandomUrl": "Wingless_Wail"
+      },
+      {
+        "id": 1313,
+        "title": "Hoary Hibernation",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "pjL8bVOSpAQ",
+        "spotifyId": "72RvBtvUSpmZ0AmDTsSaBk",
+        "fandomUrl": "Hoary_Hibernation"
+      },
+      {
+        "id": 1314,
+        "title": "As the Feather Falls",
+        "playedAt": ["Quests", ["Archon Quests", "Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "2nBDQppC3y4",
+        "spotifyId": "6AvHppPsa23PRhQjVS79rY",
+        "fandomUrl": "As_the_Feather_Falls"
+      },
+      {
+        "id": 1315,
+        "title": "Unanswered Yearning",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "0FQB5A2A1-U",
+        "spotifyId": "2fkOE6tsvYeXjLaHGYCZro",
+        "fandomUrl": "Unanswered_Yearning"
+      },
+      {
+        "id": 1316,
+        "title": "Tears of a Scorching Night",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "VstlUh-t-eg",
+        "spotifyId": "7GfOTPKYOP1eakCKDjoCOx",
+        "fandomUrl": "Tears_of_a_Scorching_Night"
+      },
+      {
+        "id": 1317,
+        "title": "To the End of All Wars",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "CIn1m-8j0cY",
+        "spotifyId": "54mPyYkEKmzYdohvwGCu1o",
+        "fandomUrl": "To_the_End_of_All_Wars"
+      },
+      {
+        "id": 1318,
+        "title": "Shaping the Struggle",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Combat",
+        "region": "Natlan",
+        "youtubeId": "UTQ2XfKrNIk",
+        "spotifyId": "1OlULzFcnzjc9YSCpufykg",
+        "fandomUrl": "Shaping_the_Struggle"
+      },
+      {
+        "id": 1319,
+        "title": "Tumaini washa moto",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "BgejKU_ceVU",
+        "spotifyId": "6xbc28lWE1YtMBrWm09jDM",
+        "fandomUrl": "Tumaini_washa_moto"
+      },
+      {
+        "id": 1320,
+        "title": "Stage's Coach",
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Story Quests"],
+          "Special Gameplay",
+          "Media"
+        ],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "CQz1hvjA8OU",
+        "spotifyId": "3mqpUYuRKFjYRTeUggIibD",
+        "fandomUrl": "Stage%2527s_Coach"
+      },
+      {
+        "id": 1321,
+        "title": "Maze of Spirits",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "gkaZaFmCc1U",
+        "spotifyId": "7oCvO9NcBlfnBEC8qvzWIk",
+        "fandomUrl": "Maze_of_Spirits"
+      }
+    ]
+  },
+  {
+    "title": "Blazing Heart",
+    "songs": [
+      {
+        "id": 1322,
+        "title": "Blazing Heart - Chinese Version",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "k3r03vZhwFg",
+        "spotifyId": "4ZkgrGYv2GNFKJbhbTLVlO",
+        "fandomUrl": "Blazing_Heart_-_Chinese_Version"
+      },
+      {
+        "id": 1323,
+        "title": "Blazing Heart - English Version",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "ITKYSZcddVk",
+        "spotifyId": "27IbWBle43yep3iX0Tslx2",
+        "fandomUrl": "Blazing_Heart_-_English_Version"
+      },
+      {
+        "id": 1324,
+        "title": "Blazing Heart - Japanese Version",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "vfIY8iT70iw",
+        "spotifyId": "7i5BSaGqP78zmjab7JL4O8",
+        "fandomUrl": "Blazing_Heart_-_Japanese_Version"
+      },
+      {
+        "id": 1325,
+        "title": "Blazing Heart - Korean Version",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "UsA2_bt-dSc",
+        "spotifyId": "19vhgGD3ctIZ1JoehEsgqi",
+        "fandomUrl": "Blazing_Heart_-_Korean_Version"
+      },
+      {
+        "id": 1326,
+        "title": "Blazing Heart - Instrumental",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "8d5cM3RrSKI",
+        "spotifyId": "1nsZ6tUDxgwT2w1D1TD05k",
+        "fandomUrl": "Blazing_Heart_-_Instrumental"
+      }
+    ]
   }
 ]

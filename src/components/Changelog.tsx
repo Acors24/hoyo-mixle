@@ -4,6 +4,14 @@ import { FiFileText, FiX } from "react-icons/fi";
 
 const history = [
   {
+    date: "2025-01-12",
+    changes: [
+      'Added "Land of Tleyaoyotl" album (Genshin Impact)',
+      'Added "Eternal Sun, Eternal Want" album (Genshin Impact)',
+      'Added "Blazing Heart" album (Genshin Impact)',
+    ],
+  },
+  {
     date: "2025-01-10",
     changes: ["Improved the appearance of the trackbar"],
   },
