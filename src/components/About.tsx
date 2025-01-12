@@ -22,7 +22,7 @@ export default function About() {
       <button onClick={() => setOpen(true)}>
         <FiInfo />
       </button>
-      <dialog ref={dialogRef} className="*:mt-2 first:*:mt-0">
+      <dialog ref={dialogRef} className="*:mt-2 first:*:mt-0" onClose={onClose}>
         <div className="flex justify-between mb-4">
           <h2 className="text-3xl font-bold">About</h2>
           <button autoFocus onClick={onClose}>

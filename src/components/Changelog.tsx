@@ -9,6 +9,7 @@ const history = [
       'Added "Land of Tleyaoyotl" album (Genshin Impact)',
       'Added "Eternal Sun, Eternal Want" album (Genshin Impact)',
       'Added "Blazing Heart" album (Genshin Impact)',
+      "Fixed About dialog not opening under certain conditions",
     ],
   },
   {
