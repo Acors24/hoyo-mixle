@@ -4,6 +4,10 @@ import { FiFileText, FiX } from "react-icons/fi";
 
 const history = [
   {
+    date: "2025-01-25",
+    changes: ["Possibly drastically improved the RNG"],
+  },
+  {
     date: "2025-01-12",
     changes: [
       'Added "Land of Tleyaoyotl" album (Genshin Impact)',

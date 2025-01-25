@@ -1,12 +1,20 @@
 import random, { Random } from "random";
 import { Album, Game, Song } from "./types";
 
+const baseDate = new Date(2025, 0, 1);
 const today = new Date();
 
+function getRng(): Random {
+  const rng = new Random(0);
+  const days = Math.floor((today.getTime() - baseDate.getTime()) / 86400000);
+  for (let i = 0; i < days; i++) {
+    rng.int();
+  }
+  return rng;
+}
+
 function getTodaysSong(albums: Album[]): Song {
-  return new Random(today.toDateString()).choice(
-    albums.flatMap((album) => album.songs)
-  )!;
+  return getRng().choice(albums.flatMap((album) => album.songs))!;
 }
 
 function getYouTubeThumbnail(youtubeId: string): string {
@@ -25,7 +33,7 @@ function getMinimumInterval(duration: number): number {
 function getStarts(duration: number, endlessMode: boolean): number[] {
   const silencePadding = getSilencePadding(duration);
   const minimumInterval = getMinimumInterval(duration);
-  const rng = endlessMode ? random : new Random(today.toDateString());
+  const rng = endlessMode ? random : getRng();
   const uniform = rng.uniformInt(silencePadding, duration - 3 - silencePadding);
   const starts: number[] = [];
   while (starts.length < 3) {
