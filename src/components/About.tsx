@@ -29,42 +29,38 @@ export default function About() {
             <FiX className="text-2xl" />
           </button>
         </div>
-        <p>
-          Track titles, album titles and game parts are taken from:
-          <ul className="list-disc list-inside ml-4">
-            <li>
-              <a
-                href="https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki"
-                target="_blank"
-                rel="noreferrer"
-                className="text-amber-200 hover:underline"
-              >
-                Genshin Impact Fandom Wiki
-                <FiExternalLink className="ml-1 inline text-xs align-baseline" />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki"
-                target="_blank"
-                rel="noreferrer"
-                className="text-amber-200 hover:underline"
-              >
-                Honkai: Star Rail Fandom Wiki
-                <FiExternalLink className="ml-1 inline text-xs align-baseline" />
-              </a>
-            </li>
-          </ul>
-          Track types and regions are decided by me and may not be accurate.
-        </p>
-
+        Track titles, album titles and game parts are taken from:
+        <ul className="list-disc list-inside ml-4">
+          <li>
+            <a
+              href="https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki"
+              target="_blank"
+              rel="noreferrer"
+              className="text-amber-200 hover:underline"
+            >
+              Genshin Impact Fandom Wiki
+              <FiExternalLink className="ml-1 inline text-xs align-baseline" />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki"
+              target="_blank"
+              rel="noreferrer"
+              className="text-amber-200 hover:underline"
+            >
+              Honkai: Star Rail Fandom Wiki
+              <FiExternalLink className="ml-1 inline text-xs align-baseline" />
+            </a>
+          </li>
+        </ul>
+        Track types and regions are decided by me and may not be accurate.
         <div className="bg-rose-500 bg-opacity-10 border-rose-500 border rounded-xl p-2">
           <p>
             An ad blocker is strongly recommended to prevent YouTube ads from
             playing while listening to the samples.
           </p>
         </div>
-
         <div className="bg-amber-500 bg-opacity-10 border-amber-500 border rounded-xl p-2">
           <p>
             This is currently a work in progress. More features and
