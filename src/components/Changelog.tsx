@@ -4,6 +4,10 @@ import { FiFileText, FiX } from "react-icons/fi";
 
 const history = [
   {
+    date: "2025-01-26",
+    changes: ['Added "The Stellar Moments Vol. 5" album (Genshin Impact)'],
+  },
+  {
     date: "2025-01-25",
     changes: ["Possibly drastically improved the RNG"],
   },

@@ -14441,5 +14441,330 @@
         "fandomUrl": "Blazing_Heart_-_Instrumental"
       }
     ]
+  },
+  {
+    "title": "The Stellar Moments Vol. 5",
+    "songs": [
+      {
+        "id": 1327,
+        "title": "Largo alla donzella",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "IcIKuuKSd5Y",
+        "spotifyId": "5WbI5M7AYhHVKnqlc6JhCM",
+        "fandomUrl": "Largo_alla_donzella"
+      },
+      {
+        "id": 1328,
+        "title": "Via col vento rosato",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "eCADuW_v5CU",
+        "spotifyId": "7cbhmx0TsMg7U6HBURAxeF",
+        "fandomUrl": "Via_col_vento_rosato"
+      },
+      {
+        "id": 1329,
+        "title": "Voici la grenadiere !",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "zpJR1NAXh_w",
+        "spotifyId": "0kf41QNQDLbynkkq3fwD2E",
+        "fandomUrl": "Voici_la_grenadiere_%21"
+      },
+      {
+        "id": 1330,
+        "title": "Drifting Clouds, Wafting Snow",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "E43rmRSYHuc",
+        "spotifyId": "69uLC2x6Lf53iuxpVssRxC",
+        "fandomUrl": "Drifting_Clouds%2C_Wafting_Snow"
+      },
+      {
+        "id": 1331,
+        "title": "Propitious Ardor",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "xJS0SNGXncY",
+        "spotifyId": "4uFsA8FiAdEeGR1nWfLfSm",
+        "fandomUrl": "Propitious_Ardor"
+      },
+      {
+        "id": 1332,
+        "title": "Retaining Clouds Over a Clear Pool",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "cPn6D0asPR4",
+        "spotifyId": "3jLi8iXpgOO00pPrZgBuTc",
+        "fandomUrl": "Retaining_Clouds_Over_a_Clear_Pool"
+      },
+      {
+        "id": 1333,
+        "title": "Borrowing Winds of Harmony",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "c-IyEMMZS0E",
+        "spotifyId": "3uKxzBORuDLC4rQaa7RvnB",
+        "fandomUrl": "Borrowing_Winds_of_Harmony"
+      },
+      {
+        "id": 1334,
+        "title": "Manche de Momotsuzuri",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "puw9eE1mBKs",
+        "spotifyId": "5M1Cf9SnkP6so2xM8u5VTH",
+        "fandomUrl": "Manche_de_Momotsuzuri"
+      },
+      {
+        "id": 1335,
+        "title": "Le cramoisi coulant comme Cin",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "I8SQlzWMawE",
+        "spotifyId": "5zwIJ2XdcHWqy2nTia2zcx",
+        "fandomUrl": "Le_cramoisi_coulant_comme_Cin"
+      },
+      {
+        "id": 1336,
+        "title": "Revised Requiem",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Snezhnaya",
+        "youtubeId": "mTmdrUe3u2w",
+        "spotifyId": "0N2X5dTvafLSnFgmtw1Rgr",
+        "fandomUrl": "Revised_Requiem"
+      },
+      {
+        "id": 1337,
+        "title": "Offertorium of Fortuitum",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Snezhnaya",
+        "youtubeId": "Cx9avCQGhMc",
+        "spotifyId": "7cy1t8vA4AJcu0C1b4dSVk",
+        "fandomUrl": "Offertorium_of_Fortuitum"
+      },
+      {
+        "id": 1338,
+        "title": "Menmaatre's Parade",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Sumeru",
+        "youtubeId": "Zf8z4acM0fI",
+        "spotifyId": "6u52W9bDj5to48vmQyEN48",
+        "fandomUrl": "Menmaatre%2527s_Parade"
+      },
+      {
+        "id": 1339,
+        "title": "Possente legge e formidabil nume",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "qNzoIBPbPy8",
+        "spotifyId": "6I0iWZgKjkYKEFtpDK2Ku6",
+        "fandomUrl": "Possente_legge_e_formidabil_nume"
+      },
+      {
+        "id": 1340,
+        "title": "Non si levava ancor",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "oZwQtzHVKJ8",
+        "spotifyId": "3EE9Aq120qbcsa91ArBuN2",
+        "fandomUrl": "Non_si_levava_ancor"
+      },
+      {
+        "id": 1341,
+        "title": "Romari Time!",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "wURnHcRCskY",
+        "spotifyId": "7u7v0WmpBvDUIA3AduGuoy",
+        "fandomUrl": "Romari_Time%21"
+      },
+      {
+        "id": 1342,
+        "title": "Floating Breaths of the Breeze",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "sqHl9XN59lY",
+        "spotifyId": "0cJ6sDxLnKGDJCYJZrJcnA",
+        "fandomUrl": "Floating_Breaths_of_the_Breeze"
+      },
+      {
+        "id": 1343,
+        "title": "Le Souffle du Parfum",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "89DZ9T41fUA",
+        "spotifyId": "0xiP8ZLaHBkDzu8HTUw8Pq",
+        "fandomUrl": "Le_Souffle_du_Parfum"
+      },
+      {
+        "id": 1344,
+        "title": "Notes Aeriennes",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "fG9pmby20q8",
+        "spotifyId": "47OOw1CK4AmYqMz9eHEHX8",
+        "fandomUrl": "Notes_Aeriennes"
+      },
+      {
+        "id": 1345,
+        "title": "Ho'olauna aloha!",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "1DQqGPFDcuM",
+        "spotifyId": "1SkORCaukAD8Bj0KYEwNvN",
+        "fandomUrl": "Ho%2527olauna_aloha%21"
+      },
+      {
+        "id": 1346,
+        "title": "Hot Spring Affection",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "KtPS9GUVcA0",
+        "spotifyId": "1ntIDICxkmX96MkPL2nxtP",
+        "fandomUrl": "Hot_Spring_Affection"
+      },
+      {
+        "id": 1347,
+        "title": "Pirouette of Pika's Pike",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "rCnrmn1iS5k",
+        "spotifyId": "5gf8trOsYI4LUGBKWBWTi4",
+        "fandomUrl": "Pirouette_of_Pika%2527s_Pike"
+      },
+      {
+        "id": 1348,
+        "title": "Maverick Hunter",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "rWUVULIj-8c",
+        "spotifyId": "2HI7fgkuyVRX8dsktVMzy2",
+        "fandomUrl": "Maverick_Hunter"
+      },
+      {
+        "id": 1349,
+        "title": "Note of Effective Settlements",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "jMdZk-AXm2U",
+        "spotifyId": "5apKijZzaygnw7rq6K7hga",
+        "fandomUrl": "Note_of_Effective_Settlements"
+      },
+      {
+        "id": 1350,
+        "title": "The Antiquity of Names",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "55X8NeAkoHE",
+        "spotifyId": "7whYAmXayP0yEFQfQSMYB8",
+        "fandomUrl": "The_Antiquity_of_Names"
+      },
+      {
+        "id": 1351,
+        "title": "Lights on Me",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "8juoM5fysKA",
+        "spotifyId": "5Taw1gJxf4Y14l97aRFkB6",
+        "fandomUrl": "Lights_on_Me"
+      },
+      {
+        "id": 1352,
+        "title": "This Side of Promise",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "dP65C6B5QUc",
+        "spotifyId": "2EswPzhPrQ6tkktneRhiTc",
+        "fandomUrl": "This_Side_of_Promise"
+      },
+      {
+        "id": 1353,
+        "title": "Viajadora's Verse",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "GxyJbz2U9Ok",
+        "spotifyId": "7g3DnvRLSGdLFGnnTKKpus",
+        "fandomUrl": "Viajadora%2527s_Verse"
+      },
+      {
+        "id": 1354,
+        "title": "Rain of Seven Curtains",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "5o009VS7rFk",
+        "spotifyId": "67PyZaTyuITtSV9wSHKNAB",
+        "fandomUrl": "Rain_of_Seven_Curtains"
+      },
+      {
+        "id": 1355,
+        "title": "Plum Blossom Spring",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "LRUXd9YHq6U",
+        "spotifyId": "5zC8HweHX3vUaC8vid5qxh",
+        "fandomUrl": "Plum_Blossom_Spring"
+      },
+      {
+        "id": 1356,
+        "title": "Scorching Haze",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "xfs0p63ZH2c",
+        "spotifyId": "4vbD09rrds33SczGVpOdG6",
+        "fandomUrl": "Scorching_Haze"
+      },
+      {
+        "id": 1357,
+        "title": "Infinite Cosmodynamics",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "tSOCwLjv3WQ",
+        "spotifyId": "5StYYdSlcu4USkJmHpVQsB",
+        "fandomUrl": "Infinite_Cosmodynamics"
+      },
+      {
+        "id": 1358,
+        "title": "Interstellar Drift",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "FxA2ncaXKRw",
+        "spotifyId": "2TwMP5vWbaJVzAwK2Zaz5m",
+        "fandomUrl": "Interstellar_Drift"
+      }
+    ]
   }
 ]
