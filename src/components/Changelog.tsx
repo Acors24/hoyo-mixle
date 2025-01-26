@@ -1,6 +1,6 @@
-import { useEffect, useRef, useState } from "react";
 import { useStorage } from "../StorageContext";
-import { FiFileText, FiX } from "react-icons/fi";
+import { FiFileText } from "react-icons/fi";
+import Dialog from "./Dialog";
 
 const history = [
   {
@@ -187,20 +187,9 @@ function getChangelogVersion() {
 }
 
 export default function Changelog() {
-  const dialogRef = useRef<HTMLDialogElement>(null);
-  const [open, setOpen] = useState(false);
   const { state, dispatch } = useStorage();
 
-  useEffect(() => {
-    if (open) {
-      dialogRef.current?.showModal();
-    } else {
-      dialogRef.current?.close();
-    }
-  }, [open]);
-
   const onClose = () => {
-    setOpen(false);
     dispatch({
       type: "SET_LAST_CHANGELOG_SEEN",
       payload: getChangelogVersion(),
@@ -208,15 +197,13 @@ export default function Changelog() {
   };
 
   return (
-    <>
-      <dialog ref={dialogRef} onClose={onClose}>
-        <div className="flex justify-between mb-4">
-          <h1 className="text-3xl font-bold">Changelog</h1>
-          <button autoFocus onClick={onClose}>
-            <FiX className="text-2xl" />
-          </button>
-        </div>
-
+    <Dialog
+      title="Changelog"
+      icon={<FiFileText />}
+      onClose={onClose}
+      showIndicator={getChangelogVersion() !== state.config.lastChangelogSeen}
+    >
+      <div>
         {history.map(({ date, changes }) => {
           const lastChangelogDateSeen =
             state.config.lastChangelogSeen.split("+")[0] ?? "";
@@ -237,17 +224,8 @@ export default function Changelog() {
             />
           );
         })}
-      </dialog>
-      <button onClick={() => setOpen(true)} className="relative">
-        {getChangelogVersion() !== state.config.lastChangelogSeen && (
-          <>
-            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 z-10 pointer-events-none"></span>
-            <span className="absolute -top-1 -right-1 bg-rose-500 rounded-full w-4 h-4 z-10 pointer-events-none animate-ping"></span>
-          </>
-        )}
-        <FiFileText />
-      </button>
-    </>
+      </div>
+    </Dialog>
   );
 }
 
