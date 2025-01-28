@@ -5,7 +5,11 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-01-28",
-    changes: ["Added a missing Genshin Impact song"],
+    changes: [
+      "Added a missing Genshin Impact song",
+      "Albums are now initially visible in the song filter",
+      "Added context for Genshin Impact songs (thanks to Lugunium), revealed after 3 incorrect guesses",
+    ],
   },
   {
     date: "2025-01-26",

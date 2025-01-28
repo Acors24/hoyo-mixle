@@ -1,7 +1,7 @@
 import { FaSpotify, FaYoutube } from "react-icons/fa6";
 import { Album, Game, Song } from "../types";
 import { SiFandom } from "react-icons/si";
-import { getGameBaseWiki, getYouTubeThumbnail } from "../utils";
+import { contextToList, getGameBaseWiki, getYouTubeThumbnail } from "../utils";
 
 export default function SongCard({
   album,
@@ -31,6 +31,10 @@ export default function SongCard({
           <span>{song.region}</span>
         </h4>
         <ul className="text-sm text-slate-200 list-disc pl-4 my-4">
+          {song.context &&
+            contextToList(song.context).map((item) => (
+              <li className="text-amber-100">{item.replace(" > ", " - ")}</li>
+            ))}
           {song.playedAt.map((moment, index) => (
             <Moment key={index} moment={moment} />
           ))}

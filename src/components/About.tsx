@@ -31,6 +31,13 @@ export default function About() {
           </li>
         </ul>
       </div>
+      <p>
+        <span className="text-amber-100">Track context</span> provided by{" "}
+        <span className="bg-clip-text text-transparent font-bold bg-gradient-to-r from-sky-200 to-blue-400">
+          Lugunium
+        </span>
+        .
+      </p>
       <p>Track types and regions are decided by me and may not be accurate.</p>
       <div className="bg-rose-500 bg-opacity-10 border-rose-500 border rounded-xl p-2">
         <p>

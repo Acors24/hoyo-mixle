@@ -74,10 +74,15 @@ function getSimplePlayerState(
   return "loading";
 }
 
+function contextToList(context: string): string[] {
+  return context.split(" / ");
+}
+
 export {
   getTodaysSong,
   getYouTubeThumbnail,
   getStarts,
   getGameBaseWiki,
   getSimplePlayerState,
+  contextToList,
 };

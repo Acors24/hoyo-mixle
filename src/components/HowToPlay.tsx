@@ -52,12 +52,12 @@ export default function HowToPlay() {
         You have 5 attempts to guess the correct song.
       </p>
       <ul className="list-disc list-inside">
-        <li>After 1 incorrect guess, the album titles will be revealed.</li>
-        <li>After 2 incorrect guesses, the regions will be revealed.</li>
+        <li>After 1 incorrect guess, the regions will be revealed.</li>
         <li>
-          After 3 incorrect guesses, the moments at which the songs are played
-          will be revealed.
+          After 2 incorrect guesses, the game parts at which the songs are
+          played will be revealed.
         </li>
+        <li>After 3 incorrect guesses, more context will be revealed.</li>
         <li>
           After 4 incorrect guesses, the amount of songs per album will be
           limited to 4.

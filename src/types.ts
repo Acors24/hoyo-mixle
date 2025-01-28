@@ -12,6 +12,7 @@ export type Song = {
   youtubeId: string;
   spotifyId: string;
   fandomUrl: string;
+  context?: string;
 };
 
 export type Game = "genshinImpact" | "starRail";

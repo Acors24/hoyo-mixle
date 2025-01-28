@@ -6,6 +6,7 @@ import * as Accordion from "@radix-ui/react-accordion";
 import classes from "./style.module.css";
 import { FaChevronDown } from "react-icons/fa6";
 import { FiX } from "react-icons/fi";
+import { contextToList } from "../../utils";
 
 export default function SongFilter({
   chosenSong,
@@ -21,9 +22,11 @@ export default function SongFilter({
   const albums = useAlbums();
   const [filterInput, setFilterInput] = useState("");
 
-  const albumsVisible = guesses.length > 0;
-  const regionsVisible = guesses.length > 1;
-  const playedAtVisible = guesses.length > 2;
+  const albumsVisible = guesses.length > -1;
+  const regionsVisible = guesses.length > 0;
+  const playedAtVisible = guesses.length > 1;
+  const contextVisible = guesses.length > 2;
+  const limitTo4 = guesses.length > 3;
 
   const allSongs = albums.flatMap(({ title, songs }) =>
     songs.map((song) => {
@@ -97,9 +100,7 @@ export default function SongFilter({
       };
     })
     .filter(({ songs }) => songs.length > 0)
-    .map((album) =>
-      guesses.length < 4 ? album : limitAlbumTo4(album, chosenSong)
-    );
+    .map((album) => (limitTo4 ? limitAlbumTo4(album, chosenSong) : album));
 
   return (
     <div className={`flex flex-col gap-2 ${className ?? ""}`}>
@@ -130,6 +131,7 @@ export default function SongFilter({
                   onSelect={onSelect}
                   regionsVisible={regionsVisible}
                   playedAtVisible={playedAtVisible}
+                  contextVisible={contextVisible}
                 />
               </li>
             ))}
@@ -164,6 +166,7 @@ export default function SongFilter({
                             onSelect={onSelect}
                             regionsVisible={regionsVisible}
                             playedAtVisible={playedAtVisible}
+                            contextVisible={contextVisible}
                           />
                         </li>
                       ))}
@@ -182,19 +185,26 @@ function SongButton({
   onSelect,
   regionsVisible,
   playedAtVisible,
+  contextVisible,
 }: {
   song: Song;
   onSelect: (id: number) => void;
   regionsVisible: boolean;
   playedAtVisible: boolean;
+  contextVisible: boolean;
 }) {
-  const { id, title, playedAt, region } = song;
+  const { id, title, playedAt, region, context } = song;
 
   return (
     <button className={classes.SongButton} onClick={() => onSelect(id)}>
       {title} {regionsVisible && <span>({region})</span>}
       {playedAtVisible && (
         <ul>
+          {contextVisible &&
+            context &&
+            contextToList(getShortContext(context)).map((item) => (
+              <li className="text-amber-100">{item}</li>
+            ))}
           {playedAt.map((moment, index) => (
             <Moment key={index} moment={moment} />
           ))}
@@ -216,6 +226,16 @@ function Moment({ moment }: { moment: string | string[] }) {
       ))}
     </ul>
   );
+}
+
+function getShortContext(context: string) {
+  return context
+    .split(" / ")
+    .map((part) => {
+      const parts = part.split(" > ");
+      return parts[parts.length - 1];
+    })
+    .join(" / ");
 }
 
 function createBlacklistAndWhitelist<T>(
