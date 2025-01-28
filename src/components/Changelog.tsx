@@ -7,7 +7,7 @@ const history = [
     date: "2025-01-28",
     changes: [
       "Added a missing Genshin Impact song",
-      "Albums are now initially visible in the song filter",
+      "Albums are now always visible in the song filter",
       "Added context for Genshin Impact songs (thanks to Lugunium), revealed after 3 incorrect guesses",
     ],
   },
