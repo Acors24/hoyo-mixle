@@ -32,7 +32,8 @@ export default function About() {
         </ul>
       </div>
       <p>
-        <span className="text-amber-100">Track context</span> provided by{" "}
+        <span className="text-amber-100">Track context</span> has been provided
+        by{" "}
         <span className="bg-clip-text text-transparent font-bold bg-gradient-to-r from-sky-200 to-blue-400">
           Lugunium
         </span>
