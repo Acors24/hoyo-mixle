@@ -236,13 +236,14 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
               />
             )}
           </div>
-          <GuessTable
-            chosenSong={chosenSong}
-            guesses={guesses}
-            rowAmount={maxAttempts}
-            game={currentGame}
-            className="mt-2"
-          />
+          <div className="overflow-auto mt-2">
+            <GuessTable
+              chosenSong={chosenSong}
+              guesses={guesses}
+              rowAmount={maxAttempts}
+              game={currentGame}
+            />
+          </div>
         </div>
       </div>
     </>

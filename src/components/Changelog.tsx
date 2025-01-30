@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-01-30",
+    changes: ["Improved guess table styling on narrow screens"],
+  },
+  {
     date: "2025-01-28",
     changes: [
       "Added a missing Genshin Impact song",

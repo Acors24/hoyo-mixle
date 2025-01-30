@@ -1,9 +1,9 @@
 .GuessTable {
   @apply bg-slate-800 bg-opacity-50;
   border-radius: 0.75rem;
-  overflow: hidden;
   width: 100%;
   user-select: none;
+  text-wrap: nowrap;
 
   & th {
     padding: 0.5rem;
