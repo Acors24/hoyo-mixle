@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-01-30",
-    changes: ["Improved guess table styling on narrow screens"],
+    changes: [
+      "Improved guess table styling on narrow screens",
+      "Possibly improved the navbar layout on mobile",
+    ],
   },
   {
     date: "2025-01-28",

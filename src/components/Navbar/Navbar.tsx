@@ -9,18 +9,20 @@ import About from "../About";
 export default function Navbar() {
   return (
     <nav className={classes.Navbar}>
-      <div className={classes.GameIcons}>
-        <Link to="/genshin-impact" className={classes.GameIcon}>
-          <img src={genshinIcon} alt="Genshin Impact" />
-        </Link>
-        <Link to="/star-rail" className={classes.GameIcon}>
-          <img src={starRailIcon} alt="Honkai Star Rail" />
-        </Link>
-      </div>
-      <div className={classes.UtilityIcons}>
-        <About />
-        <Changelog />
-        <HowToPlay />
+      <div className={classes.NavbarContent}>
+        <div className={classes.GameIcons}>
+          <Link to="/genshin-impact" className={classes.GameIcon}>
+            <img src={genshinIcon} alt="Genshin Impact" />
+          </Link>
+          <Link to="/star-rail" className={classes.GameIcon}>
+            <img src={starRailIcon} alt="Honkai Star Rail" />
+          </Link>
+        </div>
+        <div className={classes.UtilityIcons}>
+          <About />
+          <Changelog />
+          <HowToPlay />
+        </div>
       </div>
     </nav>
   );

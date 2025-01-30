@@ -1,5 +1,9 @@
 .Navbar {
   @apply bg-slate-900;
+}
+
+.NavbarContent {
+  height: 100dvh;
   padding: 1rem 0.5rem;
   display: flex;
   flex-direction: column;
