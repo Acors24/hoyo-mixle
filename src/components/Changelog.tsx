@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-02-01",
+    changes: ["Added context for Honkai: Star Rail songs (thanks to Lugunium)"],
+  },
+  {
     date: "2025-01-30",
     changes: [
       "Improved guess table styling on narrow screens",

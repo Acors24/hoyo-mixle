@@ -10,7 +10,8 @@
         "region": "N/A",
         "youtubeId": "O72z3z8JvRA",
         "spotifyId": "0DUjvyUU6afa9splXojxjz",
-        "fandomUrl": "Star_Rail_%28Soundtrack%29"
+        "fandomUrl": "Star_Rail_%28Soundtrack%29",
+        "context": "Login Menu"
       },
       {
         "id": 2,
@@ -20,7 +21,8 @@
         "region": "Herta Space Station",
         "youtubeId": "-vU1CLsGdAQ",
         "spotifyId": "4qlqXrta1x3979XvcujWj7",
-        "fandomUrl": "Space_Walk"
+        "fandomUrl": "Space_Walk",
+        "context": "Master Control Zone"
       },
       {
         "id": 3,
@@ -30,7 +32,8 @@
         "region": "N/A",
         "youtubeId": "v_xw1AU1eNQ",
         "spotifyId": "5afGJwgafdzAgsUZxEEYlq",
-        "fandomUrl": "The_Game_Is_On"
+        "fandomUrl": "The_Game_Is_On",
+        "context": "Trailblaze Mission Prologue Chapter: \"Chaos in the Deep\" (cutscene)"
       },
       {
         "id": 4,
@@ -40,7 +43,8 @@
         "region": "Herta Space Station",
         "youtubeId": "qRfFgaY3-IQ",
         "spotifyId": "6ZYe0uEsjicceCNDSFEqEY",
-        "fandomUrl": "FReeStyLE"
+        "fandomUrl": "FReeStyLE",
+        "context": "Trailblaze Mission Prologue Chapter: \"Chaos in the Deep\" (tutorial fight)"
       },
       {
         "id": 5,
@@ -50,7 +54,8 @@
         "region": "N/A",
         "youtubeId": "OvigUypiU4k",
         "spotifyId": "6fOVh4FCutXUyFKh4oaVfP",
-        "fandomUrl": "Call_of_the_Stars"
+        "fandomUrl": "Call_of_the_Stars",
+        "context": "Warp Theme"
       },
       {
         "id": 6,
@@ -60,7 +65,8 @@
         "region": "Herta Space Station",
         "youtubeId": "MGVSYn0XVaM",
         "spotifyId": "1KUhuQWSGpGfBc8uRReiiw",
-        "fandomUrl": "Science_Fiction"
+        "fandomUrl": "Science_Fiction",
+        "context": "Base Zone / Storage Zone"
       },
       {
         "id": 7,
@@ -70,7 +76,8 @@
         "region": "Herta Space Station",
         "youtubeId": "S_E5dl7R6vI",
         "spotifyId": "0e2R2P6KIa71jjYnGLz7kX",
-        "fandomUrl": "Drift"
+        "fandomUrl": "Drift",
+        "context": "Supply Zone"
       },
       {
         "id": 8,
@@ -80,7 +87,8 @@
         "region": "Herta Space Station",
         "youtubeId": "z2t39Yi85wc",
         "spotifyId": "0flBKuERIENGMGmiwrjAQ6",
-        "fandomUrl": "Crises"
+        "fandomUrl": "Crises",
+        "context": "Base Zone & Storage Zone Battle Theme"
       },
       {
         "id": 9,
@@ -90,7 +98,8 @@
         "region": "Herta Space Station",
         "youtubeId": "aDIysyQtcaw",
         "spotifyId": "5Fn51Dgtg5fKzTmYqtJzmf",
-        "fandomUrl": "Flashpoint"
+        "fandomUrl": "Flashpoint",
+        "context": "Supply Zone & Seclusion Zone Battle Theme (Elite Enemy)"
       },
       {
         "id": 10,
@@ -100,7 +109,8 @@
         "region": "Herta Space Station",
         "youtubeId": "l9lnzNSz94M",
         "spotifyId": "795SxIuCNER8pSlkRBudf5",
-        "fandomUrl": "Deep_Within"
+        "fandomUrl": "Deep_Within",
+        "context": "Simulated Universe (Menu)"
       },
       {
         "id": 11,
@@ -110,7 +120,8 @@
         "region": "Herta Space Station",
         "youtubeId": "mzvHyQ0r51s",
         "spotifyId": "7clA4NZUwdx6hoVXIdYLL0",
-        "fandomUrl": "Flow_Experience"
+        "fandomUrl": "Flow_Experience",
+        "context": "Master Control Zone - Herta's Office"
       },
       {
         "id": 12,
@@ -120,7 +131,8 @@
         "region": "Herta Space Station",
         "youtubeId": "3YlSkB3UJVQ",
         "spotifyId": "3QWVDliQmcuEU8Dfp19LLg",
-        "fandomUrl": "Mystery"
+        "fandomUrl": "Mystery",
+        "context": "Supply Zone"
       },
       {
         "id": 13,
@@ -130,7 +142,8 @@
         "region": "Herta Space Station",
         "youtubeId": "f0yz_tAQPY4",
         "spotifyId": "5xgmMHOcNEeRsRplpfdCmb",
-        "fandomUrl": "Dire_Straits"
+        "fandomUrl": "Dire_Straits",
+        "context": "Supply Zone & Seclusion Zone Battle Theme"
       },
       {
         "id": 14,
@@ -140,7 +153,8 @@
         "region": "Herta Space Station",
         "youtubeId": "1NJNFYMN1Ng",
         "spotifyId": "5QOXH3mNBeA3BEVmi4U3Cl",
-        "fandomUrl": "Alternative_Rock"
+        "fandomUrl": "Alternative_Rock",
+        "context": "Supply Zone Battle Theme"
       },
       {
         "id": 15,
@@ -156,7 +170,8 @@
         "region": "Herta Space Station",
         "youtubeId": "GF-Knp5MFis",
         "spotifyId": "4PWRj18sN4RhVfW3u1llN3",
-        "fandomUrl": "Dawn_of_Disaster"
+        "fandomUrl": "Dawn_of_Disaster",
+        "context": "\"Doomsday Beast\" Echo of War"
       },
       {
         "id": 16,
@@ -166,7 +181,8 @@
         "region": "N/A",
         "youtubeId": "J-AJsIrtIZw",
         "spotifyId": "2NJFwkg6npWRLrPw0fcQOP",
-        "fandomUrl": "Salty_Moon"
+        "fandomUrl": "Salty_Moon",
+        "context": "Phonograph (Astral Express)"
       },
       {
         "id": 17,
@@ -176,7 +192,8 @@
         "region": "Astral Express",
         "youtubeId": "tsYiXYMSQmE",
         "spotifyId": "3Rsiv3Runlb6545DmGhJPK",
-        "fandomUrl": "Timeline_%28Soundtrack%29"
+        "fandomUrl": "Timeline_%28Soundtrack%29",
+        "context": "Astral Express - Parlor Car / Party Car / Passenger Cabin"
       },
       {
         "id": 18,
@@ -186,7 +203,8 @@
         "region": "Herta Space Station",
         "youtubeId": "3FEFtFMBREA",
         "spotifyId": "6Um1e5MZ11SzCLiSNM8n3r",
-        "fandomUrl": "Take_the_Journey"
+        "fandomUrl": "Take_the_Journey",
+        "context": "Trailblaze Mission Prologue Chapter: \"The Voyages Continues\" (cutscene)"
       }
     ]
   },
@@ -195,13 +213,14 @@
     "songs": [
       {
         "id": 19,
-        "title": "\u661f\u95f4\u65c5\u884c",
+        "title": "星间旅行",
         "playedAt": [],
         "type": "Special",
         "region": "N/A",
         "youtubeId": "wy6GdDlurms",
         "spotifyId": "3ZDQcyW2g3aFjdEBQ56eMY",
-        "fandomUrl": "\u661f\u95f4\u65c5\u884c"
+        "fandomUrl": "星间旅行",
+        "context": "Chinese version of \"Interstellar Journey\""
       },
       {
         "id": 20,
@@ -211,7 +230,8 @@
         "region": "N/A",
         "youtubeId": "0OA9bAZcMXk",
         "spotifyId": "4xrqo0Lt57P0xRAwWr2SOL",
-        "fandomUrl": "Interstellar_Journey"
+        "fandomUrl": "Interstellar_Journey",
+        "context": " \"Interstellar Journey\" Official Release Trailer"
       },
       {
         "id": 21,
@@ -221,7 +241,8 @@
         "region": "N/A",
         "youtubeId": "t1C09lH2_ls",
         "spotifyId": "6TgLk7ATw6zB9KeQiSqyHP",
-        "fandomUrl": "Interstellar_Journey_(Instrumental)"
+        "fandomUrl": "Interstellar_Journey_(Instrumental)",
+        "context": "Instrumental version of \"Interstellar Journey\""
       }
     ]
   },
@@ -236,7 +257,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "8mNhOsue_mM",
         "spotifyId": "3u6qhQet29ucSLVrwBHj2Y",
-        "fandomUrl": "Embers"
+        "fandomUrl": "Embers",
+        "context": "Administrative District"
       },
       {
         "id": 23,
@@ -252,7 +274,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "0m2H7_aX7yQ",
         "spotifyId": "3NuEioGC52atxibXJMYOtT",
-        "fandomUrl": "Hearthfire"
+        "fandomUrl": "Hearthfire",
+        "context": "Administrative District (during quests)"
       },
       {
         "id": 24,
@@ -262,7 +285,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "pkYrVrnSufA",
         "spotifyId": "27KJaDNsrNnBIagemI8qhI",
-        "fandomUrl": "Streets_Abuzz"
+        "fandomUrl": "Streets_Abuzz",
+        "context": "Boulder Town"
       },
       {
         "id": 25,
@@ -272,7 +296,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "vdd3VFiq7Cg",
         "spotifyId": "04pJnJJtRkjfdQjQj5E7fA",
-        "fandomUrl": "Faded_Sun"
+        "fandomUrl": "Faded_Sun",
+        "context": "Great Mine / Robot Settlement"
       },
       {
         "id": 26,
@@ -282,7 +307,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "6oFbHcFSHRE",
         "spotifyId": "5at67XtKIL03XVcpKD2x1I",
-        "fandomUrl": "Frosty_Trail"
+        "fandomUrl": "Frosty_Trail",
+        "context": "Backwater Pass / Silvermane Guard Restricted Zone"
       },
       {
         "id": 27,
@@ -292,7 +318,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "5Uj-hB27gKQ",
         "spotifyId": "7w5DgI0J5fooydsVrDnl6r",
-        "fandomUrl": "Order_%28Soundtrack%29"
+        "fandomUrl": "Order_%28Soundtrack%29",
+        "context": "Overworld Battle Theme"
       },
       {
         "id": 28,
@@ -302,7 +329,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "WeQblpN2oLM",
         "spotifyId": "24uCWkHzmNBzU0YmFYDtEO",
-        "fandomUrl": "Braving_the_Cold"
+        "fandomUrl": "Braving_the_Cold",
+        "context": "Overworld Battle Theme"
       },
       {
         "id": 29,
@@ -312,7 +340,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "2sBOuQQ4F1c",
         "spotifyId": "4WM93OOMPy5jJ2EoUYgDq7",
-        "fandomUrl": "Warm_Sun"
+        "fandomUrl": "Warm_Sun",
+        "context": "Eversummer Florist"
       },
       {
         "id": 30,
@@ -322,7 +351,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "WATToM8cPD4",
         "spotifyId": "5AJjxZNL8UWX5gyF2rnyIf",
-        "fandomUrl": "Sleep_Tight"
+        "fandomUrl": "Sleep_Tight",
+        "context": "Goethe Hotel / History and Culture Museum"
       },
       {
         "id": 31,
@@ -332,7 +362,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "AoBOIhU5l24",
         "spotifyId": "7x1zc0cvmjTHknNYnNKxCh",
-        "fandomUrl": "Silent"
+        "fandomUrl": "Silent",
+        "context": "Administrative District (guitarist near Eversummer Florist)"
       },
       {
         "id": 32,
@@ -342,7 +373,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "M1Sbz-ovrR4",
         "spotifyId": "3lgcLasR7vEHe4A9EW4PX2",
-        "fandomUrl": "Cutting_Mistral"
+        "fandomUrl": "Cutting_Mistral",
+        "context": "Trailblaze Mission Chapter I: \"Everwinter Night\""
       },
       {
         "id": 33,
@@ -352,7 +384,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "NWuxwub8yeo",
         "spotifyId": "03C7aPb3WOFuvPWuurvs5n",
-        "fandomUrl": "Tempered_Cord"
+        "fandomUrl": "Tempered_Cord",
+        "context": "Administrative District (during \"Cleanse in the Darkness Outside\")"
       },
       {
         "id": 34,
@@ -362,7 +395,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "U7szV4auJh4",
         "spotifyId": "6ZoayiJRGS6Q1129cpgweC",
-        "fandomUrl": "Dense_Floe"
+        "fandomUrl": "Dense_Floe",
+        "context": "Corridor of Fading Echoes"
       },
       {
         "id": 35,
@@ -372,7 +406,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "tt0z3FByroM",
         "spotifyId": "0xUdrPF9OxElHw3vX9rHZo",
-        "fandomUrl": "Traceless_Drift"
+        "fandomUrl": "Traceless_Drift",
+        "context": "Robot Settlement (during \"To Rot or to Burn\") / Various Chapter I Trailblaze Missions"
       },
       {
         "id": 36,
@@ -382,7 +417,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "LGzXGOqhR-A",
         "spotifyId": "6aqRuVAFDtCDGYkRgcaTDd",
-        "fandomUrl": "Ghost_From_the_Past"
+        "fandomUrl": "Ghost_From_the_Past",
+        "context": "Rivet Town / Boulder Town (during \"A Sunset Rendezvous\")"
       },
       {
         "id": 37,
@@ -392,7 +428,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "UnCKDeEVXgk",
         "spotifyId": "5PiLaLIm2oQK9uLq1zOldi",
-        "fandomUrl": "Sinking_Hoarfrost"
+        "fandomUrl": "Sinking_Hoarfrost",
+        "context": "Rivet Town (during quests)"
       },
       {
         "id": 38,
@@ -402,7 +439,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "B7WQQlPk3B8",
         "spotifyId": "2db5Sp7gbWHNGrAsoygEpk",
-        "fandomUrl": "Kindling"
+        "fandomUrl": "Kindling",
+        "context": "Underworld Battle Theme"
       },
       {
         "id": 39,
@@ -412,7 +450,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "XxV0V0BSQZM",
         "spotifyId": "4D3gbfJWGDNHZpO38465gp",
-        "fandomUrl": "Underground"
+        "fandomUrl": "Underground",
+        "context": "Underworld Battle Theme"
       },
       {
         "id": 40,
@@ -422,7 +461,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "-lMY3ZeM1Zw",
         "spotifyId": "5RDq20rwCb0SqWSlw0K5il",
-        "fandomUrl": "Blaze"
+        "fandomUrl": "Blaze",
+        "context": "Fight Club Battle Theme"
       },
       {
         "id": 41,
@@ -432,7 +472,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "iBGGoikqvQQ",
         "spotifyId": "0cKn4jYduEzd9d4S5QRB2S",
-        "fandomUrl": "Conflict_Undraped"
+        "fandomUrl": "Conflict_Undraped",
+        "context": "Fight Club"
       },
       {
         "id": 42,
@@ -442,7 +483,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "OgcVpTuGZwg",
         "spotifyId": "72rjlD9MdFPfKAWhaeoXtd",
-        "fandomUrl": "Crystal_Tears"
+        "fandomUrl": "Crystal_Tears",
+        "context": "Unused"
       },
       {
         "id": 43,
@@ -452,7 +494,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "JBarBT9rJUo",
         "spotifyId": "58X22pPmBbQCAu8RjoEeNS",
-        "fandomUrl": "Lingering_Heat"
+        "fandomUrl": "Lingering_Heat",
+        "context": "Various Chapter I Trailblaze Missions"
       },
       {
         "id": 44,
@@ -466,7 +509,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "tbgvPBBUgWw",
         "spotifyId": "7E5D5CRZBIXKI9sx92viGi",
-        "fandomUrl": "Thick_Haze"
+        "fandomUrl": "Thick_Haze",
+        "context": "Various Underworld areas during quests"
       },
       {
         "id": 45,
@@ -476,7 +520,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "qKkMopnjEzQ",
         "spotifyId": "7fQME0BoAjaBjRi8AjjEV9",
-        "fandomUrl": "Godfather"
+        "fandomUrl": "Godfather",
+        "context": "Svarog Boss Fight"
       },
       {
         "id": 46,
@@ -486,7 +531,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "oAYYNjARN1k",
         "spotifyId": "6pZ2YJkG2qE5gLQqYZ19wF",
-        "fandomUrl": "Eternal_Freeze_%28Soundtrack%29"
+        "fandomUrl": "Eternal_Freeze_%28Soundtrack%29",
+        "context": "Outlying Snow Plains"
       },
       {
         "id": 47,
@@ -496,7 +542,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "faDBFKZV4TM",
         "spotifyId": "697FixOduLqpwkfBOH9JNz",
-        "fandomUrl": "Everwinter"
+        "fandomUrl": "Everwinter",
+        "context": "Everwinter Hill"
       },
       {
         "id": 48,
@@ -511,7 +558,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "wlulQqZtii0",
         "spotifyId": "7EbgjuIkItyBvwLZyYjadj",
-        "fandomUrl": "Frozen_March"
+        "fandomUrl": "Frozen_March",
+        "context": "Cocolia Boss Fight"
       },
       {
         "id": 49,
@@ -521,7 +569,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "Zac2JJ6gAio",
         "spotifyId": "4zCK9FRMcZbBX3zmXCKJuG",
-        "fandomUrl": "Fate"
+        "fandomUrl": "Fate",
+        "context": "Trailblaze Mission Chapter I: \"The Return\""
       },
       {
         "id": 50,
@@ -537,7 +586,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "_indkBy4YO8",
         "spotifyId": "1rPc2dkJ7gcl4pEqeuOzqH",
-        "fandomUrl": "A_Trap_With_No_Return"
+        "fandomUrl": "A_Trap_With_No_Return",
+        "context": "\"Cocolia\" Echo of War (phase 1)"
       },
       {
         "id": 51,
@@ -553,7 +603,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "SxlW79tDhCA",
         "spotifyId": "2CUSdI74D2yqrvEXRQq2Xl",
-        "fandomUrl": "Wildfire_%28Soundtrack%29"
+        "fandomUrl": "Wildfire_%28Soundtrack%29",
+        "context": "\"Cocolia\" Echo of War (phase 2)"
       },
       {
         "id": 52,
@@ -563,7 +614,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "KshucrF4at8",
         "spotifyId": "19RFFn4GME6V2y45AFqsOK",
-        "fandomUrl": "Wildfire_%28Instrumental%29"
+        "fandomUrl": "Wildfire_%28Instrumental%29",
+        "context": "Trailblaze Mission Chapter I: \"The Return\" (cutscene)"
       }
     ]
   },
@@ -578,7 +630,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "I35YQbo8r1g",
         "spotifyId": "359Lv9es3SHS9ZTds5JQjH",
-        "fandomUrl": "Anthropic_Domain"
+        "fandomUrl": "Anthropic_Domain",
+        "context": "Central Starskiff Haven"
       },
       {
         "id": 54,
@@ -588,7 +641,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "oxIWWmki_fg",
         "spotifyId": "0xulXtTer7ltI8XhBqMAUL",
-        "fandomUrl": "Lustrous_Moonlight"
+        "fandomUrl": "Lustrous_Moonlight",
+        "context": "Exalting Sanctum"
       },
       {
         "id": 55,
@@ -598,7 +652,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "KlvIcnXiaG0",
         "spotifyId": "3V5VzOHk4WxX1ru1WIytCu",
-        "fandomUrl": "Thundering_Chariot"
+        "fandomUrl": "Thundering_Chariot",
+        "context": "Cloudford and Stargazer Navalia Battle Theme"
       },
       {
         "id": 56,
@@ -608,7 +663,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "5eDuMGcJBdc",
         "spotifyId": "4pStDZqRt71pTmAkML8DBt",
-        "fandomUrl": "Cumulus_Formations"
+        "fandomUrl": "Cumulus_Formations",
+        "context": "Cloudford"
       },
       {
         "id": 57,
@@ -618,7 +674,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "-eV4nyUQrJc",
         "spotifyId": "6ntlsmKYP1lUj7grk4BG90",
-        "fandomUrl": "Ave_Astra_et_Viator"
+        "fandomUrl": "Ave_Astra_et_Viator",
+        "context": "Stargazer Navalia"
       },
       {
         "id": 58,
@@ -628,7 +685,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "sL8DycKSMis",
         "spotifyId": "3QVjs7RfsUvq1cpBP4oDvY",
-        "fandomUrl": "Warden_of_Jade"
+        "fandomUrl": "Warden_of_Jade",
+        "context": "Palace of Astrum"
       },
       {
         "id": 59,
@@ -638,7 +696,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "IHxGQRgeqzM",
         "spotifyId": "1VIMZSLtzPJICXsHjtDpMP",
-        "fandomUrl": "Into_the_Breach"
+        "fandomUrl": "Into_the_Breach",
+        "context": "Cloudford and Stargazer Navalia Battle Theme"
       },
       {
         "id": 60,
@@ -654,7 +713,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "HdiUMHlGM7I",
         "spotifyId": "1bceG3sYMTgDDcAQYT9WbO",
-        "fandomUrl": "Hunter%27s_Intuition"
+        "fandomUrl": "Hunter%27s_Intuition",
+        "context": "\"Kafka\" Boss Fight"
       },
       {
         "id": 61,
@@ -664,7 +724,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "8mgfSknKi_E",
         "spotifyId": "2Q4j6qBBsT9VIbEA0yxinF",
-        "fandomUrl": "Transient_Jubilation"
+        "fandomUrl": "Transient_Jubilation",
+        "context": "Trailblaze Mission Chapter II: \"New Friends Bring New Joy\" (meeting Qingque)"
       },
       {
         "id": 62,
@@ -674,7 +735,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Vg_asJ_R6y8",
         "spotifyId": "5GG6CKJjALqB5BvPMU3N1q",
-        "fandomUrl": "Upon_the_Firmament"
+        "fandomUrl": "Upon_the_Firmament",
+        "context": "Divination Commission"
       },
       {
         "id": 63,
@@ -684,7 +746,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "F_BOkxulhJQ",
         "spotifyId": "1tHqgLvgod0FUu7wN9HZnI",
-        "fandomUrl": "Exquisite_Ingenuity"
+        "fandomUrl": "Exquisite_Ingenuity",
+        "context": "Artisanship Commission"
       },
       {
         "id": 64,
@@ -694,7 +757,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Gf4EqfaFDEQ",
         "spotifyId": "5VrEzgvO9nrvev13YyeUTB",
-        "fandomUrl": "Fabulous_Foresight"
+        "fandomUrl": "Fabulous_Foresight",
+        "context": "Seat of Divine Foresight"
       },
       {
         "id": 65,
@@ -704,7 +768,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Wxl_m7JWVxU",
         "spotifyId": "71qpBP1d6hhDXvQSZ90xMn",
-        "fandomUrl": "Divine_Camaraderie"
+        "fandomUrl": "Divine_Camaraderie",
+        "context": "Trailblaze Mission Chapter II: \"Obsequies Performed, A Long Road Ahead\""
       },
       {
         "id": 66,
@@ -714,7 +779,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "QkwlknkBTT0",
         "spotifyId": "67ApCo7GCO2dfCvHJmhDeM",
-        "fandomUrl": "Blade_Abracadabra"
+        "fandomUrl": "Blade_Abracadabra",
+        "context": "Divination Commission and Artisanship Commission Battle Theme"
       },
       {
         "id": 67,
@@ -724,7 +790,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "W087pvoJoJo",
         "spotifyId": "6UE30WnJgTnJ1Gps8YsqmQ",
-        "fandomUrl": "Into_the_Desolate"
+        "fandomUrl": "Into_the_Desolate",
+        "context": "Divination Commission and Artisanship Commission Battle Theme"
       },
       {
         "id": 68,
@@ -740,7 +807,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "KUP8wnubcl0",
         "spotifyId": "2czWJp6rTO7As8jiYyjnnB",
-        "fandomUrl": "Deerstalker"
+        "fandomUrl": "Deerstalker",
+        "context": "\"Abundant Ebon Deer\" Boss Fight"
       },
       {
         "id": 69,
@@ -750,7 +818,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "fVLjx_CcZnw",
         "spotifyId": "72Em8sgdsKUPJVg98QgrwQ",
-        "fandomUrl": "Skyedge_Voyage"
+        "fandomUrl": "Skyedge_Voyage",
+        "context": "Using \"Diting\" during Missions"
       },
       {
         "id": 70,
@@ -760,7 +829,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "qR8n8wT9r6M",
         "spotifyId": "08jdjpDNzd8DEs4Y5nkFWJ",
-        "fandomUrl": "Severed_Harmony"
+        "fandomUrl": "Severed_Harmony",
+        "context": "Alchemy Commission (during \"Desolate Depths of Despair\")"
       },
       {
         "id": 71,
@@ -770,7 +840,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "0gJdcXmbKRM",
         "spotifyId": "1v985Y3cjIe8n1CKuGzvbG",
-        "fandomUrl": "Terrene_Deliverance"
+        "fandomUrl": "Terrene_Deliverance",
+        "context": "Dialogue scene in \"Wood Sprouts Anew, Fate Tilts Askew\""
       },
       {
         "id": 72,
@@ -780,7 +851,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "OEfmcM8JmRk",
         "spotifyId": "3CwRobzh4ZSoUbNSPyzdYm",
-        "fandomUrl": "Serene_Stroll"
+        "fandomUrl": "Serene_Stroll",
+        "context": "Dialogue cutscenes"
       },
       {
         "id": 73,
@@ -790,7 +862,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "wmLDohefkt0",
         "spotifyId": "1qT3UODNib2grovcgYEuqk",
-        "fandomUrl": "Evanescent_Dreams"
+        "fandomUrl": "Evanescent_Dreams",
+        "context": "Alchemy Commission"
       },
       {
         "id": 74,
@@ -800,7 +873,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "AnGtymBdIdg",
         "spotifyId": "0Xy5J4mWt5tszxf55oRSkB",
-        "fandomUrl": "Mokshasatya"
+        "fandomUrl": "Mokshasatya",
+        "context": "Alchemy Commission and Scalegorge Waterscape Battle Theme"
       },
       {
         "id": 75,
@@ -810,7 +884,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "zDkCWfWGvjE",
         "spotifyId": "4SHEz7B2lyQDZdhkGt744x",
-        "fandomUrl": "Sanctus_Medicus_Dharani"
+        "fandomUrl": "Sanctus_Medicus_Dharani",
+        "context": "Alchemy Commission and Scalegorge Waterscape Battle Theme"
       },
       {
         "id": 76,
@@ -820,7 +895,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "cVcWZUEPJ04",
         "spotifyId": "06TRinXNNs7qep9dGHYYDO",
-        "fandomUrl": "A_Brew_of_Storm"
+        "fandomUrl": "A_Brew_of_Storm",
+        "context": "Dialogue scene in \"Dragon Mislay, Dreams Astray\""
       },
       {
         "id": 77,
@@ -835,7 +911,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "52iPARSPTpw",
         "spotifyId": "2ueVjaX0HYM9cuPGksauId",
-        "fandomUrl": "Gleaming_Clash"
+        "fandomUrl": "Gleaming_Clash",
+        "context": "\"Yanqing\" Boss Theme"
       },
       {
         "id": 78,
@@ -845,7 +922,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "f-RAagm2IkE",
         "spotifyId": "5Y8FZqEGEDnkxX82q2VL2j",
-        "fandomUrl": "Erstwhile_Resonance"
+        "fandomUrl": "Erstwhile_Resonance",
+        "context": "Scalegorge Waterscape"
       },
       {
         "id": 79,
@@ -855,7 +933,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "lHoum0TqhY0",
         "spotifyId": "0LCraJdpgA3czYuy7M0rc1",
-        "fandomUrl": "Obscured_Pearls"
+        "fandomUrl": "Obscured_Pearls",
+        "context": "Scalegorge Waterscape (during \"A Dragon Gallant, Its Ocean Distant\")"
       },
       {
         "id": 80,
@@ -871,7 +950,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "92yR9a2gtaA",
         "spotifyId": "15IfGFZo72uIJLfwVgb6R2",
-        "fandomUrl": "Arteria_Inceptionis"
+        "fandomUrl": "Arteria_Inceptionis",
+        "context": "Roots of the Arbor (during \"Demise of Immortality, Finale of Calamity\") / Pure Fiction"
       },
       {
         "id": 81,
@@ -887,7 +967,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Fd8iNnRrH98",
         "spotifyId": "5SpqwZfggHFR1BamDyCnqq",
-        "fandomUrl": "Pedujara%3A_Ephemeral_Cycle"
+        "fandomUrl": "Pedujara%3A_Ephemeral_Cycle",
+        "context": "\"Phantylia\" Echo of War (phase 1)"
       },
       {
         "id": 82,
@@ -903,7 +984,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "prOx-kbSMcw",
         "spotifyId": "6pWkqjvTgSm6y0JkdkvZ0R",
-        "fandomUrl": "Pedujara%3A_Even_Immortality_Ends"
+        "fandomUrl": "Pedujara%3A_Even_Immortality_Ends",
+        "context": "\"Phantylia\" Echo of War (phase 2)"
       },
       {
         "id": 83,
@@ -919,7 +1001,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Wx7NEqF0fmU",
         "spotifyId": "3AgeAGG0wfNGt6uZTsUnfG",
-        "fandomUrl": "Pedujara%3A_Demiseless_Existence"
+        "fandomUrl": "Pedujara%3A_Demiseless_Existence",
+        "context": "\"Phantylia\" Echo of War (phase 3)"
       },
       {
         "id": 84,
@@ -934,7 +1017,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "n9Ze1o_0VeA",
         "spotifyId": "6ooRIYeJChKbljJpxvoM1F",
-        "fandomUrl": "Samudrartha"
+        "fandomUrl": "Samudrartha",
+        "context": "Trailblaze Mission Chapter II: \"Oblation Obtained, Order Ordained\" (cutscene)"
       },
       {
         "id": 85,
@@ -944,7 +1028,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "XirOcWjnU6A",
         "spotifyId": "3QRZfmOSexgSYH935KRhBx",
-        "fandomUrl": "Samudrartha_%28Instrumental%29"
+        "fandomUrl": "Samudrartha_%28Instrumental%29",
+        "context": "Instrumental version of \"Samudrartha\""
       }
     ]
   },
@@ -959,7 +1044,8 @@
         "region": "N/A",
         "youtubeId": "16DVhYUrxi0",
         "spotifyId": "1nFFmkdBZV0Su9oGuPMKLD",
-        "fandomUrl": "Next_Stop%2C_the_Stars%21"
+        "fandomUrl": "Next_Stop%2C_the_Stars%21",
+        "context": "\"Next Stop, the Stars!\" Reveal Trailer"
       },
       {
         "id": 87,
@@ -969,7 +1055,8 @@
         "region": "Astral Express",
         "youtubeId": "eSGj9Yo_ON4",
         "spotifyId": "2ohKacGuVUaqKWDill1JmF",
-        "fandomUrl": "Let%27s_Take_a_Photo%21"
+        "fandomUrl": "Let%27s_Take_a_Photo%21",
+        "context": "March 7th Character Demo"
       },
       {
         "id": 88,
@@ -979,7 +1066,8 @@
         "region": "N/A",
         "youtubeId": "Ux6P1Fq9VHw",
         "spotifyId": "0Xuf3Zl46QlS9hp9HejBu6",
-        "fandomUrl": "Your_Choice_%28Soundtrack%29"
+        "fandomUrl": "Your_Choice_%28Soundtrack%29",
+        "context": "“Your Choice” Second Closed Beta Trailer"
       },
       {
         "id": 89,
@@ -989,7 +1077,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "kigIZAPOR9w",
         "spotifyId": "0qfo2NsePaqGRrXXpp2PB2",
-        "fandomUrl": "The_Cusp_of_Ignition%21"
+        "fandomUrl": "The_Cusp_of_Ignition%21",
+        "context": "Serval Character Demo"
       },
       {
         "id": 90,
@@ -999,7 +1088,8 @@
         "region": "N/A",
         "youtubeId": "CDX-bK48RVI",
         "spotifyId": "0JBI9jE89mpsyz8aKMYN08",
-        "fandomUrl": "To_You_Who_Will_Soon_Depart"
+        "fandomUrl": "To_You_Who_Will_Soon_Depart",
+        "context": "Summer Game Fest 2022 \"To You Who Will Soon Depart\""
       },
       {
         "id": 91,
@@ -1009,7 +1099,8 @@
         "region": "N/A",
         "youtubeId": "p6q5528Hfb0",
         "spotifyId": "5fvb5Ms1VbE0mGNK4T1IqY",
-        "fandomUrl": "Space_Comedy"
+        "fandomUrl": "Space_Comedy",
+        "context": "\"Space Comedy\" Final Closed Beta Trailer"
       },
       {
         "id": 92,
@@ -1019,7 +1110,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "NEBEsjdvT70",
         "spotifyId": "1gCkWnFwQ2IAk7ekDQah9h",
-        "fandomUrl": "In_Torrid_Heat"
+        "fandomUrl": "In_Torrid_Heat",
+        "context": "Bailu Character Demo"
       },
       {
         "id": 93,
@@ -1029,7 +1121,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "224LYTPdJlU",
         "spotifyId": "6bixlEemXONZpjuyi4dS3v",
-        "fandomUrl": "Tempered_Chill"
+        "fandomUrl": "Tempered_Chill",
+        "context": "Yanqing Character Demo"
       },
       {
         "id": 94,
@@ -1039,7 +1132,8 @@
         "region": "Astral Express",
         "youtubeId": "AvIoG891jnk",
         "spotifyId": "0tQMMwWCboUksWHDe03gei",
-        "fandomUrl": "Star_Chaser"
+        "fandomUrl": "Star_Chaser",
+        "context": "Himeko Character Demo"
       },
       {
         "id": 95,
@@ -1049,7 +1143,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "nugaSPvYwx0",
         "spotifyId": "2HSlsSz91KXpLcZjwj1dNW",
-        "fandomUrl": "In_the_Name_of_Landau_%28Soundtrack%29"
+        "fandomUrl": "In_the_Name_of_Landau_%28Soundtrack%29",
+        "context": "Gepard Character Demo"
       },
       {
         "id": 96,
@@ -1059,7 +1154,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "zE9jaF790ek",
         "spotifyId": "6gYhOiwFpRrPoVec18Aq4Q",
-        "fandomUrl": "Uneventful_Night"
+        "fandomUrl": "Uneventful_Night",
+        "context": "Seele Character Demo"
       },
       {
         "id": 97,
@@ -1069,7 +1165,8 @@
         "region": "N/A",
         "youtubeId": "VV5xyVpQKMI",
         "spotifyId": "20KiYfytWSmxFiEwZvZiuw",
-        "fandomUrl": "Fables_About_the_Stars_Part_1"
+        "fandomUrl": "Fables_About_the_Stars_Part_1",
+        "context": "\"Fables About the Stars Part 1\" Myriad Celestia Trailer"
       },
       {
         "id": 98,
@@ -1079,7 +1176,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "-xWm3GRDwNY",
         "spotifyId": "3dn4c44dpruFfdjJCn1o0C",
-        "fandomUrl": "A_Flash"
+        "fandomUrl": "A_Flash",
+        "context": "\"A Flash\" Animated Short"
       },
       {
         "id": 99,
@@ -1089,7 +1187,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "tvFjIpZDxTo",
         "spotifyId": "42MEebWLhNae34fHKwL79g",
-        "fandomUrl": "Heaven_and_Earth_as_a_Chessboard"
+        "fandomUrl": "Heaven_and_Earth_as_a_Chessboard",
+        "context": "Jing Yuan Character Demo"
       },
       {
         "id": 100,
@@ -1099,7 +1198,8 @@
         "region": "N/A",
         "youtubeId": "lp2e_poz-uY",
         "spotifyId": "1MLKXR3SveBRqTnfyAwW4N",
-        "fandomUrl": "Galactic_Roaming"
+        "fandomUrl": "Galactic_Roaming",
+        "context": "Version 1.1 Trailer"
       },
       {
         "id": 101,
@@ -1109,7 +1209,8 @@
         "region": "Stellaron Hunters",
         "youtubeId": "4D1O8O8ToOw",
         "spotifyId": "4Pze8L2SEXXzHteWx3gGW7",
-        "fandomUrl": "Got_a_Date%3F"
+        "fandomUrl": "Got_a_Date%3F",
+        "context": "Silver Wolf Character Demo"
       },
       {
         "id": 102,
@@ -1119,7 +1220,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "dF8XA6tRffg",
         "spotifyId": "6iNMPzLsWqpPpaJK7jcIZM",
-        "fandomUrl": "The_Traveler_And_His_Oath"
+        "fandomUrl": "The_Traveler_And_His_Oath",
+        "context": "Luocha Character Demo"
       },
       {
         "id": 103,
@@ -1129,7 +1231,8 @@
         "region": "N/A",
         "youtubeId": "0-yDoSbvs_0",
         "spotifyId": "2EKLT6dlwvrFNP9kfa32ac",
-        "fandomUrl": "Even_Immortality_Ends"
+        "fandomUrl": "Even_Immortality_Ends",
+        "context": "Version 1.2 Trailer"
       },
       {
         "id": 104,
@@ -1139,7 +1242,8 @@
         "region": "Stellaron Hunters",
         "youtubeId": "AgfW1E_YtrE",
         "spotifyId": "7bhNEZGAp5C69VlTkmFUNs",
-        "fandomUrl": "Death_Approaches"
+        "fandomUrl": "Death_Approaches",
+        "context": "Blade Character Demo"
       },
       {
         "id": 105,
@@ -1149,7 +1253,8 @@
         "region": "Stellaron Hunters",
         "youtubeId": "PMgUAhcETsQ",
         "spotifyId": "0gnUjKbhNspUraBox4kdit",
-        "fandomUrl": "A_Dramatic_Irony"
+        "fandomUrl": "A_Dramatic_Irony",
+        "context": "Kafka Character Demo"
       },
       {
         "id": 106,
@@ -1159,7 +1264,8 @@
         "region": "N/A",
         "youtubeId": "mcDtpOHzdTI",
         "spotifyId": "0HggnNQt7qTl5Oxh1EdS63",
-        "fandomUrl": "The_Jepella_Rebellion"
+        "fandomUrl": "The_Jepella_Rebellion",
+        "context": "\"The Jepella Rebellion - Scene 47\" Myriad Celestia Trailer"
       },
       {
         "id": 107,
@@ -1169,7 +1275,8 @@
         "region": "N/A",
         "youtubeId": "aes6bv6fDnU",
         "spotifyId": "1VTmYSCICCZdtDojO8O2ZK",
-        "fandomUrl": "Celestial_Eyes_Above_Mortal_Ruins"
+        "fandomUrl": "Celestial_Eyes_Above_Mortal_Ruins",
+        "context": "Version 1.3 Trailer"
       },
       {
         "id": 108,
@@ -1179,7 +1286,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "TlhzSh2_wa4",
         "spotifyId": "1kH9IJ8jCIuYsCo5cXdPmT",
-        "fandomUrl": "General_of_All_Affairs_at_the_Seat_of_Divine_Foresight"
+        "fandomUrl": "General_of_All_Affairs_at_the_Seat_of_Divine_Foresight",
+        "context": "Gamescom Show Video"
       },
       {
         "id": 109,
@@ -1189,7 +1297,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "b3mB8G7S6ZY",
         "spotifyId": "2UpoMsbJUMDZzqogeJoCU2",
-        "fandomUrl": "The_Prodigal%27s_Return"
+        "fandomUrl": "The_Prodigal%27s_Return",
+        "context": "Dan Heng Imbibitor Lunae Character Demo"
       },
       {
         "id": 110,
@@ -1199,7 +1308,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "wHbSrELpqcM",
         "spotifyId": "4K1EZjHXNrVvtkuiVHiNmF",
-        "fandomUrl": "Exodus_of_the_Five_Dragons"
+        "fandomUrl": "Exodus_of_the_Five_Dragons",
+        "context": "\"History of the Xianzhou: Exodus of the Five Dragons\" Myriad Celestia Trailer"
       },
       {
         "id": 111,
@@ -1209,7 +1319,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "OYpzTCdYmX4",
         "spotifyId": "70EDlXmH4HSBfE7w0sPXcK",
-        "fandomUrl": "Ichor_of_Two_Dragons"
+        "fandomUrl": "Ichor_of_Two_Dragons",
+        "context": "\"Ichor of Two Dragons\" Animated Short"
       },
       {
         "id": 112,
@@ -1219,7 +1330,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "ysfA879qdtQ",
         "spotifyId": "6r0FqX4QVNb9WkN1TDzzpl",
-        "fandomUrl": "Omniscia_Spares_None_%28Soundtrack%29"
+        "fandomUrl": "Omniscia_Spares_None_%28Soundtrack%29",
+        "context": "Fu Xuan Character Demo"
       },
       {
         "id": 113,
@@ -1229,7 +1341,8 @@
         "region": "N/A",
         "youtubeId": "OkjFnsEkE-A",
         "spotifyId": "4tgNZGp49P482JcrrqcdJp",
-        "fandomUrl": "Grasp_the_Stars"
+        "fandomUrl": "Grasp_the_Stars",
+        "context": "TGS 2023 Video: Grasp the Stars"
       },
       {
         "id": 114,
@@ -1239,7 +1352,8 @@
         "region": "N/A",
         "youtubeId": "884HO7V8hjQ",
         "spotifyId": "1W9kJRvMHCrozOxowHZp9K",
-        "fandomUrl": "Jolted_Awake_From_a_Winter_Dream_%28Soundtrack%29"
+        "fandomUrl": "Jolted_Awake_From_a_Winter_Dream_%28Soundtrack%29",
+        "context": "Version 1.4 Trailer"
       },
       {
         "id": 115,
@@ -1249,7 +1363,8 @@
         "region": "N/A",
         "youtubeId": "I8kqaOkxl_g",
         "spotifyId": "14IBkofBe1yyASLytZQ4dZ",
-        "fandomUrl": "On_Swords"
+        "fandomUrl": "On_Swords",
+        "context": "\"Cloud Knights Martial Doctrine, On Swords\" Myriad Celestia Trailer"
       },
       {
         "id": 116,
@@ -1259,7 +1374,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "MLB2nEdeYxY",
         "spotifyId": "0OE0Na132c60aazmknbfV1",
-        "fandomUrl": "Swordward"
+        "fandomUrl": "Swordward",
+        "context": "Jingliu Character Demo"
       },
       {
         "id": 117,
@@ -1269,7 +1385,8 @@
         "region": "IPC",
         "youtubeId": "r1OPHtTBdfY",
         "spotifyId": "0Oo8bYQcQZRDtCuUUfSJzh",
-        "fandomUrl": "Selection%2C_Planning%2C_and_Opportunity"
+        "fandomUrl": "Selection%2C_Planning%2C_and_Opportunity",
+        "context": "\"Interastral Peace Tour: Selection, Planning, and Opportunity\" Myriad Celestia Trailer"
       },
       {
         "id": 118,
@@ -1279,7 +1396,8 @@
         "region": "IPC",
         "youtubeId": "GvM1Zr14hy0",
         "spotifyId": "15s7pbDK9am5QUIqTRqhDY",
-        "fandomUrl": "Expert_Tutorial"
+        "fandomUrl": "Expert_Tutorial",
+        "context": "Topaz & Numby Character Demo"
       }
     ]
   },
@@ -1294,7 +1412,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "-pq6gOQmxRo",
         "spotifyId": "0gByEPLLBYXQcAH7zSCWGB",
-        "fandomUrl": "Paean_of_Indulgence"
+        "fandomUrl": "Paean_of_Indulgence",
+        "context": "Aurum Alley"
       },
       {
         "id": 120,
@@ -1304,7 +1423,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "3DP8WbyHjMA",
         "spotifyId": "7k2h7ZkP79JdFWP89OG108",
-        "fandomUrl": "Night_Bazaar_in_Full_Glow"
+        "fandomUrl": "Night_Bazaar_in_Full_Glow",
+        "context": "\"Aurum Alley's Hustle and Bustle\" Event"
       },
       {
         "id": 121,
@@ -1314,7 +1434,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "L2oLdCRLI_I",
         "spotifyId": "1upvPWzPaQmv1hKG6LPOn9",
-        "fandomUrl": "Whispers_of_Departure"
+        "fandomUrl": "Whispers_of_Departure",
+        "context": "\"Aurum Alley's Hustle and Bustle\" Event"
       },
       {
         "id": 122,
@@ -1324,7 +1445,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "sxxSNIUDgZM",
         "spotifyId": "7LETVd4rdUWAxNV3lQBo8l",
-        "fandomUrl": "Wedding_Wine"
+        "fandomUrl": "Wedding_Wine",
+        "context": "Fyxestroll Garden (near the ghost actor)"
       },
       {
         "id": 123,
@@ -1334,7 +1456,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "1GmfuUq20i4",
         "spotifyId": "5ErG3MoNnkYniyY20E1Czr",
-        "fandomUrl": "Nesting_Avians"
+        "fandomUrl": "Nesting_Avians",
+        "context": "Fyxestroll Garden"
       },
       {
         "id": 124,
@@ -1344,7 +1467,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Fz2e0a5oy68",
         "spotifyId": "316NG0XMpTaywWVeRT6m5A",
-        "fandomUrl": "Above_The_Fray"
+        "fandomUrl": "Above_The_Fray",
+        "context": "Fyxestroll Garden (near the Guqin)"
       },
       {
         "id": 125,
@@ -1354,7 +1478,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "y4y5YK_QG7Y",
         "spotifyId": "1hHUKa15IxCRAQnFMvGcRo",
-        "fandomUrl": "Haunting_Hoots"
+        "fandomUrl": "Haunting_Hoots",
+        "context": "Fyxestroll Garden Battle Theme"
       },
       {
         "id": 126,
@@ -1369,7 +1494,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Gj4ushUbre4",
         "spotifyId": "3H5Y5jh5Qz1leHy29GN0zE",
-        "fandomUrl": "Dancing_Fantasms"
+        "fandomUrl": "Dancing_Fantasms",
+        "context": "\"Cirrus\" Boss Fight"
       },
       {
         "id": 127,
@@ -1379,7 +1505,8 @@
         "region": "Astral Express",
         "youtubeId": "Ti7faI8sOzA",
         "spotifyId": "0EVVFcxpLcVQKsVWnU9GGc",
-        "fandomUrl": "Age_of_Innocence"
+        "fandomUrl": "Age_of_Innocence",
+        "context": "Argenti Companion Mission"
       },
       {
         "id": 128,
@@ -1389,7 +1516,8 @@
         "region": "Astral Express",
         "youtubeId": "CaBGWotk0ZM",
         "spotifyId": "4RIG3vyz3NUejOMA29Q6xg",
-        "fandomUrl": "Age_of_Opulence"
+        "fandomUrl": "Age_of_Opulence",
+        "context": "Argenti Companion Mission"
       },
       {
         "id": 129,
@@ -1399,7 +1527,8 @@
         "region": "Astral Express",
         "youtubeId": "_TZ6q1plgHA",
         "spotifyId": "6XxiQg68WTe4yfUM7Wuqo2",
-        "fandomUrl": "A_Gentleman%27s_Fantasy"
+        "fandomUrl": "A_Gentleman%27s_Fantasy",
+        "context": "\"Argenti\" Boss Fight"
       },
       {
         "id": 130,
@@ -1409,7 +1538,8 @@
         "region": "Herta Space Station",
         "youtubeId": "lFX3dV-KLII",
         "spotifyId": "0eNKRgcSqcsmIe66oGBT6O",
-        "fandomUrl": "In_Disbelief"
+        "fandomUrl": "In_Disbelief",
+        "context": "Seclusion Zone"
       },
       {
         "id": 131,
@@ -1424,7 +1554,8 @@
         "region": "Herta Space Station",
         "youtubeId": "xUDNn-0QJ5c",
         "spotifyId": "3gMinzKYn46D1kbQRNhkb6",
-        "fandomUrl": "Aberrant_Receptacle"
+        "fandomUrl": "Aberrant_Receptacle",
+        "context": "\" Starcrusher Swarm King: Skaracabaz\" Echo of War"
       },
       {
         "id": 132,
@@ -1434,7 +1565,8 @@
         "region": "Herta Space Station",
         "youtubeId": "e6TyoGqxtTc",
         "spotifyId": "5JxXQqCIndtqvbpi7NpIdw",
-        "fandomUrl": "Primordial_Resplendence"
+        "fandomUrl": "Primordial_Resplendence",
+        "context": "Simulated Universe: Gold and Gears (menu)"
       },
       {
         "id": 133,
@@ -1444,7 +1576,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "njpWBACUDIg",
         "spotifyId": "3S723sLOLlsgY1B7jLHkMt",
-        "fandomUrl": "Subterranean_Enigma"
+        "fandomUrl": "Subterranean_Enigma",
+        "context": "\"Underground Treasure Hunt\" Event"
       },
       {
         "id": 134,
@@ -1454,7 +1587,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "KhzxDxF95nM",
         "spotifyId": "0Owg2ureYY7jFwHSdmjBkA",
-        "fandomUrl": "Everwinter%27s_Collection"
+        "fandomUrl": "Everwinter%27s_Collection",
+        "context": "\"Everwinter City Museum Ledger of Curiosities\" Event (museum management)"
       },
       {
         "id": 135,
@@ -1464,7 +1598,8 @@
         "region": "Herta Space Station",
         "youtubeId": "Qgh3Kl4tnt0",
         "spotifyId": "1mo0HcQd2xfLElSVPca6gM",
-        "fandomUrl": "Sleepwalking"
+        "fandomUrl": "Sleepwalking",
+        "context": "Herta Space Station Trailblaze Continuance: \"When the Stars of Ingenuity Shine\""
       },
       {
         "id": 136,
@@ -1477,7 +1612,8 @@
         "region": "Herta Space Station",
         "youtubeId": "JUif50aqZT4",
         "spotifyId": "7hqi5D0yA1R1ioShAuJnpq",
-        "fandomUrl": "Neuropulse"
+        "fandomUrl": "Neuropulse",
+        "context": "Trailblaze Mission Prologue Chapter"
       },
       {
         "id": 137,
@@ -1487,7 +1623,8 @@
         "region": "Herta Space Station",
         "youtubeId": "Ui6eK6vpxjo",
         "spotifyId": "6BKYRnXjUO6ihmO8RS7pif",
-        "fandomUrl": "Lurking_Dread"
+        "fandomUrl": "Lurking_Dread",
+        "context": "Herta Space Station Trailblaze Continuance: \"When the Stars of Ingenuity Shine\""
       },
       {
         "id": 138,
@@ -1497,7 +1634,8 @@
         "region": "Herta Space Station",
         "youtubeId": "F1v1wLGXsgI",
         "spotifyId": "5rjrnJEeIRH3ZyJfIFICpp",
-        "fandomUrl": "Shadows_of_Enigma"
+        "fandomUrl": "Shadows_of_Enigma",
+        "context": "Herta Space Station Trailblaze Continuance: \"Mundane Troubles\""
       },
       {
         "id": 139,
@@ -1507,7 +1645,8 @@
         "region": "Herta Space Station",
         "youtubeId": "yQ-rcBeFKVw",
         "spotifyId": "0PUuFnuEH6njuMd0B0NK6P",
-        "fandomUrl": "Oneiros_of_Borehole_Planet"
+        "fandomUrl": "Oneiros_of_Borehole_Planet",
+        "context": "Simulated Universe: Swarm Disaster (menu)"
       },
       {
         "id": 140,
@@ -1522,7 +1661,8 @@
         "region": "Herta Space Station",
         "youtubeId": "-XtY9rSiWxw",
         "spotifyId": "0JJSsukRCMiH6H5vEEir1s",
-        "fandomUrl": "Cosmic_Sacrifice_for_Love"
+        "fandomUrl": "Cosmic_Sacrifice_for_Love",
+        "context": "Argenti Companion Mission"
       },
       {
         "id": 141,
@@ -1532,7 +1672,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "bNS6AOPntO0",
         "spotifyId": "3Cn9AThn42PUqtqKt2bm9m",
-        "fandomUrl": "Cold_Iron%2C_Warming_Sun"
+        "fandomUrl": "Cold_Iron%2C_Warming_Sun",
+        "context": "Pillars of Creation"
       },
       {
         "id": 142,
@@ -1542,7 +1683,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "sEYqNrwbi1w",
         "spotifyId": "3iy14eFT0KD5gT3IJVfU3f",
-        "fandomUrl": "Battle_Arena"
+        "fandomUrl": "Battle_Arena",
+        "context": "Old Weapon Testing Ground"
       },
       {
         "id": 143,
@@ -1552,7 +1694,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "l5tGtlttcm4",
         "spotifyId": "3KzxxN2pIKXocm8MKwtweI",
-        "fandomUrl": "Welcome_to_Aetherium_Wars%21"
+        "fandomUrl": "Welcome_to_Aetherium_Wars%21",
+        "context": "\"Aetherium Wars\" Event"
       },
       {
         "id": 144,
@@ -1562,7 +1705,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "hVgd2CIAsGw",
         "spotifyId": "4oGlVLrBDEuyTBBQLXIi6p",
-        "fandomUrl": "Battle%21_Championship_Contender"
+        "fandomUrl": "Battle%21_Championship_Contender",
+        "context": "\"Aetherium Wars\" Event"
       },
       {
         "id": 145,
@@ -1572,7 +1716,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "6t_b4oaNQFk",
         "spotifyId": "47wFJWCKnx04tms3niUelj",
-        "fandomUrl": "Coliseum_of_Victory"
+        "fandomUrl": "Coliseum_of_Victory",
+        "context": "\"Aetherium Wars\" Event"
       },
       {
         "id": 146,
@@ -1582,7 +1727,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "F2B7pSYNYvU",
         "spotifyId": "5mHCVpiT6Dd8oKeBsnyH6U",
-        "fandomUrl": "Battle%21_Tournament_Winner"
+        "fandomUrl": "Battle%21_Tournament_Winner",
+        "context": "\"Aetherium Wars\" Event"
       },
       {
         "id": 147,
@@ -1592,7 +1738,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "NVrMKUuT0To",
         "spotifyId": "56xYCeS4Nmw5rVWPcBGANL",
-        "fandomUrl": "Battle%21_Ultimate_Champion"
+        "fandomUrl": "Battle%21_Ultimate_Champion",
+        "context": "\"Aetherium Wars\" Event"
       },
       {
         "id": 148,
@@ -1602,7 +1749,8 @@
         "region": "Jarilo-VI",
         "youtubeId": "wrtZDhaRY4E",
         "spotifyId": "0URUVB4jGf1LogVoIgJEIl",
-        "fandomUrl": "Battle%21_King_of_the_Snowy_Hill"
+        "fandomUrl": "Battle%21_King_of_the_Snowy_Hill",
+        "context": "\"Aetherium Wars\" Event"
       }
     ]
   },
@@ -1617,7 +1765,8 @@
         "region": "Penacony",
         "youtubeId": "TursZNv5dA8",
         "spotifyId": "49xooPdasAQlKhW6Sf1Rhq",
-        "fandomUrl": "WHITE_NIGHT"
+        "fandomUrl": "WHITE_NIGHT",
+        "context": "\"WHITE NIGHT\" Version 2.0 Music Video"
       },
       {
         "id": 150,
@@ -1627,7 +1776,8 @@
         "region": "Penacony",
         "youtubeId": "Z4NNFrQdLR4",
         "spotifyId": "7iOA2YVu4WQHvedbXUQwWh",
-        "fandomUrl": "%E4%B8%8D%E7%9C%A0%E4%B9%8B%E5%A4%9C"
+        "fandomUrl": "%E4%B8%8D%E7%9C%A0%E4%B9%8B%E5%A4%9C",
+        "context": "Chinese version of \"WHITE NIGHT\""
       },
       {
         "id": 151,
@@ -1637,7 +1787,8 @@
         "region": "Penacony",
         "youtubeId": "_eFQUEY-auo",
         "spotifyId": "4v8zRmBLQH04dHcwFOqfqP",
-        "fandomUrl": "WHITE_NIGHT_%28Japanese_Ver.%29"
+        "fandomUrl": "WHITE_NIGHT_%28Japanese_Ver.%29",
+        "context": "Japanese version of \"WHITE NIGHT\""
       },
       {
         "id": 152,
@@ -1647,7 +1798,8 @@
         "region": "Penacony",
         "youtubeId": "gkTxrtpJAWg",
         "spotifyId": "3j7aVlWZiJGOSUI8lryEyZ",
-        "fandomUrl": "WHITE_NIGHT_%28Korean_Ver.%29"
+        "fandomUrl": "WHITE_NIGHT_%28Korean_Ver.%29",
+        "context": "Korean version of \"WHITE NIGHT\""
       },
       {
         "id": 153,
@@ -1657,7 +1809,8 @@
         "region": "Penacony",
         "youtubeId": "EaO2tSWIIzA",
         "spotifyId": "4LIja2GKfBoSrK9KNQr26R",
-        "fandomUrl": "WHITE_NIGHT_%28Instrumental%29"
+        "fandomUrl": "WHITE_NIGHT_%28Instrumental%29",
+        "context": "Instrumental version of \"WHITE NIGHT\""
       }
     ]
   },
@@ -1672,7 +1825,8 @@
         "region": "N/A",
         "youtubeId": "5mXG2dzAja4",
         "spotifyId": "6Z9qBlBgxBR1PKlq7Nlf1B",
-        "fandomUrl": "The_Crepuscule_Zone"
+        "fandomUrl": "The_Crepuscule_Zone",
+        "context": "Version 1.5 Trailer"
       },
       {
         "id": 155,
@@ -1682,7 +1836,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Yk7rUe8muA4",
         "spotifyId": "6uMG5kq1Wr2fQtX6zTfiYZ",
-        "fandomUrl": "Night_of_Thrills"
+        "fandomUrl": "Night_of_Thrills",
+        "context": "Huohuo Character Demo"
       },
       {
         "id": 156,
@@ -1692,7 +1847,8 @@
         "region": "Knights of Beauty",
         "youtubeId": "w-ib9-kXFEc",
         "spotifyId": "1Kwi5sCsmo9ShGW7a3coWV",
-        "fandomUrl": "Chivalric_Romances"
+        "fandomUrl": "Chivalric_Romances",
+        "context": "Argenti Character Demo"
       },
       {
         "id": 157,
@@ -1702,7 +1858,8 @@
         "region": "N/A",
         "youtubeId": "rNagUZSXrY4",
         "spotifyId": "0ncaoc9tECzi7hbJWRNF6c",
-        "fandomUrl": "A_Story_That_Never_Grows_Dull"
+        "fandomUrl": "A_Story_That_Never_Grows_Dull",
+        "context": "TGA Candidacy Video: A Story That Never Grows Dull"
       },
       {
         "id": 158,
@@ -1712,7 +1869,8 @@
         "region": "Herta Space Station",
         "youtubeId": "_LgOouV6--w",
         "spotifyId": "42nxiplTgVMCEg49N5FFZI",
-        "fandomUrl": "Crown_of_the_Mundane_and_Divine_%28Soundtrack%29"
+        "fandomUrl": "Crown_of_the_Mundane_and_Divine_%28Soundtrack%29",
+        "context": "Version 1.6 Trailer"
       },
       {
         "id": 159,
@@ -1722,7 +1880,8 @@
         "region": "Herta Space Station",
         "youtubeId": "UGYNrHbPms0",
         "spotifyId": "2Pyrq6ual0XBdef5h4dzi0",
-        "fandomUrl": "Transcendent_Ruan_Tunes%2C_Blushing_Mei_Blooms"
+        "fandomUrl": "Transcendent_Ruan_Tunes%2C_Blushing_Mei_Blooms",
+        "context": "\"Transcendent Ruan Tunes, Blushing Mei Blooms\" Myriad Celestia Trailer"
       },
       {
         "id": 160,
@@ -1732,7 +1891,8 @@
         "region": "Herta Space Station",
         "youtubeId": "DSikVOoY1-U",
         "spotifyId": "03gCndJoyKs8OZR4PVeyPR",
-        "fandomUrl": "In_All_Does_Life_Flow"
+        "fandomUrl": "In_All_Does_Life_Flow",
+        "context": "Ruan Mei Character Demo"
       },
       {
         "id": 161,
@@ -1742,7 +1902,8 @@
         "region": "Intelligentsia Guild",
         "youtubeId": "1oBVKRdu4DA",
         "spotifyId": "12BqJ4HAHNFC8AciK8cmOZ",
-        "fandomUrl": "Supreme_Idiocy"
+        "fandomUrl": "Supreme_Idiocy",
+        "context": "Dr. Ratio Character Demo"
       },
       {
         "id": 162,
@@ -1752,7 +1913,8 @@
         "region": "N/A",
         "youtubeId": "-91mcDs1iFo",
         "spotifyId": "6n8olbVSMoU8EirtVW10mg",
-        "fandomUrl": "A_Night_of_Ever-Flame%3A_Scene_33"
+        "fandomUrl": "A_Night_of_Ever-Flame%3A_Scene_33",
+        "context": "\"A Night of Ever-Flame: Scene 33\" Myriad Celestia Trailer"
       },
       {
         "id": 163,
@@ -1762,7 +1924,8 @@
         "region": "Penacony",
         "youtubeId": "o-pgIIGdcJc",
         "spotifyId": "4ZzwQQvauweaHovXUAd2yi",
-        "fandomUrl": "A_Revisiting_of_Past_Dreams"
+        "fandomUrl": "A_Revisiting_of_Past_Dreams",
+        "context": "\"A Revisiting of Past Dreams\" Myriad Celestia Trailer"
       },
       {
         "id": 164,
@@ -1772,7 +1935,8 @@
         "region": "Penacony",
         "youtubeId": "9BlBVsNG0fs",
         "spotifyId": "2A8dqNUq6coB5cw5OV0GD8",
-        "fandomUrl": "Lullaby"
+        "fandomUrl": "Lullaby",
+        "context": "Black Swan Character Demo"
       },
       {
         "id": 165,
@@ -1782,7 +1946,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "l9Bv8jGqmV8",
         "spotifyId": "5C7hEGwOI7wn5VigEMhKvX",
-        "fandomUrl": "Harmony_Greets_the_New_Year"
+        "fandomUrl": "Harmony_Greets_the_New_Year",
+        "context": " \"Harmony Greets the New Year\" Animated Short"
       },
       {
         "id": 166,
@@ -1792,7 +1957,8 @@
         "region": "Penacony",
         "youtubeId": "FU0K3LNXRnM",
         "spotifyId": "0FrTYYqdU9ryDFv2WbIFQO",
-        "fandomUrl": "Welcome_to_Dreamville%21_Part.1"
+        "fandomUrl": "Welcome_to_Dreamville%21_Part.1",
+        "context": "Honkai: Star Rail Clockie Cartoon Series: \"Welcome to Dreamville!\""
       },
       {
         "id": 167,
@@ -1802,7 +1968,8 @@
         "region": "Penacony",
         "youtubeId": "HG6ocL5nZSE",
         "spotifyId": "2zWZIvwyNOgpwraKqZzSjh",
-        "fandomUrl": "Welcome_to_Dreamville%21_Part.2"
+        "fandomUrl": "Welcome_to_Dreamville%21_Part.2",
+        "context": "Honkai: Star Rail Clockie Cartoon Series: \"Welcome to Dreamville!\""
       },
       {
         "id": 168,
@@ -1812,7 +1979,8 @@
         "region": "Penacony",
         "youtubeId": "USrNsSH6AWM",
         "spotifyId": "638LUGkvCM5IxAhRQSq6H5",
-        "fandomUrl": "Welcome_to_Dreamville%21_Part.3"
+        "fandomUrl": "Welcome_to_Dreamville%21_Part.3",
+        "context": "Honkai: Star Rail Clockie Cartoon Series: \"Welcome to Dreamville!\""
       },
       {
         "id": 169,
@@ -1822,7 +1990,8 @@
         "region": "Penacony",
         "youtubeId": "WNau8kgJ3XE",
         "spotifyId": "109MwAtejD7y1PE8n6Z1jK",
-        "fandomUrl": "Monodrama_%28Soundtrack%29"
+        "fandomUrl": "Monodrama_%28Soundtrack%29",
+        "context": "Sparkle Character Demo"
       },
       {
         "id": 170,
@@ -1832,7 +2001,8 @@
         "region": "Penacony",
         "youtubeId": "wkFtTUVda4U",
         "spotifyId": "4uWeGwWHRXymz6s9m3SirT",
-        "fandomUrl": "Sparkle%3A_Behind_the_Curtain"
+        "fandomUrl": "Sparkle%3A_Behind_the_Curtain",
+        "context": "\"Sparkle: Behind the Curtain\" Myriad Celestia Trailer"
       },
       {
         "id": 171,
@@ -1842,7 +2012,8 @@
         "region": "Penacony",
         "youtubeId": "-tHYCYgEX2I",
         "spotifyId": "1E3K7hYYyaR0w5yYIV4f2y",
-        "fandomUrl": "Your_Color"
+        "fandomUrl": "Your_Color",
+        "context": "Acheron Character Demo"
       },
       {
         "id": 172,
@@ -1852,7 +2023,8 @@
         "region": "N/A",
         "youtubeId": "S-Yef4ySfOk",
         "spotifyId": "3bXX7nmqxJnCwWS1SSpclF",
-        "fandomUrl": "Kyoden%3A_A_Cleave_Across_the_Transient_World"
+        "fandomUrl": "Kyoden%3A_A_Cleave_Across_the_Transient_World",
+        "context": "\"Kyoden: A Cleave Across the Transient World\" Myriad Celestia Trailer"
       },
       {
         "id": 173,
@@ -1862,7 +2034,8 @@
         "region": "Penacony",
         "youtubeId": "B5UeNLlnUOA",
         "spotifyId": "43TWyxGr27ehA3x9aJhL4a",
-        "fandomUrl": "Rondo_Across_Countless_Kalpas"
+        "fandomUrl": "Rondo_Across_Countless_Kalpas",
+        "context": "\"Rondo Across Countless Kalpas\" Animated Short"
       },
       {
         "id": 174,
@@ -1872,7 +2045,8 @@
         "region": "Penacony",
         "youtubeId": "KUpW6hRkEJY",
         "spotifyId": "6tkcYkilATFxhfPpLSK0d2",
-        "fandomUrl": "Into_the_Yawning_Chasm_%28Experience_the_Paths_Vol._2%29"
+        "fandomUrl": "Into_the_Yawning_Chasm_%28Experience_the_Paths_Vol._2%29",
+        "context": "Version 2.1 Trailer"
       },
       {
         "id": 175,
@@ -1882,7 +2056,8 @@
         "region": "N/A",
         "youtubeId": "3hC7lTtypLg",
         "spotifyId": "4HuNB0XVK8das6v9H0a7xu",
-        "fandomUrl": "Wanna_Go_Have_Some_Fun%21"
+        "fandomUrl": "Wanna_Go_Have_Some_Fun%21",
+        "context": "Honkai Star Rail Reality Invitation PV: \"Let's go out and play together!\" (chinese video)"
       }
     ]
   },
@@ -1897,7 +2072,8 @@
         "region": "Penacony",
         "youtubeId": "npyiiInMA0w",
         "spotifyId": "2AnvQvVqWORCmgRzLR0sHe",
-        "fandomUrl": "Sway_to_My_Beat_in_Cosmos"
+        "fandomUrl": "Sway_to_My_Beat_in_Cosmos",
+        "context": "Robin Ultimate BGM / Robin Character Demo"
       },
       {
         "id": 177,
@@ -1912,7 +2088,8 @@
         "region": "Penacony",
         "youtubeId": "8v0RVyPlUA4",
         "spotifyId": "7f3GFn9aFk8yKrrSQ8VnTp",
-        "fandomUrl": "If_I_Can_Stop_One_Heart_From_Breaking_%28Soundtrack%29"
+        "fandomUrl": "If_I_Can_Stop_One_Heart_From_Breaking_%28Soundtrack%29",
+        "context": "Trailblaze Mission Chapter III: \"Gentleness, the Name of Nocturne\" (Firefly dialogue scene)"
       },
       {
         "id": 178,
@@ -1929,7 +2106,8 @@
         "region": "Penacony",
         "youtubeId": "aPyt41nnM0k",
         "spotifyId": "3FUaNR2HD1XaeOmw4puhkz",
-        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers",
+        "context": "\"The Great Septimus\" Boss Fight (phase 3)"
       },
       {
         "id": 179,
@@ -1939,7 +2117,8 @@
         "region": "Penacony",
         "youtubeId": "oHGcqHBIFcs",
         "spotifyId": "7oTia7anTqcBeAxlUBxEWY",
-        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers",
+        "context": "Instrumental version of \"Sway to My Beat in Cosmos\""
       },
       {
         "id": 180,
@@ -1949,7 +2128,8 @@
         "region": "Penacony",
         "youtubeId": "_VCOCgbYJ6s",
         "spotifyId": "5vRij7ATn2nZiAGT9W8S0T",
-        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers",
+        "context": "Firefly's Secret Base / Instrumental version of \"If I Can Stop One Heart From Breaking\""
       },
       {
         "id": 181,
@@ -1959,7 +2139,8 @@
         "region": "Penacony",
         "youtubeId": "1bCXbmLNqXw",
         "spotifyId": "115Nh6Xv3Di4quT0qFOzHe",
-        "fandomUrl": "Hope_Is_the_Thing_With_Feathers"
+        "fandomUrl": "Hope_Is_the_Thing_With_Feathers",
+        "context": "\"The Great Septimus\" Boss Fight (phase 2) / Instrumental version of \"Hope Is the Thing With Feathers\""
       }
     ]
   },
@@ -1974,7 +2155,8 @@
         "region": "Penacony",
         "youtubeId": "6ZxYjqE6dXQ",
         "spotifyId": "1hLTBInGs7KetRltXojS7X",
-        "fandomUrl": "This_Side_of_Paradise_%28Soundtrack%29"
+        "fandomUrl": "This_Side_of_Paradise_%28Soundtrack%29",
+        "context": "Golden Hour"
       },
       {
         "id": 183,
@@ -1984,7 +2166,8 @@
         "region": "Penacony",
         "youtubeId": "J1Qt3gtmiwk",
         "spotifyId": "2B92InUq3ke9shJo6FXrmJ",
-        "fandomUrl": "Ace_in_the_Hole"
+        "fandomUrl": "Ace_in_the_Hole",
+        "context": "Golden Hour - Aideen Park"
       },
       {
         "id": 184,
@@ -1994,7 +2177,8 @@
         "region": "Penacony",
         "youtubeId": "VlQZcUvQHZc",
         "spotifyId": "7o6LK6sV52ploAkyqjqNol",
-        "fandomUrl": "Hi%2C_Dolly%21"
+        "fandomUrl": "Hi%2C_Dolly%21",
+        "context": "Golden Hour (near Max in Aideen Park when emotion is set to Calm) / The Radiant Feldspar (Mr. Double Bass)"
       },
       {
         "id": 185,
@@ -2004,7 +2188,8 @@
         "region": "Penacony",
         "youtubeId": "RgdEeiWDLQI",
         "spotifyId": "2FRKZvpj8Ej84x7v9hC5Oq",
-        "fandomUrl": "Golden_Land"
+        "fandomUrl": "Golden_Land",
+        "context": "Golden Hour - Oti Mall"
       },
       {
         "id": 186,
@@ -2021,7 +2206,8 @@
         "region": "Penacony",
         "youtubeId": "UJsCvVb18Ec",
         "spotifyId": "3aqYJjUGsVYnynSoaam5Yd",
-        "fandomUrl": "The_Big_Sleep"
+        "fandomUrl": "The_Big_Sleep",
+        "context": "\"A Strange Dream\" Domain / The Reverie (Dreamscape)"
       },
       {
         "id": 187,
@@ -2031,7 +2217,8 @@
         "region": "Penacony",
         "youtubeId": "27iuE4NloD0",
         "spotifyId": "2Bnl3CQxGb52nQALw2l2HP",
-        "fandomUrl": "Dreamwalker_%28Soundtrack%29"
+        "fandomUrl": "Dreamwalker_%28Soundtrack%29",
+        "context": "The Reverie (Dreamscape) (walking on dreamwalkers)"
       },
       {
         "id": 188,
@@ -2041,7 +2228,8 @@
         "region": "Penacony",
         "youtubeId": "gJXv2_3nKI0",
         "spotifyId": "0f2wa2O2a0aPNcAANJV6vP",
-        "fandomUrl": "The_Player_on_the_Other_Side"
+        "fandomUrl": "The_Player_on_the_Other_Side",
+        "context": "Dreamscape Elite Battle Theme"
       },
       {
         "id": 189,
@@ -2051,7 +2239,8 @@
         "region": "Penacony",
         "youtubeId": "GMaaC6IBcpc",
         "spotifyId": "0NFS2MSaGz48JONuPw2gHR",
-        "fandomUrl": "Fair_Play"
+        "fandomUrl": "Fair_Play",
+        "context": "Dreamscape Battle Theme"
       },
       {
         "id": 190,
@@ -2061,7 +2250,8 @@
         "region": "Penacony",
         "youtubeId": "upIKan-ZuZo",
         "spotifyId": "4LiqXhSkVHCdbnDC2KnnGL",
-        "fandomUrl": "If_One_Wakes_at_Midnight"
+        "fandomUrl": "If_One_Wakes_at_Midnight",
+        "context": "The Reverie (Reality) - VIP Lounge (near Max)"
       },
       {
         "id": 191,
@@ -2071,7 +2261,8 @@
         "region": "Penacony",
         "youtubeId": "kihFu2lpIw4",
         "spotifyId": "7ek6wt4lmUVBtGuB6GXrOJ",
-        "fandomUrl": "Realit%C3%A4tsprinzip"
+        "fandomUrl": "Realit%C3%A4tsprinzip",
+        "context": "The Reverie (Reality) - Hotel Lobby"
       },
       {
         "id": 192,
@@ -2081,7 +2272,8 @@
         "region": "Penacony",
         "youtubeId": "OY9HK36ucE4",
         "spotifyId": "04khRmLogSxBJrmAM5cQkE",
-        "fandomUrl": "Lustprinzip"
+        "fandomUrl": "Lustprinzip",
+        "context": "The Reverie (Reality) - VIP Lounge"
       },
       {
         "id": 193,
@@ -2091,7 +2283,8 @@
         "region": "Penacony",
         "youtubeId": "dQnfCbZHHG0",
         "spotifyId": "0BcuYG07PQd5zyzbXv95gO",
-        "fandomUrl": "Against_The_Day"
+        "fandomUrl": "Against_The_Day",
+        "context": "Dreamscape Elite Battle Theme"
       },
       {
         "id": 194,
@@ -2101,7 +2294,8 @@
         "region": "Penacony",
         "youtubeId": "MY5kzo7-hbM",
         "spotifyId": "6qH4XX9tpvKEoz58ddOgCB",
-        "fandomUrl": "Challenge_to_the_Reader"
+        "fandomUrl": "Challenge_to_the_Reader",
+        "context": "Dreamscape Battle Theme"
       },
       {
         "id": 195,
@@ -2111,7 +2305,8 @@
         "region": "Penacony",
         "youtubeId": "OY0L92V7NyU",
         "spotifyId": "1iB3FskurpHS3yxjrzxRrq",
-        "fandomUrl": "Lucid_Dreams"
+        "fandomUrl": "Lucid_Dreams",
+        "context": "Trailblaze Mission Chapter III: \"Good Omen, My Friend\" (dialogue scene)"
       },
       {
         "id": 196,
@@ -2121,7 +2316,8 @@
         "region": "Penacony",
         "youtubeId": "hG_j3bSguPs",
         "spotifyId": "3bJ5Ib55SgHoWZ4XdnqIXr",
-        "fandomUrl": "Halfway_House"
+        "fandomUrl": "Halfway_House",
+        "context": "Dreamscape - Dream's Edge"
       },
       {
         "id": 197,
@@ -2131,7 +2327,8 @@
         "region": "Penacony",
         "youtubeId": "tkwr7r2q9_8",
         "spotifyId": "2OUXWtqQTqtNd8deptWf8H",
-        "fandomUrl": "Full_House"
+        "fandomUrl": "Full_House",
+        "context": "Golden Hour - Golden Capsule Machine"
       },
       {
         "id": 198,
@@ -2141,7 +2338,8 @@
         "region": "Penacony",
         "youtubeId": "56f7pvfXb_g",
         "spotifyId": "6iBBRx9VM1TXLUume7deRV",
-        "fandomUrl": "The_Midnight_Special"
+        "fandomUrl": "The_Midnight_Special",
+        "context": "Golden Hour - Aideen Park (near Max, when emotion is set to Happy)"
       },
       {
         "id": 199,
@@ -2151,7 +2349,8 @@
         "region": "Penacony",
         "youtubeId": "A2-jgHA92G0",
         "spotifyId": "6MfHpXVwtEFKkkm78Y0lWH",
-        "fandomUrl": "Spellbound"
+        "fandomUrl": "Spellbound",
+        "context": "Golden Hour - Near Dr. Edward / Golden Hour - Oti Mall > Dreamscape Sales Store"
       },
       {
         "id": 200,
@@ -2161,7 +2360,8 @@
         "region": "Penacony",
         "youtubeId": "yBU2h7KOBXU",
         "spotifyId": "2brOCn6yRkyOAtuMgoddg9",
-        "fandomUrl": "City_Upon_a_Hill"
+        "fandomUrl": "City_Upon_a_Hill",
+        "context": "Golden Hour (balcony overlooking Penacony Grand Theater)"
       },
       {
         "id": 201,
@@ -2171,7 +2371,8 @@
         "region": "Penacony",
         "youtubeId": "eJ9dcKxaD1Q",
         "spotifyId": "109vAWCty4KzqgeVTXACJa",
-        "fandomUrl": "The_Fool_Always_Rings_Twice_%28Soundtrack%29"
+        "fandomUrl": "The_Fool_Always_Rings_Twice_%28Soundtrack%29",
+        "context": "Dialogue cutscenes"
       },
       {
         "id": 202,
@@ -2184,7 +2385,8 @@
         "region": "Penacony",
         "youtubeId": "_rWueqkR5P0",
         "spotifyId": "2RdD7nxQ4njTW4c7ukT0i0",
-        "fandomUrl": "Wet_Dog"
+        "fandomUrl": "Wet_Dog",
+        "context": "Trailblaze Mission Chapter III: \"Sleepless Night\" (meeting Firefly and Gallagher)"
       },
       {
         "id": 203,
@@ -2194,7 +2396,8 @@
         "region": "Penacony",
         "youtubeId": "l2pS3Nqe12o",
         "spotifyId": "43cFyZV9COv3bUyRlYpFG7",
-        "fandomUrl": "Latent_Content_of_Dream"
+        "fandomUrl": "Latent_Content_of_Dream",
+        "context": "Trailblaze Mission Chapter III: \"The Departed Will Return First\" (dialogue scenes)"
       },
       {
         "id": 204,
@@ -2204,7 +2407,8 @@
         "region": "Penacony",
         "youtubeId": "akJTsq_FNOY",
         "spotifyId": "54g5o8EZfiazZjD4mW7CK1",
-        "fandomUrl": "On_the_Disintegration_of_Evermemoria"
+        "fandomUrl": "On_the_Disintegration_of_Evermemoria",
+        "context": "\"Dream Ticker\" puzzles"
       },
       {
         "id": 205,
@@ -2218,7 +2422,8 @@
         "region": "Penacony",
         "youtubeId": "DvNiYl-bn9Y",
         "spotifyId": "3RVK6j8rr6Wv1rz96xpVDi",
-        "fandomUrl": "Citizen_Hanunue"
+        "fandomUrl": "Citizen_Hanunue",
+        "context": "\"Hanu's Adventure\" Exploration Mechanic"
       },
       {
         "id": 206,
@@ -2231,7 +2436,8 @@
         "region": "Penacony",
         "youtubeId": "5O3E33ncLjo",
         "spotifyId": "4rYMuuLsYBdJjIEK64kdvs",
-        "fandomUrl": "Manifest_Content_of_Dream"
+        "fandomUrl": "Manifest_Content_of_Dream",
+        "context": "Various Penacony Missions (dialogue cutscenes)"
       },
       {
         "id": 207,
@@ -2246,7 +2452,8 @@
         "region": "Penacony",
         "youtubeId": "iMFCTMEXMBo",
         "spotifyId": "2KWOrlwngXh9srPcFDMAZo",
-        "fandomUrl": "Cha%C3%AEne_Signifiante"
+        "fandomUrl": "Cha%C3%AEne_Signifiante",
+        "context": "Dreamscape - A Child's Dream"
       },
       {
         "id": 208,
@@ -2256,7 +2463,8 @@
         "region": "Penacony",
         "youtubeId": "teeGQwHrSZE",
         "spotifyId": "3FWVmr7rNhhSC9mnrq3KWx",
-        "fandomUrl": "Stade_du_Miroir"
+        "fandomUrl": "Stade_du_Miroir",
+        "context": "Dreamscape - A Child's Dream (toy room)"
       },
       {
         "id": 209,
@@ -2266,7 +2474,8 @@
         "region": "Penacony",
         "youtubeId": "JILMap6D7zs",
         "spotifyId": "6sOrylZvee1db0tpEvTmv0",
-        "fandomUrl": "Todestrieb"
+        "fandomUrl": "Todestrieb",
+        "context": "Dreamscape - A Child's Dream (during \"Through a Glass Darkly\")"
       },
       {
         "id": 210,
@@ -2276,7 +2485,8 @@
         "region": "Penacony",
         "youtubeId": "WdBxJ3jqqik",
         "spotifyId": "4lVb4RuW0f2bEJHnrsrhvj",
-        "fandomUrl": "Return_of_None"
+        "fandomUrl": "Return_of_None",
+        "context": "\"Something Unto Death\" Boss Fight"
       },
       {
         "id": 211,
@@ -2286,7 +2496,8 @@
         "region": "Penacony",
         "youtubeId": "fzkSL8W5gzg",
         "spotifyId": "3QenS0JxMbFJCvracxWwZR",
-        "fandomUrl": "If_I_Can_Stop_One_Heart_From_Breaking_%28Encore%29"
+        "fandomUrl": "If_I_Can_Stop_One_Heart_From_Breaking_%28Encore%29",
+        "context": "Trailblaze Mission Chapter III: \"Should One Awaken at Midnight\" (dialogue scenes)"
       },
       {
         "id": 212,
@@ -2296,7 +2507,8 @@
         "region": "Penacony",
         "youtubeId": "X4cWmcu2ZMQ",
         "spotifyId": "7eCZYgQnxUmODlKBUD1ynS",
-        "fandomUrl": "Quoth_the_Raven"
+        "fandomUrl": "Quoth_the_Raven",
+        "context": "The Reverie (Dreamscape)"
       },
       {
         "id": 213,
@@ -2311,7 +2523,8 @@
         "region": "Penacony",
         "youtubeId": "LOzEbtrOiTE",
         "spotifyId": "46awG7l3U6XBpudXVadEXg",
-        "fandomUrl": "Nevermore"
+        "fandomUrl": "Nevermore",
+        "context": "\"Sam\" Boss Fight"
       }
     ]
   },
@@ -2326,7 +2539,8 @@
         "region": "Penacony",
         "youtubeId": "kdV4K17KqAE",
         "spotifyId": "59oOaUav2cqt9zkhpQgmru",
-        "fandomUrl": "Had_I_Not_Seen_The_Sun"
+        "fandomUrl": "Had_I_Not_Seen_The_Sun",
+        "context": "Trailblaze Mission Chapter III: \"A Thousand Bells at Dawn\" (cutscene)"
       },
       {
         "id": 215,
@@ -2336,7 +2550,8 @@
         "region": "Penacony",
         "youtubeId": "H4MMaIAPSb8",
         "spotifyId": "2BApwYuSRNyiOyuB6H6nqB",
-        "fandomUrl": "Had_I_Not_Seen_The_Sun_-_Instrumental"
+        "fandomUrl": "Had_I_Not_Seen_The_Sun_-_Instrumental",
+        "context": "Dialogue scenes in Trailblaze Missions Chapter III / Instrumental version of \"Had I Not Seen The Sun\""
       }
     ]
   },
@@ -2351,7 +2566,8 @@
         "region": "Penacony",
         "youtubeId": "njsoynWWAZ0",
         "spotifyId": "0vWj0yUo99g2rm4ggLieU4",
-        "fandomUrl": "Dream_First%21"
+        "fandomUrl": "Dream_First%21",
+        "context": "Dreamscape - Clock Studios Theme Park"
       },
       {
         "id": 217,
@@ -2361,7 +2577,8 @@
         "region": "Penacony",
         "youtubeId": "z5CV6wbdj5E",
         "spotifyId": "2IUZXGNq8ipL99QumBNzwE",
-        "fandomUrl": "Omert%C3%A0"
+        "fandomUrl": "Omert%C3%A0",
+        "context": "Dreamscape - Clock Studios Theme Park (Hanu Gang Base)"
       },
       {
         "id": 218,
@@ -2371,7 +2588,8 @@
         "region": "Penacony",
         "youtubeId": "BssU6E-0EhI",
         "spotifyId": "4TPYBXCBd9tJlvZ84zbFTo",
-        "fandomUrl": "Speedy_Hamz"
+        "fandomUrl": "Speedy_Hamz",
+        "context": "Dreamscape - Clock Studios Theme Park (Hamster Ball Park)"
       },
       {
         "id": 219,
@@ -2381,7 +2599,8 @@
         "region": "Penacony",
         "youtubeId": "243CN3Jr4vY",
         "spotifyId": "3FfJ0Yo9DTocPmUrwAxisD",
-        "fandomUrl": "The_Game_of_Chicken"
+        "fandomUrl": "The_Game_of_Chicken",
+        "context": "Trailblaze Mission Chapter III: \"A Walk Among the Tombstones\" (dialogue scene)"
       },
       {
         "id": 220,
@@ -2396,7 +2615,8 @@
         "region": "Penacony",
         "youtubeId": "Sl9_wcOLass",
         "spotifyId": "1LOWcYBbD6GEC2UzzLJ4Gk",
-        "fandomUrl": "Hell_Is_Preferable_to_Nihility"
+        "fandomUrl": "Hell_Is_Preferable_to_Nihility",
+        "context": "\"Aventurine\" Boss Fight"
       },
       {
         "id": 221,
@@ -2406,7 +2626,8 @@
         "region": "Penacony",
         "youtubeId": "px4xO2Jw20E",
         "spotifyId": "7d50XxHg3nRmocxbWYPnMC",
-        "fandomUrl": "Nought_May_Endure_But_Mutability"
+        "fandomUrl": "Nought_May_Endure_But_Mutability",
+        "context": "Trailblaze Mission Chapter III: \"A Walk Among the Tombstones\" and \"Then Wake to Weep\""
       },
       {
         "id": 222,
@@ -2416,7 +2637,8 @@
         "region": "Penacony",
         "youtubeId": "6ON0uDL0eYU",
         "spotifyId": "0vPxdgKOMMsWKoPOvLf2mt",
-        "fandomUrl": "Polaris"
+        "fandomUrl": "Polaris",
+        "context": "Dreamscape - Dewlight Pavilion"
       },
       {
         "id": 223,
@@ -2426,7 +2648,8 @@
         "region": "Penacony",
         "youtubeId": "MOye5gsIW2g",
         "spotifyId": "2xu8kQ18mxitvx5SS00IjD",
-        "fandomUrl": "Lodestar_in_Evernight"
+        "fandomUrl": "Lodestar_in_Evernight",
+        "context": "Dreamscape - Dewlight Pavilion (walking on Dreamwalkers)"
       },
       {
         "id": 224,
@@ -2436,7 +2659,8 @@
         "region": "Penacony",
         "youtubeId": "V8Ed9MtHKR4",
         "spotifyId": "4QAgXpjd6Z6TiH6UM8d8t0",
-        "fandomUrl": "Stranger_Than_Paradise"
+        "fandomUrl": "Stranger_Than_Paradise",
+        "context": "The Reverie (Dreamscape) / Dreamjolt Hostelry"
       },
       {
         "id": 225,
@@ -2446,7 +2670,8 @@
         "region": "Penacony",
         "youtubeId": "pnc0xLRkYsk",
         "spotifyId": "4u3mqpQZg5MKN2CTaTluIP",
-        "fandomUrl": "The_Dice_in_the_Other_Room"
+        "fandomUrl": "The_Dice_in_the_Other_Room",
+        "context": "\"Cosmodyssey\" Event"
       },
       {
         "id": 226,
@@ -2456,7 +2681,8 @@
         "region": "Penacony",
         "youtubeId": "qS3oGhziwSI",
         "spotifyId": "0XDbkfrG5nsDgmNQzSrzej",
-        "fandomUrl": "Fast_%26_Furynuts_%28Soundtrack%29"
+        "fandomUrl": "Fast_%26_Furynuts_%28Soundtrack%29",
+        "context": "\"Fast & Furynuts\" Minigame"
       },
       {
         "id": 227,
@@ -2466,7 +2692,8 @@
         "region": "Penacony",
         "youtubeId": "ClDU6YPGlS4",
         "spotifyId": "03y1UA8QziVMGj0B3399Jw",
-        "fandomUrl": "Into_the_Cracked_Earth"
+        "fandomUrl": "Into_the_Cracked_Earth",
+        "context": "Trailblaze Mission Chapter III: \"All the Sad Tales\" (dialogue scene)"
       },
       {
         "id": 228,
@@ -2476,7 +2703,8 @@
         "region": "Penacony",
         "youtubeId": "eF4ekaSV68Y",
         "spotifyId": "05YBHiJwuq4vLMKDdbtftD",
-        "fandomUrl": "The_City_in_the_Sea"
+        "fandomUrl": "The_City_in_the_Sea",
+        "context": "Dreamscape - Dreamflux Reef"
       },
       {
         "id": 229,
@@ -2486,7 +2714,8 @@
         "region": "Penacony",
         "youtubeId": "3UIYDjnRrcU",
         "spotifyId": "66WYHgQVABQ6zuzZInwXtt",
-        "fandomUrl": "A_Star_Is_Born"
+        "fandomUrl": "A_Star_Is_Born",
+        "context": "Dreamscape - SoulGlad™ Scorchsand Audition Venue"
       },
       {
         "id": 230,
@@ -2496,7 +2725,8 @@
         "region": "Penacony",
         "youtubeId": "0ODl4sqvyeQ",
         "spotifyId": "3r68emtltertoDA76t6HZe",
-        "fandomUrl": "An_Actor_Prepares"
+        "fandomUrl": "An_Actor_Prepares",
+        "context": "Dreamscape - SoulGlad™ Scorchsand Audition Venue (Acting Challenge)"
       },
       {
         "id": 231,
@@ -2506,7 +2736,8 @@
         "region": "Penacony",
         "youtubeId": "J-iMXkcFW8o",
         "spotifyId": "2pN7pCeeTz1YqzNoApINd1",
-        "fandomUrl": "Little_Little_Caesar"
+        "fandomUrl": "Little_Little_Caesar",
+        "context": "Dreamscape - SoulGlad™ Scorchsand Audition Venue (Gunfire Trial)"
       },
       {
         "id": 232,
@@ -2516,7 +2747,8 @@
         "region": "Penacony",
         "youtubeId": "xzO9yWogTWU",
         "spotifyId": "6acQkNvNyivTZlGScu9b0C",
-        "fandomUrl": "Nobility_of_Time"
+        "fandomUrl": "Nobility_of_Time",
+        "context": "Dreamscape - SoulGlad™ Scorchsand Audition Venue (Time Trial)"
       },
       {
         "id": 233,
@@ -2526,7 +2758,8 @@
         "region": "Penacony",
         "youtubeId": "aYH00kAIQms",
         "spotifyId": "5hGrTE22IeNTXYeHOLj3s6",
-        "fandomUrl": "Some_Like_It_Hot"
+        "fandomUrl": "Some_Like_It_Hot",
+        "context": "Dreamscape - SoulGlad™ Scorchsand Audition Venue (Action Challenge)"
       },
       {
         "id": 234,
@@ -2536,7 +2769,8 @@
         "region": "Penacony",
         "youtubeId": "A8UOfg4n4eg",
         "spotifyId": "3u8ILej7Nr1vGjlrwU0jd8",
-        "fandomUrl": "No_Business_Like_Show_Business"
+        "fandomUrl": "No_Business_Like_Show_Business",
+        "context": "SoulGlad™ Scorchsand Audition Venue Battle Theme"
       },
       {
         "id": 235,
@@ -2551,7 +2785,8 @@
         "region": "Penacony",
         "youtubeId": "wIbXvDigJRU",
         "spotifyId": "7hdYMQTYlJOKeij7ptSGHR",
-        "fandomUrl": "Walk_of_Fame"
+        "fandomUrl": "Walk_of_Fame",
+        "context": "Dreamscape - SoulGlad™ Scorchsand Audition Venue (during \"Seabiscuit\" and \"Beauty and Destruction\")"
       },
       {
         "id": 236,
@@ -2561,7 +2796,8 @@
         "region": "Penacony",
         "youtubeId": "o3Ua6Cch_-A",
         "spotifyId": "5dsApkgjX3PsyMAGpO9eg2",
-        "fandomUrl": "Caged_Wings"
+        "fandomUrl": "Caged_Wings",
+        "context": "Trailblaze Mission Chapter III: \"Seabiscuit\" (dialogue scene)"
       },
       {
         "id": 237,
@@ -2571,7 +2807,8 @@
         "region": "Penacony",
         "youtubeId": "XkUMyRBstME",
         "spotifyId": "4GdsaIirEM6tgTsWp41adr",
-        "fandomUrl": "Oed%27_und_leer_das_Meer"
+        "fandomUrl": "Oed%27_und_leer_das_Meer",
+        "context": "Horizon of Existence"
       },
       {
         "id": 238,
@@ -2581,7 +2818,8 @@
         "region": "Penacony",
         "youtubeId": "pb0j5yA-kXs",
         "spotifyId": "0Efez0Lsj0nuUKo23uYeWo",
-        "fandomUrl": "The_Past%2C_Present%2C_and_Eternal_Show_%28Soundtrack%29"
+        "fandomUrl": "The_Past%2C_Present%2C_and_Eternal_Show_%28Soundtrack%29",
+        "context": "\"The Past, Present, and Eternal Show\" Boss Fight"
       },
       {
         "id": 239,
@@ -2591,7 +2829,8 @@
         "region": "Penacony",
         "youtubeId": "IvOnEisrM14",
         "spotifyId": "3R5SoHYhtimZpAAR9bpDUu",
-        "fandomUrl": "The_Strength_of_Sin_Is_the_Law"
+        "fandomUrl": "The_Strength_of_Sin_Is_the_Law",
+        "context": "Penacony Grand Theater Elite Battle Theme"
       },
       {
         "id": 240,
@@ -2601,7 +2840,8 @@
         "region": "Penacony",
         "youtubeId": "phykALx6FtM",
         "spotifyId": "2yRy5rv7PkdhG1ZxESNJCg",
-        "fandomUrl": "The_Sting_of_Death_Is_Sin"
+        "fandomUrl": "The_Sting_of_Death_Is_Sin",
+        "context": "Penacony Grand Theater Battle Theme"
       },
       {
         "id": 241,
@@ -2611,7 +2851,8 @@
         "region": "Penacony",
         "youtubeId": "D-WYoicHI4s",
         "spotifyId": "2igMJBxdCfAgqScZktqEsv",
-        "fandomUrl": "Im_Anfang_war_das_Wort"
+        "fandomUrl": "Im_Anfang_war_das_Wort",
+        "context": "Trailblaze Mission Chapter III: \"Everything that Rises Must Converge\" (dialogue scene)"
       },
       {
         "id": 242,
@@ -2621,7 +2862,8 @@
         "region": "Penacony",
         "youtubeId": "E7VCCPIW4pA",
         "spotifyId": "4dTI1lvbW1cdEoaxapoTCu",
-        "fandomUrl": "Confutatis"
+        "fandomUrl": "Confutatis",
+        "context": "Dreamscape - Penacony Grand Theater (Act I, Past)"
       },
       {
         "id": 243,
@@ -2631,7 +2873,8 @@
         "region": "Penacony",
         "youtubeId": "lO0KFN7yoNg",
         "spotifyId": "7D1W1nMBJ4SAYiZjqKG4mU",
-        "fandomUrl": "Agnus_Aeon"
+        "fandomUrl": "Agnus_Aeon",
+        "context": "Dreamscape - Penacony Grand Theater (Act II, Present)"
       },
       {
         "id": 244,
@@ -2641,7 +2884,8 @@
         "region": "Penacony",
         "youtubeId": "k7c0KtmJbE8",
         "spotifyId": "6AkpYjoqrV2NYGmqzCKfgV",
-        "fandomUrl": "Requiem_Aeternam"
+        "fandomUrl": "Requiem_Aeternam",
+        "context": "Dreamscape - Penacony Grand Theater (Act III, Tomorrow)"
       },
       {
         "id": 245,
@@ -2651,7 +2895,8 @@
         "region": "Penacony",
         "youtubeId": "Vv4s3uiwDsQ",
         "spotifyId": "0lIITunZ2taO9wQiBSnMgq",
-        "fandomUrl": "Lux_Aeterna"
+        "fandomUrl": "Lux_Aeterna",
+        "context": "Trailblaze Mission Chapter III: \"And on the Eighth Day\""
       },
       {
         "id": 246,
@@ -2661,7 +2906,8 @@
         "region": "Penacony",
         "youtubeId": "al_Bzg1gwSE",
         "spotifyId": "2pyBklY8VUldFi7wFlztH2",
-        "fandomUrl": "Hosanna_in_Excelsis"
+        "fandomUrl": "Hosanna_in_Excelsis",
+        "context": "Dreamscape - Penacony Grand Theater"
       },
       {
         "id": 247,
@@ -2676,7 +2922,8 @@
         "region": "Penacony",
         "youtubeId": "QX9Jtd5tNnE",
         "spotifyId": "3mYMOhze2NUqrdci8XoRDr",
-        "fandomUrl": "Infirma_Nostri_Corporis"
+        "fandomUrl": "Infirma_Nostri_Corporis",
+        "context": "\"The Great Septimus\" Boss Fight"
       },
       {
         "id": 248,
@@ -2692,7 +2939,8 @@
         "region": "Penacony",
         "youtubeId": "sJRjZvJwFlI",
         "spotifyId": "4Tm5eLCcSofqSXtxY8tUkj",
-        "fandomUrl": "Symphony_No._8_%27A_Thousand_Suns%27"
+        "fandomUrl": "Symphony_No._8_%27A_Thousand_Suns%27",
+        "context": "\"The Great Septimus\" Boss Fight (phase 1 and 2)"
       }
     ]
   },
@@ -2707,7 +2955,8 @@
         "region": "IPC",
         "youtubeId": "PwAXq6Chx7A",
         "spotifyId": "23fRpbDtRm6fGakpdFsJgu",
-        "fandomUrl": "The_Golden_Touch"
+        "fandomUrl": "The_Golden_Touch",
+        "context": "Aventurine Character Demo"
       },
       {
         "id": 250,
@@ -2717,7 +2966,8 @@
         "region": "Penacony",
         "youtubeId": "sz6hgv8oWSQ",
         "spotifyId": "3rIsv8I8623KMTRsAimVns",
-        "fandomUrl": "Then_Wake_to_Weep_%28Soundtrack%29"
+        "fandomUrl": "Then_Wake_to_Weep_%28Soundtrack%29",
+        "context": "Version 2.2 Trailer"
       },
       {
         "id": 251,
@@ -2727,7 +2977,8 @@
         "region": "N/A",
         "youtubeId": "ZLnnHhCnPaw",
         "spotifyId": "5hNsLUUCEb85vEJZeOx65k",
-        "fandomUrl": "Before_the_Show_Starts"
+        "fandomUrl": "Before_the_Show_Starts",
+        "context": "\"Before the Show Starts\" Concert Animated Commercial"
       },
       {
         "id": 252,
@@ -2737,7 +2988,8 @@
         "region": "Penacony",
         "youtubeId": "Kc_o6GAbWeY",
         "spotifyId": "4CZp6HNJDqb00g3dVHCGQR",
-        "fandomUrl": "If_We_Had_Wings"
+        "fandomUrl": "If_We_Had_Wings",
+        "context": "\"If We Had Wings\" Myriad Celestia Trailer"
       },
       {
         "id": 253,
@@ -2747,7 +2999,8 @@
         "region": "Penacony",
         "youtubeId": "hofvi0-8e5o",
         "spotifyId": "3ZSKqtKzKxI1fzwYJaZgQf",
-        "fandomUrl": "Cowboy%27s_Got_Business"
+        "fandomUrl": "Cowboy%27s_Got_Business",
+        "context": "Boothill Character Demo"
       },
       {
         "id": 254,
@@ -2757,7 +3010,8 @@
         "region": "Penacony",
         "youtubeId": "8yHqUeSCnus",
         "spotifyId": "2eICHwniFDwXDiIaTf2lQd",
-        "fandomUrl": "Farewell%2C_Penacony_%28Soundtrack%29"
+        "fandomUrl": "Farewell%2C_Penacony_%28Soundtrack%29",
+        "context": "Version 2.3 Trailer"
       },
       {
         "id": 255,
@@ -2767,7 +3021,8 @@
         "region": "Penacony",
         "youtubeId": "ncr_TVzLZR0",
         "spotifyId": "3iRbLxVgpeISuURCMqpw8A",
-        "fandomUrl": "Art_of_Dreaming"
+        "fandomUrl": "Art_of_Dreaming",
+        "context": "SGF Show Video — Art of Dreaming"
       },
       {
         "id": 256,
@@ -2777,7 +3032,8 @@
         "region": "Stellaron Hunters",
         "youtubeId": "anZWEwclwpM",
         "spotifyId": "2kJd2p92wawek7PeS86EbC",
-        "fandomUrl": "Presently%2C_Beneath_a_Shared_Sky_of_Stars"
+        "fandomUrl": "Presently%2C_Beneath_a_Shared_Sky_of_Stars",
+        "context": "\"Presently, Beneath a Shared Sky of Stars\" Myriad Celestia Trailer"
       },
       {
         "id": 257,
@@ -2787,7 +3043,8 @@
         "region": "Stellaron Hunters",
         "youtubeId": "sT26iQirX3E",
         "spotifyId": "7apOsuK7Qa9tgkSsYwfIwP",
-        "fandomUrl": "The_Embers_of_Glamoth"
+        "fandomUrl": "The_Embers_of_Glamoth",
+        "context": "\"The Embers of Glamoth\" Animated Short"
       },
       {
         "id": 258,
@@ -2797,7 +3054,8 @@
         "region": "Stellaron Hunters",
         "youtubeId": "HH4Cx0jTp4M",
         "spotifyId": "0JCWRo5vragpKb3wkhld9K",
-        "fandomUrl": "Embers_in_a_Shell"
+        "fandomUrl": "Embers_in_a_Shell",
+        "context": "Firefly Character Demo"
       },
       {
         "id": 259,
@@ -2807,7 +3065,8 @@
         "region": "IPC",
         "youtubeId": "y2Te8lQs7QE",
         "spotifyId": "3fqBcwk4h7jYqcU4RLemq6",
-        "fandomUrl": "A_Collection_of_Desires"
+        "fandomUrl": "A_Collection_of_Desires",
+        "context": "Jade Character Demo"
       },
       {
         "id": 260,
@@ -2817,7 +3076,8 @@
         "region": "IPC",
         "youtubeId": "rT0cX4X-P9g",
         "spotifyId": "1822WpdHxDnQj8DmYDq4yS",
-        "fandomUrl": "Stoneheart%27s_Oath_Ring%3A_Both_Ends_of_the_Scale"
+        "fandomUrl": "Stoneheart%27s_Oath_Ring%3A_Both_Ends_of_the_Scale",
+        "context": "\"Stoneheart's Oath Ring: Both Ends of the Scale\" Myriad Celestia Trailer"
       },
       {
         "id": 261,
@@ -2827,7 +3087,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "tsEO13jvbvc",
         "spotifyId": "2IKLfV4bnMYJj3twkOG364",
-        "fandomUrl": "Finest_Duel_Under_the_Pristine_Blue_%28Soundtrack%29"
+        "fandomUrl": "Finest_Duel_Under_the_Pristine_Blue_%28Soundtrack%29",
+        "context": "Version 2.4 Trailer"
       },
       {
         "id": 262,
@@ -2837,7 +3098,8 @@
         "region": "N/A",
         "youtubeId": "vuvEF61xVbQ",
         "spotifyId": "5C9VqtaVVovjVYm4sqnFHt",
-        "fandomUrl": "Challenges_Come_Anywhere%2C_Anytime"
+        "fandomUrl": "Challenges_Come_Anywhere%2C_Anytime",
+        "context": "March 7th's Paris Tour Edition: \"Challenges Come Anywhere, Anytime\" | Express Travel Notes"
       },
       {
         "id": 263,
@@ -2847,7 +3109,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "XIrw_Z0Ssk0",
         "spotifyId": "6SWbf6kzjv1xNkBc35eP2P",
-        "fandomUrl": "Mind_the_Swelter%2C_Watch_the_Furnace"
+        "fandomUrl": "Mind_the_Swelter%2C_Watch_the_Furnace",
+        "context": "\"Mind the Swelter, Watch the Furnace\" Myriad Celestia Trailer"
       },
       {
         "id": 264,
@@ -2857,7 +3120,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "dzHqWEGN_qg",
         "spotifyId": "7zm8zBirLfYS9Ifv4z2EKP",
-        "fandomUrl": "Serendipity"
+        "fandomUrl": "Serendipity",
+        "context": "Yunli Character Demo"
       },
       {
         "id": 265,
@@ -2867,7 +3131,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "njk0IiAE1ic",
         "spotifyId": "149XUxRmLew2gxII0Zrm0Z",
-        "fandomUrl": "Pneumanull_Rice"
+        "fandomUrl": "Pneumanull_Rice",
+        "context": "Jiaoqiu Character Demo"
       },
       {
         "id": 266,
@@ -2877,7 +3142,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "uhOio2bSF7c",
         "spotifyId": "4nNMgyfDqOHpxPAc19kp1t",
-        "fandomUrl": "Flying_Aureus_Shot_to_Lupine_Rue_%28Soundtrack%29"
+        "fandomUrl": "Flying_Aureus_Shot_to_Lupine_Rue_%28Soundtrack%29",
+        "context": "Version 2.5 Trailer"
       },
       {
         "id": 267,
@@ -2887,7 +3153,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "yKMsaEI1nOQ",
         "spotifyId": "2zXUieJLSlss8XVfYzRgUv",
-        "fandomUrl": "The_Arrow_that_Seeks_the_Stars"
+        "fandomUrl": "The_Arrow_that_Seeks_the_Stars",
+        "context": "\"The Arrow that Seeks the Stars\" Myriad Celestia Trailer"
       },
       {
         "id": 268,
@@ -2897,7 +3164,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "p8rBMTG2QWw",
         "spotifyId": "2l3uQAok6YJMRMlu3BTq8I",
-        "fandomUrl": "Taking_It_Easy"
+        "fandomUrl": "Taking_It_Easy",
+        "context": "\"Taking It Easy\" Animated Short"
       },
       {
         "id": 269,
@@ -2907,7 +3175,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "LuKkAMKC3-0",
         "spotifyId": "5PKcZsMyCYiMYu4F3BtHai",
-        "fandomUrl": "Nothing_to_Laugh_At"
+        "fandomUrl": "Nothing_to_Laugh_At",
+        "context": "Feixiao Character Demo"
       }
     ]
   },
@@ -2922,7 +3191,8 @@
         "region": "Penacony",
         "youtubeId": "WbhL7DHSJ1A",
         "spotifyId": "3kY5GH6J11WMEspRKNJHXo",
-        "fandomUrl": "No_Dazzle%2C_No_Break"
+        "fandomUrl": "No_Dazzle%2C_No_Break",
+        "context": "Rappa Character Demo"
       },
       {
         "id": 271,
@@ -2932,7 +3202,8 @@
         "region": "Penacony",
         "youtubeId": "_kEZ7QlLdKA",
         "spotifyId": "6823Q7g7WTpsam2d8xCQM1",
-        "fandomUrl": "No_Dazzle%2C_No_Break_-_Instrumental"
+        "fandomUrl": "No_Dazzle%2C_No_Break_-_Instrumental",
+        "context": "Instrumental version of \"No Dazzle, No Break\""
       }
     ]
   },
@@ -2947,7 +3218,8 @@
         "region": "Penacony",
         "youtubeId": "hf4k6Xzn1qw",
         "spotifyId": "3QV4iVd90REIdhm53p5BMe",
-        "fandomUrl": "The_Slumbernana_Song_-_Chinese_Ver."
+        "fandomUrl": "The_Slumbernana_Song_-_Chinese_Ver.",
+        "context": "Penacony Trailblaze Continuance \"An Andalusian Monkey\" (cutscene, chinese version)"
       },
       {
         "id": 273,
@@ -2957,7 +3229,8 @@
         "region": "Penacony",
         "youtubeId": "LY4Lallrn7s",
         "spotifyId": "0yez4FKALXlF66bGzl5ywN",
-        "fandomUrl": "The_Slumbernana_Song_-_Japanese_Ver."
+        "fandomUrl": "The_Slumbernana_Song_-_Japanese_Ver.",
+        "context": "Penacony Trailblaze Continuance \"An Andalusian Monkey\" (cutscene,  japanese version)"
       },
       {
         "id": 274,
@@ -2967,7 +3240,8 @@
         "region": "Penacony",
         "youtubeId": "FlpqVaOhh6A",
         "spotifyId": "370lhF3KN4v2jgpZbU1eC5",
-        "fandomUrl": "The_Slumbernana_Song_-_English_Ver."
+        "fandomUrl": "The_Slumbernana_Song_-_English_Ver.",
+        "context": "Penacony Trailblaze Continuance \"An Andalusian Monkey\" (cutscene)"
       },
       {
         "id": 275,
@@ -2977,7 +3251,8 @@
         "region": "Penacony",
         "youtubeId": "mmDyngfCkCQ",
         "spotifyId": "3oshoBFd7qTg41OBavdmVw",
-        "fandomUrl": "The_Slumbernana_Song_-_Korean_Ver."
+        "fandomUrl": "The_Slumbernana_Song_-_Korean_Ver.",
+        "context": "Penacony Trailblaze Continuance \"An Andalusian Monkey\" (cutscene, korean version)"
       },
       {
         "id": 276,
@@ -2987,7 +3262,8 @@
         "region": "Penacony",
         "youtubeId": "e9_3iBZLX30",
         "spotifyId": "1TcXizy3km2CgJhpJAgz4v",
-        "fandomUrl": "Ensemble_Cast"
+        "fandomUrl": "Ensemble_Cast",
+        "context": "Trailblaze Mission Chapter III: \"A Thousand Bells at Dawn\""
       },
       {
         "id": 277,
@@ -2997,7 +3273,8 @@
         "region": "Penacony",
         "youtubeId": "28ucY7O4Lqw",
         "spotifyId": "7szntJRwrEfiBRKGjPAUkO",
-        "fandomUrl": "Alone_Time"
+        "fandomUrl": "Alone_Time",
+        "context": "Dreamscape - The Radiant Feldspar > Midship Lounge"
       },
       {
         "id": 278,
@@ -3007,7 +3284,8 @@
         "region": "Penacony",
         "youtubeId": "218YdIE0QYQ",
         "spotifyId": "4LzmR5tIesRG5sX9vUlbCs",
-        "fandomUrl": "Now%2C_Voyager"
+        "fandomUrl": "Now%2C_Voyager",
+        "context": "Dreamscape - The Radiant Feldspar"
       },
       {
         "id": 279,
@@ -3017,7 +3295,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "TQJ7Tlm9YVU",
         "spotifyId": "78bZ5hS2JdMyFJqlYoxsGE",
-        "fandomUrl": "My_Sword_Stirs_Starlight_%28Soundtrack%29"
+        "fandomUrl": "My_Sword_Stirs_Starlight_%28Soundtrack%29",
+        "context": "\"Saga of Primaveral Blade\" Event"
       },
       {
         "id": 280,
@@ -3027,7 +3306,8 @@
         "region": "Penacony",
         "youtubeId": "e52Yq083HPM",
         "spotifyId": "7JqikQlTY9ubONTzBrHcYn",
-        "fandomUrl": "La_Messe_de_l%27ath%C3%A9e"
+        "fandomUrl": "La_Messe_de_l%27ath%C3%A9e",
+        "context": "Divergent Universe (terminal interface)"
       },
       {
         "id": 281,
@@ -3037,7 +3317,8 @@
         "region": "Penacony",
         "youtubeId": "CPSHrsW0Ya0",
         "spotifyId": "6755PUGa4AYV8LtrBizheq",
-        "fandomUrl": "Reversed_Moments"
+        "fandomUrl": "Reversed_Moments",
+        "context": "Apocalyptic Shadow (menu)"
       },
       {
         "id": 282,
@@ -3047,7 +3328,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "eZx06ZmWUx8",
         "spotifyId": "2zmc5ZU4BMYOK4S6FmudkG",
-        "fandomUrl": "To_Naraka_We_Sink"
+        "fandomUrl": "To_Naraka_We_Sink",
+        "context": "The Shackling Prison"
       },
       {
         "id": 283,
@@ -3057,7 +3339,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "WlOQTU5QHsI",
         "spotifyId": "5Zkk3NBwdjxxD4LC6fau5n",
-        "fandomUrl": "Eight_Great_Cold_Hells"
+        "fandomUrl": "Eight_Great_Cold_Hells",
+        "context": "The Shackling Prison"
       },
       {
         "id": 284,
@@ -3067,7 +3350,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "AKsP2KFYqRY",
         "spotifyId": "4EzUUav4f9ldZAJP4nKNXq",
-        "fandomUrl": "Moonhowl_Stampede"
+        "fandomUrl": "Moonhowl_Stampede",
+        "context": "The Shackling Prison Battle Theme"
       },
       {
         "id": 285,
@@ -3077,7 +3361,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "E8DqhIzniG8",
         "spotifyId": "6hub4G5flWpijMDbuvun5m",
-        "fandomUrl": "Life%27s_Suffering%2C_An_Endless_Tide"
+        "fandomUrl": "Life%27s_Suffering%2C_An_Endless_Tide",
+        "context": "The Shackling Prison Battle Theme"
       },
       {
         "id": 286,
@@ -3087,7 +3372,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "rMzcHehkMZM",
         "spotifyId": "5rIWxPpciJMYMeV418hFhW",
-        "fandomUrl": "Cloudwide_Voyage"
+        "fandomUrl": "Cloudwide_Voyage",
+        "context": "Skysplitter"
       },
       {
         "id": 287,
@@ -3097,7 +3383,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "bM9mCjaF3Ro",
         "spotifyId": "2bhL42nMa0kivYpwbrLoLR",
-        "fandomUrl": "With_My_Heartstring_as_Bow"
+        "fandomUrl": "With_My_Heartstring_as_Bow",
+        "context": "Penacony Trailblaze Continuance: \"Salvation by Starlance"
       },
       {
         "id": 288,
@@ -3107,7 +3394,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "Gb_uCpSX9O0",
         "spotifyId": "6YD6TZuA9nBxES94GtksSs",
-        "fandomUrl": "Welkin%27s_Advent"
+        "fandomUrl": "Welkin%27s_Advent",
+        "context": "\"Luminary Wardance\" Event Battle Theme"
       },
       {
         "id": 289,
@@ -3117,7 +3405,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "itC-KgR0LeE",
         "spotifyId": "3DL6oQvRcr6FLBwt7C74eq",
-        "fandomUrl": "A_Duel_of_Connecting_Blades"
+        "fandomUrl": "A_Duel_of_Connecting_Blades",
+        "context": "\"Luminary Wardance\" Event Battle Theme"
       },
       {
         "id": 290,
@@ -3132,7 +3421,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "KkOlPrXd0LA",
         "spotifyId": "2AAGr3jEfv4IW6LzaClpGQ",
-        "fandomUrl": "Fatal_Clash_of_Swordgraves"
+        "fandomUrl": "Fatal_Clash_of_Swordgraves",
+        "context": "\"Hoolay\" Boss Fight"
       },
       {
         "id": 291,
@@ -3149,7 +3439,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "3gQSBHfk-9U",
         "spotifyId": "0iO3z9CI73MeWdDK4RLNAl",
-        "fandomUrl": "Inner_Beast_Vanquished"
+        "fandomUrl": "Inner_Beast_Vanquished",
+        "context": "\"Shadow of Feixiao\" Boss Fight"
       },
       {
         "id": 292,
@@ -3159,7 +3450,8 @@
         "region": "The Xianzhou Luofu",
         "youtubeId": "NPNcXbsioWQ",
         "spotifyId": "3IaFzRgOOBAZDrjnSeXat2",
-        "fandomUrl": "The_Epitome_of_Young_Morals_%28Soundtrack%29"
+        "fandomUrl": "The_Epitome_of_Young_Morals_%28Soundtrack%29",
+        "context": "\"Luminary Wardance\" Event Battle Theme"
       },
       {
         "id": 293,
@@ -3169,7 +3461,8 @@
         "region": "Penacony",
         "youtubeId": "ccW0TAbgPaE",
         "spotifyId": "5nBIEARWhxHI5Eh9qhZD4J",
-        "fandomUrl": "Color_Your_Dreams"
+        "fandomUrl": "Color_Your_Dreams",
+        "context": "Dreamscape - Penacony Paperfold University College"
       },
       {
         "id": 294,
@@ -3179,7 +3472,8 @@
         "region": "Penacony",
         "youtubeId": "pVln6C687ts",
         "spotifyId": "6EkDlUwE4BcplaMVuwVGb2",
-        "fandomUrl": "Takeoff_at_Dusk"
+        "fandomUrl": "Takeoff_at_Dusk",
+        "context": "Dreamscape - Penacony Paperfold University College > Dean's Office"
       },
       {
         "id": 295,
@@ -3189,7 +3483,8 @@
         "region": "Herta Space Station",
         "youtubeId": "3ePhZJTcgQQ",
         "spotifyId": "65NpqKVEVal4oqnrmB25Jk",
-        "fandomUrl": "Emperors_Reverie"
+        "fandomUrl": "Emperors_Reverie",
+        "context": "Simulated Universe: Unknowable Domain (menu)"
       },
       {
         "id": 296,
@@ -3199,7 +3494,8 @@
         "region": "Penacony",
         "youtubeId": "TYA8Il2KK1U",
         "spotifyId": "3NSSnKJ9hsIEhNkaCXFpZW",
-        "fandomUrl": "Dream_Drifting"
+        "fandomUrl": "Dream_Drifting",
+        "context": "Penacony Trailblaze Continuance: \"Asdanian Rhapsody\""
       },
       {
         "id": 297,
@@ -3215,7 +3511,8 @@
         "region": "Penacony",
         "youtubeId": "vZXSkY35JL0",
         "spotifyId": "3y7uWlGDy8mTWd1BChSeQc",
-        "fandomUrl": "Dance_in_a_Deep_Dream"
+        "fandomUrl": "Dance_in_a_Deep_Dream",
+        "context": "\"Sound Hunt Ninjutsu Inscription\" Event"
       },
       {
         "id": 298,
@@ -3231,7 +3528,8 @@
         "region": "Penacony",
         "youtubeId": "bH6hXMXxnFI",
         "spotifyId": "3iWeyCW3ATdYT6ICMHk4wd",
-        "fandomUrl": "Floating_Tempo"
+        "fandomUrl": "Floating_Tempo",
+        "context": "\"Sound Hunt Ninjutsu Inscription\" Event"
       },
       {
         "id": 299,
@@ -3246,7 +3544,8 @@
         "region": "Penacony",
         "youtubeId": "gDb1l1ucMq8",
         "spotifyId": "6f6WAscQn8xNrBhc7Yy4uD",
-        "fandomUrl": "Up_to_This"
+        "fandomUrl": "Up_to_This",
+        "context": "\"Sound Hunt Ninjutsu Inscription\" Event (hip-hop rhythms)"
       },
       {
         "id": 300,
@@ -3262,7 +3561,8 @@
         "region": "Penacony",
         "youtubeId": "07O57t6vzdU",
         "spotifyId": "5jtzruUCNzxMgaQLNzGiqK",
-        "fandomUrl": "Melody_of_Dazzling_Light"
+        "fandomUrl": "Melody_of_Dazzling_Light",
+        "context": "\"Sound Hunt Ninjutsu Inscription\" Event"
       },
       {
         "id": 301,
@@ -3272,7 +3572,8 @@
         "region": "Penacony",
         "youtubeId": "h44X3DYNn0A",
         "spotifyId": "3Ouwgp4Yl7zSLEJfIlvZXD",
-        "fandomUrl": "The_Slumbernana_Song_-_Instrumental"
+        "fandomUrl": "The_Slumbernana_Song_-_Instrumental",
+        "context": "Instrumental version of \"The Slumbernana Song\""
       }
     ]
   },
@@ -3287,7 +3588,8 @@
         "region": "Amphoreus",
         "youtubeId": "6KBhZCKZ-R4",
         "spotifyId": "4fCDFyZWf3N6D5y2vQgPT8",
-        "fandomUrl": "Nameless_Faces_%28English_Ver.%29"
+        "fandomUrl": "Nameless_Faces_%28English_Ver.%29",
+        "context": "OP: Nameless Faces (Version 3.0 Music Video)"
       },
       {
         "id": 303,
@@ -3297,7 +3599,8 @@
         "region": "Amphoreus",
         "youtubeId": "kdAVG8dE5qc",
         "spotifyId": "2jKMvp96oL1M7jPX9aHo9D",
-        "fandomUrl": "Nameless_Faces_%28Chinese_Ver.%29"
+        "fandomUrl": "Nameless_Faces_%28Chinese_Ver.%29",
+        "context": "Chinese version of \"Nameless Faces\""
       },
       {
         "id": 304,
@@ -3307,7 +3610,8 @@
         "region": "Amphoreus",
         "youtubeId": "Fkf6a9raDJI",
         "spotifyId": "0hESUxvDbleuquiouuwNnM",
-        "fandomUrl": "Nameless_Faces_%28Instrumental%29"
+        "fandomUrl": "Nameless_Faces_%28Instrumental%29",
+        "context": "Instrumental version of \"Nameless Faces\""
       },
       {
         "id": 305,
@@ -3317,7 +3621,8 @@
         "region": "Amphoreus",
         "youtubeId": "1PdTnDca5fk",
         "spotifyId": "3HFZXtY1dySOn2XN9mz0Cj",
-        "fandomUrl": "Nameless_Faces_%28English_Harmonic_Accompaniment%29"
+        "fandomUrl": "Nameless_Faces_%28English_Harmonic_Accompaniment%29",
+        "context": "\"Nameless Faces\"  version with english harmonic accompaniment"
       },
       {
         "id": 306,
@@ -3327,7 +3632,8 @@
         "region": "Amphoreus",
         "youtubeId": "1PdTnDca5fk",
         "spotifyId": "0a5eBiyeYyMrfuZXPTwI5D",
-        "fandomUrl": "Nameless_Faces_%28Chinese_Harmonic_Accompaniment%29"
+        "fandomUrl": "Nameless_Faces_%28Chinese_Harmonic_Accompaniment%29",
+        "context": "\"Nameless Faces\"  version with chienese harmonic accompaniment"
       }
     ]
   }
