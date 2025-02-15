@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-02-15",
+    changes: ['Added "Azure Lantern, Jade Inkstone" album (Genshin Impact)'],
+  },
+  {
     date: "2025-02-01",
     changes: ["Added context for Honkai: Star Rail songs (thanks to Lugunium)"],
   },

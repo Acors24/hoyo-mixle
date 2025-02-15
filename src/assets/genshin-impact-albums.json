@@ -1914,7 +1914,7 @@
       },
       {
         "id": 152,
-        "title": "Ouvert\u00fcre der ewigen Nacht",
+        "title": "Ouvertüre der ewigen Nacht",
         "playedAt": ["Media"],
         "type": "Character",
         "region": "Mondstadt",
@@ -3319,7 +3319,7 @@
         "youtubeId": "SQv-VR3JDmY",
         "spotifyId": "57F1RBhhTM2mDG7sIRRWSS",
         "fandomUrl": "Dream_of_Homeland",
-        "context": "Narukami Island - Inazuma City > Komore Teahouse / Ritou (night)"
+        "context": "Narukami Island - Inazuma City - Komore Teahouse / Ritou (night)"
       },
       {
         "id": 272,
@@ -10648,7 +10648,7 @@
         "youtubeId": "ENy9JiEaixM",
         "spotifyId": "59XyZD7w72WDvRhiOqNbio",
         "fandomUrl": "La_cite_en_la_mer",
-        "context": "Institute of Natural Philosophy / Tower of Ipsissimus (underwater, after sinking)"
+        "context": "Institute of Natural Philosoph / Tower of Ipsissimus (underwater, after sinking)"
       },
       {
         "id": 883,
@@ -10991,7 +10991,7 @@
           "Event Gameplay",
           "Media"
         ],
-        "type": "Combat",
+        "type": "Quest",
         "region": "Fontaine",
         "youtubeId": "MCNFSzVHrxA",
         "spotifyId": "1ES8b4IBiOXWwUmk66mCYE",
@@ -11002,7 +11002,7 @@
         "id": 912,
         "title": "Virelai des marees",
         "playedAt": ["Open-World Combat", "Domains", "Event Gameplay", "Media"],
-        "type": "Combat",
+        "type": "Quest",
         "region": "Fontaine",
         "youtubeId": "khHAaErEqTQ",
         "spotifyId": "71pnZOhidnDBzgODJIEFZ3",
@@ -11484,7 +11484,7 @@
         "id": 954,
         "title": "Ordeals, Rituals, Laws",
         "playedAt": ["Open-World Combat"],
-        "type": "Combat",
+        "type": "Open-World",
         "region": "Fontaine",
         "youtubeId": "rVs3h9HYUV4",
         "spotifyId": "652uTwuZyUcfSRqNWKaWAn",
@@ -14142,7 +14142,7 @@
         "region": "N/A",
         "youtubeId": "bCoTO7q4_EQ",
         "spotifyId": "3mnilpIay8FSbv2dl4kLwB",
-        "fandomUrl": "Passing_Memories_-_Instrumental%3A_Female_Key",
+        "fandomUrl": "Passing_Memories_-_Instrumental:_Female_Key",
         "context": "Instrumental version of \"Passing Memories\" with female key"
       },
       {
@@ -16133,6 +16133,66 @@
         "spotifyId": "2TwMP5vWbaJVzAwK2Zaz5m",
         "fandomUrl": "Interstellar_Drift",
         "context": "Citlali Character Demo"
+      }
+    ]
+  },
+  {
+    "title": "Azure Lantern, Jade Inkstone",
+    "songs": [
+      {
+        "id": 1360,
+        "title": "The Rime of the Ancient Bargeman (III)",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "OsHnMFkwKTg",
+        "spotifyId": "3zrOLtWbyZumKEFjtcWHMX",
+        "fandomUrl": "The_Rime_of_the_Ancient_Bargeman_%28III%29",
+        "context": "\"The Rime of the Ancient Bargeman\" Genshin Impact Special EP Video"
+      },
+      {
+        "id": 1361,
+        "title": "The Sanctification of Tao Dou",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "lrFqGfdor0A",
+        "spotifyId": "3a8CuvPetKMXjWoKEyanvC",
+        "fandomUrl": "The_Sanctification_of_Tao_Dou",
+        "context": "\"Springtime Charms\" Event (cutscene)"
+      },
+      {
+        "id": 1362,
+        "title": "Border of Life",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "YPWq4EGu4fQ",
+        "spotifyId": "3SzPLrry4LIIgqKFnoCEy9",
+        "fandomUrl": "Border_of_Life",
+        "context": "\"Springtime Charms\" Event (cutscene)"
+      },
+      {
+        "id": 1363,
+        "title": "As the Heart of Jade",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "qD3e4DUqAsc",
+        "spotifyId": "0q8PrIISbPlUFJcyeflA2j",
+        "fandomUrl": "As_the_Heart_of_Jade",
+        "context": "\"Springtime Charms\" Event (cutscene)"
+      },
+      {
+        "id": 1364,
+        "title": "The Rime of the Ancient Bargeman (III) - Instrumental",
+        "playedAt": [],
+        "type": "Special",
+        "region": "Liyue",
+        "youtubeId": "67pOe8KfvdE",
+        "spotifyId": "6KnOLpNQVQp5B2jPnlH5hm",
+        "fandomUrl": "The_Rime_of_the_Ancient_Bargeman_(III)_-_Instrumental",
+        "context": "Instrumental version of \"The Rime of the Ancient Bargeman (III)\""
       }
     ]
   }
