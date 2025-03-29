@@ -11,7 +11,7 @@ export type Song = {
   region: string;
   youtubeId: string;
   spotifyId: string;
-  fandomUrl: string;
+  fandomUrl?: string;
   context?: string;
 };
 

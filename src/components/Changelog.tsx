@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-03-29",
+    changes: [
+      'Added "Allegory of the Cave (Part 1)" album (Honkai: Star Rail) (missing some Fandom links)',
+    ],
+  },
+  {
     date: "2025-02-15",
     changes: ['Added "Azure Lantern, Jade Inkstone" album (Genshin Impact)'],
   },

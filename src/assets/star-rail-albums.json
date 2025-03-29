@@ -3636,5 +3636,345 @@
         "context": "\"Nameless Faces\"  version with chienese harmonic accompaniment"
       }
     ]
+  },
+  {
+    "title": "Allegory of the Cave (Part 1)",
+    "songs": [
+      {
+        "id": 307,
+        "title": "Anthem of Eras",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "f_53L9xa9GE",
+        "spotifyId": "6JqhhgbMxvxJ0So5l2lcLS",
+        "fandomUrl": "Anthem_of_Eras",
+        "context": "Trailblaze Mission Chapter IV: \"Distant Travelers, Listen to this World's Prayer\" (dialogue scene)"
+      },
+      {
+        "id": 308,
+        "title": "Under the Seat of Dawn",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "3wTAUlAwBOQ",
+        "spotifyId": "69CeLZjkHj88OUwupdMnON",
+        "fandomUrl": "Under_the_Seat_of_Dawn",
+        "context": "\"Eternal Holy City\" Okhema - Kephale Plaza / Path of Parting"
+      },
+      {
+        "id": 309,
+        "title": "Battle Hymn of the Golden Blood",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Domains"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "ZXMdtJoxK0I",
+        "spotifyId": "1xg7PfZe6nKf7BLvAw0VtF",
+        "fandomUrl": "Battle_Hymn_of_the_Golden_Blood",
+        "context": "Trailblaze Mission Chapter IV: \"Silver Chariot, Away to that Blackened Land\" (during the attack on Okhema)"
+      },
+      {
+        "id": 310,
+        "title": "Promenade of Tides",
+        "playedAt": ["Locations", "Phonograph Records", "Media"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "xM8ExwSGzss",
+        "spotifyId": "2DN8LYOjl1bIXGPytlNr04",
+        "fandomUrl": "Promenade_of_Tides",
+        "context": "\"Eternal Holy City\" Okhema - Overflowing Bath"
+      },
+      {
+        "id": 311,
+        "title": "Living Flame",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "Bha_jjxDLQk",
+        "spotifyId": "0dks1RdJex4BPCCABxY6zl",
+        "fandomUrl": "Living_Flame",
+        "context": "\"Eternal Holy City\" Okhema Battle Theme"
+      },
+      {
+        "id": 312,
+        "title": "Theomakhia",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "jgx3OgpyDZQ",
+        "spotifyId": "3pclbKqen3V0IxZ65CYdv8",
+        "fandomUrl": "Theomakhia",
+        "context": "\"Eternal Holy City\" Okhema Elite Battle Theme"
+      },
+      {
+        "id": 313,
+        "title": "Plantlife Euthys",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "_ZiEjcu2_8U",
+        "spotifyId": "6m9vzqOrfBQFBb6BVX9qTO",
+        "fandomUrl": "Plantlife_Euthys",
+        "context": "\"Eternal Holy City\" Okhema - Garden of Life"
+      },
+      {
+        "id": 314,
+        "title": "Between Whims",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "tMKmxYl2rr8",
+        "spotifyId": "5TFj7qUVJAA5gwzJ2vTdo7",
+        "fandomUrl": "Between_Whims",
+        "context": "\"Eternal Holy City\" Okhema - Marmoreal Market"
+      },
+      {
+        "id": 315,
+        "title": "The Pastoral of the Lands",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "ASktE8CfoPA",
+        "spotifyId": "0FoKDbM79Pa55KkeYJcTZx",
+        "fandomUrl": "The_Pastoral_of_the_Lands",
+        "context": "\"Eternal Holy City\" Okhema - Dromas Workshop"
+      },
+      {
+        "id": 316,
+        "title": "Wandering Rhymes",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "twXeJgMCcwU",
+        "spotifyId": "1mmhwO236vUqgCGlrB4dTN",
+        "fandomUrl": "Wandering_Rhymes",
+        "context": "\"Eternal Holy City\" Okhema (near Lipos)"
+      },
+      {
+        "id": 317,
+        "title": "Wheel of Fate",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "0sAGk-oQsmo",
+        "spotifyId": "6Agb2o0cfZ8drcR5QU0kg6",
+        "fandomUrl": "Wheel_of_Fate",
+        "context": "\"Abyss of Fate\" Janusopolis"
+      },
+      {
+        "id": 318,
+        "title": "In Search of Prophecy",
+        "playedAt": ["Locations", "Event Gameplay"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "lLDoiiOwdWo",
+        "spotifyId": "031RlGtb57cw9Q9Fytb77z",
+        "fandomUrl": "In_Search_of_Prophecy",
+        "context": "\"Abyss of Fate\" Janusopolis (in the past, using Tome of Miracles)"
+      },
+      {
+        "id": 319,
+        "title": "Echoes of the Divine",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "A4j4POh3LF0",
+        "spotifyId": "7CuBwuZbZb2ipVC66AaPd7",
+        "fandomUrl": "Echoes_of_the_Divine",
+        "context": "\"Abyss of Fate\" Janusopolis - Theophany Chamber"
+      },
+      {
+        "id": 320,
+        "title": "Trampled Snake",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "R6dHlMFjUVY",
+        "spotifyId": "0lms4RyDFvQq699g5eycOy",
+        "fandomUrl": "Trampled_Snake",
+        "context": "Amphoreus Elite Battle Theme"
+      },
+      {
+        "id": 321,
+        "title": "Grapevine and Mountain Goat",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "7XTYUWcdp-I",
+        "spotifyId": "40dIgKvzkUFRIG1bnRmlOa",
+        "fandomUrl": "Grapevine_and_Mountain_Goat",
+        "context": "Amphoreus Battle Theme"
+      },
+      {
+        "id": 322,
+        "title": "Whisper of Prophecy",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "Ebrn_9EcVNc",
+        "spotifyId": "78nuEB3JHtCc06r5OcHJyc",
+        "context": "Trailblaze Mission Chapter IV: \"Silver Chariot, Away to that Blackened Land\" (during Tribbie's ballad)"
+      },
+      {
+        "id": 323,
+        "title": "As Written By Whom",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "cMjt6ijYx7A",
+        "spotifyId": "79oAyGpdWUaOnSBsz1djcX",
+        "context": "\"As I've Written\" Journal Theme"
+      },
+      {
+        "id": 324,
+        "title": "Prayer for Pathlessness",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "lk1rRQiUjcY",
+        "spotifyId": "1pY2NwXHxaRRpdNcNcs2AK",
+        "context": "Trailblaze Mission Chapter IV: \"Night Stars, Accompany My Slumber\" (Aglaea's interrogation)"
+      },
+      {
+        "id": 325,
+        "title": "Whispers of Day",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "9_j_9kLXnxc",
+        "spotifyId": "0nl9qIY9FZCyoXamzrIahO",
+        "context": "Trailblaze Mission Chapter IV: \"Hero, Bear Thy Coreflame\" (Aedes Elysiae flashback)"
+      },
+      {
+        "id": 326,
+        "title": "Within the Veil",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "zRgoLVDCmmc",
+        "spotifyId": "3U6k8Vj1hmOOgwYvvMxpbj",
+        "context": "\"Eternal Holy City\" Okhema (near Misia)"
+      },
+      {
+        "id": 327,
+        "title": "Fading Prophecy",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "RTaasXA_vJE",
+        "spotifyId": "53YhXcSkHS4rScoPgQo0Rz",
+        "context": "Trailblaze Mission Chapter IV: \"Silver Chariot, Away to that Blackened Land\" (Black Swan reveals Amphoreus)"
+      },
+      {
+        "id": 328,
+        "title": "Weaver of Memories",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "gRMDdsT1Me0",
+        "spotifyId": "59DIOtwiRVcoeoLqYwC0IQ",
+        "context": "Trailblaze Mission Chapter IV: \"Night Veil, Shroud the Silent Past\" (during Trailblazer's memory)"
+      },
+      {
+        "id": 329,
+        "title": "Silent Strings",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "OkdU-9JXDzA",
+        "spotifyId": "7LQNy66S1FctK9spAavYcQ",
+        "context": "\"Golden Scapegoat\" Puzzle Theme"
+      },
+      {
+        "id": 330,
+        "title": "Origin and Finale",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "aW4wf0AjPxw",
+        "spotifyId": "6vlA7vkjIKMQaqCvtVNBPF",
+        "context": "Vortex of Genesis"
+      },
+      {
+        "id": 331,
+        "title": "Where The Inscription Was",
+        "playedAt": ["Missions"],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "PYSnB0Q15xo",
+        "spotifyId": "6x8z3qAPn2iOGh2QLbGe1x",
+        "context": "Trailblaze Mission Chapter IV: \"Kremnos, Cleanse Thy Rusted Blood (II)\" (after getting the Seed of Fire)"
+      },
+      {
+        "id": 332,
+        "title": "Undying Glory",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "0qc7zw7Q2js",
+        "spotifyId": "4Nq9ugqYVvkfcKYzr1vk2d",
+        "context": "\"Bloodbathed Battlefront\" Castrum Kremnos"
+      },
+      {
+        "id": 333,
+        "title": "The Eternal Campflame",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "ccN4sM9TGzg",
+        "spotifyId": "1QkFcqSgKkQn8VoJQ1CXKJ",
+        "context": "\"Bloodbathed Battlefront\" Castrum Kremnos (indoor)"
+      },
+      {
+        "id": 334,
+        "title": "Beacon Smoke Residue",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "yeQRsupzhPg",
+        "spotifyId": "3GsXIW13o1J9DKeKFGzYyb",
+        "context": "\"Strife Ruins\" Castrum Kremnos"
+      },
+      {
+        "id": 335,
+        "title": "Axe of Evernight",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "BuRj_tFeGE8",
+        "spotifyId": "5EybbnxPQVDR1NIw2koC19",
+        "context": "\"Strife Ruins\" Castrum Kremnos (indoor)"
+      },
+      {
+        "id": 336,
+        "title": "To Gorgo",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "7NHnkgPzqtk",
+        "spotifyId": "33trzsOKpNKQKQXKKCLVom",
+        "context": "\"Strife Ruins\" Castrum Kremnos - Kremnos Area"
+      },
+      {
+        "id": 337,
+        "title": "To All Things Strifeful",
+        "playedAt": ["Enemies"],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "rzAnLhhspF8",
+        "spotifyId": "0V0BUwBtJKQGUVUCe6Me3G",
+        "context": "\"Lance of Fury\" Nikador Boss Fight (second encounter)"
+      },
+      {
+        "id": 338,
+        "title": "King Father of All",
+        "playedAt": ["Enemies"],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "yCnyp5-X-2A",
+        "spotifyId": "16S2nBNkbAJILUx7XBfXP1",
+        "context": "\"Lance of Fury\" Nikador Boss Fight (first encounter)"
+      }
+    ]
   }
 ]

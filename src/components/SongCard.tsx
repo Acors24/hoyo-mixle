@@ -120,7 +120,9 @@ function SpotifyButton({ spotifyId }: { spotifyId: string }) {
   );
 }
 
-function FandomButton({ game, fandomId }: { game: Game; fandomId: string }) {
+function FandomButton({ game, fandomId }: { game: Game; fandomId?: string }) {
+  if (!fandomId) return null;
+
   const baseUrl = getGameBaseWiki(game);
 
   return (
