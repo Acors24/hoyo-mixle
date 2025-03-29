@@ -12,9 +12,7 @@ export default function IconButton({
   return (
     <button
       onClick={onClick}
-      className={`p-2 bg-slate-700 bg-opacity-50 hover:bg-slate-600 hover:bg-opacity-50 active:bg-slate-800 active:bg-opacity-50 duration-100 rounded-full ${
-        className ?? ""
-      }`}
+      className={`icon-button ${className ?? ""}`}
       disabled={disabled}
     >
       {icon}

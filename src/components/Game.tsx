@@ -1,9 +1,9 @@
 import { useState } from "react";
-import GuessIndicatorBar from "./GuessIndicatorBar/GuessIndicatorBar";
+import GuessIndicatorBar from "./GuessIndicatorBar";
 import { Album, Game as hoyoGame, Song } from "../types";
-import GuessTable from "./GuessTable/GuessTable";
+import GuessTable from "./GuessTable";
 import SamplePlayer from "./SamplePlayer";
-import SongFilter from "./SongFilter/SongFilter";
+import SongFilter from "./SongFilter";
 import random from "random";
 import SongCard from "./SongCard";
 import { getTodaysSong, getYouTubeThumbnail } from "../utils";
@@ -11,6 +11,7 @@ import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
 import * as Switch from "@radix-ui/react-switch";
+import Separator from "./Separator";
 
 function idsToSongs(ids: number[], albums: Album[]): Song[] {
   return ids.map(
@@ -126,42 +127,47 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
   };
 
   const stats = (
-    <div className="flex items-center justify-center gap-2 select-none flex-wrap">
+    <div
+      id="stats"
+      className="flex items-center justify-center gap-x-6 gap-y-4 select-none flex-wrap"
+    >
       <GuessIndicatorBar
         chosenSong={chosenSong}
         guesses={guesses}
         maxGuesses={maxAttempts}
       />
-      <div className="flex gap-1 *:bg-slate-800 *:bg-opacity-50 *:px-4 *:py-2">
-        <span className="rounded-l-full">
-          Streak:{" "}
+      <div id="streaks">
+        <span id="streak-label">Streak: </span>
+        <span id="streak-value">
           {
             state.gameData[currentGame][endlessMode ? "endless" : "daily"]
               .streak
           }
         </span>
-        <span className="rounded-r-full">
-          Highest:{" "}
+        <Separator />
+        <span id="highest-streak-label">Highest: </span>
+        <span id="highest-streak-value">
           {
             state.gameData[currentGame][endlessMode ? "endless" : "daily"]
               .highestStreak
           }
         </span>
       </div>
-      <label className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2 flex items-center gap-2">
+      <label id="endless-label">
         Endless mode
         <Switch.Root
           checked={endlessMode}
           onCheckedChange={handleEndlessModeChange}
           disabled={endlessToggleDisabled}
-          className="SwitchRoot"
+          className="switch-root"
         >
-          <Switch.Thumb className="SwitchThumb" />
+          <Switch.Thumb className="switch-thumb" />
         </Switch.Root>
       </label>
       {gameState !== "playing" && endlessMode && (
         <button
-          className="rounded-full bg-slate-800 bg-opacity-50 px-4 py-2"
+          id="next-button"
+          className="button"
           onClick={() => {
             const newSong = getRandomSong();
             dispatch({
@@ -205,10 +211,11 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
         />
       </div>
       <div
-        className="overflow-auto"
+        className="overflow-auto select-none"
         style={{ scrollbarGutter: "stable both-sides" }}
+        data-game={currentGame}
       >
-        <div className="max-w-[1200px] mx-auto p-2">
+        <div className="max-w-[1200px] mx-auto px-2 pb-2">
           <div className="flex flex-col sm:flex-row sm:*:flex-1 gap-2">
             <div className="flex flex-col items-center justify-center">
               {gameState !== "playing" && (
@@ -220,12 +227,14 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
                   game={currentGame}
                 />
               )}
-              <SamplePlayer
-                song={chosenSong}
-                endlessMode={endlessMode}
-                gameState={gameState}
-              />
-              {stats}
+              <div id="controls">
+                <SamplePlayer
+                  song={chosenSong}
+                  endlessMode={endlessMode}
+                  gameState={gameState}
+                />
+                {stats}
+              </div>
             </div>
             {gameState === "playing" && (
               <SongFilter
@@ -236,7 +245,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
               />
             )}
           </div>
-          <div className="overflow-auto mt-2">
+          <div id="guess-table-container">
             <GuessTable
               chosenSong={chosenSong}
               guesses={guesses}

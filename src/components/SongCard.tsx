@@ -2,6 +2,8 @@ import { FaSpotify, FaYoutube } from "react-icons/fa6";
 import { Album, Game, Song } from "../types";
 import { SiFandom } from "react-icons/si";
 import { contextToList, getGameBaseWiki, getYouTubeThumbnail } from "../utils";
+import Separator from "./Separator";
+import { Vibrant } from "node-vibrant/browser";
 
 export default function SongCard({
   album,
@@ -14,26 +16,35 @@ export default function SongCard({
   game: Game;
   className?: string;
 }) {
+  const thumbnailSrc = getYouTubeThumbnail(song.youtubeId);
+  Vibrant.from(thumbnailSrc)
+    .getPalette()
+    .then((palette) => {
+      for (const swatch in palette) {
+        if (palette[swatch]) {
+          const color = palette[swatch].hex;
+          document.documentElement.style.setProperty(
+            `--${swatch}-color`,
+            color
+          );
+        }
+      }
+    });
   return (
-    <div
-      className={`flex flex-col sm:flex-row gap-4 bg-slate-800 bg-opacity-50 rounded-xl p-4 sm:w-auto ${
-        className ?? ""
-      }`}
-    >
-      <Thumbnail youtubeId={song.youtubeId} className="sm:w-80" />
-      <div className="flex flex-col">
-        <h2 className="text-2xl font-bold">{song.title}</h2>
-        <h3>{album.title}</h3>
-        <h4 className="text-sm text-slate-200">
-          <span className="pr-4 border-r-2 border-r-[#fff4] mr-4">
-            {song.type}
-          </span>
-          <span>{song.region}</span>
+    <div id="song-card" className={className ?? ""}>
+      <Thumbnail youtubeId={song.youtubeId} />
+      <div id="song-details">
+        <h2 className="card-title">{song.title}</h2>
+        <h3 className="card-album">{album.title}</h3>
+        <h4 className="card-type-region">
+          <span id="card-type">{song.type}</span>
+          <Separator />
+          <span id="card-region">{song.region}</span>
         </h4>
-        <ul className="text-sm text-slate-200 list-disc pl-4 my-4">
+        <ul className="usage-list">
           {song.context &&
             contextToList(song.context).map((item) => (
-              <li className="text-amber-100">{item.replace(" > ", " - ")}</li>
+              <li className="context">{item.replace(" > ", " - ")}</li>
             ))}
           {song.playedAt.map((moment, index) => (
             <Moment key={index} moment={moment} />
@@ -55,7 +66,7 @@ function Moment({ moment }: { moment: string | string[] }) {
   }
 
   return (
-    <ul className="list-disc pl-4">
+    <ul>
       {moment.map((subMoment, index) => (
         <li key={index}>{subMoment}</li>
       ))}
@@ -71,11 +82,14 @@ function Thumbnail({
   className?: string;
 }) {
   return (
-    <img
-      src={getYouTubeThumbnail(youtubeId)}
-      alt=""
-      className={`object-cover rounded pointer-events-none select-none aspect-square shadow ${className ?? ""}`}
-    />
+    <div id="thumbnail-container">
+      <img
+        src={getYouTubeThumbnail(youtubeId)}
+        alt=""
+        id="thumbnail"
+        className={className ?? ""}
+      />
+    </div>
   );
 }
 
@@ -84,16 +98,14 @@ function IconLink({
   icon,
   className,
 }: {
-  href: string;
   icon: React.ReactNode;
-  className?: string;
-}) {
+} & React.AnchorHTMLAttributes<HTMLAnchorElement>) {
   return (
     <a
       href={href}
       target="_blank"
       rel="noreferrer"
-      className={`p-2 inline-flex rounded-full shadow ${className}`}
+      className={`p-2 inline-flex rounded-full shadow ${className} icon-link`}
     >
       {icon}
     </a>
@@ -105,7 +117,7 @@ function YouTubeButton({ youtubeId }: { youtubeId: string }) {
     <IconLink
       href={`https://www.youtube.com/watch?v=${youtubeId}`}
       icon={<FaYoutube />}
-      className="bg-[#FF0000] text-white"
+      className="bg-[#FF0000] text-white youtube-button"
     />
   );
 }
@@ -115,7 +127,7 @@ function SpotifyButton({ spotifyId }: { spotifyId: string }) {
     <IconLink
       href={`https://open.spotify.com/track/${spotifyId}`}
       icon={<FaSpotify />}
-      className="bg-[#1ED760] text-white"
+      className="bg-[#1ED760] text-white spotify-button"
     />
   );
 }
@@ -129,7 +141,7 @@ function FandomButton({ game, fandomId }: { game: Game; fandomId?: string }) {
     <IconLink
       href={`${baseUrl}${fandomId}`}
       icon={<SiFandom />}
-      className="bg-[#FA005A] text-white"
+      className="bg-[#FA005A] text-white fandom-button"
     />
   );
 }

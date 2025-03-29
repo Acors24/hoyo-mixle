@@ -114,12 +114,10 @@ export default function SamplePlayer({
         onStateChange={handleStateChange}
         className="hidden"
       />
-      {starts.length === 0 && (
-        <CgSpinner className="my-2 w-8 h-8 animate-spin" />
-      )}
-      {starts.length !== 0 && gameState === "playing" && (
-        <>
-          <div className="flex items-center gap-4 m-2">
+      <div id="sample-player">
+        {starts.length === 0 && <CgSpinner className="w-8 h-8 animate-spin" />}
+        {starts.length !== 0 && gameState === "playing" && (
+          <>
             <VolumeControl initialVolume={volume} onVolumeChange={setVolume} />
             <div className="flex flex-col gap-4">
               {starts.map((startAt, index) => (
@@ -135,17 +133,17 @@ export default function SamplePlayer({
                 />
               ))}
             </div>
-          </div>
-        </>
-      )}
-      {starts.length !== 0 && gameState !== "playing" && (
-        <TrackBar
-          duration={durationRef.current ?? 1}
-          starts={starts}
-          playerRef={playerRef}
-          playerState={playerState}
-        />
-      )}
+          </>
+        )}
+        {starts.length !== 0 && gameState !== "playing" && (
+          <TrackBar
+            duration={durationRef.current ?? 1}
+            starts={starts}
+            playerRef={playerRef}
+            playerState={playerState}
+          />
+        )}
+      </div>
     </>
   );
 }

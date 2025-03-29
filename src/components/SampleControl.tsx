@@ -50,18 +50,20 @@ export default function SampleControl({
   const disabled = state === "loading";
 
   return (
-    <span
-      className={`w-max flex items-center bg-slate-800 bg-opacity-50 rounded-full relative before:absolute before:bg-gradient-to-r before:from-transparent before:to-[#fff3] before:rounded-full before:left-0 before:top-0 before:bottom-0 before:right-full ${
-        playerState === 1 && id === playingId ? "before:animate-fill" : ""
-      }`}
-    >
+    <span className="sample-control">
       <IconButton
         icon={icon}
         onClick={handleButtonClick}
         className="z-10"
         disabled={disabled}
       />
-      <span className="px-10 select-none">{label}</span>
+      <span className="progress-bar-container">
+        <span className="sample-label">{label}</span>
+        <span
+          className="progress-bar"
+          data-playing={playerState === 1 && id === playingId}
+        ></span>
+      </span>
     </span>
   );
 }

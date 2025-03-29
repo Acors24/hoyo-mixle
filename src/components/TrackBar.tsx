@@ -92,31 +92,25 @@ export default function TrackBar({
   const disabled = state === "loading";
 
   return (
-    <div className="w-4/5 bg-slate-800 bg-opacity-50 rounded-full m-2 flex items-center select-none">
+    <div id="trackbar-container">
       <IconButton icon={icon} onClick={handleButtonClick} disabled={disabled} />
-      <span
-        ref={trackBarRef}
-        onClick={handleTrackBarClick}
-        className="w-full h-5 py-2 mx-4 cursor-pointer"
-      >
-        <div className="bg-white bg-opacity-20 relative h-full rounded-full overflow-hidden">
+      <span ref={trackBarRef} onClick={handleTrackBarClick} id="trackbar-track">
+        <span
+          id="trackbar-range"
+          style={{
+            width: `${(time / duration) * 100}%`,
+          }}
+        ></span>
+        {starts.map((start) => (
           <span
-            className="absolute bg-white bg-opacity-50 left-0 h-full duration-100 ease-linear"
+            key={start}
+            className="trackbar-sample"
             style={{
-              width: `${(time / duration) * 100}%`,
+              left: `${(start / duration) * 100}%`,
+              width: `${(3 / duration) * 100}%`,
             }}
           ></span>
-          {starts.map((start) => (
-            <span
-              key={start}
-              className="bg-white bg-opacity-70 absolute h-full top-0"
-              style={{
-                left: `${(start / duration) * 100}%`,
-                width: `${(3 / duration) * 100}%`,
-              }}
-            ></span>
-          ))}
-        </div>
+        ))}
       </span>
     </div>
   );

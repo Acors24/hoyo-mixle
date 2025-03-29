@@ -10,77 +10,39 @@ body {
   @apply h-screen bg-slate-900 text-white;
 }
 
-.SwitchRoot {
-  @apply bg-slate-500 bg-opacity-50 border-transparent border-2;
-  width: 2em;
-  height: 1em;
-  border-radius: 9999px;
-  box-sizing: content-box;
-
-  .SwitchThumb {
-    background-color: white;
-    display: block;
-    width: 1em;
-    height: 1em;
-    border-radius: 9999px;
-    transition-duration: 0.2s;
-
-    &[data-state="checked"] {
-      transform: translateX(1em);
-    }
-
-    &[data-disabled] {
-      @apply bg-slate-400;
-    }
+@keyframes slideDown {
+  from {
+    height: 0;
   }
-
-  &[data-state="checked"] {
-    @apply bg-slate-400;
-  }
-
-  &[data-disabled] {
-    @apply bg-slate-600;
+  to {
+    height: var(--radix-accordion-content-height);
   }
 }
 
-.SliderRoot {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  user-select: none;
-  touch-action: none;
-  height: 100px;
-}
-
-.SliderTrack {
-  @apply bg-slate-500 bg-opacity-50;
-  position: relative;
-  flex-grow: 1;
-  border-radius: 9999px;
-  width: 4px;
-}
-
-.SliderRange {
-  position: absolute;
-  background-color: white;
-  border-radius: 9999px;
-  width: 100%;
-
-  &:hover {
-    @apply bg-slate-400;
+@keyframes slideUp {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
   }
 }
 
-.SliderThumb {
-  display: block;
-  width: 15px;
-  height: 15px;
-  background-color: white;
-  box-shadow: 0 2px 10px rgb(0 0 0 / 0.5);
-  border-radius: 10px;
+@font-face {
+  font-family: "HYWenHei 85W";
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local("HYWenHei 85W"),
+    url("./assets/fonts/zhcn.woff") format("woff");
+}
 
-  &:hover {
-    @apply bg-slate-400;
-  }
+@font-face {
+  font-family: "DINPro-Medium";
+  src: url("./assets/fonts/DINPro-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "inpin_hongmengti";
+  src: url("./assets/fonts/inpin_hongmengti.ttf") format("truetype");
 }

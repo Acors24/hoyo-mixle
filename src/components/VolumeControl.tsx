@@ -30,17 +30,17 @@ export default function VolumeControl({
   };
 
   return (
-    <div className="flex flex-col items-center gap-2 bg-slate-800 bg-opacity-50 rounded-full h-full">
+    <div id="volume-control">
       <Slider.Root
-        className="SliderRoot mt-4"
+        className="slider-root"
         value={[volume]}
         onValueChange={(vs) => handleVolumeChange(vs[0])}
         orientation="vertical"
       >
-        <Slider.Track className="SliderTrack">
-          <Slider.Range className="SliderRange" />
+        <Slider.Track className="slider-track">
+          <Slider.Range className="slider-range" />
         </Slider.Track>
-        <Slider.Thumb className="SliderThumb" />
+        <Slider.Thumb className="slider-thumb" />
       </Slider.Root>
       <IconButton
         icon={
