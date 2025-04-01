@@ -14,6 +14,14 @@ function getRng(): Random {
 }
 
 function getTodaysSong(albums: Album[]): Song {
+  if (today.getMonth() === 3 && today.getDate() === 1) {
+    if (albums.length === 34) {
+      return albums.flatMap((album) => album.songs)[1149];
+    } else if (albums.length === 17) {
+      return albums.flatMap((album) => album.songs)[300];
+    }
+  }
+
   return getRng().choice(albums.flatMap((album) => album.songs))!;
 }
 
