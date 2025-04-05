@@ -87,11 +87,9 @@ export default function SamplePlayer({
       console.error("Failed to get duration");
       return;
     }
-    console.log(duration);
 
     durationRef.current = duration;
     const starts = getStarts(duration, endlessMode);
-    console.log(starts);
     setStarts(starts);
   };
 
