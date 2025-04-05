@@ -4,9 +4,15 @@ import { Album, Game, Song } from "./types";
 const baseDate = new Date(2025, 0, 1);
 const today = new Date();
 
+function getDifferenceInFullDays(date1: Date, date2: Date): number {
+  const utc1 = Date.UTC(date1.getFullYear(), date1.getMonth(), date1.getDate());
+  const utc2 = Date.UTC(date2.getFullYear(), date2.getMonth(), date2.getDate());
+  return (utc2 - utc1) / (1000 * 60 * 60 * 24);
+}
+
 function getRng(): Random {
   const rng = new Random(0);
-  const days = Math.floor((today.getTime() - baseDate.getTime()) / 86400000);
+  const days = getDifferenceInFullDays(baseDate, today);
   for (let i = 0; i < days; i++) {
     rng.int();
   }

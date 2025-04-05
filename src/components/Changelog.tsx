@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-04-06",
+    changes: ["Possibly fixed the midnight DST bug"],
+  },
+  {
     date: "2025-04-03",
     changes: ['Added "Zenless Zone Zero" mode'],
   },
