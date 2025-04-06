@@ -6,6 +6,7 @@ import zenlessZoneZeroIcon from "../../assets/icons/zenless-zone-zero.png";
 import Changelog from "../Changelog";
 import classes from "./style.module.css";
 import About from "../About";
+import AlbumStats from "../AlbumStats";
 
 export default function Navbar() {
   return (
@@ -23,6 +24,7 @@ export default function Navbar() {
           </Link>
         </div>
         <div className={classes.UtilityIcons}>
+          <AlbumStats />
           <About />
           <Changelog />
           <HowToPlay />

@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-04-06",
-    changes: ["Possibly fixed the midnight DST bug"],
+    changes: [
+      "Possibly fixed the midnight DST bug",
+      "Added album stats dialog",
+    ],
   },
   {
     date: "2025-04-03",
