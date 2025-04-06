@@ -19,12 +19,32 @@ function getRng(): Random {
   return rng;
 }
 
+function getSongById(albums: Album[], id: number): Song | undefined {
+  return albums.flatMap((album) => album.songs).find((song) => song.id === id);
+}
+
+function getAprilFoolsSongId(albums: Album[]): number | undefined {
+  if (albums[0].title === "The Wind and The Star Traveler") {
+    return 1150;
+  } else if (albums[0].title === "Out of Control") {
+    return 301;
+  } else if (albums[0].title === "Loading...") {
+    return 16;
+  }
+}
+
+function getAprilFoolsSong(albums: Album[]): Song | undefined {
+  const id = getAprilFoolsSongId(albums);
+  if (id) {
+    return getSongById(albums, id);
+  }
+}
+
 function getTodaysSong(albums: Album[]): Song {
   if (today.getMonth() === 3 && today.getDate() === 1) {
-    if (albums.length === 34) {
-      return albums.flatMap((album) => album.songs)[1149];
-    } else if (albums.length === 17) {
-      return albums.flatMap((album) => album.songs)[300];
+    const song = getAprilFoolsSong(albums);
+    if (song) {
+      return song;
     }
   }
 
