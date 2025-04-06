@@ -19,7 +19,11 @@ function getRng(): Random {
   return rng;
 }
 
-function getSongById(albums: Album[], id: number): Song | undefined {
+function getSongById(albums: Album[], id?: number): Song | undefined {
+  if (id === undefined) {
+    return;
+  }
+
   return albums.flatMap((album) => album.songs).find((song) => song.id === id);
 }
 
@@ -35,7 +39,24 @@ function getAprilFoolsSongId(albums: Album[]): number | undefined {
 
 function getAprilFoolsSong(albums: Album[]): Song | undefined {
   const id = getAprilFoolsSongId(albums);
-  if (id) {
+  if (id !== undefined) {
+    return getSongById(albums, id);
+  }
+}
+
+function getLBirthdaySongId(albums: Album[]): number | undefined {
+  if (albums[0].title === "The Wind and The Star Traveler") {
+    return 319;
+  } else if (albums[0].title === "Out of Control") {
+    return 258;
+  } else if (albums[0].title === "Loading...") {
+    return 233;
+  }
+}
+
+function getLBirthdaySong(albums: Album[]): Song | undefined {
+  const id = getLBirthdaySongId(albums);
+  if (id !== undefined) {
     return getSongById(albums, id);
   }
 }
@@ -43,6 +64,11 @@ function getAprilFoolsSong(albums: Album[]): Song | undefined {
 function getTodaysSong(albums: Album[]): Song {
   if (today.getMonth() === 3 && today.getDate() === 1) {
     const song = getAprilFoolsSong(albums);
+    if (song) {
+      return song;
+    }
+  } else if (today.getMonth() === 3 && today.getDate() === 17) {
+    const song = getLBirthdaySong(albums);
     if (song) {
       return song;
     }
