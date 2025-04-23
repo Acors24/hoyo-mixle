@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-04-23",
+    changes: ["Fixed the YouTube ID of a song"],
+  },
+  {
     date: "2025-04-16",
     changes: ["Fixed some Fandom URLs"],
   },
