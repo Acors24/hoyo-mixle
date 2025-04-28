@@ -2,7 +2,6 @@ import { FaSpotify, FaYoutube } from "react-icons/fa6";
 import { Album, Game, Song } from "../types";
 import { SiFandom } from "react-icons/si";
 import { contextToList, getGameBaseWiki, getYouTubeThumbnail } from "../utils";
-import Separator from "./Separator";
 import { Vibrant } from "node-vibrant/browser";
 
 export default function SongCard({
@@ -38,7 +37,6 @@ export default function SongCard({
         <h3 className="card-album">{album.title}</h3>
         <h4 className="card-type-region">
           <span id="card-type">{song.type}</span>
-          <Separator />
           <span id="card-region">{song.region}</span>
         </h4>
         <ul className="usage-list">
@@ -50,7 +48,7 @@ export default function SongCard({
             <Moment key={index} moment={moment} />
           ))}
         </ul>
-        <div className="mt-auto flex gap-2">
+        <div className="mt-auto flex gap-2 links">
           <YouTubeButton youtubeId={song.youtubeId} />
           <SpotifyButton spotifyId={song.spotifyId} />
           <FandomButton fandomId={song.fandomUrl} game={game} />

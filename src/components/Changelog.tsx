@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-04-28",
+    changes: ["Added unique styling for each mode"],
+  },
+  {
     date: "2025-04-23",
     changes: ["Fixed the YouTube ID of a song"],
   },

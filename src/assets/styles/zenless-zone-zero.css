@@ -39,7 +39,7 @@
     z-index: 1;
     /* animation: active-color-blink 0.05s alternate steps(2, jump-none) 4; */
 
-    &:active:hover,
+    &:active,
     &:focus-visible {
       color: #0b0b0b;
       outline-offset: -1px;
@@ -134,22 +134,25 @@
       color: #c0c0c0;
     }
 
-    td {
-      background: black;
-      border-radius: 0.5rem;
-      padding: 0.25rem 0.5rem;
-      outline: 0.125rem solid #404040;
-    }
-
     th:last-child {
       width: 0;
       display: none;
     }
 
     td {
+      background: black;
+      border-radius: 0.5rem;
+      padding: 0.25rem 0.5rem;
+      outline: 0.125rem solid #404040;
+      transition-duration: 0.5s;
       text-align: center;
       border-bottom: 0.25rem solid transparent;
       background: black;
+      color: transparent;
+
+      &[data-correct] {
+        color: white;
+      }
 
       &[data-correct="true"] {
         border-bottom-color: hsl(163, 94%, 50%);
@@ -166,6 +169,23 @@
           display: flex;
           gap: 0.5rem;
         }
+      }
+    }
+
+    .icon-link {
+      color: var(--color);
+      background: none;
+      border-radius: 0.5rem;
+      outline: 3px solid var(--color);
+      padding: 0.3rem;
+      z-index: 1;
+
+      &:active,
+      &:focus-visible {
+        animation: var(--active-animation);
+        color: #0b0b0b;
+        outline-offset: -1px;
+        z-index: 2;
       }
     }
   }
@@ -319,7 +339,7 @@
     animation: bg-move-right 1s infinite linear;
     box-shadow: inset 0 0 12px 4px black;
 
-    &:active:hover,
+    &:active,
     &:focus-visible {
       box-shadow: none;
       animation: var(--active-animation);
@@ -426,17 +446,6 @@
     padding: 0.5rem 1rem;
     border-radius: 1rem;
     overflow: hidden;
-  }
-
-  .separator {
-    width: 1px;
-    background: linear-gradient(
-      to bottom,
-      transparent,
-      lightgrey 20%,
-      lightgrey 80%,
-      transparent
-    );
   }
 
   .slider-root {
@@ -599,10 +608,6 @@
         display: flex;
         flex-wrap: wrap;
         gap: 0.25rem 0.5rem;
-
-        .separator {
-          display: none;
-        }
 
         #card-type,
         #card-region {
@@ -989,13 +994,6 @@
       text-shadow: var(--text-shadow);
     }
 
-    .separator {
-      background: black;
-      width: 0.25rem;
-      align-self: stretch;
-      transform: skewX(-25deg);
-    }
-
     #highest-streak-label {
       display: none;
     }
@@ -1006,6 +1004,18 @@
       font-weight: bold;
       color: black;
       margin: 0.25rem 1rem 0.25rem 0.25rem;
+      position: relative;
+
+      &::before {
+        content: "";
+        position: absolute;
+        background: black;
+        width: 0.25rem;
+        height: 2rem;
+        top: -50%;
+        left: -25%;
+        transform: skewX(-25deg);
+      }
     }
   }
 

@@ -11,7 +11,6 @@ import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
 import * as Switch from "@radix-ui/react-switch";
-import Separator from "./Separator";
 
 function idsToSongs(ids: number[], albums: Album[]): Song[] {
   return ids.map(
@@ -144,7 +143,6 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
               .streak
           }
         </span>
-        <Separator />
         <span id="highest-streak-label">Highest: </span>
         <span id="highest-streak-value">
           {

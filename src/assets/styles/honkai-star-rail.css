@@ -13,7 +13,7 @@
     outline: 3px solid transparent;
 
     &:hover,
-    &:active {
+    &:focus {
       background: white;
       outline-color: white;
     }
@@ -55,15 +55,11 @@
     text-wrap: nowrap;
     border-collapse: separate;
     border-spacing: 2px;
-    --cell-color: transparent;
+    --base-background: #0003;
 
     th,
     td {
-      background: linear-gradient(
-        to top,
-        hsl(from var(--cell-color) h s l / 0.2),
-        rgb(0 0 0 / 0.2) 150%
-      );
+      background: var(--base-background);
       border-top-right-radius: 0.75rem;
       padding: 0.25rem 0.5rem;
     }
@@ -74,8 +70,20 @@
     }
 
     td {
+      transition: all 0.5s;
+      color: transparent;
+      --cell-color: transparent;
       text-align: center;
       border-bottom: 3px solid var(--cell-color);
+
+      &[data-correct] {
+        background: linear-gradient(
+          to top,
+          var(--cell-color) -200%,
+          var(--base-background) 100%
+        );
+        color: white;
+      }
 
       &[data-correct="true"] {
         --cell-color: hsl(163, 94%, 50%);
@@ -120,13 +128,31 @@
       background-color 0.2s;
 
     &:hover,
-    &:active {
+    &:focus {
       outline-color: #f6f6f6;
       box-shadow: inset 0 0 2px 1px rgba(0 0 0 / 0.5);
     }
 
     &:active {
       background-color: #dddddd;
+    }
+  }
+
+  .icon-link {
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+    font-size: 1.5rem;
+    background: rgba(255 255 255 / 0.1);
+    transition: background 0.2s;
+
+    &:hover,
+    &:focus {
+      background: var(--color);
+      outline: none;
+    }
+
+    &:active {
+      outline: 2px solid #f09839;
     }
   }
 
@@ -214,17 +240,6 @@
     overflow: hidden;
   }
 
-  .separator {
-    width: 1px;
-    background: linear-gradient(
-      to bottom,
-      transparent,
-      lightgrey 20%,
-      lightgrey 80%,
-      transparent
-    );
-  }
-
   .slider-root {
     position: relative;
     display: flex;
@@ -252,9 +267,14 @@
     background: white;
     width: 10px;
     aspect-ratio: 1;
-    outline: #f09839 4px solid;
+    border: #f09839 4px solid;
     border-radius: 9999px;
+    box-sizing: content-box;
     filter: drop-shadow(0 0 4px rgb(0 0 0 / 0.5));
+
+    &:focus-visible {
+      outline: 2px solid white;
+    }
   }
 
   #song-card {
@@ -324,8 +344,12 @@
 
       .card-type-region {
         font-size: 0.875rem;
-        display: flex;
-        gap: 1rem;
+
+        #card-region {
+          margin-left: 0.5rem;
+          border-left: 1px solid #fff4;
+          padding-left: 0.5rem;
+        }
       }
 
       .usage-list {
@@ -465,25 +489,27 @@
       backdrop-filter: blur(8px);
       border: 2px solid #56555d;
       transition-duration: 0.2s;
-      background: rgb(0 0 0 / 0.1);
+      background: rgb(0 0 0 / 0.2);
 
-      &:hover {
+      &:hover,
+      &:focus-visible {
+        outline: none;
         border-color: #cecdce;
       }
 
       &:active,
-      &:focus {
+      &:focus-visible {
         background: rgb(0 0 0 / 0.2);
       }
 
       &::after {
         content: "◬";
-        rotate: 180deg;
-        transition: rotate 0.3s ease-in-out;
+        transform: rotateX(540deg);
+        transition: transform 0.3s ease-in-out;
       }
 
       &[data-state="open"]::after {
-        rotate: 0deg;
+        transform: rotateX(0deg);
       }
     }
 
@@ -501,19 +527,21 @@
       text-shadow: var(--text-shadow);
       cursor: pointer;
       width: 100%;
+      background: rgb(0 0 0 / 0.1);
 
       &:last-of-type {
         margin-bottom: 0;
       }
 
-      &:hover {
+      &:hover,
+      &:focus-visible {
+        outline: none;
         border-color: #858382;
         background: rgba(255 255 255 / 0.05);
       }
 
-      &:active,
-      &:focus {
-        background: rgb(0 0 0 / 0.1);
+      &:active {
+        background: rgb(0 0 0 / 0.2);
       }
 
       span {
@@ -554,9 +582,11 @@
   }
 
   #streaks {
-    display: flex;
-    gap: 0.75rem;
-    text-shadow: var(--text-shadow);
+    #highest-streak-label {
+      margin-left: 0.5rem;
+      border-left: 1px solid #fff4;
+      padding-left: 0.5rem;
+    }
   }
 
   .switch-root {
@@ -574,6 +604,10 @@
 
     &:hover {
       background: rgb(0 0 0 / 0.1);
+    }
+
+    &:focus-visible {
+      box-shadow: 0 0 0 2px white;
     }
 
     &:active {
@@ -656,5 +690,17 @@
 
   #volume-control .slider-root {
     margin: 0.5rem 0;
+  }
+
+  .youtube-button {
+    --color: #ff0000;
+  }
+
+  .spotify-button {
+    --color: #1ed760;
+  }
+
+  .fandom-button {
+    --color: #fa005a;
   }
 }
