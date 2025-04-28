@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  @apply h-screen bg-slate-900 text-white;
+  @apply h-screen bg-neutral-900 text-white;
 }
 
 @keyframes slideDown {

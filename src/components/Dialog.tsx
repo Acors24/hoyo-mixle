@@ -46,7 +46,7 @@ export default function Dialog({
       <dialog
         ref={dialogRef}
         onClose={_onClose}
-        className="bg-slate-800 bg-opacity-50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow first:*:mt-0 *:mt-4"
+        className="bg-neutral-800/20 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow first:*:mt-0 *:mt-4"
       >
         <div className="flex justify-between">
           <h2 className="text-3xl font-bold">{title}</h2>

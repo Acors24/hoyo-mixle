@@ -5,7 +5,7 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-04-28",
-    changes: ["Added unique styling for each mode"],
+    changes: ["Added unique styling for each mode", "Adjusted general styling"],
   },
   {
     date: "2025-04-23",
