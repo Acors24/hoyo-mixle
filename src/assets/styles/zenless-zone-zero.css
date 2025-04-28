@@ -637,32 +637,6 @@
         }
       }
 
-      .usage-list {
-        font-size: 0.75rem;
-        margin: 0.5rem 0;
-
-        ul {
-          padding-left: 1rem;
-        }
-
-        li {
-          --color: #ddd;
-          color: var(--color);
-          margin: 0.25rem 0;
-          padding-left: 0.5rem;
-          border-left: 2px solid var(--color);
-
-          &.context {
-            --color: hsl(from var(--LightVibrant-color) h s 90%);
-            background: linear-gradient(
-              to right,
-              hsl(from var(--color) h s l / 0.2),
-              transparent 50%
-            );
-          }
-        }
-      }
-
       .icon-link {
         background: none;
         border-radius: 0;
@@ -922,28 +896,6 @@
             color: hsl(from #ece5d8 h s l / 0.5);
             font-size: 0.75rem;
           }
-
-          .usage-list {
-            font-size: 0.75rem;
-
-            ul {
-              padding-left: 1rem;
-            }
-
-            li {
-              color: #ddd;
-              margin: 4px 0;
-              list-style: inside;
-
-              &::marker {
-                content: "● ";
-              }
-
-              &.context {
-                color: #ffaf2a;
-              }
-            }
-          }
         }
       }
     }
@@ -1190,6 +1142,28 @@
     z-index: -1;
     outline: 2px solid black;
     outline-offset: -2px;
+  }
+
+  .usage-list {
+    font-size: 0.75rem;
+
+    ul {
+      padding-left: 1rem;
+    }
+
+    li {
+      color: #ddd;
+      margin: 4px 0;
+      list-style: inside;
+
+      &::marker {
+        content: "● ";
+      }
+
+      &.context {
+        color: #ffaf2a;
+      }
+    }
   }
 
   #volume-control {
