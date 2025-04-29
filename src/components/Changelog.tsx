@@ -4,6 +4,14 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-04-29",
+    changes: [
+      "Fixed certain styling issues",
+      "Added an entry/exit transition for dialogs",
+      "Added some missing About text",
+    ],
+  },
+  {
     date: "2025-04-28",
     changes: ["Added unique styling for each mode", "Adjusted general styling"],
   },

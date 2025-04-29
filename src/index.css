@@ -10,6 +10,37 @@ body {
   @apply h-screen bg-neutral-900 text-white;
 }
 
+dialog {
+  opacity: 0;
+  transform: translateY(-10%);
+  transition: all 0.2s ease-in-out allow-discrete;
+
+  &::backdrop {
+    opacity: 0;
+    transition: all 0.2s ease-in-out allow-discrete;
+  }
+
+  &:open {
+    opacity: 1;
+    transform: translateY(0);
+
+    &::backdrop {
+      opacity: 1;
+    }
+  }
+}
+
+@starting-style {
+  dialog:open {
+    opacity: 0;
+    transform: translateY(10%);
+
+    &::backdrop {
+      opacity: 0;
+    }
+  }
+}
+
 @keyframes slideDown {
   from {
     height: 0;

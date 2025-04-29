@@ -146,20 +146,22 @@
       outline: 0.125rem solid #404040;
       transition-duration: 0.5s;
       text-align: center;
-      border-bottom: 0.25rem solid transparent;
+      --color: transparent;
+      border-bottom: 0.25rem solid var(--color);
       background: black;
       color: transparent;
 
       &[data-correct] {
         color: white;
+        background: linear-gradient(to top, var(--color) -100%, transparent);
       }
 
       &[data-correct="true"] {
-        border-bottom-color: hsl(163, 94%, 50%);
+        --color: hsl(163, 94%, 50%);
       }
 
       &[data-correct="false"] {
-        border-bottom-color: hsl(345, 83%, 50%);
+        --color: hsl(345, 83%, 50%);
       }
 
       &:last-child {
@@ -699,37 +701,39 @@
     outline: 0.125rem solid rgb(255 255 255 / 0.1);
     overflow: hidden;
 
-    input {
-      background: rgba(0 0 0 / 0.5);
-      border-radius: 9999px;
-      outline: 2px solid #323232;
-      padding: 0.5rem 1rem;
-      transition-duration: 100ms;
-      width: 100%;
-      margin: 0.25rem 0;
-      caret-color: #33c000;
+    #filter-input-container {
+      position: relative;
+      padding: 0.5rem;
+      --bg-size-x: 0.5rem;
+      --bg-size-y: calc(tan(50deg) * var(--bg-size-x));
+      --stripe-pattern: transparent 35%, #101010 35% 65%, transparent 65%;
+      background: linear-gradient(to top, black, transparent 50%),
+        linear-gradient(50deg, var(--stripe-pattern)),
+        linear-gradient(-50deg, var(--stripe-pattern));
+      background-size:
+        auto,
+        var(--bg-size-x) var(--bg-size-y),
+        var(--bg-size-x) var(--bg-size-y);
+      background-position: center;
 
-      &:hover {
-        outline-color: #696969;
-      }
+      input {
+        background: rgba(0 0 0 / 0.5);
+        border-radius: 9999px;
+        outline: 2px solid #323232;
+        padding: 0.5rem 1rem;
+        transition-duration: 100ms;
+        width: 100%;
+        margin: 0.25rem 0;
+        caret-color: #33c000;
 
-      &:focus {
-        animation: active-outline-color-pulse 1s alternate infinite ease-in-out;
-      }
+        &:hover {
+          outline-color: #696969;
+        }
 
-      :has(> &) {
-        padding: 0.5rem;
-        --bg-size-x: 0.5rem;
-        --bg-size-y: calc(tan(50deg) * var(--bg-size-x));
-        --stripe-pattern: transparent 35%, #101010 35% 65%, transparent 65%;
-        background: linear-gradient(to top, black, transparent 50%),
-          linear-gradient(50deg, var(--stripe-pattern)),
-          linear-gradient(-50deg, var(--stripe-pattern));
-        background-size:
-          auto,
-          var(--bg-size-x) var(--bg-size-y),
-          var(--bg-size-x) var(--bg-size-y);
-        background-position: center;
+        &:focus {
+          animation: active-outline-color-pulse 1s alternate infinite
+            ease-in-out;
+        }
       }
     }
 

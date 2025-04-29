@@ -95,7 +95,7 @@ export default function SongFilter({
 
   return (
     <div id="song-filter" className={className ?? ""}>
-      <div className="relative">
+      <div id="filter-input-container">
         <input
           type="text"
           value={filterInput}

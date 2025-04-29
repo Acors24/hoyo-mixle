@@ -29,6 +29,17 @@ export default function About() {
               <FiExternalLink className="ml-1 inline text-xs align-baseline" />
             </a>
           </li>
+          <li>
+            <a
+              href="https://https://zenless-zone-zero.fandom.com/wiki/Zenless_Zone_Zero_Wiki"
+              target="_blank"
+              rel="noreferrer"
+              className="text-amber-200 hover:underline"
+            >
+              Zenless Zone Zero Fandom Wiki
+              <FiExternalLink className="ml-1 inline text-xs align-baseline" />
+            </a>
+          </li>
         </ul>
       </div>
       <p>
