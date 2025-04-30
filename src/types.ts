@@ -99,3 +99,7 @@ export type StorageContextType = {
   state: LocalStorage;
   dispatch: React.Dispatch<StorageAction>;
 };
+
+export type CalendarState = {
+  [K in Game]: { [year: string]: number[] };
+};

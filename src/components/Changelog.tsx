@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-04-30",
+    changes: ["Added a calendar to track your progress"],
+  },
+  {
     date: "2025-04-29",
     changes: [
       "Fixed certain styling issues",

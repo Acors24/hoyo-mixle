@@ -1,5 +1,6 @@
 import random, { Random } from "random";
-import { Album, Game, Song } from "./types";
+import { Album, CalendarState, Game, Song } from "./types";
+import { getDayOfYear } from "date-fns";
 
 const baseDate = new Date(2025, 0, 1);
 const today = new Date();
@@ -140,6 +141,38 @@ function contextToList(context: string): string[] {
   return context.split(" / ");
 }
 
+const calendarStorageKey = "hoyo-mixle-calendar";
+
+function updateCalendarState(
+  game: Game,
+  state: { won: boolean; guessAmount: number }
+) {
+  const calendarState = JSON.parse(
+    localStorage.getItem(calendarStorageKey) || "{}"
+  ) as CalendarState;
+  const today = new Date();
+  const dayIndex = getDayOfYear(today) - 1;
+
+  let value = state.guessAmount;
+  if (state.won) {
+    value |= 0b1000;
+  }
+
+  if (!calendarState[game]) {
+    calendarState[game] = {};
+  }
+  if (!calendarState[game][today.getFullYear()]) {
+    calendarState[game][today.getFullYear()] = Array(366).fill(0);
+  }
+
+  calendarState[game][today.getFullYear()][dayIndex] = value;
+
+  localStorage.setItem(calendarStorageKey, JSON.stringify(calendarState));
+  console.log(
+    `Updated calendar state for ${game} on ${today.toDateString()}: ${value}`
+  );
+}
+
 export {
   getTodaysSong,
   getYouTubeThumbnail,
@@ -147,4 +180,6 @@ export {
   getGameBaseWiki,
   getSimplePlayerState,
   contextToList,
+  updateCalendarState,
+  calendarStorageKey,
 };

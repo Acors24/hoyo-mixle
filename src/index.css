@@ -10,6 +10,106 @@ body {
   @apply h-screen bg-neutral-900 text-white;
 }
 
+#calendar-game-selector {
+  display: flex;
+  justify-content: space-evenly;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  backdrop-filter: blur(16px);
+
+  label {
+    flex: 1;
+    padding: 0.25rem 0.5rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s;
+    border-bottom: 2px solid transparent;
+    font-size: 0.75rem;
+
+    &:hover {
+      border-bottom-color: #fff8;
+    }
+
+    &:has(:checked) {
+      border-bottom-color: white;
+    }
+  }
+
+  input {
+    display: none;
+  }
+}
+
+#calendar {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.25rem;
+
+  @media screen and (max-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media screen and (max-width: 640px) {
+    grid-template-columns: 1fr;
+  }
+
+  .month {
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    padding: 0.25rem;
+
+    h2 {
+      text-align: center;
+      font-size: 0.75rem;
+      font-weight: 500;
+      margin-bottom: 0.25rem;
+    }
+
+    .days {
+      display: grid;
+      grid-template-columns: repeat(7, min-content);
+      gap: 0.25rem;
+
+      .day {
+        border-radius: 0.25rem;
+        padding: 0.125rem;
+        text-align: center;
+        color: #fff4;
+        font-size: 0.75rem;
+        aspect-ratio: 1;
+        user-select: none;
+        --background: transparent;
+        transition-duration: 0.2s;
+        background: hsl(from var(--background) h s calc(l * 0.5));
+
+        &:hover {
+          background: hsl(from var(--background) h s calc(l * 0.6));
+        }
+
+        &.attempted {
+          --background: #fff;
+          color: #000;
+        }
+
+        &.won {
+          --background: #0f0;
+          color: #fff;
+        }
+
+        &.lost {
+          --background: #f00;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
 dialog {
   opacity: 0;
   transform: translateY(-10%);
