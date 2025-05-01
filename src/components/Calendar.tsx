@@ -1,9 +1,9 @@
 import { FiCalendar } from "react-icons/fi";
 import Dialog from "./Dialog";
 import { getDay, getDayOfYear, getDaysInMonth } from "date-fns";
-import { calendarStorageKey } from "../utils";
 import { Game } from "../types";
 import { useState } from "react";
+import { useStorage } from "../StorageContext";
 
 const monthNames = [
   "January",
@@ -38,7 +38,7 @@ function getCellClass(won: boolean, guesses: number) {
   return "day";
 }
 
-function dayDataToCalendarCell(dayData: number) {
+function CalendarCell({ dayData }: { dayData: number }) {
   const won = Boolean(dayData & 0b1000);
   const guesses = dayData & 0b0111;
 
@@ -48,17 +48,10 @@ function dayDataToCalendarCell(dayData: number) {
 
 export default function Calendar() {
   const [game, setGame] = useState<Game>("genshinImpact");
-  const calendarState = JSON.parse(
-    localStorage.getItem(calendarStorageKey) || "{}"
-  );
-  if (!calendarState[game]) {
-    calendarState[game] = {};
-  }
-  if (!calendarState[game][year]) {
-    calendarState[game][year] = Array(366).fill(0);
-  }
 
-  const yearData = calendarState[game][year];
+  const { state } = useStorage();
+
+  const yearData = state.gameData[game].calendar[year];
 
   const handleGameChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     const selectedGame = event.target.value as Game;
@@ -110,15 +103,19 @@ export default function Calendar() {
                 )
               )}
 
-              {Array.from(
-                { length: getDaysInMonth(new Date(year, monthIndex)) },
-                (_, dayIndex) =>
-                  dayDataToCalendarCell(
-                    yearData[
-                      getDayOfYear(new Date(year, monthIndex, dayIndex + 1)) - 1
-                    ]
-                  )
-              )}
+              {Array(getDaysInMonth(new Date(year, monthIndex)))
+                .fill(0)
+                .map((_, dayIndex) => (
+                  <CalendarCell
+                    key={dayIndex}
+                    dayData={
+                      yearData[
+                        getDayOfYear(new Date(year, monthIndex, dayIndex + 1)) -
+                          1
+                      ]
+                    }
+                  />
+                ))}
             </div>
           </div>
         ))}

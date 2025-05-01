@@ -17,6 +17,7 @@ const allAlbums: {
 
 const getDefaultGameState = () => ({
   validForSongs: 0,
+  calendar: {} as Record<string, number[]>,
   daily: {
     day: "",
     guesses: [],
@@ -130,18 +131,46 @@ export default function StorageProvider({
     const saved = localStorage.getItem(storageKey);
     const playerData: LocalStorage = saved ? JSON.parse(saved) : initialState;
 
+    // Migrate old data
     migrateVolume(playerData);
     migrateHowToPlaySeen(playerData);
     migrateDailyGuesses(playerData);
     migrateDailyStreak(playerData);
     migrateEndlessStreak(playerData);
 
+    // Initialize missing data
     playerData.gameData.starRail ??= initialState.gameData.starRail;
     playerData.gameData.zenlessZoneZero ??=
       initialState.gameData.zenlessZoneZero;
     playerData.config.lastChangelogSeen ??=
       initialState.config.lastChangelogSeen;
 
+    // Initialize calendar data or migrate from old storage
+    const currentYear = new Date().getFullYear();
+    for (const game in playerData.gameData) {
+      playerData.gameData[game as Game].calendar ??= {};
+
+      const oldCalendarStorage = localStorage.getItem("hoyo-mixle-calendar");
+      if (oldCalendarStorage !== null) {
+        const oldCalendar = JSON.parse(oldCalendarStorage) as Record<
+          string,
+          Record<string, number[]>
+        >;
+        const gameOldCalendar = oldCalendar[game as Game];
+
+        if (gameOldCalendar === undefined) {
+          continue;
+        }
+
+        playerData.gameData[game as Game].calendar = { ...gameOldCalendar };
+      } else {
+        playerData.gameData[game as Game].calendar[currentYear] ??=
+          Array(366).fill(0);
+      }
+    }
+    localStorage.removeItem("hoyo-mixle-calendar");
+
+    // Validate and update data
     updateDailies(playerData);
     validateSongAmounts(playerData);
 

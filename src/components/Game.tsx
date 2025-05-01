@@ -6,11 +6,7 @@ import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter";
 import random from "random";
 import SongCard from "./SongCard";
-import {
-  getTodaysSong,
-  getYouTubeThumbnail,
-  updateCalendarState,
-} from "../utils";
+import { getTodaysSong, getYouTubeThumbnail } from "../utils";
 import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
@@ -118,13 +114,6 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
           mode: endlessMode ? "endless" : "daily",
         },
       });
-
-      if (!endlessMode) {
-        updateCalendarState(currentGame, {
-          won: true,
-          guessAmount: newGuesses.length,
-        });
-      }
     } else if (newGuesses.length >= maxAttempts) {
       dispatch({
         type: "RESET_STREAK",
@@ -133,20 +122,6 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
           mode: endlessMode ? "endless" : "daily",
         },
       });
-
-      if (!endlessMode) {
-        updateCalendarState(currentGame, {
-          won: false,
-          guessAmount: maxAttempts,
-        });
-      }
-    } else {
-      if (!endlessMode) {
-        updateCalendarState(currentGame, {
-          won: false,
-          guessAmount: newGuesses.length,
-        });
-      }
     }
   };
 

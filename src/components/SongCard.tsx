@@ -42,7 +42,9 @@ export default function SongCard({
         <ul className="usage-list">
           {song.context &&
             contextToList(song.context).map((item) => (
-              <li className="context">{item.replace(" > ", " - ")}</li>
+              <li key={item} className="context">
+                {item.replace(" > ", " - ")}
+              </li>
             ))}
           {song.playedAt.map((moment, index) => (
             <Moment key={index} moment={moment} />

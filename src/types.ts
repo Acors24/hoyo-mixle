@@ -23,6 +23,9 @@ export type LocalStorage = {
   gameData: {
     [K in Game]: {
       validForSongs: number;
+      calendar: {
+        [key: string]: number[];
+      };
       daily: {
         day: string;
         guesses: number[];
@@ -98,8 +101,4 @@ export type StorageAction =
 export type StorageContextType = {
   state: LocalStorage;
   dispatch: React.Dispatch<StorageAction>;
-};
-
-export type CalendarState = {
-  [K in Game]: { [year: string]: number[] };
 };

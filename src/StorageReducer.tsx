@@ -1,4 +1,5 @@
 import { LocalStorage, StorageAction } from "./types";
+import { updateCalendar } from "./utils";
 
 export function StorageReducer(
   state: LocalStorage,
@@ -37,6 +38,14 @@ export function StorageReducer(
           [action.payload.game]: {
             ...state.gameData[action.payload.game],
             validForSongs: action.payload.validForSongs,
+            calendar:
+              action.payload.mode === "daily"
+                ? updateCalendar(
+                    state.gameData[action.payload.game].calendar,
+                    false,
+                    action.payload.guesses.length
+                  )
+                : state.gameData[action.payload.game].calendar,
             [action.payload.mode]: {
               ...state.gameData[action.payload.game][action.payload.mode],
               ...{
@@ -74,6 +83,13 @@ export function StorageReducer(
           ...state.gameData,
           [action.payload.game]: {
             ...state.gameData[action.payload.game],
+            calendar:
+              action.payload.mode === "daily"
+                ? updateCalendar(
+                    state.gameData[action.payload.game].calendar,
+                    true
+                  )
+                : state.gameData[action.payload.game].calendar,
             [action.payload.mode]: {
               ...state.gameData[action.payload.game][action.payload.mode],
               streak:
