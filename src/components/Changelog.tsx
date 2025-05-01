@@ -54,7 +54,7 @@ const history = [
   },
   {
     date: "2025-02-01",
-    changes: ["Added context for Honkai: Star Rail songs (thanks to Lugunium)"],
+    changes: ["Added context for Honkai: Star Rail songs"],
   },
   {
     date: "2025-01-30",
@@ -161,7 +161,7 @@ const history = [
       `Added "Footprints of the Traveler Vol. 3" album (Genshin Impact)`,
       `Added "Passing Memories" album (Genshin Impact)`,
       "Added song info buttons for the guessed songs",
-      "Added experimental song filtering without knowing all attributes",
+      "Added song filtering without knowing all attributes",
     ],
   },
   {
@@ -245,6 +245,60 @@ const history = [
     changes: [
       'Added "Out of Control" album (Honkai: Star Rail)',
       'Added "Honkai: Star Rail" mode',
+    ],
+  },
+  {
+    date: "2024-11-07",
+    changes: [
+      'Added "The Stellar Moments" album (Genshin Impact)',
+      "Adjusted styling",
+      "Adjusted sampling for very short songs",
+    ],
+  },
+  {
+    date: "2024-11-05",
+    changes: [
+      "Added an ad warning",
+      '"Fixed" the sample player breaking occasionally',
+      `Added "Jade Moon Upon a Sea of Clouds" album (Genshin Impact)`,
+      "Improved styling",
+      "Improved sampling",
+    ],
+  },
+  {
+    date: "2024-11-04",
+    changes: [
+      "Songs known to be incorrect are now automatically removed from the song list",
+      "Adjusted album data yet again",
+      "Adjusted How-To-Play dialog yet again",
+    ],
+  },
+  {
+    date: "2024-11-03",
+    changes: [
+      "Improved player control logic",
+      'Added "City of Winds and Idylls" album (Genshin Impact)',
+      "Adjusted How-To-Play dialog again",
+      "Adjusted album data again",
+    ],
+  },
+  {
+    date: "2024-11-02",
+    changes: [
+      "Adjusted UI layout",
+      "Added a navbar and How-To-Play dialog",
+      "Improved daily song selection logic",
+      "Added endless mode",
+      "Adjusted How-To-Play dialog",
+      "Adjusted album data",
+    ],
+  },
+  {
+    date: "2024-11-01",
+    changes: [
+      "Initial release",
+      "Changed the album data structure - replaced the song pools with individual songs",
+      "Added hints appearing after incorrect guesses",
     ],
   },
 ];
