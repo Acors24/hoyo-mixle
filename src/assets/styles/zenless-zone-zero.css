@@ -1217,43 +1217,44 @@
 
 @keyframes active-color-pulse {
   from {
+    background: yellow;
+    border-color: yellow;
+    outline-color: yellow;
+  }
+
+  to {
     background: #33c000;
     border-color: #33c000;
     outline-color: #33c000;
   }
+}
 
-  to {
+@keyframes active-color-blink {
+  100% {
+    color: #0b0b0b;
     background: yellow;
     border-color: yellow;
     outline-color: yellow;
   }
 }
 
-@keyframes active-color-blink {
-  100% {
-    background: #33c000;
-    border-color: #33c000;
-    outline-color: #33c000;
-  }
-}
-
 @keyframes active-outline-color-pulse {
   from {
-    outline-color: #33c000;
+    outline-color: yellow;
   }
 
   to {
-    outline-color: yellow;
+    outline-color: #33c000;
   }
 }
 
 @keyframes active-box-shadow-color-pulse {
   from {
-    --box-shadow-color: #33c000;
+    --box-shadow-color: yellow;
   }
 
   to {
-    --box-shadow-color: yellow;
+    --box-shadow-color: #33c000;
   }
 }
 
