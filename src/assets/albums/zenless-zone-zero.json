@@ -9,7 +9,8 @@
         "type": "Special",
         "region": "N/A",
         "youtubeId": "gkTrU51ZM0U",
-        "spotifyId": "0E8M2gfJuoUAAPv9qreRkg"
+        "spotifyId": "0E8M2gfJuoUAAPv9qreRkg",
+        "context": "\"Tuning Test\" CBT1 Trailer / ZZZ Official Website Theme"
       },
       {
         "id": 2,
@@ -18,7 +19,8 @@
         "type": "Special",
         "region": "N/A",
         "youtubeId": "DiK1BqqCFbQ",
-        "spotifyId": "7hFFGg523RXeHdyU2QGq90"
+        "spotifyId": "7hFFGg523RXeHdyU2QGq90",
+        "context": "\"Equalizing Test\" CBT2 Trailer"
       },
       {
         "id": 3,
@@ -27,7 +29,8 @@
         "type": "Special",
         "region": "N/A",
         "youtubeId": "v_3qXY7Fuuc",
-        "spotifyId": "5iJzseWuDozFCaSB5laLES"
+        "spotifyId": "5iJzseWuDozFCaSB5laLES",
+        "context": "\"Amplifying Test\" CBT3 Trailer"
       },
       {
         "id": 4,
@@ -36,7 +39,8 @@
         "type": "Special",
         "region": "N/A",
         "youtubeId": "1MqCLHd15ek",
-        "spotifyId": "7pjAfbReH57nrJRwgamNcL"
+        "spotifyId": "7pjAfbReH57nrJRwgamNcL",
+        "context": "ZZZ Pre-Release Livestream Clip"
       }
     ]
   },
@@ -51,7 +55,8 @@
         "region": "N/A",
         "youtubeId": "R3tZmmiKi0o",
         "spotifyId": "0RtYfzwkgj0sOBuZc3NmSK",
-        "fandomUrl": "Come_Alive"
+        "fandomUrl": "Come_Alive",
+        "context": "Zenless Zone Zero Opening Theme"
       },
       {
         "id": 6,
@@ -61,7 +66,8 @@
         "region": "N/A",
         "youtubeId": "DntXtREruD0",
         "spotifyId": "26Zctsp2AmQK1A2xUoItCh",
-        "fandomUrl": "Come_Alive_-_Instrumental"
+        "fandomUrl": "Come_Alive_-_Instrumental",
+        "context": "Instrumental version of \"Come Alive\""
       }
     ]
   },
@@ -76,7 +82,8 @@
         "region": "N/A",
         "youtubeId": "4AMpTkEx6fI",
         "spotifyId": "2GW2qcpzaRrErv4Nd8NSCH",
-        "fandomUrl": "ZENLESS"
+        "fandomUrl": "ZENLESS",
+        "context": "Tiësto x Zenless Zone Zero MV"
       },
       {
         "id": 8,
@@ -86,7 +93,8 @@
         "region": "N/A",
         "youtubeId": "DSiCNyJC2q4",
         "spotifyId": "7xkvY4ToG6NSbbsvoQ6aUs",
-        "fandomUrl": "ZENLESS_-_Instrumental"
+        "fandomUrl": "ZENLESS_-_Instrumental",
+        "context": "Instrumental version of \"ZENLESS\""
       }
     ]
   },
@@ -101,22 +109,24 @@
         "region": "Victoria Housekeeping",
         "youtubeId": "sL4DJArRvbw",
         "spotifyId": "7zYtn0U2yDdLPQfc2Jct9F",
-        "fandomUrl": "BITE%21"
+        "fandomUrl": "BITE%21",
+        "context": "Ellen Character Demo"
       },
       {
         "id": 10,
-        "title": "BITE! (Instrumental)",
+        "title": "BITE! - Instrumental",
         "playedAt": [],
         "type": "Character",
         "region": "Victoria Housekeeping",
         "youtubeId": "xnDfztY_T5w",
         "spotifyId": "0nVhIyhiDngMFtPPrgaHfJ",
-        "fandomUrl": "BITE%21_%28Instrumental%29"
+        "fandomUrl": "BITE%21_%28Instrumental%29",
+        "context": "Instrumental version of \"BITE!\""
       }
     ]
   },
   {
-    "title": "As the Sugar Cube Floats, Fleeting in Time",
+    "title": "As the sugar cube floats, fleeting in time",
     "songs": [
       {
         "id": 11,
@@ -126,7 +136,8 @@
         "region": "Public Security",
         "youtubeId": "yk3wBP6ZUb4",
         "spotifyId": "52GlYDlUFY2v9NfA1kGyEQ",
-        "fandomUrl": "As_the_sugar_cube_floats%2C_fleeting_in_time"
+        "fandomUrl": "As_the_sugar_cube_floats%2C_fleeting_in_time",
+        "context": "Zhu Yuan EP"
       },
       {
         "id": 12,
@@ -136,7 +147,8 @@
         "region": "Public Security",
         "youtubeId": "Dd2g97uHB_Q",
         "spotifyId": "23lKCVrQh9ZAwZeAA600sg",
-        "fandomUrl": "As_the_sugar_cube_floats%2C_fleeting_in_time_-_Instrumental"
+        "fandomUrl": "As_the_sugar_cube_floats%2C_fleeting_in_time_-_Instrumental",
+        "context": "Instrumental version of \"As the sugar cube floats, fleeting in time\""
       }
     ]
   },
@@ -151,7 +163,8 @@
         "region": "Public Security",
         "youtubeId": "dlkgxD5loXk",
         "spotifyId": "0VydHCWlYh9k0SXbt6VjcN",
-        "fandomUrl": "Crimson_Pierces_the_Twilight"
+        "fandomUrl": "Crimson_Pierces_the_Twilight",
+        "context": "Qingyi EP"
       },
       {
         "id": 14,
@@ -161,7 +174,8 @@
         "region": "Public Security",
         "youtubeId": "WfMOUBL8s5Q",
         "spotifyId": "5H2lNCka4Kp8MwGseWMhZj",
-        "fandomUrl": "Crimson_Pierces_the_Twilight_-_Instrumental"
+        "fandomUrl": "Crimson_Pierces_the_Twilight_-_Instrumental",
+        "context": "Instrumental version of \"Crimson Pierces the Twilight\""
       }
     ]
   },
@@ -176,7 +190,8 @@
         "region": "Sons of Calydon",
         "youtubeId": "DugA46SEuPc",
         "spotifyId": "472uIrS3p6rytyT5uahR7Q",
-        "fandomUrl": "PinKing"
+        "fandomUrl": "PinKing",
+        "context": "Caesar EP"
       }
     ]
   },
@@ -191,22 +206,24 @@
         "region": "Sons of Calydon",
         "youtubeId": "LCo0KdbVIJM",
         "spotifyId": "4mx756ehrFAIky4IeJKOUa",
-        "fandomUrl": "Burning_Desires"
+        "fandomUrl": "Burning_Desires",
+        "context": "Burnice EP"
       }
     ]
   },
   {
-    "title": "Hyper Commission 2024 Mix",
+    "title": "Zenless Zone Zero 2024 Mix | Hyper Commission",
     "songs": [
       {
         "id": 17,
-        "title": "Hyper Commission",
+        "title": "Zenless Zone Zero 2024 Mix | Hyper Commission",
         "playedAt": ["Media"],
         "type": "Special",
         "region": "N/A",
         "youtubeId": "ZCEwx6xDq78",
         "spotifyId": "4yLL60Hr3c50LAqOvm6iIu",
-        "fandomUrl": "Hyper_Commission"
+        "fandomUrl": "Hyper_Commission",
+        "context": "Hyper Commission (Creamfields DJ live set)"
       }
     ]
   },
@@ -221,7 +238,8 @@
         "region": "Section 6",
         "youtubeId": "fYIwd6OvRWM",
         "spotifyId": "5r1AJrPc9XXP29evgwFFGL",
-        "fandomUrl": "Rest_Awhile"
+        "fandomUrl": "Rest_Awhile",
+        "context": "Yanagi EP"
       }
     ]
   },
@@ -236,7 +254,8 @@
         "region": "Sons of Calydon",
         "youtubeId": "KOh7AOuXO48",
         "spotifyId": "2G5iUlHUHT28DauclHioat",
-        "fandomUrl": "Fearless"
+        "fandomUrl": "Fearless",
+        "context": "Lighter EP"
       }
     ]
   },
@@ -251,7 +270,8 @@
         "region": "Section 6",
         "youtubeId": "vSTDCn5g9XA",
         "spotifyId": "3jBBqnIdFALT00QU56RYaW",
-        "fandomUrl": "Daybreak"
+        "fandomUrl": "Daybreak",
+        "context": "Miyabi EP"
       }
     ]
   },
@@ -266,7 +286,8 @@
         "region": "Section 6",
         "youtubeId": "tHvqR5mb5Vg",
         "spotifyId": "3Y8nLuamHzFojSmlXvfZv6",
-        "fandomUrl": "Picture_Book"
+        "fandomUrl": "Picture_Book",
+        "context": "Harumasa EP"
       }
     ]
   },
@@ -281,7 +302,8 @@
         "region": "N/A",
         "youtubeId": "c5jW5vhFPhg",
         "spotifyId": "1AfSFKt6sO3NY8VuyTrHsY",
-        "fandomUrl": "Welcome_to_New_Eridu_-_Where_Humanity_Rises_Anew%21"
+        "fandomUrl": "Welcome_to_New_Eridu_-_Where_Humanity_Rises_Anew%21",
+        "context": "\"Welcome to New Eridu — Where Humanity Rises Anew!\" Trailer"
       },
       {
         "id": 221,
@@ -291,7 +313,8 @@
         "region": "N/A",
         "youtubeId": "0OhvnUkUFho",
         "spotifyId": "05IXyvnG9wGshFoIlXFLhs",
-        "fandomUrl": "Noise_Reduction_Test"
+        "fandomUrl": "Noise_Reduction_Test",
+        "context": "ZZZ Equalizing Test Trailer"
       },
       {
         "id": 222,
@@ -301,7 +324,8 @@
         "region": "N/A",
         "youtubeId": "YLbAjWxP8T0",
         "spotifyId": "0iI6eSop3NZ4cC2UhKAaDg",
-        "fandomUrl": "The_Person_You_Are_Calling_Is_In_A_Hollow"
+        "fandomUrl": "The_Person_You_Are_Calling_Is_In_A_Hollow",
+        "context": "\"The Person You Are Calling Is in a Hollow\" ZZZ Official Release Teaser"
       },
       {
         "id": 223,
@@ -311,7 +335,8 @@
         "region": "N/A",
         "youtubeId": "Y1C3owRf8CY",
         "spotifyId": "2gBHUL3zOfnXhhUOVxe1Vt",
-        "fandomUrl": "Where_the_Miracle_Began"
+        "fandomUrl": "Where_the_Miracle_Began",
+        "context": "\"Where the Miracle Began\" Lore Teaser Video"
       },
       {
         "id": 224,
@@ -321,7 +346,8 @@
         "region": "Public Security",
         "youtubeId": "Z9evsZxqcOY",
         "spotifyId": "6GLP0Wqj3OSrGkj811CPPK",
-        "fandomUrl": "Detective_Zhu_Yuan"
+        "fandomUrl": "Detective_Zhu_Yuan",
+        "context": "\"New Eridu Public Security's Awareness\" Animation Video (CN exclusive)"
       },
       {
         "id": 225,
@@ -331,7 +357,8 @@
         "region": "Public Security",
         "youtubeId": "XGvJhp4Cmc0",
         "spotifyId": "73ADYD6ukwF9sR9Hr4fruY",
-        "fandomUrl": "Undercover_R%26B_%28Soundtrack%29"
+        "fandomUrl": "Undercover_R%26B_%28Soundtrack%29",
+        "context": "Version 1.1 Trailer"
       },
       {
         "id": 226,
@@ -341,7 +368,8 @@
         "region": "N/A",
         "youtubeId": "uyqBKfRTe6g",
         "spotifyId": "400fTFPheVtBR5ctxHTknq",
-        "fandomUrl": "Sometimes_You_Gotta_Get_Out_%26_About"
+        "fandomUrl": "Sometimes_You_Gotta_Get_Out_%26_About",
+        "context": "\"Sometimes You Gotta Get Out & About\" Outer Ring Promo Video"
       },
       {
         "id": 227,
@@ -351,7 +379,8 @@
         "region": "Sons of Calydon",
         "youtubeId": "ohGWY17zKHA",
         "spotifyId": "1acWua7waQZphqwZg0Fxy5",
-        "fandomUrl": "Overlord_Engine"
+        "fandomUrl": "Overlord_Engine",
+        "context": "Version 1.2 Trailer"
       },
       {
         "id": 228,
@@ -361,7 +390,8 @@
         "region": "Section 6",
         "youtubeId": "MXRaRK7DXcg",
         "spotifyId": "7CtcNqWHzk4jySgckrHGlI",
-        "fandomUrl": "Virtual_Revenge_%28Soundtrack%29"
+        "fandomUrl": "Virtual_Revenge_%28Soundtrack%29",
+        "context": "Version 1.3 Trailer"
       },
       {
         "id": 229,
@@ -371,7 +401,8 @@
         "region": "Section 6",
         "youtubeId": "RXXsR_NIjxE",
         "spotifyId": "2CSe5zhWvON0HBNpnR4ekb",
-        "fandomUrl": "Unknown_Area%2C_Signal_Disconnected..."
+        "fandomUrl": "Unknown_Area%2C_Signal_Disconnected...",
+        "context": "\"Unknown Area, Signal Disconnected...\" Section 6 Unknown Footage Video"
       },
       {
         "id": 230,
@@ -381,7 +412,8 @@
         "region": "N/A",
         "youtubeId": "XQPwKKTzcoU",
         "spotifyId": "6TGq6r4wESuNpreMILKnHE",
-        "fandomUrl": "A_Storm_of_Falling_Stars"
+        "fandomUrl": "A_Storm_of_Falling_Stars",
+        "context": "Version 1.4 Trailer"
       },
       {
         "id": 231,
@@ -391,7 +423,8 @@
         "region": "Cunning Hares",
         "youtubeId": "zCqtswUQ7tE",
         "spotifyId": "32VXKH49kE1CI69EhAGbbA",
-        "fandomUrl": "It%27s_Showtime%21_%28Soundtrack%29"
+        "fandomUrl": "It%27s_Showtime%21_%28Soundtrack%29",
+        "context": "Billy Character Demo"
       },
       {
         "id": 232,
@@ -401,7 +434,8 @@
         "region": "Cunning Hares",
         "youtubeId": "ovuKwS0n71w",
         "spotifyId": "57TIv7MUtF00vs9jcaECgz",
-        "fandomUrl": "It%27s_Showtime%21_-_Remix"
+        "fandomUrl": "It%27s_Showtime%21_-_Remix",
+        "context": "\"It's Showtime!\" remix from \"Hyper Commission - Zenless Zone Zero 2024 Mix\""
       },
       {
         "id": 233,
@@ -411,7 +445,8 @@
         "region": "Cunning Hares",
         "youtubeId": "XxN4UiMNWcg",
         "spotifyId": "4kcTGEMIeB3UehQwWuOd4W",
-        "fandomUrl": "Thunderbolt_Silhouette"
+        "fandomUrl": "Thunderbolt_Silhouette",
+        "context": "Anby Character Demo"
       },
       {
         "id": 234,
@@ -421,7 +456,8 @@
         "region": "Cunning Hares",
         "youtubeId": "oqgmuPS5A3E",
         "spotifyId": "09SpjpWFT27ZLdF0fS7Qra",
-        "fandomUrl": "When_Business_Comes_Knocking"
+        "fandomUrl": "When_Business_Comes_Knocking",
+        "context": "Nicole Character Demo"
       },
       {
         "id": 235,
@@ -431,7 +467,8 @@
         "region": "Cunning Hares",
         "youtubeId": "i85drMF8XWw",
         "spotifyId": "0mpDgve59n9qkr21MWtFsv",
-        "fandomUrl": "When_Business_Comes_Knocking_-_Remix"
+        "fandomUrl": "When_Business_Comes_Knocking_-_Remix",
+        "context": "\"When Business Comes Knocking\" remix from \"Hyper Commission - Zenless Zone Zero 2024 Mix\""
       },
       {
         "id": 236,
@@ -441,7 +478,8 @@
         "region": "Cunning Hares",
         "youtubeId": "huXi8hjDmTE",
         "spotifyId": "2azToV1uFhziPajTAy4Y6W",
-        "fandomUrl": "An_Offer_you_Can%27t_Refuse"
+        "fandomUrl": "An_Offer_you_Can%27t_Refuse",
+        "context": "Nekomata Character Demo"
       },
       {
         "id": 237,
@@ -451,7 +489,8 @@
         "region": "Cunning Hares",
         "youtubeId": "ImQQu7h-PXQ",
         "spotifyId": "2YkmJBxk3VuCp3gsPuOTRl",
-        "fandomUrl": "An_Offer_you_Can%27t_Refuse_-_Remix"
+        "fandomUrl": "An_Offer_you_Can%27t_Refuse_-_Remix",
+        "context": "\"An Offer you Can't Refuse\" remix from \"Hyper Commission - Zenless Zone Zero 2024 Mix\""
       },
       {
         "id": 238,
@@ -461,7 +500,8 @@
         "region": "Victoria Housekeeping",
         "youtubeId": "-Iz580Z542E",
         "spotifyId": "6GOlvye4vrQLVj9Zvd0vxW",
-        "fandomUrl": "Wolfishly_Charming"
+        "fandomUrl": "Wolfishly_Charming",
+        "context": "Lycaon Character Demo"
       },
       {
         "id": 239,
@@ -471,7 +511,8 @@
         "region": "Belobog Heavy Industries",
         "youtubeId": "QgytPmzReAE",
         "spotifyId": "5poKHfLtrYHBMzSW0DYCrJ",
-        "fandomUrl": "Mech_Mania"
+        "fandomUrl": "Mech_Mania",
+        "context": "Grace Character Demo"
       },
       {
         "id": 240,
@@ -481,7 +522,8 @@
         "region": "Belobog Heavy Industries",
         "youtubeId": "u7NTyCwWpo4",
         "spotifyId": "6q2rjx0LagLEAaZmFMR5ER",
-        "fandomUrl": "Mech_Mania_-_Remix"
+        "fandomUrl": "Mech_Mania_-_Remix",
+        "context": "\"Mech Mania\" remix from \"Hyper Commission - Zenless Zone Zero 2024 Mix\""
       },
       {
         "id": 241,
@@ -491,7 +533,8 @@
         "region": "Victoria Housekeeping",
         "youtubeId": "AX5KXHdz48M",
         "spotifyId": "1qeYcQh8V071s9xxiinoHh",
-        "fandomUrl": "Rules_for_Wanderers_Lost"
+        "fandomUrl": "Rules_for_Wanderers_Lost",
+        "context": "Rina Character Demo"
       },
       {
         "id": 242,
@@ -501,7 +544,8 @@
         "region": "Obol Squad",
         "youtubeId": "jfS1bQ66Yuw",
         "spotifyId": "49o0MaiHE0lylilo8rv5Sk",
-        "fandomUrl": "Achievements_Completion_Rate..._100%25"
+        "fandomUrl": "Achievements_Completion_Rate..._100%25",
+        "context": "Soldier 11 Character Demo"
       },
       {
         "id": 243,
@@ -511,7 +555,8 @@
         "region": "Victoria Housekeeping",
         "youtubeId": "tiNgIAepbVM",
         "spotifyId": "3699cL7pMtD134SGyjMxcX",
-        "fandomUrl": "Uniform%2C_Shark_Tail%2C_Scissors"
+        "fandomUrl": "Uniform%2C_Shark_Tail%2C_Scissors",
+        "context": "Ellen Character Demo"
       },
       {
         "id": 244,
@@ -521,7 +566,8 @@
         "region": "Public Security",
         "youtubeId": "QmvPEUUH_kA",
         "spotifyId": "6vHzdQHT0YGgWqoKoYbq5k",
-        "fandomUrl": "Captain_Overtime%21"
+        "fandomUrl": "Captain_Overtime%21",
+        "context": "Zhu Yuan Character Demo"
       },
       {
         "id": 245,
@@ -531,7 +577,8 @@
         "region": "Public Security",
         "youtubeId": "u_33IKVxTLY",
         "spotifyId": "1H2EtsnHJIZ88G8lIl1K4v",
-        "fandomUrl": "Youthful_Appearance%2C_Old_Soul"
+        "fandomUrl": "Youthful_Appearance%2C_Old_Soul",
+        "context": "Qingyi Character Demo"
       },
       {
         "id": 246,
@@ -541,7 +588,8 @@
         "region": "Public Security",
         "youtubeId": "9X8QNxRD91M",
         "spotifyId": "7zaUsZ0VIqDp6tq0Owyn8S",
-        "fandomUrl": "Deadly_Interrogation"
+        "fandomUrl": "Deadly_Interrogation",
+        "context": "Jane Character Demo"
       },
       {
         "id": 247,
@@ -551,7 +599,8 @@
         "region": "Sons of Calydon",
         "youtubeId": "oA1u7OApDN4",
         "spotifyId": "0gXIDak3FX05qXjdcqssZm",
-        "fandomUrl": "Calydon%27s_Ride"
+        "fandomUrl": "Calydon%27s_Ride",
+        "context": "Caesar Character Demo"
       },
       {
         "id": 248,
@@ -561,7 +610,8 @@
         "region": "Section 6",
         "youtubeId": "kuYPzlID3To",
         "spotifyId": "1SP6B7eEC3ziFEn7B1ZDsW",
-        "fandomUrl": "99%2B_To-Dos"
+        "fandomUrl": "99%2B_To-Dos",
+        "context": "Yanagi Character Demo"
       },
       {
         "id": 249,
@@ -571,7 +621,8 @@
         "region": "Sons of Calydon",
         "youtubeId": "-bzjXt6pFqw",
         "spotifyId": "5v8DOUTHUZzUgctw4Zr0MN",
-        "fandomUrl": "TKO"
+        "fandomUrl": "TKO",
+        "context": "Lighter Character Demo"
       },
       {
         "id": 250,
@@ -581,7 +632,8 @@
         "region": "Section 6",
         "youtubeId": "a30989Wz3Cc",
         "spotifyId": "6enPS3MJBNlg7zItSFekca",
-        "fandomUrl": "Everlasting_Training"
+        "fandomUrl": "Everlasting_Training",
+        "context": "Miyabi Character Demo"
       },
       {
         "id": 251,
@@ -591,7 +643,8 @@
         "region": "Section 6",
         "youtubeId": "WmTDiPjqwWQ",
         "spotifyId": "27saGvzOVurrF3zqk5xz43",
-        "fandomUrl": "When_the_Crows_Perch"
+        "fandomUrl": "When_the_Crows_Perch",
+        "context": "Harumasa Character Demo"
       },
       {
         "id": 252,
@@ -601,7 +654,8 @@
         "region": "Section 6",
         "youtubeId": "RTikfLJaDzI",
         "spotifyId": "44w6q4W7PJkEaoXdeojNYf",
-        "fandomUrl": "The_Path_to_Becoming_a_Hero"
+        "fandomUrl": "The_Path_to_Becoming_a_Hero",
+        "context": "\"The Path to Becoming a Hero\" Miyabi Animated Short"
       }
     ]
   },
@@ -616,7 +670,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "h0_I6tWC520",
         "spotifyId": "1StslCM3f5t1arKcjWjnZ3",
-        "fandomUrl": "Wonderland_Reverie"
+        "fandomUrl": "Wonderland_Reverie",
+        "context": "Astra Yao EP / Special Episode \"Astra-nomical Moment\" (cutscene)"
       },
       {
         "id": 254,
@@ -626,7 +681,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "5MP9OyTSP-o",
         "spotifyId": "3K7idHj6pUxQ9sAlMybzC4",
-        "fandomUrl": "Wonderland_Reverie_-_Instrumental"
+        "fandomUrl": "Wonderland_Reverie_-_Instrumental",
+        "context": "Instrumental version of \"Wonderland Reverie\""
       },
       {
         "id": 255,
@@ -636,7 +692,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "SG_j4MqDFL4",
         "spotifyId": "43M4iKt1yS180USobdq98j",
-        "fandomUrl": "Shining"
+        "fandomUrl": "Shining",
+        "context": "Special Episode \"Astra-nomical Moment\" (cutscene)"
       },
       {
         "id": 256,
@@ -646,7 +703,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "kyL0_ud2avo",
         "spotifyId": "35qqz0XWHKDlLk2NQpsWAl",
-        "fandomUrl": "Shining_-_Instrumental"
+        "fandomUrl": "Shining_-_Instrumental",
+        "context": "Instrumental version of \"Shining\""
       },
       {
         "id": 257,
@@ -656,7 +714,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "e80zT-558jY",
         "spotifyId": "0ddcSXm5VzpmviExjNj8X5",
-        "fandomUrl": "Original_Me"
+        "fandomUrl": "Original_Me",
+        "context": "Astra Yao Ultimate Theme"
       },
       {
         "id": 258,
@@ -666,7 +725,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "HQ4l-caJjnY",
         "spotifyId": "3tPpxXHG72h36Mxj4E2Td7",
-        "fandomUrl": "Original_Me_-_Instrumental"
+        "fandomUrl": "Original_Me_-_Instrumental",
+        "context": "Instrumental version of \"Original Me\" / Special Episode \"Astra-nomical Moment\" (cutscene)"
       },
       {
         "id": 259,
@@ -676,7 +736,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "sHvacnqgeFg",
         "spotifyId": "1vhYBi1SjwROEjVcaYWRBt",
-        "fandomUrl": "Original_Me_-_1St_Take_Ver."
+        "fandomUrl": "Original_Me_-_1St_Take_Ver.",
+        "context": "First take version of \"Original Me\""
       }
     ]
   },
@@ -685,13 +746,14 @@
     "songs": [
       {
         "id": 260,
-        "title": "Stars Align",
+        "title": "Stars Align (feat. Astra Yao)",
         "playedAt": ["Media"],
         "type": "Character",
         "region": "Stars of Lyra",
         "youtubeId": "UGfUaFjNNL4",
         "spotifyId": "62OmUhX3LOCp1mpyDCgnbb",
-        "fandomUrl": "Stars_Align"
+        "fandomUrl": "Stars_Align",
+        "context": "Evelyn EP"
       },
       {
         "id": 261,
@@ -701,7 +763,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "_cmD6HOHiAY",
         "spotifyId": "4x5NfE5OUvqm7zNfPcq7xX",
-        "fandomUrl": "Stars_Align_%28Instrumental%29"
+        "fandomUrl": "Stars_Align_%28Instrumental%29",
+        "context": "Instrumental version of \"Stars Align\""
       }
     ]
   }

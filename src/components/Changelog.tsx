@@ -8,7 +8,9 @@ const history = [
     changes: [
       "Added missing Fandom links for some songs",
       'Added "Experience the Paths Vol. 4" album (Honkai: Star Rail)',
-      "Adjusted context for some songs",
+      "Adjusted context for some Honkai: Star Rail songs",
+      "Added context for Zenless Zone Zero songs",
+      "Adjusted some Zenless Zone Zero album data",
     ],
   },
   {
