@@ -3813,6 +3813,7 @@
         "region": "Amphoreus",
         "youtubeId": "Ebrn_9EcVNc",
         "spotifyId": "78nuEB3JHtCc06r5OcHJyc",
+        "fandomUrl": "Whisper_of_Prophecy",
         "context": "Trailblaze Mission Chapter IV: \"Silver Chariot, Away to that Blackened Land\" (during Tribbie's ballad)"
       },
       {
@@ -3823,6 +3824,7 @@
         "region": "Amphoreus",
         "youtubeId": "cMjt6ijYx7A",
         "spotifyId": "79oAyGpdWUaOnSBsz1djcX",
+        "fandomUrl": "As_Written_By_Whom",
         "context": "\"As I've Written\" Journal Theme"
       },
       {
@@ -3833,6 +3835,7 @@
         "region": "Amphoreus",
         "youtubeId": "lk1rRQiUjcY",
         "spotifyId": "1pY2NwXHxaRRpdNcNcs2AK",
+        "fandomUrl": "Prayer_for_Pathlessness",
         "context": "Trailblaze Mission Chapter IV: \"Night Stars, Accompany My Slumber\" (Aglaea's interrogation)"
       },
       {
@@ -3843,6 +3846,7 @@
         "region": "Amphoreus",
         "youtubeId": "9_j_9kLXnxc",
         "spotifyId": "0nl9qIY9FZCyoXamzrIahO",
+        "fandomUrl": "Whispers_of_Day",
         "context": "Trailblaze Mission Chapter IV: \"Hero, Bear Thy Coreflame\" (Aedes Elysiae flashback)"
       },
       {
@@ -3853,6 +3857,7 @@
         "region": "Amphoreus",
         "youtubeId": "zRgoLVDCmmc",
         "spotifyId": "3U6k8Vj1hmOOgwYvvMxpbj",
+        "fandomUrl": "Within_the_Veil",
         "context": "\"Eternal Holy City\" Okhema (near Misia)"
       },
       {
@@ -3863,6 +3868,7 @@
         "region": "Amphoreus",
         "youtubeId": "RTaasXA_vJE",
         "spotifyId": "53YhXcSkHS4rScoPgQo0Rz",
+        "fandomUrl": "Fading_Prophecy",
         "context": "Trailblaze Mission Chapter IV: \"Silver Chariot, Away to that Blackened Land\" (Black Swan reveals Amphoreus)"
       },
       {
@@ -3873,6 +3879,7 @@
         "region": "Amphoreus",
         "youtubeId": "gRMDdsT1Me0",
         "spotifyId": "59DIOtwiRVcoeoLqYwC0IQ",
+        "fandomUrl": "Weaver_of_Memories",
         "context": "Trailblaze Mission Chapter IV: \"Night Veil, Shroud the Silent Past\" (during Trailblazer's memory)"
       },
       {
@@ -3883,6 +3890,7 @@
         "region": "Amphoreus",
         "youtubeId": "OkdU-9JXDzA",
         "spotifyId": "7LQNy66S1FctK9spAavYcQ",
+        "fandomUrl": "Silent_Strings",
         "context": "\"Golden Scapegoat\" Puzzle Theme"
       },
       {
@@ -3893,6 +3901,7 @@
         "region": "Amphoreus",
         "youtubeId": "aW4wf0AjPxw",
         "spotifyId": "6vlA7vkjIKMQaqCvtVNBPF",
+        "fandomUrl": "Origin_and_Finale",
         "context": "Vortex of Genesis"
       },
       {
@@ -3903,6 +3912,7 @@
         "region": "Amphoreus",
         "youtubeId": "PYSnB0Q15xo",
         "spotifyId": "6x8z3qAPn2iOGh2QLbGe1x",
+        "fandomUrl": "Where_the_Inscription_Was",
         "context": "Trailblaze Mission Chapter IV: \"Kremnos, Cleanse Thy Rusted Blood (II)\" (after getting the Seed of Fire)"
       },
       {
@@ -3913,6 +3923,7 @@
         "region": "Amphoreus",
         "youtubeId": "0qc7zw7Q2js",
         "spotifyId": "4Nq9ugqYVvkfcKYzr1vk2d",
+        "fandomUrl": "Undying_Glory",
         "context": "\"Bloodbathed Battlefront\" Castrum Kremnos"
       },
       {
@@ -3923,6 +3934,7 @@
         "region": "Amphoreus",
         "youtubeId": "ccN4sM9TGzg",
         "spotifyId": "1QkFcqSgKkQn8VoJQ1CXKJ",
+        "fandomUrl": "The_Eternal_Campflame",
         "context": "\"Bloodbathed Battlefront\" Castrum Kremnos (indoor)"
       },
       {
@@ -3933,6 +3945,7 @@
         "region": "Amphoreus",
         "youtubeId": "yeQRsupzhPg",
         "spotifyId": "3GsXIW13o1J9DKeKFGzYyb",
+        "fandomUrl": "Beacon_Smoke_Residue",
         "context": "\"Strife Ruins\" Castrum Kremnos"
       },
       {
@@ -3943,6 +3956,7 @@
         "region": "Amphoreus",
         "youtubeId": "BuRj_tFeGE8",
         "spotifyId": "5EybbnxPQVDR1NIw2koC19",
+        "fandomUrl": "Axe_of_Evernight",
         "context": "\"Strife Ruins\" Castrum Kremnos (indoor)"
       },
       {
@@ -3953,6 +3967,7 @@
         "region": "Amphoreus",
         "youtubeId": "7NHnkgPzqtk",
         "spotifyId": "33trzsOKpNKQKQXKKCLVom",
+        "fandomUrl": "To_Gorgo",
         "context": "\"Strife Ruins\" Castrum Kremnos - Kremnos Area"
       },
       {
@@ -3963,6 +3978,7 @@
         "region": "Amphoreus",
         "youtubeId": "rzAnLhhspF8",
         "spotifyId": "0V0BUwBtJKQGUVUCe6Me3G",
+        "fandomUrl": "To_All_Things_Strifeful",
         "context": "\"Lance of Fury\" Nikador Boss Fight (second encounter)"
       },
       {
@@ -3973,6 +3989,7 @@
         "region": "Amphoreus",
         "youtubeId": "yCnyp5-X-2A",
         "spotifyId": "16S2nBNkbAJILUx7XBfXP1",
+        "fandomUrl": "King_Father_of_All",
         "context": "\"Lance of Fury\" Nikador Boss Fight (first encounter)"
       }
     ]
