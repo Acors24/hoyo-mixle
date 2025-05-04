@@ -767,5 +767,21 @@
         "context": "Instrumental version of \"Stars Align\""
       }
     ]
+  },
+  {
+    "title": "Shining Promise in the Sky of Dawn",
+    "songs": [
+      {
+        "id": 261,
+        "title": "Shining Promise in the Sky of Dawn",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "rTkTEeB14RM",
+        "spotifyId": "1WpEar5OHhx2bIPqV9UzWe",
+        "fandomUrl": "Shining_Promise_in_the_Sky_of_Dawn",
+        "context": "Starlight Knight EP"
+      }
+    ]
   }
 ]

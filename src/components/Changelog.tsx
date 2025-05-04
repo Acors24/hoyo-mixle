@@ -13,6 +13,7 @@ const history = [
       "Adjusted some Zenless Zone Zero album data",
       '"Fixed" "ZENLESS" having no thumbnail',
       "Adjusted Zenless Zone Zero styling",
+      'Added "Shining Promise in the Sky of Dawn" album (Zenless Zone Zero)',
     ],
   },
   {
