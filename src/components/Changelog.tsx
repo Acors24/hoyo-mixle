@@ -5,7 +5,11 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-05-04",
-    changes: ["Added missing Fandom links for some songs"],
+    changes: [
+      "Added missing Fandom links for some songs",
+      'Added "Experience the Paths Vol. 4" album (Honkai: Star Rail)',
+      "Adjusted context for some songs",
+    ],
   },
   {
     date: "2025-05-01",
