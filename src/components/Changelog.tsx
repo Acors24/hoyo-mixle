@@ -11,6 +11,7 @@ const history = [
       "Adjusted context for some Honkai: Star Rail songs",
       "Added context for Zenless Zone Zero songs",
       "Adjusted some Zenless Zone Zero album data",
+      '"Fixed" "ZENLESS" having no thumbnail',
     ],
   },
   {

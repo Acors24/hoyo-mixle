@@ -78,7 +78,15 @@ function getTodaysSong(albums: Album[]): Song {
   return getRng().choice(albums.flatMap((album) => album.songs))!;
 }
 
+const fallbackThumbnails: Record<string, string> = {
+  "4AMpTkEx6fI": "DSiCNyJC2q4",
+};
+
 function getYouTubeThumbnail(youtubeId: string): string {
+  if (youtubeId in fallbackThumbnails) {
+    youtubeId = fallbackThumbnails[youtubeId];
+  }
+
   return `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`;
 }
 
