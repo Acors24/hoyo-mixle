@@ -118,7 +118,11 @@ export default function SamplePlayer({
         {starts.length === 0 && <CgSpinner className="w-8 h-8 animate-spin" />}
         {starts.length !== 0 && gameState === "playing" && (
           <>
-            <VolumeControl initialVolume={volume} onVolumeChange={setVolume} />
+            <VolumeControl
+              initialVolume={volume}
+              onVolumeChange={setVolume}
+              orientation="vertical"
+            />
             <div className="flex flex-col gap-4">
               {starts.map((startAt, index) => (
                 <SampleControl
@@ -136,12 +140,19 @@ export default function SamplePlayer({
           </>
         )}
         {starts.length !== 0 && gameState !== "playing" && (
-          <TrackBar
-            duration={durationRef.current ?? 1}
-            starts={starts}
-            playerRef={playerRef}
-            playerState={playerState}
-          />
+          <>
+            <VolumeControl
+              initialVolume={volume}
+              onVolumeChange={setVolume}
+              orientation="horizontal"
+            />
+            <TrackBar
+              duration={durationRef.current ?? 1}
+              starts={starts}
+              playerRef={playerRef}
+              playerState={playerState}
+            />
+          </>
         )}
       </div>
     </>

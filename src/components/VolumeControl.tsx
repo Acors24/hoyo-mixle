@@ -6,9 +6,11 @@ import * as Slider from "@radix-ui/react-slider";
 export default function VolumeControl({
   initialVolume,
   onVolumeChange,
+  orientation,
 }: {
   initialVolume: number;
   onVolumeChange: (volume: number) => void;
+  orientation: "horizontal" | "vertical";
 }) {
   const handleVolumeChange = (value: number) => {
     onVolumeChange(Number(value));
@@ -30,18 +32,7 @@ export default function VolumeControl({
   };
 
   return (
-    <div id="volume-control">
-      <Slider.Root
-        className="slider-root"
-        value={[volume]}
-        onValueChange={(vs) => handleVolumeChange(vs[0])}
-        orientation="vertical"
-      >
-        <Slider.Track className="slider-track">
-          <Slider.Range className="slider-range" />
-        </Slider.Track>
-        <Slider.Thumb className="slider-thumb" />
-      </Slider.Root>
+    <div id="volume-control" data-orientation={orientation}>
       <IconButton
         icon={
           volume > 50 ? (
@@ -54,6 +45,17 @@ export default function VolumeControl({
         }
         onClick={handleButtonClick}
       />
+      <Slider.Root
+        className="slider-root"
+        value={[volume]}
+        onValueChange={(vs) => handleVolumeChange(vs[0])}
+        orientation={orientation}
+      >
+        <Slider.Track className="slider-track">
+          <Slider.Range className="slider-range" />
+        </Slider.Track>
+        <Slider.Thumb className="slider-thumb" />
+      </Slider.Root>
     </div>
   );
 }

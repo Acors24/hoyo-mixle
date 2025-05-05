@@ -231,28 +231,56 @@
     padding: 0.5rem 1rem;
     border-top-right-radius: 2rem;
     overflow: hidden;
+
+    @media screen and (max-width: 640px) {
+      &:has(> #trackbar-container) {
+        flex-direction: column-reverse;
+      }
+    }
   }
 
   .slider-root {
     position: relative;
     display: flex;
-    flex-direction: column;
     align-items: center;
     touch-action: none;
-    height: 100px;
+
+    &[data-orientation="horizontal"] {
+      flex-direction: row;
+      width: 100px;
+
+      .slider-track {
+        height: 4px;
+
+        .slider-range {
+          height: 100%;
+        }
+      }
+    }
+
+    &[data-orientation="vertical"] {
+      flex-direction: column;
+      height: 100px;
+
+      .slider-track {
+        width: 4px;
+
+        .slider-range {
+          width: 100%;
+        }
+      }
+    }
   }
 
   .slider-track {
     background: rgb(255 255 255 / 0.2);
     position: relative;
     flex-grow: 1;
-    width: 4px;
   }
 
   .slider-range {
     position: absolute;
     background-color: #f09839;
-    width: 100%;
   }
 
   .slider-thumb {
@@ -686,8 +714,20 @@
     outline: 1px solid rgba(0 0 0 / 0.5);
   }
 
-  #volume-control .slider-root {
-    margin: 0.5rem 0;
+  #volume-control {
+    display: flex;
+
+    &[data-orientation="horizontal"] {
+      flex-direction: row;
+    }
+
+    &[data-orientation="vertical"] {
+      flex-direction: column-reverse;
+    }
+
+    .slider-root {
+      margin: 0.5rem;
+    }
   }
 
   .youtube-button {
