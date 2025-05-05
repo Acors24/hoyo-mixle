@@ -8,6 +8,7 @@ const history = [
     changes: [
       "Volume control slider is now displayed after finishing a round too",
       "Adjusted HSR song card styling",
+      "Fixed a link in the About dialog",
     ],
   },
   {

@@ -31,7 +31,7 @@ export default function About() {
           </li>
           <li>
             <a
-              href="https://https://zenless-zone-zero.fandom.com/wiki/Zenless_Zone_Zero_Wiki"
+              href="https://zenless-zone-zero.fandom.com/wiki/Zenless_Zone_Zero_Wiki"
               target="_blank"
               rel="noreferrer"
               className="text-amber-200 hover:underline"
