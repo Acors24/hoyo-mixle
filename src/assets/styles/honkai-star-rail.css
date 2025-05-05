@@ -328,17 +328,25 @@
       z-index: -1;
     }
 
-    #thumbnail {
-      object-fit: cover;
-      pointer-events: none;
-      aspect-ratio: 1;
-      mask-image: linear-gradient(to bottom, white 50%, transparent 100%);
-      border-top-right-radius: 2rem;
+    #thumbnail-container {
+      width: 100%;
 
       @media screen and (min-width: 640px) {
-        mask-image: linear-gradient(to right, white 50%, transparent 100%);
-        border-top-right-radius: 0;
-        width: 20rem;
+        width: 20em;
+      }
+
+      #thumbnail {
+        height: 100%;
+        object-fit: cover;
+        pointer-events: none;
+        aspect-ratio: 1;
+        mask-image: linear-gradient(to bottom, white 50%, transparent 100%);
+        border-top-right-radius: 2rem;
+
+        @media screen and (min-width: 640px) {
+          mask-image: linear-gradient(to right, white 50%, transparent 100%);
+          border-top-right-radius: 0;
+        }
       }
     }
 

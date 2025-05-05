@@ -7,6 +7,7 @@ const history = [
     date: "2025-05-05",
     changes: [
       "Volume control slider is now displayed after finishing a round too",
+      "Adjusted HSR song card styling",
     ],
   },
   {
