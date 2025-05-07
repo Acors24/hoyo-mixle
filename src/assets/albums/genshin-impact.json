@@ -3319,7 +3319,7 @@
         "youtubeId": "SQv-VR3JDmY",
         "spotifyId": "57F1RBhhTM2mDG7sIRRWSS",
         "fandomUrl": "Dream_of_Homeland",
-        "context": "Narukami Island - Inazuma City - Komore Teahouse / Ritou (night)"
+        "context": "Narukami Island - Inazuma City > Komore Teahouse / Ritou (night)"
       },
       {
         "id": 272,
@@ -10648,7 +10648,7 @@
         "youtubeId": "ENy9JiEaixM",
         "spotifyId": "59XyZD7w72WDvRhiOqNbio",
         "fandomUrl": "La_cite_en_la_mer",
-        "context": "Institute of Natural Philosoph / Tower of Ipsissimus (underwater, after sinking)"
+        "context": "Institute of Natural Philosophy / Tower of Ipsissimus (underwater, after sinking)"
       },
       {
         "id": 883,
@@ -16193,6 +16193,649 @@
         "spotifyId": "6KnOLpNQVQp5B2jPnlH5hm",
         "fandomUrl": "The_Rime_of_the_Ancient_Bargeman_(III)_-_Instrumental",
         "context": "Instrumental version of \"The Rime of the Ancient Bargeman (III)\""
+      }
+    ]
+  },
+  {
+    "title": "Radiance Aflame",
+    "songs": [
+      {
+        "id": 1365,
+        "title": "Bounty of the Fertile Slopes",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "rifOJik0nUM",
+        "spotifyId": "1WSlm6dw424sLWKwSwkZjm",
+        "fandomUrl": "Bounty_of_the_Fertile_Slopes",
+        "context": "Atocpan - \"Collective of Plenty\" (day)"
+      },
+      {
+        "id": 1366,
+        "title": "The Brisk Morning Air",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "F3B0BJ72X_A",
+        "spotifyId": "6S4UDH2xXtNfJNabW8nkFc",
+        "fandomUrl": "The_Brisk_Morning_Air",
+        "context": "Atocpan - \"Collective of Plenty\" (day)"
+      },
+      {
+        "id": 1367,
+        "title": "Strength in Motion",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "T3svyUjGjxs",
+        "spotifyId": "1u9hgIqBkvZSLf1qrbEPT0",
+        "fandomUrl": "Strength_in_Motion",
+        "context": "Atocpan - \"Collective of Plenty\" (night)"
+      },
+      {
+        "id": 1368,
+        "title": "Evening's Ease",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "szI70SzFnQM",
+        "spotifyId": "556BghQwe9gnkHnzpGiP8u",
+        "fandomUrl": "Evening%27s_Ease",
+        "context": "Atocpan - \"Collective of Plenty\" (night)"
+      },
+      {
+        "id": 1369,
+        "title": "Soil of Bright Flame",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "TR0DFt1yOzs",
+        "spotifyId": "010EmN4UZJuw3f52wjlGHq",
+        "fandomUrl": "Soil_of_Bright_Flame",
+        "context": "Atocpan - Varesa's Orchard (day)"
+      },
+      {
+        "id": 1370,
+        "title": "Meandering Fruit Fragrance",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "rbiD_jTeCjQ",
+        "spotifyId": "70NuN7T3kt040irbNVr4Y2",
+        "fandomUrl": "Meandering_Fruit_Fragrance",
+        "context": "Atocpan - Varesa's Orchard (day)"
+      },
+      {
+        "id": 1371,
+        "title": "Sleep After the Toil",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "2WlI752qmiQ",
+        "spotifyId": "0VAp9KaLZHd4oWhy4vrGRE",
+        "fandomUrl": "Sleep_After_the_Toil",
+        "context": "Atocpan - Varesa's Orchard (night)"
+      },
+      {
+        "id": 1372,
+        "title": "A Flicker in the Quiet",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "LVkmOSxYTVg",
+        "spotifyId": "79C6CiLu3mmoDVioFWxYbr",
+        "fandomUrl": "A_Flicker_in_the_Quiet",
+        "context": "Atocpan - Varesa's Orchard (night)"
+      },
+      {
+        "id": 1373,
+        "title": "The Horn Has Sounded",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "zxiYM9NxIOE",
+        "spotifyId": "0IHAi7VUsEvejyjEHvDm13",
+        "fandomUrl": "The_Horn_Has_Sounded",
+        "context": "Atocpan - \"Collective of Plenty\" > Grand Wrestling Grounds"
+      },
+      {
+        "id": 1374,
+        "title": "Skyfire Circlet",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "AGHII2cBTFc",
+        "spotifyId": "3U8J4sGklVBTsxMb7rMoRj",
+        "fandomUrl": "Skyfire_Circlet_%28Soundtrack%29",
+        "context": "Atocpan - Skyfire Circlet"
+      },
+      {
+        "id": 1375,
+        "title": "Walk With the Blazing Fire",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "ipxwgV_tuc0",
+        "spotifyId": "68ahKiecsjXEy1WUSN4Vn7",
+        "fandomUrl": "Walk_With_the_Blazing_Fire",
+        "context": "Ancient Sacred Mountain - Summoning Hall (before lighting up during \"The Frozen, Rekindling Land\" World Quest)"
+      },
+      {
+        "id": 1376,
+        "title": "Land of Primal Flame",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "ezaEo6DoE5w",
+        "spotifyId": "7eit3M9dwexNkxgx6ynNSl",
+        "fandomUrl": "Land_of_Primal_Flame",
+        "context": "Ancient Sacred Mountain - Sacred City of Tollan"
+      },
+      {
+        "id": 1377,
+        "title": "A Deed No Less Than Star-Forging",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "ZvKtR0X_IXI",
+        "spotifyId": "4ph4kK6CwzUIQLCJ7QhJgt",
+        "fandomUrl": "A_Deed_No_Less_Than_Star-Forging",
+        "context": "Ancient Sacred Mountain - Sacred City of Tollan"
+      },
+      {
+        "id": 1378,
+        "title": "Sea of Shifting Sentience",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "CVVAMH31pms",
+        "spotifyId": "5TRRa5kZKkT3CCk2UR6Eiz",
+        "fandomUrl": "Sea_of_Shifting_Sentience_%28Soundtrack%29",
+        "context": "Ancient Sacred Mountain - Sacred City of Tollan > Sea of Shifting Sentience"
+      },
+      {
+        "id": 1379,
+        "title": "The Dream That Was Tollan",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "m3FnD2Uo_PI",
+        "spotifyId": "2b2hpkygYj2oDhwqC3Q8Jg",
+        "fandomUrl": "The_Dream_That_Was_Tollan",
+        "context": "Ancient Sacred Mountain - Dragons' Residence"
+      },
+      {
+        "id": 1380,
+        "title": "Of That Colossal Wreck",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "no_SkZP-DQY",
+        "spotifyId": "7EqNLqcMx2HQCJWB6nWAqH",
+        "fandomUrl": "Of_That_Colossal_Wreck",
+        "context": "Ancient Sacred Mountain - Dragons' Residence"
+      },
+      {
+        "id": 1381,
+        "title": "Ri Yokobal kech ri Ajaw Ch'ulel",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "3sbQ_IEh8lc",
+        "spotifyId": "6AxWw1GKhyEzc1EsDNd61a",
+        "fandomUrl": "Ri_Yokobal_kech_ri_Ajaw_Ch%27ulel",
+        "context": "Ancient Sacred Mountain - Chamber of Deliberation"
+      },
+      {
+        "id": 1382,
+        "title": "The Path Towards Tota'ch'imil",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "aJrkR--O3lg",
+        "spotifyId": "7xeQkTZxQlLHGzWCrsPzMy",
+        "fandomUrl": "The_Path_Towards_Tota%27ch%27imil",
+        "context": "Ancient Sacred Mountain - Heart of the Sacred Mountain (during \"As the Burning Sun Sears Shadows\" World Quest)"
+      },
+      {
+        "id": 1383,
+        "title": "Kukulkan's Deceit",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "Gb538KHVNDo",
+        "spotifyId": "5kSFEnnjmOCExnfsaSrtjF",
+        "fandomUrl": "Kukulkan%27s_Deceit",
+        "context": "Ancient Sacred Mountain - Heart of the Sacred Mountain (\"Primal Source Dragon Mech\" Battle Arena)"
+      },
+      {
+        "id": 1384,
+        "title": "Where the Dragon Casts Its Will",
+        "playedAt": ["Quests", ["World Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "4brIATwiKgw",
+        "spotifyId": "798SAZBZ0kS6bDRd1cGLW8",
+        "fandomUrl": "Where_the_Dragon_Casts_Its_Will",
+        "context": "Ancient Sacred Mountain - Heart of the Sacred Mountain (Huitzilopochtli device area)"
+      },
+      {
+        "id": 1385,
+        "title": "Radiance Unfading",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "8yeQr137XJo",
+        "spotifyId": "7xyXAujh3hToKNQqc6GPGg",
+        "fandomUrl": "Radiance_Unfading",
+        "context": "Archon Quest Chapter V Act V"
+      },
+      {
+        "id": 1386,
+        "title": "His Rest Was in the Night",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "_93wdg311SY",
+        "spotifyId": "1M3l3lw6M2BXGMURxDnFzj",
+        "fandomUrl": "His_Rest_Was_in_the_Night",
+        "context": "Ochkanatlan - Throne of the Primal Fire"
+      },
+      {
+        "id": 1387,
+        "title": "Inheritors of Memory and Legend",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "A6JHYHyYgKg",
+        "spotifyId": "2JmmecLuL0jOhaOOW0a2L1",
+        "fandomUrl": "Inheritors_of_Memory_and_Legend",
+        "context": "Archon Quest Chapter V Act V (near Natlan Commemorative Monument)"
+      },
+      {
+        "id": 1388,
+        "title": "Spring Returns in Splendor",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "E2_pdRfNU2o",
+        "spotifyId": "75NRpegwjgolAyrQ5aXtOZ",
+        "fandomUrl": "Spring_Returns_in_Splendor",
+        "context": "\"Springtime Charms\" Event (menu)"
+      },
+      {
+        "id": 1389,
+        "title": "The World at Bay Beyond the Pillow",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Natlan",
+        "youtubeId": "_teoS2qjaMU",
+        "spotifyId": "6vR9zFzNFX1BhYRPNL29GM",
+        "fandomUrl": "The_World_at_Bay_Beyond_the_Pillow",
+        "context": "Tezcatepetonco Range - Citlali's Home"
+      },
+      {
+        "id": 1390,
+        "title": "Misty Redolence",
+        "playedAt": ["Open-World Locations", "Media"],
+        "type": "Open-World",
+        "region": "Inazuma",
+        "youtubeId": "HU0pCElZqPA",
+        "spotifyId": "4YmdsXIiNU3BWLT2s0MZ7k",
+        "fandomUrl": "Misty_Redolence",
+        "context": "Narukami Island - Inazuma City > Aisa Bathhouse"
+      },
+      {
+        "id": 1391,
+        "title": "Entwined in Thought",
+        "playedAt": ["Quests", ["Story Quests", "Events"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "AQM2ztm57nY",
+        "spotifyId": "1ykEgtytdFTUr3UI5PqNyg",
+        "fandomUrl": "Entwined_in_Thought",
+        "context": "Narukami Island - Inazuma City > Aisa Bathhouse"
+      },
+      {
+        "id": 1392,
+        "title": "Drifting Into Dream",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "9NVU2sOXQ34",
+        "spotifyId": "5wwUbc0bohAf39BiVRsg8y",
+        "fandomUrl": "Drifting_Into_Dream",
+        "context": "Yumemizuki Mizuki Story Quest (during therapy session)"
+      },
+      {
+        "id": 1393,
+        "title": "A Fox's Little Daydream",
+        "playedAt": ["Event Gameplay", "Media"],
+        "type": "Event",
+        "region": "Inazuma",
+        "youtubeId": "85VPQ7Gds_M",
+        "spotifyId": "6zKd7DLs7S4CPH875zQWV8",
+        "fandomUrl": "A_Fox%27s_Little_Daydream",
+        "context": "\"Enchanted Tales of the Mikawa Festival\" Event (\"A Little Fox's Daydream\" minigame)"
+      },
+      {
+        "id": 1394,
+        "title": "The Mushroom Creeps In",
+        "playedAt": ["Quests", ["Story Quests"], "Domains", "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "YwWjtfNM2IQ",
+        "spotifyId": "4NNbpPLgZKSk7Z6vyQSFfj",
+        "fandomUrl": "The_Mushroom_Creeps_In",
+        "context": "Varesa Tribal Chronicles Act III (domain)"
+      },
+      {
+        "id": 1395,
+        "title": "Duel Between the Springs and the Echoes",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "fnafcA40rT8",
+        "spotifyId": "7iZ0PmqLwNqi8HoaUeQgZX",
+        "fandomUrl": "Duel_Between_the_Springs_and_the_Echoes",
+        "context": "Archon Quest Chapter V Act I (cutscene)"
+      },
+      {
+        "id": 1396,
+        "title": "Not All Blades Point the Same Way",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "xjefHnkVne0",
+        "spotifyId": "3Gf5LuwkSsw4P5gJ5PaUbf",
+        "fandomUrl": "Not_All_Blades_Point_the_Same_Way",
+        "context": "Archon Quest Chapter V Act II (cutscene)"
+      },
+      {
+        "id": 1397,
+        "title": "Where Hope Ended, Fire Began",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "CzR65msjSLw",
+        "spotifyId": "3SA7ui6KwJskYthYQEaPFf",
+        "fandomUrl": "Where_Hope_Ended%2C_Fire_Began",
+        "context": "Archon Quest Chapter V Act II (cutscene)"
+      },
+      {
+        "id": 1398,
+        "title": "Those That Stand With the Flame",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "TRVIxTgp0cQ",
+        "spotifyId": "63BxHXVI9i48OisaxTUddt",
+        "fandomUrl": "Those_That_Stand_With_the_Flame",
+        "context": "Archon Quest Chapter V Act IV (cutscene)"
+      },
+      {
+        "id": 1399,
+        "title": "And We Burn as One",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "tftBFWkyjxY",
+        "spotifyId": "2YryFWEbfGqHh6MEtomXaR",
+        "fandomUrl": "And_We_Burn_as_One",
+        "context": "Archon Quest Chapter V Act IV (cutscene)"
+      },
+      {
+        "id": 1400,
+        "title": "Blaze to Break the Dawn",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "vTl1RquEyIw",
+        "spotifyId": "4dzTGiawRIsAGRQ8EApGZZ",
+        "fandomUrl": "Blaze_to_Break_the_Dawn",
+        "context": "Archon Quest Chapter V Act IV (cutscene)"
+      },
+      {
+        "id": 1401,
+        "title": "Here Cometh the Flamelord",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "b-n0Gzm6PEs",
+        "spotifyId": "4LiK29JqEcz2cF24JC0afC",
+        "fandomUrl": "Here_Cometh_the_Flamelord",
+        "context": "Archon Quest Chapter V Act V (cutscene)"
+      },
+      {
+        "id": 1402,
+        "title": "Till a Thousand Suns Arose",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "ApdC-VcWhgU",
+        "spotifyId": "6HoxcoTTrc983G7JckzaXp",
+        "fandomUrl": "Till_a_Thousand_Suns_Arose",
+        "context": "Archon Quest Chapter V Act V (cutscene)"
+      },
+      {
+        "id": 1403,
+        "title": "The Return Through the Fire",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "p3NZ8wKAX78",
+        "spotifyId": "7ClMIuizRfQxsfl6ACPR8T",
+        "fandomUrl": "The_Return_Through_the_Fire",
+        "context": "Archon Quest Chapter V Act V (cutscene)"
+      },
+      {
+        "id": 1404,
+        "title": "To the End, They Remain",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "P62jhtpH4Xw",
+        "spotifyId": "3ISGkvcvmO2eZJ39ve7FYY",
+        "fandomUrl": "To_the_End%2C_They_Remain",
+        "context": "Archon Quest Chapter V Act V (cutscene)"
+      },
+      {
+        "id": 1405,
+        "title": "Pro Vitis Horum",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "slgz3N0ZTTs",
+        "spotifyId": "6ufr2LeIdyLn9bMlbLwya6",
+        "fandomUrl": "Pro_Vitis_Horum",
+        "context": "\"Memories of This Life\" Capitano Animated Short"
+      },
+      {
+        "id": 1406,
+        "title": "Vigil for Reunion",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "Z2rO5wAJHXY",
+        "spotifyId": "7GVrGoJ9ldf25hBfmCvezL",
+        "fandomUrl": "Vigil_for_Reunion",
+        "context": "Kinich Tribal Chronicles Act III (cutscene)"
+      },
+      {
+        "id": 1407,
+        "title": "Circle of the Journey",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "L503V9JYRqs",
+        "spotifyId": "3gokU9FiqUoESy1fqnZohs",
+        "fandomUrl": "Circle_of_the_Journey",
+        "context": "Mualani Tribal Chronicles Act III (cutscene)"
+      },
+      {
+        "id": 1408,
+        "title": "Of Truth Etched in Name",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "_ERn_T-6eAo",
+        "spotifyId": "5YfIfBCa3fMpE7cKXQH9O6",
+        "fandomUrl": "Of_Truth_Etched_in_Name",
+        "context": "Xilonen Tribal Chronicles Act III (cutscene)"
+      },
+      {
+        "id": 1409,
+        "title": "Sprouting of a Gentle Wish",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Sumeru",
+        "youtubeId": "grNmsYd4IoU",
+        "spotifyId": "329h4JWkhgL5fHb8CCFgfM",
+        "fandomUrl": "Sprouting_of_a_Gentle_Wish",
+        "context": "\"Chromatic Ode of Candies and Roses\" Event (cutscene)"
+      },
+      {
+        "id": 1410,
+        "title": "Beneath My Wings",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "eHzax8L9pX4",
+        "spotifyId": "7BxloQhJou4EcswnH3SE4f",
+        "fandomUrl": "Beneath_My_Wings",
+        "context": "Chasca Tribal Chronicles Act III (cutscene)"
+      },
+      {
+        "id": 1411,
+        "title": "The Flame Ever Ablaze",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "UYm78vw8sVE",
+        "spotifyId": "34Dbq2pUUOHI8hkgGrIUDm",
+        "fandomUrl": "The_Flame_Ever_Ablaze",
+        "context": "Mavuika Story Quest (cutscene)"
+      },
+      {
+        "id": 1412,
+        "title": "Woven in the Smoke of Memory",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "6jVsRknX4yc",
+        "spotifyId": "1CZIs5Wvs7LAUHyLzNINPh",
+        "fandomUrl": "Woven_in_the_Smoke_of_Memory",
+        "context": "Citlali Tribal Chronicles Act III (cutscene)"
+      },
+      {
+        "id": 1413,
+        "title": "A Favor of the Great Shaman",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "N1st7jtqP7s",
+        "spotifyId": "2aKhGG0HfvHwTUNWP9YeDz",
+        "fandomUrl": "A_Favor_of_the_Great_Shaman",
+        "context": "\"Wish in a Bottle\" Citlali Character Anecdote"
+      },
+      {
+        "id": 1414,
+        "title": "Nibbling on Nightmares",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Inazuma",
+        "youtubeId": "SwFpNihcBvM",
+        "spotifyId": "2aCXuJsIzjxeZc9BKpV57G",
+        "fandomUrl": "Nibbling_on_Nightmares",
+        "context": "Yumemizuki Mizuki Story Quest (cutscene)"
+      },
+      {
+        "id": 1415,
+        "title": "When Slumber Lifts",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Inazuma",
+        "youtubeId": "BMT5Bn3OlwY",
+        "spotifyId": "0mwsIuTqGMQ9DcoGSsmcp8",
+        "fandomUrl": "When_Slumber_Lifts",
+        "context": "\"Enchanted Tales of the Mikawa Festival\" Event (cutscene)"
+      },
+      {
+        "id": 1416,
+        "title": "Eat or Be Eaten",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "cbe-NQwvuzk",
+        "spotifyId": "19ZjAIoIRbedQuVjTrHHy2",
+        "fandomUrl": "Eat_or_Be_Eaten",
+        "context": "Varesa Tribal Chronicles Act III (cutscene)"
+      },
+      {
+        "id": 1417,
+        "title": "Here Lies the Realm of Dragons",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Natlan",
+        "youtubeId": "YWREla1yg8w",
+        "spotifyId": "6SApPrtl30ZO4zcZvcdfPW",
+        "fandomUrl": "Here_Lies_the_Realm_of_Dragons",
+        "context": "\"Tournament of Glory in Bloom\" Event (cutscene)"
+      },
+      {
+        "id": 1418,
+        "title": "The Fire That Memory Keeps",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "qKy_Ar1ig0w",
+        "spotifyId": "3kh0GO4NuD4wYyFDE4JY9i",
+        "fandomUrl": "The_Fire_That_Memory_Keeps",
+        "context": "Archon Quest Chapter V Act V (domain battle music)"
+      },
+      {
+        "id": 1419,
+        "title": "Path Lit by Night",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "JCV-N2VrNi8",
+        "spotifyId": "3sY3M1V6IHuca9MePrlJkE",
+        "fandomUrl": "Path_Lit_by_Night",
+        "context": "Archon Quest Chapter V Act V (domain battle music)"
+      },
+      {
+        "id": 1420,
+        "title": "Vitas Corrodens Pestis",
+        "playedAt": ["Domains", "Media"],
+        "type": "Boss",
+        "region": "Natlan",
+        "youtubeId": "pZRSJ00DABs",
+        "spotifyId": "41ULvYL5zrXI3NSKTxm3wA",
+        "fandomUrl": "Vitas_Corrodens_Pestis",
+        "context": "\"Lord of Eroded Primal Fire\" Boss Fight / Archon Quest Chapter V Act V (domain battle music)"
+      },
+      {
+        "id": 1421,
+        "title": "Ode of Resurrection: Recapitulation",
+        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "type": "Quest",
+        "region": "Natlan",
+        "youtubeId": "HcQtYcA-blM",
+        "spotifyId": "2veCqqvR69JbR1gWNV8ieC",
+        "fandomUrl": "Ode_of_Resurrection%3A_Recapitulation",
+        "context": "Archon Quest Chapter V Act V (domain battle music)"
+      },
+      {
+        "id": 1422,
+        "title": "The Chosen of Dragons' Trials",
+        "playedAt": ["Open-World Combat", "Media"],
+        "type": "Combat",
+        "region": "Natlan",
+        "youtubeId": "neaffQZHoh4",
+        "spotifyId": "61cerhVarWwtMRLdwFaKba",
+        "fandomUrl": "The_Chosen_of_Dragons%27_Trials",
+        "context": "Ancient Sacred Mountain Battle Theme"
       }
     ]
   }

@@ -4240,5 +4240,32 @@
         "context": "Castorice Character Demo"
       }
     ]
+  },
+  {
+    "title": "On the Journey (Honkai: Star Rail Two-Year Anniversary Commemoration Song)",
+    "songs": [
+      {
+        "id": 361,
+        "title": "On the Journey",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "w30c7csRSBQ",
+        "spotifyId": "0HqjLk8hVH78mkgY6Z2eX6",
+        "fandomUrl": "On_the_Journey",
+        "context": "\"On the Journey\" HSR Two-Year Anniversary Special Animation"
+      },
+      {
+        "id": 362,
+        "title": "On the Journey (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "QoGWK-tgAFY",
+        "spotifyId": "3HUj4G60PNcRduvIcoswfV",
+        "fandomUrl": "On_the_Journey_-_Instrumental",
+        "context": "Instrumental version of \"On the Journey\""
+      }
+    ]
   }
 ]

@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-05-07",
+    changes: [
+      'Added "Radiance Aflame" album (Genshin Impact)',
+      'Added "On the Journey (Honkai: Star Rail Two-Year Anniversary Commemoration Song)" album (Honkai: Star Rail)',
+    ],
+  },
+  {
     date: "2025-05-05",
     changes: [
       "Volume control slider is now displayed after finishing a round too",
