@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-05-12",
-    changes: ["Improved playback feedback on slower networks"],
+    changes: [
+      "Improved playback feedback on slower networks",
+      "Adjusted Genshin Impact styling",
+    ],
   },
   {
     date: "2025-05-07",

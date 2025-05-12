@@ -61,7 +61,6 @@
 
     th {
       padding: 0.5rem;
-      text-align: left;
       font-weight: normal;
       font-size: 0.875rem;
       color: #ece5d8;
@@ -76,6 +75,7 @@
     }
 
     td {
+      text-align: center;
       color: transparent;
     }
 
@@ -343,11 +343,6 @@
     &:focus-visible {
       outline: 3px solid white;
     }
-
-    /* &:focus,
-    &:focus:not(:focus-visible) {
-      outline: 2px solid #ece5d8;
-    } */
   }
 
   .slider-thumb:hover,
@@ -399,7 +394,7 @@
       .card-title {
         font-size: 1.5rem;
         line-height: 2rem;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.25rem;
       }
 
       .card-album {
@@ -435,12 +430,10 @@
           padding: 0.25rem;
 
           &.context {
-            transition:
-              background 1s,
-              outline 1s;
-            background: var(--DarkVibrant-color);
+            transition-duration: 1s;
+            background: var(--DarkVibrant-color, black);
             color: #ece5d8;
-            outline: 2px solid var(--DarkVibrant-color);
+            outline: 2px solid var(--DarkVibrant-color, black);
           }
         }
       }
@@ -689,7 +682,7 @@
       background: linear-gradient(
         to right,
         transparent,
-        #0001 20% 80%,
+        #0002 20% 80%,
         transparent
       );
       top: 0.5rem;
@@ -711,15 +704,21 @@
 
   .switch-root {
     background: rgb(0 0 0 / 0.2);
-    width: 2rem;
+    width: 2.25rem;
     height: 1rem;
     border-radius: 9999px;
     box-sizing: content-box;
     border: 2px solid rgb(0 0 0 / 0.2);
     outline: 2px solid #ece5d8;
+    position: relative;
 
     .switch-thumb {
-      background-color: #ece5d8;
+      position: absolute;
+      top: 0;
+      left: 0;
+      --color: #ece5d8;
+      background-color: var(--color);
+      box-shadow: 0 0 4px var(--color);
       display: block;
       width: 1rem;
       height: 1rem;
@@ -727,11 +726,11 @@
       transition-duration: 0.2s;
 
       &[data-state="checked"] {
-        transform: translateX(1rem);
+        left: calc(100% - 1rem);
       }
 
       &[data-disabled] {
-        background: rgb(0 0 0 / 0.2);
+        --color: rgb(0 0 0 / 0.2);
       }
     }
 
