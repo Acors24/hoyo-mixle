@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-05-12",
+    changes: ["Improved playback feedback on slower networks"],
+  },
+  {
     date: "2025-05-07",
     changes: [
       'Added "Radiance Aflame" album (Genshin Impact)',

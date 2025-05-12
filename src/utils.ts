@@ -133,12 +133,7 @@ function getSimplePlayerState(
     return "playing";
   }
 
-  if (
-    playerState === -1 ||
-    playerState === 0 ||
-    playerState === 5 ||
-    playerState === 2
-  ) {
+  if (playerState === 0 || playerState === 5 || playerState === 2) {
     return "idle";
   }
 
