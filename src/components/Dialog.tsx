@@ -46,15 +46,17 @@ export default function Dialog({
       <dialog
         ref={dialogRef}
         onClose={_onClose}
-        className="bg-neutral-800/50 backdrop-blur text-white p-4 rounded-xl max-w-[min(80vw,800px)] max-h-[min(80vh,600px)] backdrop:bg-black backdrop:bg-opacity-80 shadow first:*:mt-0 *:mt-4"
+        className="bg-neutral-800/50 backdrop-blur text-white rounded-xl max-w-[min(80vw,800px)] backdrop:bg-black/80 shadow"
       >
-        <div className="flex justify-between">
+        <div className="flex justify-between sticky top-0 p-4">
           <h2 className="text-3xl font-bold">{title}</h2>
           <button autoFocus onClick={_onClose}>
             <FiX className="text-2xl" />
           </button>
         </div>
-        {children}
+        <div className="overflow-auto max-h-[min(80vh,600px)] first:*:mt-0 *:mt-4 px-4 pb-4">
+          {children}
+        </div>
       </dialog>
     </>
   );

@@ -8,6 +8,7 @@ const history = [
     changes: [
       "Improved playback feedback on slower networks",
       "Adjusted Genshin Impact styling",
+      "Adjusted dialog styling",
     ],
   },
   {
