@@ -783,5 +783,30 @@
         "context": "Starlight Knight EP"
       }
     ]
+  },
+  {
+    "title": "My Curse, My Fate",
+    "songs": [
+      {
+        "id": 262,
+        "title": "My Curse, My Fate",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mockingbird",
+        "youtubeId": "1mnHF7DQdk8",
+        "spotifyId": "2o0B9EF7TCLWfqwpa5qYuI",
+        "context": "Hugo EP"
+      },
+      {
+        "id": 263,
+        "title": "My Curse, My Fate (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mockingbird",
+        "youtubeId": "WO08M_A8dMc",
+        "spotifyId": "35Rl4IkmLsCqqoTNxpM3jd",
+        "context": "Instrumental version of \"My Curse, My Fate\""
+      }
+    ]
   }
 ]

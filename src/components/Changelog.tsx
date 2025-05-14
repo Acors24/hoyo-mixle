@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-05-14",
+    changes: ['Added "My Curse, My Fate" album (Zenless Zone Zero)'],
+  },
+  {
     date: "2025-05-12",
     changes: [
       "Improved playback feedback on slower networks",
