@@ -118,6 +118,8 @@ export function StorageReducer(
           },
         },
       };
+    case "SET_STATE":
+      return action.payload;
     default:
       return state;
   }

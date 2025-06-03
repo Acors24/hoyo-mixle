@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-06-03",
+    changes: [
+      "Added a tool to export and import your game data, e.g. to move it to a different browser or device, or to back it up before clearing your browser's data.",
+    ],
+  },
+  {
     date: "2025-05-14",
     changes: ['Added "My Curse, My Fate" album (Zenless Zone Zero)'],
   },

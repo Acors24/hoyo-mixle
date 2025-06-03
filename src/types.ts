@@ -96,6 +96,10 @@ export type StorageAction =
         game: Game;
         mode: Mode;
       };
+    }
+  | {
+      type: "SET_STATE";
+      payload: LocalStorage;
     };
 
 export type StorageContextType = {
