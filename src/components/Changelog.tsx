@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-06-04",
+    changes: ["Fixed ZZZ album data"],
+  },
+  {
     date: "2025-06-03",
     changes: [
       "Added a tool to export and import your game data, e.g. to move it to a different browser or device, or to back it up before clearing your browser's data.",

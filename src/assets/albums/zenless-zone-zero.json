@@ -772,7 +772,7 @@
     "title": "Shining Promise in the Sky of Dawn",
     "songs": [
       {
-        "id": 261,
+        "id": 262,
         "title": "Shining Promise in the Sky of Dawn",
         "playedAt": ["Media"],
         "type": "Special",
@@ -788,7 +788,7 @@
     "title": "My Curse, My Fate",
     "songs": [
       {
-        "id": 262,
+        "id": 263,
         "title": "My Curse, My Fate",
         "playedAt": ["Media"],
         "type": "Character",
@@ -798,7 +798,7 @@
         "context": "Hugo EP"
       },
       {
-        "id": 263,
+        "id": 264,
         "title": "My Curse, My Fate (Instrumental)",
         "playedAt": ["Media"],
         "type": "Character",
