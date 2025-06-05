@@ -808,5 +808,32 @@
         "context": "Instrumental version of \"My Curse, My Fate\""
       }
     ]
+  },
+  {
+    "title": "Almost",
+    "songs": [
+      {
+        "id": 265,
+        "title": "Almost",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "8N8r-mkZBlk",
+        "spotifyId": "4bqi7G6i06wPmiMv9aCQJr",
+        "fandomUrl": "Almost",
+        "context": "\"For My Yixuan\" Yixuan Animated Short"
+      },
+      {
+        "id": 266,
+        "title": "Almost - Instrumental",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "ROxEhlC9L-o",
+        "spotifyId": "2vewIDx36rLWfCWi2xgUFt",
+        "fandomUrl": "Almost_-_Instrumental",
+        "context": "Instrumental version of Almost"
+      }
+    ]
   }
 ]

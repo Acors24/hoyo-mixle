@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-06-05",
+    changes: ['Added "Almost" album (Zenless Zone Zero)'],
+  },
+  {
     date: "2025-06-04",
     changes: ["Fixed ZZZ album data"],
   },
