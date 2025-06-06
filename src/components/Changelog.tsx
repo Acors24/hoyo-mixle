@@ -7,6 +7,7 @@ const history = [
     date: "2025-06-06",
     changes: [
       'Added "Hyper Commission" album (Zenless Zone Zero) with unofficial title translations by Lugunium',
+      "Adjusted ZZZ styling",
     ],
   },
   {

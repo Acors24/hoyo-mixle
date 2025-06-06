@@ -988,7 +988,7 @@
       line-height: 1rem;
       font-weight: bold;
       color: black;
-      margin: 0.25rem 1rem 0.25rem 0.25rem;
+      margin: 0.25rem 1rem 0.25rem 0.75rem;
       position: relative;
 
       &::before {
@@ -998,7 +998,7 @@
         width: 0.25rem;
         height: 2rem;
         top: -50%;
-        left: -25%;
+        left: -0.5rem;
         transform: skewX(-25deg);
       }
     }
