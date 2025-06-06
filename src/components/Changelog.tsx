@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-06-06",
+    changes: [
+      'Added "Hyper Commission" album (Zenless Zone Zero) with unofficial title translations by Lugunium',
+    ],
+  },
+  {
     date: "2025-06-05",
     changes: ['Added "Almost" album (Zenless Zone Zero)'],
   },
