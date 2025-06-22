@@ -16838,5 +16838,32 @@
         "context": "Ancient Sacred Mountain Battle Theme"
       }
     ]
+  },
+  {
+    "title": "Star Odyssey",
+    "songs": [
+      {
+        "id": 1423,
+        "title": "Star Odyssey",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "???",
+        "youtubeId": "k7UcX1OR2MM",
+        "spotifyId": "42aHdxslaYCfE2Wb03n0ZL",
+        "fandomUrl": "Star_Odyssey_%28Soundtrack%29",
+        "context": "\"Star Odyssey\" Skirk Animated Short"
+      },
+      {
+        "id": 1424,
+        "title": "Star Odyssey - Instrumental",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "???",
+        "youtubeId": "BV6c06S57tw",
+        "spotifyId": "7uwrP6byvs8umRoN7hoJ1J",
+        "fandomUrl": "Star_Odyssey_-_Instrumental",
+        "context": "Instrumental version of \"Star Odyssey\""
+      }
+    ]
   }
 ]

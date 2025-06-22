@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-06-20",
+    changes: ['Added "Star Odyssey" album (Genshin Impact)'],
+  },
+  {
     date: "2025-06-06",
     changes: [
       'Added "Hyper Commission" album (Zenless Zone Zero) with unofficial title translations by Lugunium',
