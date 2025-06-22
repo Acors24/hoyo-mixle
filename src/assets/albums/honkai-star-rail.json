@@ -4267,5 +4267,605 @@
         "context": "Instrumental version of \"On the Journey\""
       }
     ]
+  },
+  {
+    "title": "Allegory of the Cave (Part 2)",
+    "songs": [
+      {
+        "id": 363,
+        "title": "Touch of the Broken Blade",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "oUokXpAOPjg",
+        "spotifyId": "388UG46rqv21nO8jKh5aSV",
+        "fandomUrl": "Touch_of_the_Broken_Blade",
+        "context": "\"Flame Reaver\" Boss Fight"
+      },
+      {
+        "id": 364,
+        "title": "A Hunt for the Divine",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "PFdXcphRHSY",
+        "spotifyId": "6wH76WXQ72MVgqovjoWh37",
+        "fandomUrl": "A_Hunt_for_the_Divine",
+        "context": "\"Flame Reaver\" Boss Fight"
+      },
+      {
+        "id": 365,
+        "title": "Verdant Sea of Knowing",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "YkJL9yV_ry4",
+        "spotifyId": "3Cq3Ke7Rdnh3fBKxOz1kfG",
+        "fandomUrl": "Verdant_Sea_of_Knowing",
+        "context": "\"Murmuring Woods\" Grove of Epiphany"
+      },
+      {
+        "id": 366,
+        "title": "Shattered Mortal Realms",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "4saoW09RN3A",
+        "spotifyId": "4Ck9ykyAjL5UqtvovFuCf6",
+        "fandomUrl": "Shattered_Mortal_Realms",
+        "context": "\"Murmuring Woods\" Grove of Epiphany"
+      },
+      {
+        "id": 367,
+        "title": "Scattered Manuscripts",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "4S80uf0YC3Y",
+        "spotifyId": "4BwRy990M3Y2u9EjDgEaKh",
+        "fandomUrl": "Scattered_Manuscripts",
+        "context": "\"Murmuring Woods\" Grove of Epiphany Battle Theme"
+      },
+      {
+        "id": 368,
+        "title": "Dusk of Rationality",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "K534X8plUlw",
+        "spotifyId": "7zke6ZAYLpX7RpStdhU7dw",
+        "fandomUrl": "Dusk_of_Rationality",
+        "context": "\"Murmuring Woods\" Grove of Epiphany Elite Battle Theme"
+      },
+      {
+        "id": 369,
+        "title": "Unto Dignity",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "NNfcIZ_S9Hs",
+        "spotifyId": "1kBXVyMkXXTIYYuNeheQbl",
+        "fandomUrl": "Unto_Dignity",
+        "context": "Trailblaze Mission Chapter IV: \"Grove, Wherefore Are the Wise Silent\" (Grove of Epiphany top floor)"
+      },
+      {
+        "id": 370,
+        "title": "To Remembrance",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "pgHZHuAq2to",
+        "spotifyId": "09gmjRtP6PeDy3g5q8OAjd",
+        "fandomUrl": "To_Remembrance",
+        "context": "Trailblaze Mission Chapter IV: \"Night Veil, Shroud the Silent Past\" (Fuli's Gaze cutscene)"
+      },
+      {
+        "id": 371,
+        "title": "Serenade of the Passage",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "3LAa9KAni6U",
+        "spotifyId": "777NrEp0En6MhQeeL7BVmk",
+        "fandomUrl": "Serenade_of_the_Passage",
+        "context": "Trailblaze Mission Chapter IV: \"Passages, Knocking Echoes in Dreams\" (inside the Holy Maiden's Chamber)"
+      },
+      {
+        "id": 372,
+        "title": "Warmth Contained",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "FgzpLbi6D8I",
+        "spotifyId": "6eYWGkDv3k2AydUpEs3IVS",
+        "fandomUrl": "Warmth_Contained",
+        "context": "“Sanctum of Prophecy” Janusopolis - Holy Maiden's Chamber"
+      },
+      {
+        "id": 373,
+        "title": "Stories and Sweets",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "n9rsZdUdkro",
+        "spotifyId": "6yLybQNf7uPpl3HzvsSR3r",
+        "fandomUrl": "Stories_and_Sweets",
+        "context": "Trailblaze Mission Chapter IV: \"Passage, Reveal the Past Once More\" (Past Tribios escapes Janusopolis)"
+      },
+      {
+        "id": 374,
+        "title": "Dryness Caged",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "T5hvyJrzfFs",
+        "spotifyId": "4CNmtcr9Rd0AqOKAl7hhxD",
+        "fandomUrl": "Dryness_Caged",
+        "context": "Trailblaze Mission Chapter IV: \"Passages, Knocking Echoes in Dreams\" (Tribbie's nightmare)"
+      },
+      {
+        "id": 375,
+        "title": "In the Arms of Tomorrow",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "mRTxzBdXNE0",
+        "spotifyId": "2oVhtCueqdgxQDI02iO5gE",
+        "fandomUrl": "In_the_Arms_of_Tomorrow",
+        "context": "Trailblaze Mission Chapter IV: \"Passage, Reveal the Past Once More\" (Trianne's funeral)"
+      },
+      {
+        "id": 376,
+        "title": "Beneath the Sheep's Skin",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "ZuxApOLYIGE",
+        "spotifyId": "00YUR4SwbuqCCb4CBG6Y8C",
+        "fandomUrl": "Beneath_the_Sheep%2527s_Skin",
+        "context": "Trailblaze Mission Chapter IV: \"Throne, End Those Long Years Forlorn\" (Mydei's farewell)"
+      },
+      {
+        "id": 377,
+        "title": "Gift of Strife",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "m5Uxb8rhSZ4",
+        "spotifyId": "7cAkEw18VkhKtaiuM4Nwop",
+        "fandomUrl": "Gift_of_Strife",
+        "context": "Trailblaze Mission Chapter IV: \"Nemesis, Scorched by Golden Blood\" (Mydei defeats Flame Reaver cutscene)"
+      },
+      {
+        "id": 378,
+        "title": "Coronation",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "1H-b_CG0J_s",
+        "spotifyId": "4Wq4IWaOUp1RxIUd9AyoYL",
+        "fandomUrl": "Coronation",
+        "context": "Trailblaze Mission Chapter IV: \"Throne, End Those Long Years Forlorn\" (Mydei returns home cutscene)"
+      },
+      {
+        "id": 379,
+        "title": "The Edge Awakened",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "2RbONqobj5g",
+        "spotifyId": "1UYI9SrWaAFwtiBhDjvdWR",
+        "fandomUrl": "The_Edge_Awakened",
+        "context": "Trailblaze Mission Chapter IV: \"Throne, End Those Long Years Forlorn\" (Mydei's walk towards the throne)"
+      },
+      {
+        "id": 380,
+        "title": "Ballad of Revelations",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "j2p9CU20hms",
+        "spotifyId": "0bVPZLcOjpjNi8xJpQiW53",
+        "fandomUrl": "Ballad_of_Revelations",
+        "context": "“Eternal Holy City” Okhema - Marmoreal Palace (near Lipos, after the events of Trailblaze Mission \"Light Slips the Gate, Shadow Greets the Throne\")"
+      },
+      {
+        "id": 381,
+        "title": "Hymn of Dawn",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "BpF2WC18yqk",
+        "spotifyId": "0m0BmEYl5VpOtChLiJFMk3",
+        "fandomUrl": "Hymn_of_Dawn",
+        "context": "“Demigod Council” Dawncloud - Sacred Path of Dawncloud / Demigod Council"
+      },
+      {
+        "id": 382,
+        "title": "Aria of the Precipice",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "1lEMi61NFZQ",
+        "spotifyId": "06wWfV6hTzipwpI3jlDoCu",
+        "fandomUrl": "Aria_of_the_Precipice",
+        "context": "“Lightless Chapel” Dawncloud - Mourning Heights / Apocalypse Altar"
+      },
+      {
+        "id": 383,
+        "title": "Seeker of Divinity",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "n4r-12uWTOM",
+        "spotifyId": "4kOmhljft1Yad1eFCFUVmP",
+        "fandomUrl": "Seeker_of_Divinity",
+        "context": "“Demigod Council” Dawncloud - Titan Cliff / Worldbearing Altar"
+      },
+      {
+        "id": 384,
+        "title": "Lightless Dawncloud",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "H6f2ySs4I7w",
+        "spotifyId": "40it1rPgJwOLxmQtVt6sFp",
+        "fandomUrl": "Lightless_Dawncloud",
+        "context": "“Lightless Chapel” Dawncloud - Eve's Holy Pass / Lightless Chapel"
+      },
+      {
+        "id": 385,
+        "title": "Rhyme of the Stream of Souls",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "ueMrh4BRAxU",
+        "spotifyId": "6uKHq7JOIKtBpmMVrI0Chw",
+        "fandomUrl": "Rhyme_of_the_Stream_of_Souls",
+        "context": "“Dragonbone City” Styxia (using Oronyx's power)"
+      },
+      {
+        "id": 386,
+        "title": "Lament on Stream of Souls",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "Iq2auH-IglM",
+        "spotifyId": "0OWsxMCf1HulU8pzCk3cQ2",
+        "fandomUrl": "Lament_on_Stream_of_Souls",
+        "context": "“Dragonbone City” Styxia"
+      },
+      {
+        "id": 387,
+        "title": "Long Strides of Silence",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "FYbEFe1PmH4",
+        "spotifyId": "4lnj3sBqvPwVNf64owRoRo",
+        "fandomUrl": "Long_Strides_of_Silence",
+        "context": "“Dragonbone City” Styxia - Twin Moon Spire"
+      },
+      {
+        "id": 388,
+        "title": "Chrysos",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "rETAtfF9xpw",
+        "spotifyId": "4WQRRaUibzTdEj5R3MixKZ",
+        "fandomUrl": "Chrysos",
+        "context": "Trailblaze Mission Chapter IV: \"Kremnos, Cleanse Thy Rusted Blood (II)\" (Nikador's defeat cutscene)"
+      },
+      {
+        "id": 389,
+        "title": "Back to the Start",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "uYWPGjFrllI",
+        "spotifyId": "2KedD5SEO3I84phVErQkA0",
+        "fandomUrl": "Back_to_the_Start",
+        "context": "Trailblaze Mission Chapter IV: \"Ferryman, Ferry Me Across the Stream of Souls\" / Trailblaze Mission Chapter IV: \"Slate, Why Neglect That Light's Shade\" (Cipher's death)"
+      },
+      {
+        "id": 390,
+        "title": "Elegy of Netherwing",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "xfjrLrHXPFI",
+        "spotifyId": "2srKKxKPJ7W55ZGXIRayyc",
+        "fandomUrl": "Elegy_of_Netherwing",
+        "context": "\"Pollux\" Boss Fight"
+      },
+      {
+        "id": 391,
+        "title": "Antila Floriography",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "VWnUoi_BeR4",
+        "spotifyId": "6oUKIIcOwAEF9ZB3CbQ30B",
+        "fandomUrl": "Antila_Floriography",
+        "context": "“Dragonbone City” Styxia - The Sea of Flowers in Memory"
+      },
+      {
+        "id": 392,
+        "title": "A Moment to Offer",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "o7PbujdYoiU",
+        "spotifyId": "2kg565DtkSSZp3zVvBHJWN",
+        "fandomUrl": "A_Moment_to_Offer",
+        "context": "Trailblaze Mission Chapter IV: \"Homeward Journey, Never Look Back Upon the Path Whence You Came\" (leaving the nether realm)"
+      },
+      {
+        "id": 393,
+        "title": "Ballad of Silence",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "j2p9CU20hms",
+        "spotifyId": "3gz18jVkH4XyRIym3JUp0E",
+        "fandomUrl": "Ballad_of_Silence",
+        "context": "“Eternal Holy City” Okhema - Marmoreal Palace (near Lipos, after Trailblaze Mission \"Through the Petals in the Land of Repose\")"
+      },
+      {
+        "id": 394,
+        "title": "Sowing of the Dragon's Fangs",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "X6hgKVd7JAY",
+        "spotifyId": "6gjNFwgTXIcDOq9ONzETsC",
+        "fandomUrl": "Sowing_of_the_Dragon%2527s_Fangs",
+        "context": "Trailblaze Mission Chapter IV: \"Olive, Cast To the Conference Chair\" (dialogue between Anaxa and Caenis)"
+      },
+      {
+        "id": 395,
+        "title": "Curtain Rise, Curtain Fall",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "ie6684wlqTM",
+        "spotifyId": "0q4F6hmcyd83JqEDmQ12ax",
+        "fandomUrl": "Curtain_Rise%2C_Curtain_Fall",
+        "context": "Vortex of Genesis (after the events of Trailblaze Mission \"The Fall at Dawn's Rise\")"
+      },
+      {
+        "id": 396,
+        "title": "Holy City's Twilight",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "kMNLE1lWJkY",
+        "spotifyId": "2yqtOHdgqFQd77jiD2MSPT",
+        "fandomUrl": "Holy_City%2527s_Twilight",
+        "context": "\"Fallen Twilight City\" Okhema"
+      },
+      {
+        "id": 397,
+        "title": "Ballad of Hope",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "ca9F42KuOZY",
+        "spotifyId": "2NBMKlIg6iHZACF5cvNTIA",
+        "fandomUrl": "Ballad_of_Hope",
+        "context": "“Eternal Holy City” Okhema - Marmoreal Palace (near Lipos, after Trailblaze Mission \"The Fall at Dawn's Rise\")"
+      },
+      {
+        "id": 398,
+        "title": "Spontaneous Poetry",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "-Eg4-sZ2MCo",
+        "spotifyId": "3HKUASvIGdytHxXnFxz7PD",
+        "fandomUrl": "Spontaneous_Poetry",
+        "context": "Trailblaze Mission Chapter IV: \"Slate, Why Neglect That Light's Shade\" (Cipher vs Flame Reaver chase)"
+      },
+      {
+        "id": 399,
+        "title": "What Lies Before",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "724YdA4ve2U",
+        "spotifyId": "0jmuymcpfuLVFfIClxSHi5",
+        "fandomUrl": "What_Lies_Before",
+        "context": "Trailblaze Mission Chapter IV: \"Dawn, Shine at the World's End\" (Phainon's farewell to the Trailblazer)"
+      },
+      {
+        "id": 400,
+        "title": "Between the Text",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "AD_voKKLFzk",
+        "spotifyId": "1J3YVA634g3LTfbnKxrd6a",
+        "fandomUrl": "Between_the_Text",
+        "context": "Trailblaze Mission Chapter IV: \"Golden Thread, Relay the Savior's Fate\" (Aglaea's letter)"
+      },
+      {
+        "id": 401,
+        "title": "Elegy of the Nether",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "LhZbgYE0MEQ",
+        "spotifyId": "5r4yfsyXQSL1K9fHTvJWmR",
+        "fandomUrl": "Elegy_of_the_Nether",
+        "context": "Trailblaze Mission Chapter IV: \"Golden Thread, Relay the Savior's Fate\" (Phainon's goodbyes to fallen Chrysos Heirs)"
+      },
+      {
+        "id": 402,
+        "title": "New Page",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "SFd-lUoVXAo",
+        "spotifyId": "0a6LYUoTfhFhkf7cwmtoxH",
+        "fandomUrl": "New_Page",
+        "context": "Trailblaze Mission Chapter IV: \"Dawn, Shine at the World's End\" (Cyrene's entrance)"
+      },
+      {
+        "id": 403,
+        "title": "Boundless Strides",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "HcAL64MnldA",
+        "spotifyId": "4Z5P3eKI1nYQubrloey75B",
+        "fandomUrl": "Boundless_Strides",
+        "context": "“Fortress of Dome” Eye of Twilight"
+      },
+      {
+        "id": 404,
+        "title": "Gloomseeker",
+        "playedAt": ["Combat"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "CJy6OnNZ4b8",
+        "spotifyId": "1cNZe3pUydik6BuGFnlKxh",
+        "fandomUrl": "Gloomseeker",
+        "context": "“Fortress of Dome” Eye of Twilight Elite Battle Theme"
+      },
+      {
+        "id": 405,
+        "title": "Narration of Clouds and Snow",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "Pe897mpZnFc",
+        "spotifyId": "2MM7vsRkhT4WQTDteKxeP0",
+        "fandomUrl": "Narration_of_Clouds_and_Snow",
+        "context": "“Fortress of Dome” Eye of Twilight Battle Theme"
+      },
+      {
+        "id": 406,
+        "title": "Daythunder Rhapsody",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "zuJBCv-yaoI",
+        "spotifyId": "3uKpPB8R4XVZN3anb0xaGE",
+        "fandomUrl": "Daythunder_Rhapsody",
+        "context": "“Fortress of Dome” Eye of Twilight Elite Battle Theme"
+      },
+      {
+        "id": 407,
+        "title": "Passing of Thunder",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "SVdFQUoXGL0",
+        "spotifyId": "6HXgo3YomevXEGnMAcHE3j",
+        "fandomUrl": "Passing_of_Thunder",
+        "context": "“Cloudedge Bastion Ruins” Eye of Twilight"
+      },
+      {
+        "id": 408,
+        "title": "Sunslayer",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "TwBmskWOZ-Q",
+        "spotifyId": "3SJoi3iTaItq9F7LmOeg9p",
+        "fandomUrl": "Sunslayer",
+        "context": "\"Aquila\" Boss Fight (phase 1)"
+      },
+      {
+        "id": 409,
+        "title": "Solar Flare of Broken Wings",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "VoIkYUyN7ns",
+        "spotifyId": "0QPGrF3nXK77IBxkt7MRkl",
+        "fandomUrl": "Solar_Flare_of_Broken_Wings",
+        "context": "\"Aquila\" Boss Fight (phase 2)"
+      },
+      {
+        "id": 410,
+        "title": "Afterglow in Dust",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "jfnga-W163Q",
+        "spotifyId": "1yxjCkkuaLpZhMGRrqeA1K",
+        "fandomUrl": "Afterglow_in_Dust",
+        "context": "\"Aquila\" Boss Fight (phase 3)"
+      },
+      {
+        "id": 411,
+        "title": "Proi Proi",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "W-7vL1Nuj8U",
+        "spotifyId": "6snyNT6w27QFkdyTO3vOEM",
+        "fandomUrl": "Proi_Proi",
+        "context": "\"Aquila\" Boss Fight (phase 3, upon using Hyacine's \"Healing Rainbow\")"
+      },
+      {
+        "id": 412,
+        "title": "Proi Proi (Harmonic Accompaniment)",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "nLmWF6Jkd5A",
+        "spotifyId": "7dQmZJxU3YiPvfkLdmeW5r",
+        "fandomUrl": "Proi_Proi_%25E2%2580%2594_Harmonic_Accompaniment",
+        "context": "\"Proi Proi\" variation with harmonic accompaniment"
+      },
+      {
+        "id": 413,
+        "title": "Proi Proi (Instrumental)",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"], "Domains"],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "xr18zrSIdVI",
+        "spotifyId": "2kzgXGyMx4Qu8TttlBgVQe",
+        "fandomUrl": "Proi_Proi_%25E2%2580%2594_Instrumental",
+        "context": "Instrumental version of \"Proi Proi\""
+      }
+    ]
   }
 ]
