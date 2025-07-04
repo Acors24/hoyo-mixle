@@ -3017,5 +3017,32 @@
         "context": "Instrumental version of Almost"
       }
     ]
+  },
+  {
+    "title": "Through food, we learn the world so wide, to train the heart, the self inside",
+    "songs": [
+      {
+        "id": 267,
+        "title": "Through food, we learn the world so wide, to train the heart, the self inside",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "APac7Pd4uVo",
+        "spotifyId": "52ucHGiQWcT32BtokyRZJe",
+        "fandomUrl": "Self-Cultivation_Through_Food",
+        "context": "Ju Fufu EP"
+      },
+      {
+        "id": 268,
+        "title": "Through food, we learn the world so wide, to train the heart, the self inside (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "BugXa_lIre0",
+        "spotifyId": "6YRmTaL99zFi01KePbIEPN",
+        "fandomUrl": "Self-Cultivation_Through_Food_-_Instrumental",
+        "context": "Instrumental version of \"Through food, we learn the world so wide, to train the heart, the self inside\""
+      }
+    ]
   }
 ]

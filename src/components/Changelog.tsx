@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-07-04",
-    changes: ['Added "Flares of the Blazing Sun" album (Honkai: Star Rail)'],
+    changes: [
+      'Added "Flares of the Blazing Sun" album (Honkai: Star Rail)',
+      'Added "Through food, we learn the world so wide, to train the heart, the self inside" album (Zenless Zone Zero)',
+    ],
   },
   {
     date: "2025-06-22",
