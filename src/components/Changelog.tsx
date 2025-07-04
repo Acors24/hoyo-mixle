@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-07-04",
+    changes: ['Added "Flares of the Blazing Sun" album (Honkai: Star Rail)'],
+  },
+  {
     date: "2025-06-22",
     changes: [
       'Added "Star Odyssey" album (Genshin Impact)',

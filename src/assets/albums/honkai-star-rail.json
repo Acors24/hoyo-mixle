@@ -4867,5 +4867,43 @@
         "context": "Instrumental version of \"Proi Proi\""
       }
     ]
+  },
+  {
+    "title": "Flares of the Blazing Sun",
+    "songs": [
+      {
+        "id": 414,
+        "title": "Flares of the Blazing Sun",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "o4ne1Xzp8m8",
+        "spotifyId": "2RePzySZcb2TFkBkmQsGo1",
+        "fandomUrl": "Flares_of_the_Blazing_Sun",
+        "context": "Phainon Animated Short"
+      },
+      {
+        "id": 415,
+        "title": "Flares of the Blazing Sun (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "1wuhzcs1Khs",
+        "spotifyId": "0GD4CcrJOiXGHqNSvH6QFw",
+        "fandomUrl": "Flares_of_the_Blazing_Sun_(Instrumental)",
+        "context": "Instrumental version of \"Flares of the Blazing Sun\""
+      },
+      {
+        "id": 416,
+        "title": "Flares of the Blazing Sun (Harmonic Accompaniment)",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "hk-yLu-VXHA",
+        "spotifyId": "6A5KigZ36klRc3mLAB8wVi",
+        "fandomUrl": "Flares_of_the_Blazing_Sun_(Harmonic_Accompaniment)",
+        "context": "Harmonic Accompaniment version of \"Flares of the Blazing Sun\""
+      }
+    ]
   }
 ]
