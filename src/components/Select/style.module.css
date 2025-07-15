@@ -1,0 +1,64 @@
+.Trigger {
+  align-items: center;
+  background: #0002;
+  border-radius: 0.25rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  transition: background-color 0.2s;
+  user-select: none;
+
+  &:hover {
+    background: #fff1;
+  }
+}
+
+.Content {
+  backdrop-filter: blur(16px);
+  background: #0004;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 0.5rem #0008;
+  max-height: var(--radix-select-content-available-height);
+  padding-inline: 0.25rem;
+  transition: opacity 0.2s ease-in-out;
+  user-select: none;
+
+  @starting-style {
+    opacity: 0;
+  }
+}
+
+.Item {
+  border-radius: 0.25rem;
+  color: #ccc;
+  margin-block: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  transition: background-color 0.2s;
+
+  &[data-state="checked"] {
+    background-color: #fff1;
+    color: white;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: #fff2;
+    outline: none;
+  }
+
+  &:active {
+    background-color: #0003;
+  }
+}
+
+.Arrow {
+  fill: #0004;
+}
+
+.ScrollButton {
+  align-items: center;
+  display: flex;
+  height: 1rem;
+  justify-content: center;
+}

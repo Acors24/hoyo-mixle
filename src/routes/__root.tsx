@@ -43,4 +43,19 @@ export const Route = createRootRoute({
       </Link>
     </div>
   ),
+
+  errorComponent: () => (
+    <div className="flex flex-col items-center justify-center h-screen">
+      <h1 className="text-4xl">Oops, an error occurred.</h1>
+      <p className="m-2">
+        <button
+          onClick={() => location.reload()}
+          className="px-2 py-1 rounded bg-neutral-800 hover:bg-neutral-700 duration-200"
+        >
+          Refresh the page.
+        </button>{" "}
+        If the error persists, try again later.
+      </p>
+    </div>
+  ),
 });

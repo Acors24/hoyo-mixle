@@ -14,6 +14,7 @@ import { createFileRoute } from '@tanstack/react-router'
 
 import { Route as rootRoute } from './routes/__root'
 import { Route as IndexImport } from './routes/index'
+import { Route as IndexIndexImport } from './routes/index/index'
 
 // Create Virtual Routes
 
@@ -51,6 +52,12 @@ const IndexRoute = IndexImport.update({
   getParentRoute: () => rootRoute,
 } as any)
 
+const IndexIndexRoute = IndexIndexImport.update({
+  id: '/index/',
+  path: '/index/',
+  getParentRoute: () => rootRoute,
+} as any)
+
 // Populate the FileRoutesByPath interface
 
 declare module '@tanstack/react-router' {
@@ -83,6 +90,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ZenlessZoneZeroLazyImport
       parentRoute: typeof rootRoute
     }
+    '/index/': {
+      id: '/index/'
+      path: '/index'
+      fullPath: '/index'
+      preLoaderRoute: typeof IndexIndexImport
+      parentRoute: typeof rootRoute
+    }
   }
 }
 
@@ -93,6 +107,7 @@ export interface FileRoutesByFullPath {
   '/genshin-impact': typeof GenshinImpactLazyRoute
   '/star-rail': typeof StarRailLazyRoute
   '/zenless-zone-zero': typeof ZenlessZoneZeroLazyRoute
+  '/index': typeof IndexIndexRoute
 }
 
 export interface FileRoutesByTo {
@@ -100,6 +115,7 @@ export interface FileRoutesByTo {
   '/genshin-impact': typeof GenshinImpactLazyRoute
   '/star-rail': typeof StarRailLazyRoute
   '/zenless-zone-zero': typeof ZenlessZoneZeroLazyRoute
+  '/index': typeof IndexIndexRoute
 }
 
 export interface FileRoutesById {
@@ -108,14 +124,26 @@ export interface FileRoutesById {
   '/genshin-impact': typeof GenshinImpactLazyRoute
   '/star-rail': typeof StarRailLazyRoute
   '/zenless-zone-zero': typeof ZenlessZoneZeroLazyRoute
+  '/index/': typeof IndexIndexRoute
 }
 
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/genshin-impact' | '/star-rail' | '/zenless-zone-zero'
+  fullPaths:
+    | '/'
+    | '/genshin-impact'
+    | '/star-rail'
+    | '/zenless-zone-zero'
+    | '/index'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/genshin-impact' | '/star-rail' | '/zenless-zone-zero'
-  id: '__root__' | '/' | '/genshin-impact' | '/star-rail' | '/zenless-zone-zero'
+  to: '/' | '/genshin-impact' | '/star-rail' | '/zenless-zone-zero' | '/index'
+  id:
+    | '__root__'
+    | '/'
+    | '/genshin-impact'
+    | '/star-rail'
+    | '/zenless-zone-zero'
+    | '/index/'
   fileRoutesById: FileRoutesById
 }
 
@@ -124,6 +152,7 @@ export interface RootRouteChildren {
   GenshinImpactLazyRoute: typeof GenshinImpactLazyRoute
   StarRailLazyRoute: typeof StarRailLazyRoute
   ZenlessZoneZeroLazyRoute: typeof ZenlessZoneZeroLazyRoute
+  IndexIndexRoute: typeof IndexIndexRoute
 }
 
 const rootRouteChildren: RootRouteChildren = {
@@ -131,6 +160,7 @@ const rootRouteChildren: RootRouteChildren = {
   GenshinImpactLazyRoute: GenshinImpactLazyRoute,
   StarRailLazyRoute: StarRailLazyRoute,
   ZenlessZoneZeroLazyRoute: ZenlessZoneZeroLazyRoute,
+  IndexIndexRoute: IndexIndexRoute,
 }
 
 export const routeTree = rootRoute
@@ -146,7 +176,8 @@ export const routeTree = rootRoute
         "/",
         "/genshin-impact",
         "/star-rail",
-        "/zenless-zone-zero"
+        "/zenless-zone-zero",
+        "/index/"
       ]
     },
     "/": {
@@ -160,6 +191,9 @@ export const routeTree = rootRoute
     },
     "/zenless-zone-zero": {
       "filePath": "zenless-zone-zero.lazy.tsx"
+    },
+    "/index/": {
+      "filePath": "index/index.tsx"
     }
   }
 }

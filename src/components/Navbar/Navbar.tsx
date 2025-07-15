@@ -6,15 +6,19 @@ import zenlessZoneZeroIcon from "../../assets/icons/zenless-zone-zero.png";
 import Changelog from "../Changelog";
 import classes from "./style.module.css";
 import About from "../About";
-import AlbumStats from "../AlbumStats";
 import Calendar from "../Calendar";
 import ExportImport from "../ExportImport";
+import { FiDatabase } from "react-icons/fi";
 
 export default function Navbar() {
   return (
     <nav className={classes.Navbar}>
       <div className={classes.NavbarContent}>
         <div className={classes.GameIcons}>
+          <Link to="/index" className={classes.GameIcon}>
+            <FiDatabase className="w-full h-full" />
+          </Link>
+          <hr />
           <Link to="/genshin-impact" className={classes.GameIcon}>
             <img src={genshinIcon} alt="Genshin Impact" />
           </Link>
@@ -28,7 +32,6 @@ export default function Navbar() {
         <div className={classes.UtilityIcons}>
           <ExportImport />
           <Calendar />
-          <AlbumStats />
           <About />
           <Changelog />
           <HowToPlay />

@@ -10,6 +10,13 @@ body {
   @apply h-screen bg-neutral-900 text-white;
 }
 
+input {
+  background: #0002;
+  border-radius: 0.25rem;
+  color: white;
+  padding: 0.25rem 0.5rem;
+}
+
 #calendar-game-selector {
   padding: initial;
   border: initial;
@@ -197,6 +204,136 @@ dialog {
       opacity: 0;
     }
   }
+}
+
+li[data-album] table {
+  tbody tr {
+    --hover-color: #fff1;
+    --active-color: #0002;
+    --expanded-color: #0001;
+
+    border-top: 0.125rem solid #0002;
+    cursor: pointer;
+    transition: background 0.2s;
+
+    &:focus,
+    &:hover {
+      background: var(--hover-color);
+    }
+
+    &:active {
+      background: var(--active-color);
+    }
+
+    td {
+      padding: 0.25rem 1rem;
+      @apply px-2;
+
+      &:first-child {
+        border-top-left-radius: 0.25rem;
+        border-bottom-left-radius: 0.25rem;
+      }
+
+      &:last-child {
+        border-top-right-radius: 0.25rem;
+        border-bottom-right-radius: 0.25rem;
+      }
+    }
+
+    &[data-expanded="true"] {
+      background: var(--expanded-color);
+
+      td:first-child {
+        border-bottom-left-radius: 0;
+      }
+
+      td:last-child {
+        border-bottom-right-radius: 0;
+      }
+
+      &:focus,
+      &:hover,
+      &:focus + tr.details,
+      &:hover + tr.details {
+        background: var(--hover-color);
+      }
+
+      &:active,
+      &:active + tr.details {
+        background: var(--active-color);
+      }
+
+      & + tr.details {
+        background: var(--expanded-color);
+        display: table-row;
+      }
+    }
+
+    &.details {
+      border-top: none;
+      color: #eee;
+      cursor: initial;
+      display: none;
+
+      td {
+        &:first-child {
+          border-top-left-radius: 0;
+          border-bottom-left-radius: 0.25rem;
+        }
+
+        &:last-child {
+          border-top-right-radius: 0;
+          border-bottom-right-radius: 0.25rem;
+        }
+      }
+    }
+  }
+}
+
+@property --DM {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: transparent;
+}
+
+@property --M {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: transparent;
+}
+
+@property --LM {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: transparent;
+}
+
+@property --DV {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: transparent;
+}
+
+@property --V {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: transparent;
+}
+
+@property --LV {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: transparent;
+}
+
+#index-background {
+  transition:
+    --DM 1s ease-in-out,
+    --M 1s ease-in-out,
+    --LM 1s ease-in-out,
+    --DV 1s ease-in-out,
+    --V 1s ease-in-out,
+    --LV 1s ease-in-out;
 }
 
 @keyframes slideDown {

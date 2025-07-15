@@ -1,6 +1,7 @@
+import { FiChevronRight } from "react-icons/fi";
 import { useAlbums } from "../AlbumsContext";
 import { Game, Song } from "../types";
-import { FandomButton, SpotifyButton, YouTubeButton } from "./SongCard";
+import { Link } from "@tanstack/react-router";
 
 type SongWithAlbum = Song & { album: string };
 
@@ -90,14 +91,20 @@ export default function GuessTable({
                     (result) => result
                   )}
                 >
-                  <div className="buttons">
+                  {/* <div className="buttons">
                     <YouTubeButton youtubeId={guessedSong.youtubeId} />
                     <SpotifyButton spotifyId={guessedSong.spotifyId} />
                     <FandomButton
                       fandomId={guessedSong.fandomUrl}
                       game={game}
                     />
-                  </div>
+                  </div> */}
+                  <Link
+                    to="/index"
+                    search={{ game, id: guessedSongWithAlbum.id }}
+                  >
+                    <FiChevronRight />
+                  </Link>
                 </td>
               </tr>
             );
