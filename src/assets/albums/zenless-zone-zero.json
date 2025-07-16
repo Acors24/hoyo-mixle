@@ -3044,5 +3044,30 @@
         "context": "Instrumental version of \"Through food, we learn the world so wide, to train the heart, the self inside\""
       }
     ]
+  },
+  {
+    "title": "Wonderland Trickery",
+    "songs": [
+      {
+        "id": 269,
+        "title": "Wonderland Trickery",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "NSPKq-QZKjk",
+        "spotifyId": "2rRLH4rmRHa9rhL12hpkzd",
+        "context": "Yuzuha EP"
+      },
+      {
+        "id": 270,
+        "title": "Wonderland Trickery (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "JGxO9EWXc9c",
+        "spotifyId": "4vzjf5gBxDU1YzOR5wOQls",
+        "context": "Instrumental version of \"Wonderland Trickery\""
+      }
+    ]
   }
 ]
