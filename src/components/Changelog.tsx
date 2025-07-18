@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-07-17",
+    changes: ["Fixed YouTube IDs of some songs"],
+  },
+  {
     date: "2025-07-16",
     changes: ['Added "Wonderland Trickery" album (Zenless Zone Zero)'],
   },
