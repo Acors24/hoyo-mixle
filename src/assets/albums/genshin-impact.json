@@ -16865,5 +16865,109 @@
         "context": "Instrumental version of \"Star Odyssey\""
       }
     ]
+  },
+  {
+    "title": "Footprints of the Traveler Vol. 4",
+    "songs": [
+      {
+        "id": 1425,
+        "title": "Flowers Resplendent on the Sun-Scorched Sojourn",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "bfOmGoJ9llU",
+        "spotifyId": "0FoFJxASXCCPPjHGajnpeJ",
+        "fandomUrl": "Flowers_Resplendent_on_the_Sun-Scorched_Sojourn_%28Soundtrack%29",
+        "context": "Version 5.0 Trailer"
+      },
+      {
+        "id": 1426,
+        "title": "The Rainbow Destined to Burn",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "u_FgdIOEtSQ",
+        "spotifyId": "4N0Srf1ntzNdrRuizSlS3n",
+        "fandomUrl": "The_Rainbow_Destined_to_Burn_%28Soundtrack%29",
+        "context": "Version 5.1 Trailer"
+      },
+      {
+        "id": 1427,
+        "title": "Tapestry of Spirit and Flame",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "tJDAOr98EmM",
+        "spotifyId": "3FxD231tG3ja1OFpKHa5f4",
+        "fandomUrl": "Tapestry_of_Spirit_and_Flame_%28Soundtrack%29",
+        "context": "Version 5.2 Trailer"
+      },
+      {
+        "id": 1428,
+        "title": "Incandescent Ode of Resurrection",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "I1_QbhuvLiU",
+        "spotifyId": "1joKxBsPDYnh2TTyHq6oB6",
+        "fandomUrl": "Incandescent_Ode_of_Resurrection_%28Soundtrack%29",
+        "context": "Version 5.3 Trailer"
+      },
+      {
+        "id": 1429,
+        "title": "Moonlight Amidst Dreams",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Inazuma",
+        "youtubeId": "pH-BmLetN44",
+        "spotifyId": "553ztPCqgYGXJNln88m187",
+        "fandomUrl": "Moonlight_Amidst_Dreams_%28Soundtrack%29",
+        "context": "Version 5.4 Trailer"
+      },
+      {
+        "id": 1430,
+        "title": "Day of the Flame's Return",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "YXR2_o_LU5g",
+        "spotifyId": "6CbC7gLaxA1vUu0WtM53Gg",
+        "fandomUrl": "Day_of_the_Flame%2527s_Return_%28Soundtrack%29",
+        "context": "Version 5.5 Trailer"
+      },
+      {
+        "id": 1431,
+        "title": "Paralogism",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Mondstadt",
+        "youtubeId": "uShwoSYmXO8",
+        "spotifyId": "62LqILQ2eJfmmtCmLbvloK",
+        "fandomUrl": "Paralogism_%28Soundtrack%29",
+        "context": "Version 5.6 Trailer"
+      },
+      {
+        "id": 1432,
+        "title": "A Space and Time for You",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "HIwjSsYqYh8",
+        "spotifyId": "3UONpHjtT0ZsZeFZLHuzHT",
+        "fandomUrl": "A_Space_and_Time_for_You_%28Soundtrack%29",
+        "context": "Version 5.7 Trailer"
+      },
+      {
+        "id": 1433,
+        "title": "Sunspray Summer Resort",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Natlan",
+        "youtubeId": "p5akjwKcWz0",
+        "spotifyId": "6KnUkgxk20RvxGBZRjIP2J",
+        "fandomUrl": "Sunspray_Summer_Resort_%28Soundtrack%29",
+        "context": "Version 5.8 Trailer"
+      }
+    ]
   }
 ]
