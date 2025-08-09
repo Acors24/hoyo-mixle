@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-08-09",
+    changes: ["Fixed the region of a song"],
+  },
+  {
     date: "2025-08-05",
     changes: [
       'Added "Footprints of the Traveler Vol. 4" album (Genshin Impact)',
