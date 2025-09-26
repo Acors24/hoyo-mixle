@@ -3069,5 +3069,30 @@
         "context": "Instrumental version of \"Wonderland Trickery\""
       }
     ]
+  },
+  {
+    "title": "FURY ON",
+    "songs": [
+      {
+        "id": 271,
+        "title": "FURY ON",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Obol Squad",
+        "youtubeId": "Xow5OrwWZnw",
+        "spotifyId": "4zMYxKnm4qpI0F5Na4R2Tv",
+        "fandomUrl": "FURY_ON"
+      },
+      {
+        "id": 272,
+        "title": "FURY ON (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Obol Squad",
+        "youtubeId": "QlqyCvEeLvM",
+        "spotifyId": "5XSBsWqdKFMWZ94WKDbTj9",
+        "fandomUrl": "FURY_ON_(Instrumental)"
+      }
+    ]
   }
 ]
