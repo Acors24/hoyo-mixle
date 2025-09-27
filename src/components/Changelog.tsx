@@ -8,6 +8,7 @@ const history = [
     changes: [
       'Replaced "Album Stats" dialog with "Index" route, listing all available tracks',
       "While playing, you can now additionally filter the song list by album, region and context, if they're visible",
+      "Adjusted some track data",
     ],
   },
   {
