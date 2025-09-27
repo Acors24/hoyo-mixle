@@ -227,7 +227,6 @@ li[data-album] table {
 
     td {
       padding: 0.25rem 1rem;
-      @apply px-2;
 
       &:first-child {
         border-top-left-radius: 0.25rem;

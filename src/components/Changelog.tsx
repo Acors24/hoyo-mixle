@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-09-27",
+    changes: [
+      'Replaced "Album Stats" dialog with "Index" route, listing all available tracks',
+    ],
+  },
+  {
     date: "2025-09-26",
     changes: ['Added "FURY ON" album (Zenless Zone Zero)'],
   },

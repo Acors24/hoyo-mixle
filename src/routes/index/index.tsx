@@ -127,7 +127,9 @@ function RouteComponent() {
     () => [
       typeFilterMap.get(type) ?? (() => true),
       regionFilterMap.get(region) ?? (() => true),
-      (song: Song) => song.title.toLowerCase().includes(query.toLowerCase()),
+      (song: Song) =>
+        song.title.toLowerCase().includes(query.toLowerCase()) ||
+        (song.context?.toLowerCase().includes(query.toLowerCase()) ?? false),
     ],
     [query, region, regionFilterMap, type, typeFilterMap]
   );
