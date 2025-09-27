@@ -20,6 +20,7 @@ export default function SongFilter({
 }) {
   const albums = useAlbums();
   const [filterInput, setFilterInput] = useState("");
+  const lowerCaseInput = filterInput.toLowerCase();
 
   const albumsVisible = guesses.length > -1;
   const regionsVisible = guesses.length > 0;
@@ -82,16 +83,26 @@ export default function SongFilter({
             return false;
           }
 
-          if (guesses.includes(song)) {
-            return false;
-          }
-
-          return song.title.toLowerCase().includes(filterInput.toLowerCase());
+          return !guesses.includes(song);
         }),
       };
     })
-    .filter(({ songs }) => songs.length > 0)
-    .map((album) => (limitTo4 ? limitAlbumTo4(album, chosenSong) : album));
+    .map((album) => (limitTo4 ? limitAlbumTo4(album, chosenSong) : album))
+    .map(({ title, songs }) => {
+      return {
+        title,
+        songs: songs.filter(
+          (song) =>
+            (albumsVisible && title.toLowerCase().includes(lowerCaseInput)) ||
+            (regionsVisible &&
+              song.region.toLowerCase().includes(lowerCaseInput)) ||
+            (contextVisible &&
+              song.context?.toLowerCase().includes(lowerCaseInput)) ||
+            song.title.toLowerCase().includes(lowerCaseInput)
+        ),
+      };
+    })
+    .filter(({ songs }) => songs.length > 0);
 
   return (
     <div id="song-filter" className={className ?? ""}>
