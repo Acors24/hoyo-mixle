@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-09-30",
+    changes: ['Added "The Long Way Home" album (Genshin Impact)'],
+  },
+  {
     date: "2025-09-28",
     changes: ["Adjusted some more track data"],
   },

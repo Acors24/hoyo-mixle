@@ -17629,5 +17629,43 @@
         "context": "\"Bakunawa\" Boss Fight"
       }
     ]
+  },
+  {
+    "title": "The Long Way Home",
+    "songs": [
+      {
+        "id": 1493,
+        "title": "回家的路 - Genshin Impact's 5th Anniversary Theme Song: Chinese Version",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "BQuW65Q7GHk",
+        "spotifyId": "1SjmHAz4dqHXhSKIjktlWy",
+        "fandomUrl": "%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF_-_Genshin_Impact%27s_5th_Anniversary_Theme_Song:_Chinese_Version",
+        "context": "Chinese version of \"The Long Way Home\""
+      },
+      {
+        "id": 1494,
+        "title": "The Long Way Home - Genshin Impact's 5th Anniversary Theme Song: English Version",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "DIkRK30fGIQ",
+        "spotifyId": "01BuT4WoE4XGteE4YN8HZp",
+        "fandomUrl": "The_Long_Way_Home_-_Genshin_Impact%27s_5th_Anniversary_Theme_Song:_English_Version",
+        "context": "5th Anniversary Theme Song: \"The Long Way Home\" Animation"
+      },
+      {
+        "id": 1495,
+        "title": "The Long Way Home - Instrumental",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Teyvat",
+        "youtubeId": "UXejIomwytI",
+        "spotifyId": "1hAXYM9HnPkGPulzwkwTsN",
+        "fandomUrl": "The_Long_Way_Home_-_Instrumental",
+        "context": "Instrumental version of \"The Long Way Home\""
+      }
+    ]
   }
 ]
