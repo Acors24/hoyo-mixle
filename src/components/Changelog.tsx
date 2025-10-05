@@ -5,7 +5,7 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-10-05",
-    changes: ["Adjusted some track titles"],
+    changes: ["Adjusted some track titles", "Fixed the context of a song"],
   },
   {
     date: "2025-09-30",
