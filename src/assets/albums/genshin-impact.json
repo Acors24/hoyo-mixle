@@ -16855,7 +16855,7 @@
       },
       {
         "id": 1424,
-        "title": "Star Odyssey - Instrumental",
+        "title": "Star Odyssey (Instrumental)",
         "playedAt": ["Media"],
         "type": "Character",
         "region": "???",
@@ -17113,7 +17113,7 @@
       },
       {
         "id": 1446,
-        "title": "The Traveling Boat's Gentle Rocking",
+        "title": "The Traveling Boats Gentle Rocking",
         "playedAt": ["Event Gameplay", "Media"],
         "type": "Event",
         "region": "Natlan",
@@ -17179,7 +17179,7 @@
       },
       {
         "id": 1452,
-        "title": "Wind-Blown Ravines",
+        "title": "Wind‑Blown Ravines",
         "playedAt": ["Quests", ["Events"], "Media"],
         "type": "Event",
         "region": "Natlan",
@@ -17212,7 +17212,7 @@
       },
       {
         "id": 1455,
-        "title": "Harbor-Bound Warm Breeze",
+        "title": "Harbor‑Bound Warm Breeze",
         "playedAt": ["Open-World Locations", "Media"],
         "type": "Open-World",
         "region": "Natlan",
@@ -17245,7 +17245,7 @@
       },
       {
         "id": 1458,
-        "title": "The Tide's Leisurely Tune",
+        "title": "The Tides Leisurely Tune",
         "playedAt": ["Open-World Locations", "Media"],
         "type": "Open-World",
         "region": "Natlan",
@@ -17355,7 +17355,7 @@
       },
       {
         "id": 1468,
-        "title": "Alone at the Rift's Edge",
+        "title": "Alone at the Rifts Edge",
         "playedAt": ["Quests", ["Story Quests"], "Media"],
         "type": "Quest",
         "region": "???",
@@ -17366,7 +17366,7 @@
       },
       {
         "id": 1469,
-        "title": "The Wanderer's Trace",
+        "title": "The Wanderers Trace",
         "playedAt": ["Quests", ["Story Quests"], "Media"],
         "type": "Quest",
         "region": "???",
@@ -17399,7 +17399,7 @@
       },
       {
         "id": 1472,
-        "title": "Caught on the Hunter's Hook",
+        "title": "Caught on the Hunters Hook",
         "playedAt": ["Quests", ["Events"], "Media"],
         "type": "Event",
         "region": "Fontaine",
@@ -17635,7 +17635,7 @@
     "songs": [
       {
         "id": 1493,
-        "title": "回家的路 - Genshin Impact's 5th Anniversary Theme Song: Chinese Version",
+        "title": "回家的路 (Genshin Impact's 5th Anniversary Theme Song: Chinese Version)",
         "playedAt": ["Media"],
         "type": "Special",
         "region": "Teyvat",
@@ -17646,7 +17646,7 @@
       },
       {
         "id": 1494,
-        "title": "The Long Way Home - Genshin Impact's 5th Anniversary Theme Song: English Version",
+        "title": "The Long Way Home (Genshin Impact's 5th Anniversary Theme Song: English Version)",
         "playedAt": ["Media"],
         "type": "Special",
         "region": "Teyvat",
@@ -17657,7 +17657,7 @@
       },
       {
         "id": 1495,
-        "title": "The Long Way Home - Instrumental",
+        "title": "The Long Way Home (Instrumental)",
         "playedAt": ["Media"],
         "type": "Special",
         "region": "Teyvat",
