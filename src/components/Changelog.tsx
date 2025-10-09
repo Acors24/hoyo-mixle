@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-10-09",
+    changes: [
+      'Replaced "/star-rail" route with "/honkai-star-rail"',
+      "Replaced copying/pasting with downloading/uploading in the Export/Import dialog",
+    ],
+  },
+  {
     date: "2025-10-05",
     changes: ["Adjusted some track titles", "Fixed the context of a song"],
   },

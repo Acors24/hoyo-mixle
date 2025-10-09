@@ -1,47 +1,61 @@
-import { FiAlertTriangle, FiCopy, FiEdit, FiSave } from "react-icons/fi";
+import {
+  FiAlertTriangle,
+  FiCheckCircle,
+  FiDownload,
+  FiSave,
+  FiUpload,
+} from "react-icons/fi";
 import Dialog from "./Dialog";
 import { useStorage } from "../StorageContext";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { LocalStorage } from "../types";
+
+const defaultFileInputMessage = "No files selected.";
 
 export default function ExportImport() {
   const { state, dispatch } = useStorage();
-  const [copySuccessful, setCopySuccessful] = useState<boolean | undefined>(
-    undefined
-  );
-  const [pasteSuccessful, setPasteSuccessful] = useState<boolean | undefined>(
-    undefined
+  const [isDownloadSuccessful, setDownloadSuccessful] = useState(true);
+  const [isImportSuccessful, setUploadSuccessful] = useState<
+    boolean | undefined
+  >();
+  const fileInputRef = useRef<HTMLInputElement | null>(null);
+  const [fileInputMessage, setFileInputMessage] = useState(
+    defaultFileInputMessage
   );
 
-  const copyToClipboard = async () => {
-    setCopySuccessful(undefined);
+  const download = async () => {
+    setDownloadSuccessful(true);
     const exportString = JSON.stringify(state);
 
     try {
-      await navigator.clipboard.writeText(exportString);
-      setCopySuccessful(true);
-    } catch (e) {
-      console.error(e);
-      setCopySuccessful(false);
+      const blob = new Blob([exportString], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = "hoyo-mixle.data";
+      link.click();
+      URL.revokeObjectURL(url);
+    } catch {
+      setDownloadSuccessful(false);
     }
   };
 
-  const pasteFromClipboard = async () => {
-    setPasteSuccessful(undefined);
+  const upload = async () => {
+    if (
+      !fileInputRef.current ||
+      !fileInputRef.current.files ||
+      fileInputRef.current.files.length === 0
+    )
+      return;
 
+    setUploadSuccessful(undefined);
     try {
-      const clipboardText = await navigator.clipboard.readText();
-      if (clipboardText === "") {
-        throw "Invalid or missing data.";
-      }
-
-      const newState = JSON.parse(clipboardText) as LocalStorage;
-      dispatch({ type: "SET_STATE", payload: newState });
-
-      setPasteSuccessful(true);
-    } catch (e) {
-      console.error(e);
-      setPasteSuccessful(false);
+      const file = fileInputRef.current.files[0];
+      const newData = JSON.parse(await file.text()) as LocalStorage;
+      dispatch({ type: "SET_STATE", payload: newData });
+      setUploadSuccessful(true);
+    } catch {
+      setUploadSuccessful(false);
     }
   };
 
@@ -50,14 +64,13 @@ export default function ExportImport() {
       <fieldset>
         <legend>Export</legend>
 
-        <button onClick={copyToClipboard}>
-          <FiCopy />
-          Copy data to clipboard
-        </button>
-        {copySuccessful && <p className="ok">Data copied to clipboard.</p>}
-        {copySuccessful === false && (
-          <p className="error">Failed to copy to clipboard.</p>
-        )}
+        <div className="flex items-center gap-2">
+          <button onClick={download}>
+            <FiDownload />
+            Download your data
+          </button>
+          {!isDownloadSuccessful && <p className="error">Download failed.</p>}
+        </div>
       </fieldset>
 
       <fieldset>
@@ -65,22 +78,60 @@ export default function ExportImport() {
 
         <div className="warning">
           <FiAlertTriangle />
-          Make sure the data you most-recently copied is valid HOYO-MiXLE data.
+          Make sure your file is valid HOYO-MiXLE data.
         </div>
 
-        <button onClick={pasteFromClipboard}>
-          <FiEdit />
-          Import data from clipboard
-        </button>
-        {pasteSuccessful && (
-          <p className="ok">
-            Data imported from clipboard. <br /> Refresh the page or re-enter
-            the mode to see the new state.
-          </p>
-        )}
-        {pasteSuccessful === false && (
-          <p className="error">Failed to paste from clipboard.</p>
-        )}
+        <div className="flex items-center gap-2">
+          <input
+            ref={fileInputRef}
+            type="file"
+            className="hidden"
+            onChange={() => {
+              if (
+                !fileInputRef.current ||
+                !fileInputRef.current.files ||
+                fileInputRef.current.files.length === 0
+              ) {
+                setFileInputMessage(defaultFileInputMessage);
+                return;
+              }
+
+              setFileInputMessage(fileInputRef.current.files[0].name);
+            }}
+          />
+          <button
+            onClick={() => {
+              fileInputRef.current?.click();
+            }}
+          >
+            <FiUpload />
+            Select a file
+          </button>
+          <span
+            className="max-w-40 overflow-hidden text-nowrap overflow-ellipsis"
+            title={fileInputMessage}
+          >
+            {fileInputMessage}
+          </span>
+        </div>
+
+        <div className="flex items-center gap-2">
+          <button
+            onClick={upload}
+            disabled={
+              !fileInputRef.current ||
+              !fileInputRef.current.files ||
+              fileInputRef.current.files.length === 0
+            }
+          >
+            <FiCheckCircle />
+            Confirm
+          </button>
+          {isImportSuccessful && <p className="ok">Import successful.</p>}
+          {isImportSuccessful === false && (
+            <p className="error">Import failed.</p>
+          )}
+        </div>
       </fieldset>
     </Dialog>
   );

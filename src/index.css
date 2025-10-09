@@ -177,11 +177,15 @@ dialog {
       gap: 0.5rem;
       transition-duration: 0.2s;
 
-      &:hover {
+      &:enabled:hover {
         background-color: #404040;
       }
-      &:active {
+      &:enabled:active {
         background-color: #303030;
+      }
+
+      &:disabled {
+        color: grey;
       }
     }
 
