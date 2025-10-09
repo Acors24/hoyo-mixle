@@ -22,7 +22,7 @@ export default function Navbar() {
           <Link to="/genshin-impact" className={classes.GameIcon}>
             <img src={genshinIcon} alt="Genshin Impact" />
           </Link>
-          <Link to="/star-rail" className={classes.GameIcon}>
+          <Link to="/honkai-star-rail" className={classes.GameIcon}>
             <img src={starRailIcon} alt="Honkai Star Rail" />
           </Link>
           <Link to="/zenless-zone-zero" className={classes.GameIcon}>

@@ -27,7 +27,7 @@ interface Search {
 
 const games = [
   "genshinImpact",
-  "starRail",
+  "honkaiStarRail",
   "zenlessZoneZero",
 ] as const satisfies readonly Game[];
 
@@ -82,7 +82,7 @@ const emptyPalette = Object.fromEntries(
 
 const gameObjects: { [K in Game]: { label: string; albums: Album[] } } = {
   genshinImpact: { label: "Genshin Impact", albums: genshinImpactAlbums },
-  starRail: { label: "Honkai: Star Rail", albums: honkaiStarRailAlbums },
+  honkaiStarRail: { label: "Honkai: Star Rail", albums: honkaiStarRailAlbums },
   zenlessZoneZero: {
     label: "Zenless Zone Zero",
     albums: zenlessZoneZeroAlbums,

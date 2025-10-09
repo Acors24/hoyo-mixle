@@ -119,7 +119,7 @@ function getGameBaseWiki(game: Game): string {
   switch (game) {
     case "genshinImpact":
       return "https://genshin-impact.fandom.com/wiki/";
-    case "starRail":
+    case "honkaiStarRail":
       return "https://honkai-star-rail.fandom.com/wiki/";
     case "zenlessZoneZero":
       return "https://zenless-zone-zero.fandom.com/wiki/";

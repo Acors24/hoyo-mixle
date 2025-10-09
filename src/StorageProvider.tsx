@@ -4,14 +4,14 @@ import { StorageContext } from "./StorageContext";
 import { Album, Game, LocalStorage } from "./types";
 
 import genshinImpactAlbums from "./assets/albums/genshin-impact.json";
-import starRailAlbums from "./assets/albums/honkai-star-rail.json";
+import honkaiStarRailAlbums from "./assets/albums/honkai-star-rail.json";
 import zenlessZoneZeroAlbums from "./assets/albums/zenless-zone-zero.json";
 
 const allAlbums: {
   [k in Game]: Album[];
 } = {
   genshinImpact: genshinImpactAlbums,
-  starRail: starRailAlbums,
+  honkaiStarRail: honkaiStarRailAlbums,
   zenlessZoneZero: zenlessZoneZeroAlbums,
 };
 
@@ -35,7 +35,7 @@ const getDefaultGameState = () => ({
 const initialState: LocalStorage = {
   gameData: {
     genshinImpact: getDefaultGameState(),
-    starRail: getDefaultGameState(),
+    honkaiStarRail: getDefaultGameState(),
     zenlessZoneZero: getDefaultGameState(),
   },
   config: {
@@ -139,7 +139,7 @@ export default function StorageProvider({
     migrateEndlessStreak(playerData);
 
     // Initialize missing data
-    playerData.gameData.starRail ??= initialState.gameData.starRail;
+    playerData.gameData.honkaiStarRail ??= initialState.gameData.honkaiStarRail;
     playerData.gameData.zenlessZoneZero ??=
       initialState.gameData.zenlessZoneZero;
     playerData.config.lastChangelogSeen ??=
@@ -169,6 +169,13 @@ export default function StorageProvider({
       }
     }
     localStorage.removeItem("hoyo-mixle-calendar");
+
+    // Migrate from old HSR key to the new one
+    const gameData = playerData.gameData as unknown as Record<string, unknown>;
+    if ("starRail" in gameData) {
+      gameData.honkaiStarRail = gameData.starRail;
+      delete gameData.starRail;
+    }
 
     // Validate and update data
     updateDailies(playerData);

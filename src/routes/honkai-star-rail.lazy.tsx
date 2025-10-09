@@ -4,14 +4,14 @@ import Game from "../components/Game";
 import albums from "../assets/albums/honkai-star-rail.json";
 import "../assets/styles/honkai-star-rail.css";
 
-export const Route = createLazyFileRoute("/star-rail")({
+export const Route = createLazyFileRoute("/honkai-star-rail")({
   component: RouteComponent,
 });
 
 function RouteComponent() {
   return (
     <AlbumsContext.Provider value={albums}>
-      <Game currentGame="starRail" />
+      <Game currentGame="honkaiStarRail" />
     </AlbumsContext.Provider>
   );
 }

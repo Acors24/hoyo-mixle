@@ -8,7 +8,7 @@ function getDefaultBackground(game: Game) {
   switch (game) {
     case "genshinImpact":
       return genshinImpactBg;
-    case "starRail":
+    case "honkaiStarRail":
       return honkaiStarRailBg;
     case "zenlessZoneZero":
       return zenlessZoneZeroBg;

@@ -75,7 +75,7 @@ export default function Calendar() {
           <input
             type="radio"
             name="game"
-            value="starRail"
+            value="honkaiStarRail"
             onChange={handleGameChange}
           />
           Honkai: Star Rail
