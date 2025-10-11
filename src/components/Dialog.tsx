@@ -46,7 +46,7 @@ export default function Dialog({
       <dialog
         ref={dialogRef}
         onClose={_onClose}
-        className="bg-neutral-800/50 backdrop-blur text-white rounded-xl max-w-[min(80vw,800px)] backdrop:bg-black/80 shadow"
+        className="bg-neutral-900/50 border-white/10 border backdrop-blur text-white rounded-xl max-w-[min(80vw,800px)] backdrop:bg-black/80"
       >
         <div className="flex justify-between sticky top-0 p-4">
           <h2 className="text-3xl font-bold">{title}</h2>
