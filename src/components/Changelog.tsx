@@ -7,6 +7,7 @@ const history = [
     date: "2025-10-11",
     changes: [
       "The daily songs should now update at 0:00 UTC, not at 0:00/12:00 AM of your local time",
+      "Adjusted Zenless Zone Zero styling",
     ],
   },
   {
