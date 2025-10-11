@@ -5,7 +5,7 @@ import { Random } from "random";
 import * as Accordion from "@radix-ui/react-accordion";
 import * as ScrollArea from "@radix-ui/react-scroll-area";
 import { FiX } from "react-icons/fi";
-import { contextToList } from "../utils";
+import { contextToList, getTodayDateString } from "../utils";
 
 export default function SongFilter({
   chosenSong,
@@ -274,7 +274,7 @@ function limitAlbumTo4(album: Album, chosenSong: Song): Album {
   }
 
   const rng = new Random(
-    `${new Date().toDateString()}${album.title}${chosenSong.title}`
+    `${getTodayDateString()}${album.title}${chosenSong.title}`
   );
   const result: Album = {
     title: album.title,

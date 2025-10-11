@@ -6,6 +6,7 @@ import { Album, Game, LocalStorage } from "./types";
 import genshinImpactAlbums from "./assets/albums/genshin-impact.json";
 import honkaiStarRailAlbums from "./assets/albums/honkai-star-rail.json";
 import zenlessZoneZeroAlbums from "./assets/albums/zenless-zone-zero.json";
+import { getToday, getTodayDateString } from "./utils";
 
 const allAlbums: {
   [k in Game]: Album[];
@@ -65,7 +66,7 @@ function migrateDailyGuesses(state: LocalStorage) {
   const old = localStorage.getItem("data");
   if (old !== null) {
     const guesses = JSON.parse(old) as Record<string, number[]>;
-    const today = new Date().toDateString();
+    const today = getTodayDateString();
     state.gameData.genshinImpact.daily.day = today;
     state.gameData.genshinImpact.daily.guesses = guesses[today] ?? [];
     localStorage.removeItem("data");
@@ -89,7 +90,7 @@ function migrateEndlessStreak(state: LocalStorage) {
 }
 
 function updateDailies(state: LocalStorage) {
-  const today = new Date().toDateString();
+  const today = getTodayDateString();
   Object.values(state.gameData).forEach((data) => {
     if (data.daily.day !== today) {
       data.daily.day = today;
@@ -112,7 +113,7 @@ function validateSongAmounts(state: LocalStorage) {
     );
     if (data.validForSongs !== totalSongs) {
       data.validForSongs = totalSongs;
-      data.daily.day = "";
+      data.daily.day = getTodayDateString();
       data.daily.guesses = [];
       data.endless.guesses = [];
       data.endless.songId = null;
@@ -146,7 +147,7 @@ export default function StorageProvider({
       initialState.config.lastChangelogSeen;
 
     // Initialize calendar data or migrate from old storage
-    const currentYear = new Date().getFullYear();
+    const currentYear = getToday().getUTCFullYear();
     for (const game in playerData.gameData) {
       playerData.gameData[game as Game].calendar ??= {};
 

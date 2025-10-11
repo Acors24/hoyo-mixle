@@ -1,5 +1,5 @@
 import { LocalStorage, StorageAction } from "./types";
-import { updateCalendar } from "./utils";
+import { getTodayDateString, updateCalendar } from "./utils";
 
 export function StorageReducer(
   state: LocalStorage,
@@ -51,7 +51,7 @@ export function StorageReducer(
               ...{
                 ...(action.payload.mode === "daily"
                   ? {
-                      day: new Date().toDateString(),
+                      day: getTodayDateString(),
                     }
                   : {
                       songId: action.payload.songId,

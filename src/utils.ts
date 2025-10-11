@@ -2,18 +2,34 @@ import random, { Random } from "random";
 import { Album, Game, Song } from "./types";
 import { getDayOfYear } from "date-fns";
 
-const baseDate = new Date(2025, 0, 1);
+const baseDate = new Date(2025, 0, 2);
 const today = new Date();
 
+function getToday(): Date {
+  return today;
+}
+
+function getTodayDateString(): string {
+  return getToday().toISOString().split("T")[0];
+}
+
 function getDifferenceInFullDays(date1: Date, date2: Date): number {
-  const utc1 = Date.UTC(date1.getFullYear(), date1.getMonth(), date1.getDate());
-  const utc2 = Date.UTC(date2.getFullYear(), date2.getMonth(), date2.getDate());
+  const utc1 = Date.UTC(
+    date1.getUTCFullYear(),
+    date1.getUTCMonth(),
+    date1.getUTCDate()
+  );
+  const utc2 = Date.UTC(
+    date2.getUTCFullYear(),
+    date2.getUTCMonth(),
+    date2.getUTCDate()
+  );
   return (utc2 - utc1) / (1000 * 60 * 60 * 24);
 }
 
 function getRng(): Random {
   const rng = new Random(0);
-  const days = getDifferenceInFullDays(baseDate, today);
+  const days = getDifferenceInFullDays(baseDate, getToday());
   for (let i = 0; i < days; i++) {
     rng.int();
   }
@@ -63,12 +79,12 @@ function getLBirthdaySong(albums: Album[]): Song | undefined {
 }
 
 function getTodaysSong(albums: Album[]): Song {
-  if (today.getMonth() === 3 && today.getDate() === 1) {
+  if (getToday().getUTCMonth() === 3 && getToday().getUTCDate() === 1) {
     const song = getAprilFoolsSong(albums);
     if (song) {
       return song;
     }
-  } else if (today.getMonth() === 3 && today.getDate() === 17) {
+  } else if (getToday().getUTCMonth() === 3 && getToday().getUTCDate() === 17) {
     const song = getLBirthdaySong(albums);
     if (song) {
       return song;
@@ -149,9 +165,11 @@ function updateCalendar(
   won: boolean,
   guessAmount?: number
 ) {
-  const today = new Date();
-  const year = today.getFullYear();
-  const dayOfYear = getDayOfYear(today) - 1;
+  const year = getToday().getUTCFullYear();
+  const dayOfYear =
+    getDayOfYear(
+      new Date(year, getToday().getUTCMonth(), getToday().getUTCDate())
+    ) - 1;
 
   if (guessAmount !== undefined) {
     calendar[year][dayOfYear] = guessAmount;
@@ -165,6 +183,8 @@ function updateCalendar(
 }
 
 export {
+  getToday,
+  getTodayDateString,
   getTodaysSong,
   getYouTubeThumbnail,
   getStarts,
