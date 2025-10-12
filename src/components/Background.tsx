@@ -23,8 +23,8 @@ export default function Background({
 }: {
   game: Game;
   visible: "playing" | "daily" | "endless";
-  dailySrc: string;
-  endlessSrc: string;
+  dailySrc?: string;
+  endlessSrc?: string;
 }) {
   const defaultBackground = getDefaultBackground(game);
   const [delayedDailySrc, setDelayedDailySrc] = useState(dailySrc);

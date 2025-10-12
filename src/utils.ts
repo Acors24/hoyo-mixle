@@ -1,6 +1,7 @@
 import random, { Random } from "random";
 import { Album, Game, Song } from "./types";
 import { getDayOfYear } from "date-fns";
+import { fetchDailySongs } from "./api";
 
 const baseDate = new Date(2025, 0, 2);
 const today = new Date();
@@ -78,7 +79,9 @@ function getLBirthdaySong(albums: Album[]): Song | undefined {
   }
 }
 
-function getTodaysSong(albums: Album[]): Song {
+const dailySongsPromise = fetchDailySongs();
+
+async function getTodaysSong(albums: Album[], game: Game): Promise<Song> {
   if (getToday().getUTCMonth() === 3 && getToday().getUTCDate() === 1) {
     const song = getAprilFoolsSong(albums);
     if (song) {
@@ -91,6 +94,18 @@ function getTodaysSong(albums: Album[]): Song {
     }
   }
 
+  const dailySongs = await dailySongsPromise;
+  if (dailySongs !== null) {
+    const songId = dailySongs[game];
+    const song = getSongById(albums, songId);
+    if (song) {
+      return song;
+    } else {
+      console.warn(`API returned invalid song ID ${songId} for ${game})`);
+    }
+  }
+
+  console.warn("API error; falling back to pseudo-random daily song.");
   return getRng().choice(albums.flatMap((album) => album.songs))!;
 }
 

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import GuessIndicatorBar from "./GuessIndicatorBar";
 import { Album, Game as hoyoGame, Song } from "../types";
 import GuessTable from "./GuessTable";
@@ -11,6 +11,7 @@ import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
 import * as Switch from "@radix-ui/react-switch";
+import { CgSpinner } from "react-icons/cg";
 
 function idsToSongs(ids: number[], albums: Album[]): Song[] {
   return ids.map(
@@ -21,6 +22,7 @@ function idsToSongs(ids: number[], albums: Album[]): Song[] {
 
 export default function Game({ currentGame }: { currentGame: hoyoGame }) {
   const albums = useAlbums();
+  const [todaysSong, setTodaysSong] = useState<Song | null>(null);
 
   const { state, dispatch } = useStorage();
 
@@ -28,17 +30,39 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
     return random.choice(albums.flatMap((album) => album.songs))!;
   };
 
-  const [chosenSong, setChosenSong] = useState<Song>(getTodaysSong(albums));
+  const [chosenSong, setChosenSong] = useState<Song | null>(todaysSong);
   const [guesses, setGuesses] = useState<Song[]>(
     idsToSongs(state.gameData[currentGame].daily.guesses, albums)
   );
   const [endlessMode, setEndlessMode] = useState(false);
   const [endlessToggleDisabled, setEndlessToggleDisabled] = useState(false);
 
-  const [dailyBg] = useState(getYouTubeThumbnail(chosenSong.youtubeId));
-  const [endlessBg, setEndlessBg] = useState(
-    getYouTubeThumbnail(chosenSong.youtubeId)
-  );
+  useEffect(() => {
+    (async () => {
+      const todaysSong = await getTodaysSong(albums, currentGame);
+      setTodaysSong(todaysSong);
+      setChosenSong(todaysSong);
+    })();
+  }, [albums, currentGame]);
+
+  if (todaysSong === null || chosenSong === null) {
+    return (
+      <>
+        <div className="absolute -z-10">
+          <Background game={currentGame} visible={"playing"} />
+        </div>
+        <div
+          data-game={currentGame}
+          className="flex items-center justify-center"
+        >
+          <CgSpinner className="animate-spin w-16 h-16" />
+        </div>
+      </>
+    );
+  }
+
+  const dailyBg = getYouTubeThumbnail(chosenSong.youtubeId);
+  const endlessBg = getYouTubeThumbnail(chosenSong.youtubeId);
 
   const handleEndlessModeChange = (checked: boolean) => {
     setEndlessMode(checked);
@@ -66,9 +90,9 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
       setGuesses(
         idsToSongs(state.gameData[currentGame].endless.guesses, albums)
       );
-      setEndlessBg(getYouTubeThumbnail(song.youtubeId));
+      // setEndlessBg(getYouTubeThumbnail(song.youtubeId));
     } else {
-      setChosenSong(getTodaysSong(albums));
+      setChosenSong(todaysSong);
       setGuesses(idsToSongs(state.gameData[currentGame].daily.guesses, albums));
     }
   };
@@ -183,7 +207,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
             });
             setChosenSong(newSong);
             setGuesses([]);
-            setEndlessBg(getYouTubeThumbnail(newSong.youtubeId));
+            // setEndlessBg(getYouTubeThumbnail(newSong.youtubeId));
           }}
         >
           Next

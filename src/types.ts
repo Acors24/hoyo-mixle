@@ -106,3 +106,12 @@ export type StorageContextType = {
   state: LocalStorage;
   dispatch: React.Dispatch<StorageAction>;
 };
+
+export type DBRow = {
+  id: number;
+  date: string;
+} & {
+  [K in Game]: number;
+};
+
+export type DBResult = Array<DBRow>;
