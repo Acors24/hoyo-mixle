@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-10-14",
+    changes: [
+      "Added a countdown to the daily reset; visible after finishing a round",
+    ],
+  },
+  {
     date: "2025-10-13",
     changes: ["Daily songs should be properly random now"],
   },

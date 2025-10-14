@@ -687,6 +687,10 @@
     }
   }
 
+  #time-left {
+    text-shadow: var(--text-shadow);
+  }
+
   #trackbar-container {
     background: #d6d6d8;
     display: flex;

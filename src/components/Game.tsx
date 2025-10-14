@@ -12,6 +12,7 @@ import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
 import * as Switch from "@radix-ui/react-switch";
 import { CgSpinner } from "react-icons/cg";
+import ResetCountdown from "./ResetCountdown";
 
 function idsToSongs(ids: number[], albums: Album[]): Song[] {
   return ids.map(
@@ -213,6 +214,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
           Next
         </button>
       )}
+      {gameState !== "playing" && !endlessMode && <ResetCountdown />}
     </div>
   );
 
