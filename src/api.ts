@@ -4,7 +4,7 @@ import { getTodayDateString } from "./utils";
 const localApiUrl = "http://localhost:8787/";
 const prodApiUrl = "https://hoyo-mixle-server.acors.workers.dev/";
 
-const isDev = import.meta?.env?.DEV ?? process.env?.NODE_ENV === "development";
+const isDev = import.meta.env?.DEV ?? process.env?.NODE_ENV === "development";
 const apiUrl = isDev ? localApiUrl : prodApiUrl;
 
 export async function fetchDailySongs() {
