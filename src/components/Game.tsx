@@ -49,9 +49,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
   if (todaysSong === null || chosenSong === null) {
     return (
       <>
-        <div className="absolute -z-10">
-          <Background game={currentGame} visible={"playing"} />
-        </div>
+        <Background background={currentGame} />
         <div
           data-game={currentGame}
           className="flex items-center justify-center"
@@ -61,9 +59,6 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
       </>
     );
   }
-
-  const dailyBg = getYouTubeThumbnail(chosenSong.youtubeId);
-  const endlessBg = getYouTubeThumbnail(chosenSong.youtubeId);
 
   const handleEndlessModeChange = (checked: boolean) => {
     setEndlessMode(checked);
@@ -220,20 +215,13 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
 
   return (
     <>
-      <div className="absolute -z-10">
-        <Background
-          game={currentGame}
-          visible={
-            gameState === "playing"
-              ? "playing"
-              : endlessMode
-                ? "endless"
-                : "daily"
-          }
-          dailySrc={dailyBg}
-          endlessSrc={endlessBg}
-        />
-      </div>
+      <Background
+        background={
+          gameState === "playing"
+            ? currentGame
+            : getYouTubeThumbnail(chosenSong.youtubeId)
+        }
+      />
       <div
         className="overflow-auto select-none"
         style={{ scrollbarGutter: "stable both-sides" }}

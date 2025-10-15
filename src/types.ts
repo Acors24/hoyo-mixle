@@ -15,7 +15,13 @@ export type Song = {
   context?: string;
 };
 
-export type Game = "genshinImpact" | "honkaiStarRail" | "zenlessZoneZero";
+export const GameList = [
+  "genshinImpact",
+  "honkaiStarRail",
+  "zenlessZoneZero",
+] as const;
+
+export type Game = (typeof GameList)[number];
 
 export type Mode = "daily" | "endless";
 
