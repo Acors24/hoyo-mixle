@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import genshinImpactBg from "../assets/backgrounds/genshin-impact.png";
 import honkaiStarRailBg from "../assets/backgrounds/honkai-star-rail.png";
 import zenlessZoneZeroBg from "../assets/backgrounds/zenless-zone-zero.png";
@@ -26,17 +26,26 @@ function Image({
     ? getGameBackground(background as Game)
     : background;
 
+  const containerRef = useRef<HTMLDivElement | null>(null);
+
   return (
-    <img
-      src={src}
-      alt=""
-      className="fixed w-full h-full bg-bottom object-cover blur-[5vw] duration-1000"
+    <div
+      ref={containerRef}
+      className="fixed inset-0 bg-black duration-1000"
       style={{ opacity: 0 }}
-      onLoad={(a) => {
-        a.currentTarget.style.opacity = "1";
-        setTimeout(popFn, 1000);
-      }}
-    />
+    >
+      <img
+        src={src}
+        alt=""
+        className="fixed w-full h-full object-cover blur-[5vh]"
+        onLoad={() => {
+          if (containerRef.current) {
+            containerRef.current.style.opacity = "1";
+            setTimeout(popFn, 1000);
+          }
+        }}
+      />
+    </div>
   );
 }
 
@@ -47,26 +56,23 @@ export default function Background({
 }) {
   const [backgrounds, setBackgrounds] = useState<string[]>([]);
 
+  const pop = () => {
+    setBackgrounds((bgs) => {
+      return bgs.length > 1 ? bgs.slice(1) : bgs;
+    });
+  };
+
   useEffect(() => {
-    setBackgrounds((backgrounds) =>
-      backgrounds.includes(background)
-        ? backgrounds
-        : [...backgrounds, background]
-    );
-    console.log("added");
+    setBackgrounds((bgs) => [
+      ...bgs.filter((bg) => bg !== background),
+      background,
+    ]);
   }, [background]);
 
   return (
     <div className="absolute -z-10">
       {backgrounds.map((bg) => (
-        <Image
-          key={bg}
-          background={bg}
-          popFn={() => {
-            console.log("popping");
-            if (backgrounds.length > 1) setBackgrounds((bgs) => bgs.slice(1));
-          }}
-        />
+        <Image key={bg} background={bg} popFn={pop} />
       ))}
     </div>
   );

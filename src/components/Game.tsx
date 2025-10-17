@@ -6,7 +6,7 @@ import SamplePlayer from "./SamplePlayer";
 import SongFilter from "./SongFilter";
 import random from "random";
 import SongCard from "./SongCard";
-import { getTodaysSong, getYouTubeThumbnail } from "../utils";
+import { getTodaysSong } from "../utils";
 import { useStorage } from "../StorageContext";
 import Background from "./Background";
 import { useAlbums } from "../AlbumsContext";
@@ -86,7 +86,6 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
       setGuesses(
         idsToSongs(state.gameData[currentGame].endless.guesses, albums)
       );
-      // setEndlessBg(getYouTubeThumbnail(song.youtubeId));
     } else {
       setChosenSong(todaysSong);
       setGuesses(idsToSongs(state.gameData[currentGame].daily.guesses, albums));
@@ -203,7 +202,6 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
             });
             setChosenSong(newSong);
             setGuesses([]);
-            // setEndlessBg(getYouTubeThumbnail(newSong.youtubeId));
           }}
         >
           Next
@@ -219,7 +217,7 @@ export default function Game({ currentGame }: { currentGame: hoyoGame }) {
         background={
           gameState === "playing"
             ? currentGame
-            : getYouTubeThumbnail(chosenSong.youtubeId)
+            : `https://img.youtube.com/vi/${chosenSong.youtubeId}/mqdefault.jpg`
         }
       />
       <div

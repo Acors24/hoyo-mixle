@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-10-17",
+    changes: ["Fixed and even improved the way the background works"],
+  },
+  {
     date: "2025-10-14",
     changes: [
       "Added a countdown to the daily reset; visible after finishing a round",
