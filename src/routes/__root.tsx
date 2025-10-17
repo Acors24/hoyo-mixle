@@ -3,6 +3,8 @@ import "../index.css";
 import StorageProvider from "../StorageProvider";
 import Navbar from "../components/Navbar/Navbar";
 import React from "react";
+import AnniversaryDeco from "../components/AnniversaryDeco";
+import { getToday } from "../utils";
 
 const TanStackRouterDevtools =
   process.env.NODE_ENV === "production"
@@ -16,6 +18,9 @@ const TanStackRouterDevtools =
         }))
       );
 
+const isAnniversary =
+  getToday().getUTCDate() === 1 && getToday().getUTCMonth() === 11;
+
 export const Route = createRootRoute({
   component: () => (
     <>
@@ -27,6 +32,7 @@ export const Route = createRootRoute({
             scrollbarWidth: "thin",
           }}
         >
+          {isAnniversary && <AnniversaryDeco />}
           <Navbar />
           <Outlet />
         </div>

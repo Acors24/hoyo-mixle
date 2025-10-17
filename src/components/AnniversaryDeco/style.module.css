@@ -1,0 +1,13 @@
+.p {
+  position: absolute;
+  width: 10px;
+  aspect-ratio: 1;
+
+  &.round {
+    border-radius: 100vw;
+  }
+
+  &.tri {
+    clip-path: polygon(0 0, 100% 0, 50% 100%);
+  }
+}
