@@ -226,7 +226,10 @@ function RouteComponent() {
   }, [albums, filters, setBgPalette, getMainAlbum]);
 
   return (
-    <div className="max-w-[1200px] w-full mx-auto grid grid-rows-[auto_1fr] h-full overflow-auto z-0">
+    <div
+      id="index"
+      className="max-w-[1200px] w-full mx-auto grid grid-rows-[auto_1fr] h-full overflow-auto z-0"
+    >
       <div
         id="index-background"
         className="fixed w-screen h-screen top-0 left-0 -z-10"

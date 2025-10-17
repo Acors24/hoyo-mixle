@@ -17,6 +17,15 @@ input {
   padding: 0.25rem 0.5rem;
 }
 
+#index,
+[data-game] {
+  transition: opacity ease-out 0.5s;
+
+  @starting-style {
+    opacity: 0;
+  }
+}
+
 #calendar-game-selector {
   padding: initial;
   border: initial;

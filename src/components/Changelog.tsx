@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2025-10-17",
-    changes: ["Fixed and even improved the way the background works"],
+    changes: [
+      "Fixed and even improved the way the background works",
+      "Added a fade-in animation for the index and the game",
+    ],
   },
   {
     date: "2025-10-14",
