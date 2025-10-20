@@ -19,7 +19,7 @@ const TanStackRouterDevtools =
       );
 
 const isAnniversary =
-  getToday().getUTCDate() === 1 && getToday().getUTCMonth() === 11;
+  getToday().getUTCDate() === 1 && getToday().getUTCMonth() === 10;
 
 export const Route = createRootRoute({
   component: () => (
