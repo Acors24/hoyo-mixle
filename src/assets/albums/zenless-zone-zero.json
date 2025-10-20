@@ -3086,7 +3086,7 @@
       },
       {
         "id": 272,
-        "title": "FURYON (Instrumental)",
+        "title": "FURYON (伴奏)",
         "playedAt": ["Media"],
         "type": "Character",
         "region": "Obol Squad",
@@ -3094,6 +3094,33 @@
         "spotifyId": "5XSBsWqdKFMWZ94WKDbTj9",
         "fandomUrl": "FURY_ON_(Instrumental)",
         "context": "Instrumental version of \"FURYON\""
+      }
+    ]
+  },
+  {
+    "title": "DAMIDAMI",
+    "songs": [
+      {
+        "id": 273,
+        "title": "DAMIDAMI",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "vlrN8Mso-6Y",
+        "spotifyId": "2xcu1V7AVqhofPPiTO9PDn",
+        "fandomUrl": "DAMIDAMI",
+        "context": "Lucia EP"
+      },
+      {
+        "id": 274,
+        "title": "DAMIDAMI (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "CrAZy_ooizU",
+        "spotifyId": "5aSsTWRBxZEZqhT7fY7ozh",
+        "fandomUrl": "DAMIDAMI_-_Instrumental",
+        "context": "Instrumental version of \"DAMIDAMI\""
       }
     ]
   }
