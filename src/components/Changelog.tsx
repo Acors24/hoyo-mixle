@@ -9,6 +9,7 @@ const history = [
       'Added "Outside It Is Growing Dark" album (Genshin Impact)',
       'Added "DAMIDAMI" album (Zenless Zone Zero)',
       "Adjusted some track data",
+      "Guesses will no longer reset when albums change",
     ],
   },
   {

@@ -1,20 +1,17 @@
 import { useEffect, useReducer } from "react";
 import { StorageReducer } from "./StorageReducer";
 import { StorageContext } from "./StorageContext";
-import { Album, Game, LocalStorage } from "./types";
+import { Game, LocalStorage } from "./types";
 
-import genshinImpactAlbums from "./assets/albums/genshin-impact.json";
-import honkaiStarRailAlbums from "./assets/albums/honkai-star-rail.json";
-import zenlessZoneZeroAlbums from "./assets/albums/zenless-zone-zero.json";
 import { getToday, getTodayDateString } from "./utils";
 
-const allAlbums: {
-  [k in Game]: Album[];
-} = {
-  genshinImpact: genshinImpactAlbums,
-  honkaiStarRail: honkaiStarRailAlbums,
-  zenlessZoneZero: zenlessZoneZeroAlbums,
-};
+// const allAlbums: {
+//   [k in Game]: Album[];
+// } = {
+//   genshinImpact: genshinImpactAlbums,
+//   honkaiStarRail: honkaiStarRailAlbums,
+//   zenlessZoneZero: zenlessZoneZeroAlbums,
+// };
 
 const getDefaultGameState = () => ({
   validForSongs: 0,
@@ -99,27 +96,27 @@ function updateDailies(state: LocalStorage) {
   });
 }
 
-function validateSongAmounts(state: LocalStorage) {
-  for (const game in state.gameData) {
-    const data = state.gameData[game as Game];
-    const gameAlbums = allAlbums[game as Game];
-    if (gameAlbums === undefined) {
-      continue;
-    }
+// function validateSongAmounts(state: LocalStorage) {
+//   for (const game in state.gameData) {
+//     const data = state.gameData[game as Game];
+//     const gameAlbums = allAlbums[game as Game];
+//     if (gameAlbums === undefined) {
+//       continue;
+//     }
 
-    const totalSongs = gameAlbums.reduce(
-      (acc, album) => acc + album.songs.length,
-      0
-    );
-    if (data.validForSongs !== totalSongs) {
-      data.validForSongs = totalSongs;
-      data.daily.day = getTodayDateString();
-      data.daily.guesses = [];
-      data.endless.guesses = [];
-      data.endless.songId = null;
-    }
-  }
-}
+//     const totalSongs = gameAlbums.reduce(
+//       (acc, album) => acc + album.songs.length,
+//       0
+//     );
+//     if (data.validForSongs !== totalSongs) {
+//       data.validForSongs = totalSongs;
+//       data.daily.day = getTodayDateString();
+//       data.daily.guesses = [];
+//       data.endless.guesses = [];
+//       data.endless.songId = null;
+//     }
+//   }
+// }
 
 const storageKey = "hoyo-mixle";
 
@@ -178,9 +175,11 @@ export default function StorageProvider({
       delete gameData.starRail;
     }
 
-    // Validate and update data
+    // Check for the new day
     updateDailies(playerData);
-    validateSongAmounts(playerData);
+
+    // Relevant when songs were drawn client-side and when IDs would disappear
+    // validateSongAmounts(playerData);
 
     return playerData;
   });
