@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-10-20",
+    changes: ['Added "Outside It Is Growing Dark" album (Genshin Impact)'],
+  },
+  {
     date: "2025-10-17",
     changes: [
       "Fixed and even improved the way the background works",
