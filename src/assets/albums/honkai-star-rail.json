@@ -4905,5 +4905,65 @@
         "context": "Harmonic Accompaniment version of \"Flares of the Blazing Sun\""
       }
     ]
+  },
+  {
+    "title": "Ripples of Past Reverie",
+    "songs": [
+      {
+        "id": 417,
+        "title": "Ripples of Past Reverie (English Ver.)",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "I7MNqnkTRKc",
+        "spotifyId": "6efouvscdEILOB0bpJB8GM",
+        "fandomUrl": "Ripples_of_Past_Reverie_-_English_Ver.",
+        "context": "\"Hello, World!\" Animated Short"
+      },
+      {
+        "id": 418,
+        "title": "Ripples of Past Reverie (Chinese Ver.)",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "iCRKZbdIXVY",
+        "spotifyId": "4UWO0zdixPKXVwnecmBplv",
+        "fandomUrl": "Ripples_of_Past_Reverie_-_Chinese_Ver.",
+        "context": "Chinese version of \"Ripples of Past Reverie\""
+      },
+      {
+        "id": 419,
+        "title": "Ripples of Past Reverie (Instrumental)",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "AcpUR29WwCk",
+        "spotifyId": "2AC1AXSCX0xUoMeVbylj0r",
+        "fandomUrl": "Ripples_of_Past_Reverie_-_Instrumental",
+        "context": "Instrumental version of \"Ripples of Past Reverie\""
+      },
+      {
+        "id": 420,
+        "title": "Ripples of Past Reverie (English Harmonic Accompaniment)",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "W_N_rYgHHgE",
+        "spotifyId": "2n2sfnbI1CUHGL5HU4Kep1",
+        "fandomUrl": "Ripples_of_Past_Reverie_-_English_Harmonic_Accompaniment",
+        "context": "English Harmonic Accompaniment version of \"Ripples of Past Reverie\""
+      },
+      {
+        "id": 421,
+        "title": "Ripples of Past Reverie (Chinese Harmonic Accompaniment)",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "uFi0u-LPO4U",
+        "spotifyId": "1LkE1s62CCxaqh82ZwWw6F",
+        "fandomUrl": "Ripples_of_Past_Reverie_-_Chinese_Harmonic_Accompaniment",
+        "context": "Chinese Harmonic Accompaniment version of \"Ripples of Past Reverie\""
+      }
+    ]
   }
 ]
