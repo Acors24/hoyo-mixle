@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-11-23",
+    changes: [
+      'Added "Allegory of the Cave (Part 3)" album (Honkai: Star Rail)',
+    ],
+  },
+  {
     date: "2025-11-12",
     changes: ['Added "Ripples of Past Reverie" album (Honkai: Star Rail)'],
   },

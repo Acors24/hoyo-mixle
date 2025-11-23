@@ -4965,5 +4965,597 @@
         "context": "Chinese Harmonic Accompaniment version of \"Ripples of Past Reverie\""
       }
     ]
+  },
+  {
+    "title": "Allegory of the Cave (Part 3)",
+    "songs": [
+      {
+        "id": 422,
+        "title": "NAME == Entelechy",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "RG3kLJRsLPc",
+        "spotifyId": "7L698rxmawgWIS6VziYuXV",
+        "fandomUrl": "NAME_%3D%3D_Entelechy",
+        "context": "\"First Genius, Entelechy, Zandar\" Boss Fight"
+      },
+      {
+        "id": 423,
+        "title": "Maze",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "f9I9ranLqfU",
+        "spotifyId": "4pxSDPWDo6lRGfmwVJrNN4",
+        "fandomUrl": "Maze",
+        "context": "Aedes Elysiae - Membrance Maze"
+      },
+      {
+        "id": 424,
+        "title": "Homeland",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "ptuw-mWkBVA",
+        "spotifyId": "2rglcEnKjRO4uCjhKqRkmt",
+        "fandomUrl": "Homeland",
+        "context": "Aedes Elysiae"
+      },
+      {
+        "id": 425,
+        "title": "Elysiae Melody",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "bWEVrO0mT90",
+        "spotifyId": "0nsubrMqfTE0ZQeRTITtYK",
+        "fandomUrl": "Elysiae_Melody",
+        "context": "Aedes Elysiae - Sacrament Courtyard"
+      },
+      {
+        "id": 426,
+        "title": "Ode of the Verdant",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "GtmJDGHsjGg",
+        "spotifyId": "5A1QL7biy8L3BVBb5cee8R",
+        "fandomUrl": "Ode_of_the_Verdant",
+        "context": "\"Radiant Scarwood\" Grove of Epiphany"
+      },
+      {
+        "id": 427,
+        "title": "Sacred Grove",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "7FKXDKbkkOc",
+        "spotifyId": "2rX6QbqqdgyDwx56wP7mIK",
+        "fandomUrl": "Sacred_Grove",
+        "context": "\"Radiant Scarwood\" Grove of Epiphany"
+      },
+      {
+        "id": 428,
+        "title": "Promise of Tomorrow",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "ktplLfWEXyY",
+        "spotifyId": "5DQNoq15oHqDc0f8C3eHg8",
+        "fandomUrl": "Promise_of_Tomorrow",
+        "context": "Trailblaze Mission Chapter IV: \"Hero, Ignite That Primal Sun\""
+      },
+      {
+        "id": 429,
+        "title": "When Darkness Spreads",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "O5Z3B2_la2Q",
+        "spotifyId": "3vQOVdLi2qzAsH2AcWHe30",
+        "fandomUrl": "When_Darkness_Spreads",
+        "context": "Trailblaze Mission Chapter IV: \"Hero, Ignite That Primal Sun\""
+      },
+      {
+        "id": 430,
+        "title": "Infernal Blaze",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "1My8IZi5Ec0",
+        "spotifyId": "5dkZZwDtxPXvWim3kACf6Z",
+        "fandomUrl": "Infernal_Blaze",
+        "context": "\"Flame Reaver of the Deepest Dark (Dawn-Denied Khaslana)\" Boss Fight"
+      },
+      {
+        "id": 431,
+        "title": "When The Wind Was Warm",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "LveRoA57JoM",
+        "spotifyId": "1FgVigd0rvEWMDsoxidkMi",
+        "fandomUrl": "When_The_Wind_Was_Warm",
+        "context": "\"Warbling Shores\" Styxia"
+      },
+      {
+        "id": 432,
+        "title": "Beneath the Bubbles",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "LveRoA57JoM",
+        "spotifyId": "0U8WnZuie7GOxDfvpwX4Bc",
+        "fandomUrl": "Beneath_the_Bubbles",
+        "context": "\"Warbling Shores\" Styxia - Somber Altar of Candles"
+      },
+      {
+        "id": 433,
+        "title": "Frozen Tides",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "17bgdGsqlI4",
+        "spotifyId": "726wS2E1OI3lFG7prm1JHy",
+        "fandomUrl": "Frozen_Tides",
+        "context": "\"Warbling Shores\" Styxia - Seabed of Luminous Remains"
+      },
+      {
+        "id": 434,
+        "title": "Migratory Hope",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "VNRnM4jIG48",
+        "spotifyId": "6TwQ15v1TeDuVj8q2uPeq1",
+        "fandomUrl": "Migratory_Hope",
+        "context": "Trailblaze Mission Chapter IV: \"Sea, Bury the Wine-Dark Dreams\" (cutscene)"
+      },
+      {
+        "id": 435,
+        "title": "Sweet Dreams and Feasts",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "NexeQQ-6Q88",
+        "spotifyId": "77V09oRwonl50wwQeOBp2X",
+        "fandomUrl": "Sweet_Dreams_and_Feast",
+        "context": "Trailblaze Mission Chapter IV: \"Sun, Repel Stars and Pale Moon\" (Cerydra's banquet area)"
+      },
+      {
+        "id": 436,
+        "title": "The Looming Curtains",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "slni3RrdbC8",
+        "spotifyId": "0DvCQCwialKOKF23q9pfrf",
+        "fandomUrl": "The_Looming_Curtains",
+        "context": "\"As I've Written\" Menu Theme (after Trailblaze mission \"For the Sun is Set to Die\")"
+      },
+      {
+        "id": 437,
+        "title": "A Journey for the Past",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "n7YVKMHG2yc",
+        "spotifyId": "62ZwAozpsr5TWQYetbvGt9",
+        "fandomUrl": "A_Journey_for_the_Past",
+        "context": "Trailblaze Mission Chapter IV: \"Zephyr, Uplift Bygone Dust Cloudsward\" / Various Amphoreus quests (Cyrene's apparitions)"
+      },
+      {
+        "id": 438,
+        "title": "Face of a Stranger",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "ErE3-8VVrqk",
+        "spotifyId": "0YbBmDQcBnBiYWP41234T8",
+        "fandomUrl": "Face_of_a_Stranger",
+        "context": "Trailblaze Mission Chapter IV: \"Wanderer, Decipher the Waxen Imprints\" (Evernight's apparition)"
+      },
+      {
+        "id": 439,
+        "title": "The Long Road Through Evernight",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "xUlzCyCwCfw",
+        "spotifyId": "0R9YGmtlSWuN9gOR1Umvem",
+        "fandomUrl": "The_Long_Road_Through_Evernight",
+        "context": "Trailblaze Mission Chapter IV: \"Wanderer, Decipher the Waxen Imprints\" (Evernight's apparition)"
+      },
+      {
+        "id": 440,
+        "title": "Passing the Torch",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "sz62Lolp2Ew",
+        "spotifyId": "7ny6tup5Mprt5mwYgQdd8B",
+        "fandomUrl": "Passing_the_Torch",
+        "context": "Trailblaze Mission Chapter IV: \"Zephyr, Uplift Bygone Dust Cloudsward\""
+      },
+      {
+        "id": 441,
+        "title": "Conqueror's Contemplation",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "FzivOdhvjt4",
+        "spotifyId": "3LzTz2BnSWmxtWq8EzBFGN",
+        "fandomUrl": "Conqueror%27s_Contemplation",
+        "context": "Trailblaze Mission Chapter IV: \"Time, Ferry Me Through Ages\" (Cerydra's war speech)"
+      },
+      {
+        "id": 442,
+        "title": "Starlight Serenade",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "oYbRcvqWcFA",
+        "spotifyId": "4HvDIDMJ0d5ogmgo3aioxV",
+        "fandomUrl": "Starlight_Serenade",
+        "context": "Aedes Elysiae - Membrance Maze"
+      },
+      {
+        "id": 443,
+        "title": "Vector Thirteen",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "p7nvu1CNwa4",
+        "spotifyId": "5TFnTERzGyQwt1TY4xrtFt",
+        "fandomUrl": "Vector_Thirteen",
+        "context": "\"Universal Matrix\" Great Tomb of the Nameless Titan - Tranquil Tomb Gate)"
+      },
+      {
+        "id": 444,
+        "title": "Matrix",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "mmkR4pLoM84",
+        "spotifyId": "1SWqxD0wCK0xRqlPrsIaGP",
+        "fandomUrl": "Matrix",
+        "context": "\"Universal Matrix\" Great Tomb of the Nameless Titan - Central Access Platform"
+      },
+      {
+        "id": 445,
+        "title": "Mythical Axiom",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Missions"],
+          "Domains",
+          "Phonograph Records"
+        ],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "qbI3c-XRlz4",
+        "spotifyId": "22LL6qgk2BD3xdTLAvJpuO",
+        "fandomUrl": "Mythical_Axiom",
+        "context": "\"Exomyth\" Domain"
+      },
+      {
+        "id": 446,
+        "title": "Buffer Zone",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "w7Y4mcuJpac",
+        "spotifyId": "7vPeZ8WII71deOh2SjETON",
+        "fandomUrl": "Buffer_Zone",
+        "context": "\"Universal Matrix\" Great Tomb of the Nameless Titan"
+      },
+      {
+        "id": 447,
+        "title": "Overflowing Core",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "2EkUtLTGgVk",
+        "spotifyId": "1szHHXFsYowQ8VgMCWvA5a",
+        "fandomUrl": "Overflowing_Core",
+        "context": "\"Universal Matrix\" Great Tomb of the Nameless Titan - Demiurge Matrix"
+      },
+      {
+        "id": 448,
+        "title": "Forging Tomorrow",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "RrmGhFc_X-w",
+        "spotifyId": "7EoBeuSaKzRal3YufoQ1g7",
+        "fandomUrl": "Forging_Tomorrow",
+        "context": "Trailblaze Mission Chapter IV: \"Gods, Sound the Anthem of Creation\" (Chrysos Heirs' assemble)"
+      },
+      {
+        "id": 449,
+        "title": "Flowing Memories",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "l_sp2IbPghI",
+        "spotifyId": "4eDqV2Y8bTLVnMO0LeGERM",
+        "fandomUrl": "Flowing_Memories",
+        "context": "Trailblaze Mission Chapter IV: \"Reunion, Promise of Tears and Smiles\" (Reuniting with March 7th)"
+      },
+      {
+        "id": 450,
+        "title": "Unholy Blood",
+        "playedAt": ["Enemies", "Missions", ["Trailblaze Missions"]],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "HwhS9nJdj74",
+        "spotifyId": "5hKSah85PKv6qP8VRXfQHk",
+        "fandomUrl": "Unholy_Blood",
+        "context": "\"Ichor Memosprite: Judge of Oblivion\" Boss Fight"
+      },
+      {
+        "id": 451,
+        "title": "Phase Shift",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "QH0OmNGUB5w",
+        "spotifyId": "1llDgsDflz97YQpRHG56Fm",
+        "fandomUrl": "Phase_Shift",
+        "context": "\"Nightmare's Echo\" Great Tomb of the Nameless Titan - Destruction Resonance Terminal"
+      },
+      {
+        "id": 452,
+        "title": "Stalled Flight",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "pBl-aG7M_bk",
+        "spotifyId": "2tv0ZsgNvQO3fnteYd8GNE",
+        "fandomUrl": "Stalled_Flight",
+        "context": "\"Nightmare's Echo\" Great Tomb of the Nameless Titan"
+      },
+      {
+        "id": 453,
+        "title": "Tranquil Dream",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "52RH-10B3LM",
+        "spotifyId": "3UbQLl5X43bQNPm8mpJrO6",
+        "fandomUrl": "Tranquil_Dream",
+        "context": "\"Memortis Shore\" Ruins of Time - Worldbearing Statue"
+      },
+      {
+        "id": 454,
+        "title": "Nameless Healing",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "aozhwzLVx1w",
+        "spotifyId": "49licEGSRpAYmIL77NAA8I",
+        "fandomUrl": "Nameless_Healing",
+        "context": "\"Memortis Shore\" Ruins of Time - Penitentiary of Wishes"
+      },
+      {
+        "id": 455,
+        "title": "Mind and Soul",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "QT58dUywQB0",
+        "spotifyId": "09KPe7zdzETHHviI1l1vcq",
+        "fandomUrl": "Mind_and_Soul",
+        "context": "Trailblaze Mission Chapter IV: \"Silver Chariot, Part With That Humanity's Epic\""
+      },
+      {
+        "id": 456,
+        "title": "In the Name of All Worlds",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "z9s7opS2qec",
+        "spotifyId": "2JwLgpMfmOgtRklIozVEv3",
+        "fandomUrl": "In_the_Name_of_All_Worlds",
+        "context": "Trailblaze Mission Chapter IV: \"Traverse Stars and Stride Cosmos\" (Trailblazer's prophecy)"
+      },
+      {
+        "id": 457,
+        "title": "Remembrance of the Heart",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "xPIb5c62C9g",
+        "spotifyId": "0Yh38Jd2nnivXvBmgPOpCv",
+        "fandomUrl": "Remembrance_of_the_Heart",
+        "context": "Trailblaze Mission Chapter IV: \"The Witch's Ardent Research\" (\"Flower of Memory\"'s growth)"
+      },
+      {
+        "id": 458,
+        "title": "Clash of Time Rift",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "0vfZ_pMFkns",
+        "spotifyId": "0jdeECB0pKDk5msjNd4HQO",
+        "fandomUrl": "Clash_of_Time_Rift",
+        "context": "Trailblaze Mission Chapter IV: \"Captives, Behold the Expanse Beyond Light\" (Lygus fight cutscene)"
+      },
+      {
+        "id": 459,
+        "title": "Echoes of Dragon",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "CnFK37ymqoY",
+        "spotifyId": "0YhzPeEHCVvKsIaHUMBi3R",
+        "fandomUrl": "Echoes_of_Dragon",
+        "context": "Trailblaze Mission Chapter IV: \"Earth, Bear the Suffering of All\" (Dan Heng PT's awakening cutscene)"
+      },
+      {
+        "id": 460,
+        "title": "Flawless Ichor",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "-b6RXRYZBLw",
+        "spotifyId": "6ZFakfMybb7JX3kvwUafWk",
+        "fandomUrl": "Flawless_Ichor",
+        "context": "Trailblaze Mission Chapter IV: \"Hero, Shatter That Woeful Effigy\" (Khaslana's awakening cutscene)"
+      },
+      {
+        "id": 461,
+        "title": "Golden Desires",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "-b6RXRYZBLw",
+        "spotifyId": "4ArcSxF8sQI2EUccuTFl2E",
+        "fandomUrl": "Golden_Desires",
+        "context": "Trailblaze Mission Chapter IV: \"Silver Chariot, Part With That Humanity's Epic\" (Chrysos Heirs' final goodbye)"
+      },
+      {
+        "id": 462,
+        "title": "The End of Gods",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "wEDmVgk9Ivg",
+        "spotifyId": "6OPwtMxLtbhUhyuFo7yr2e",
+        "fandomUrl": "The_End_of_Gods",
+        "context": "\"Memortis Shore\" Ruins of Time - The Ruins' Courtyard / Grave of Clarity"
+      },
+      {
+        "id": 463,
+        "title": "Virus",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Amphoreus",
+        "youtubeId": "wEDmVgk9Ivg",
+        "spotifyId": "7n1Zp2Jh1Hb73jCNDqp1DL",
+        "fandomUrl": "Virus",
+        "context": "\"Memortis Shore\" Ruins of Time Battle Theme"
+      },
+      {
+        "id": 464,
+        "title": "Mirage",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "-iKUwz1W6UE",
+        "spotifyId": "3rQ3tDHezihJVsI9XHQeLe",
+        "fandomUrl": "Mirage",
+        "context": "\"Memortis Shore\" Ruins of Time"
+      },
+      {
+        "id": 465,
+        "title": "Mirage of Regrets",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "hxFZnNvxZJ0",
+        "spotifyId": "2H7OuM0YGeYnhtCDt5M2Cd",
+        "fandomUrl": "Mirage_of_Regrets",
+        "context": "\"Memortis Shore\" Ruins of Time"
+      },
+      {
+        "id": 466,
+        "title": "Tomb of Blades",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "u3IoGFpnQ9o",
+        "spotifyId": "1mlUxSRmeW4zr88uE7gpXW",
+        "fandomUrl": "Tomb_of_Blades",
+        "context": "\"Memortis Shore\" Ruins of Time - One Tomb of Woeflame"
+      },
+      {
+        "id": 467,
+        "title": "Immolation of the Heavens",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "nZxCHcXotZ0",
+        "spotifyId": "1xq5S6SCVMJZxh7kdqGqgX",
+        "fandomUrl": "Immolation_of_the_Heavens",
+        "context": "\"Vessel of the Destruction, Khaslana\" Boss Fight"
+      },
+      {
+        "id": 468,
+        "title": "Agony Converging into River",
+        "playedAt": ["Enemies", "Domains", "Phonograph Records"],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "IF4SnqoNa6s",
+        "spotifyId": "5Ex3y2M1WkjShI1xbWPhGk",
+        "fandomUrl": "Agony_Converging_into_River",
+        "context": "\"Anti-Creator, Hatred Inundate (Irontomb)\" Boss Fight (phases 1 and 2)"
+      },
+      {
+        "id": 469,
+        "title": "An Eternal Page",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Amphoreus",
+        "youtubeId": "8hmyaFgKz9Q",
+        "spotifyId": "5qIe9n0hxcHuqb1430X6lK",
+        "fandomUrl": "An_Eternal_Page",
+        "context": "Beyond Time: An Eternal Page"
+      },
+      {
+        "id": 470,
+        "title": "A World of Deep Love",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "YQ64QANv0C8",
+        "spotifyId": "6EEvE6e557qKsbExFTauuW",
+        "fandomUrl": "A_World_of_Deep_Love",
+        "context": "Trailblaze Mission Chapter IV: \"Pages, Ripples That Engrave Memories\" (at \"Beyond Time: An Eternal Page\" - Dome of the Stars)"
+      },
+      {
+        "id": 471,
+        "title": "Era Nova",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "0-9_CFY6-8c",
+        "spotifyId": "5F0gpeiKWBRJWtDuisfnsm",
+        "fandomUrl": "Era_Nova",
+        "context": "Trailblaze Mission Chapter IV: \"Pages, Ripples That Engrave Memories\" (cutscene)"
+      },
+      {
+        "id": 472,
+        "title": "Shatter the God's Crown",
+        "playedAt": ["Enemies", "Domains", "Phonograph Records"],
+        "type": "Boss",
+        "region": "Amphoreus",
+        "youtubeId": "AG2BYUtRw2g",
+        "spotifyId": "4e0LF3cwFEcKdPk40icSIZ",
+        "fandomUrl": "Shatter_the_God%27s_Crown",
+        "context": "\"Anti-Creator, Hatred Inundate (Irontomb)\" Boss Fight (phase 3)"
+      },
+      {
+        "id": 473,
+        "title": "To the World",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Amphoreus",
+        "youtubeId": "QBAmrkn0zrY",
+        "spotifyId": "1qEnRs1CTWKblVqUooSdvw",
+        "fandomUrl": "To_the_World",
+        "context": "Trailblaze Mission Chapter IV: \"Pages, Ripples That Engrave Memories\" (victory against Irontomb cutscene)"
+      }
+    ]
   }
 ]
