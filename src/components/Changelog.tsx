@@ -7,6 +7,7 @@ const history = [
     date: "2025-11-23",
     changes: [
       'Added "Allegory of the Cave (Part 3)" album (Honkai: Star Rail)',
+      "Fixed and added a few fandom URLs",
     ],
   },
   {
