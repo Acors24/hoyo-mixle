@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { DBResult } from "./types";
 import { getTodayDateString } from "./utils";
 
@@ -31,4 +32,44 @@ export async function fetchDailySongs() {
   } catch {
     return null;
   }
+}
+
+export function useHistory(doFetch: boolean): {
+  data: DBResult | null;
+  pending: boolean;
+  error: Error | null;
+} {
+  const [data, setData] = useState<DBResult | null>(null);
+  const [pending, setPending] = useState<boolean>(doFetch);
+  const [error, setError] = useState<Error | null>(null);
+
+  if (data !== null || !doFetch) {
+    return { data, pending, error };
+  }
+
+  async function fetchHistory() {
+    const fetchUrl = new URL(apiUrl);
+    fetchUrl.searchParams.append("all", "true");
+
+    setError(null);
+    try {
+      const promise = fetch(fetchUrl);
+      setPending(true);
+      const response = await promise;
+      if (!response.ok) {
+        throw new Error();
+      }
+      const fetchedData = (await response.json()) as DBResult;
+      setData(fetchedData);
+    } catch {
+      setError(new Error("Failed to fetch history. Try again later."));
+    } finally {
+      setPending(false);
+    }
+  }
+
+  if (!pending && !error) {
+    fetchHistory();
+  }
+  return { data, pending, error };
 }

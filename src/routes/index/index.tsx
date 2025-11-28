@@ -98,11 +98,15 @@ function RouteComponent() {
   const [query, setQuery] = useState("");
 
   useEffect(() => {
+    setGame(search.game as Game);
+  }, [search.game]);
+
+  useEffect(() => {
     if (search.id) {
       const selectedSong = document.querySelector(`[data-id="${search.id}"]`);
       selectedSong?.scrollIntoView({ behavior: "smooth", block: "center" });
     }
-  }, [search.id]);
+  }, [search.id, game]);
 
   const albums = gameObjects[game].albums;
 

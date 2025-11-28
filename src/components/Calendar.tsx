@@ -1,9 +1,15 @@
-import { FiCalendar } from "react-icons/fi";
+import { FiCalendar, FiChevronRight } from "react-icons/fi";
 import Dialog from "./Dialog";
 import { getDay, getDayOfYear, getDaysInMonth } from "date-fns";
-import { Game } from "../types";
+import { Album, DBResult, Game } from "../types";
 import { useState } from "react";
 import { useStorage } from "../StorageContext";
+import { useHistory } from "../api";
+import { CgSpinner } from "react-icons/cg";
+import { Link } from "@tanstack/react-router";
+import genshinImpactAlbums from "../assets/albums/genshin-impact.json";
+import honkaiStarRailAlbums from "../assets/albums/honkai-star-rail.json";
+import zenlessZoneZeroAlbums from "../assets/albums/zenless-zone-zero.json";
 
 const monthNames = [
   "January",
@@ -38,18 +44,60 @@ function getCellClass(won: boolean, guesses: number) {
   return "day";
 }
 
-function CalendarCell({ dayData }: { dayData: number }) {
+function CalendarCell({
+  dayData,
+  onClick,
+  highlight,
+}: {
+  dayData: number;
+  onClick: () => void;
+  highlight: boolean;
+}) {
   const won = Boolean(dayData & 0b1000);
   const guesses = dayData & 0b0111;
 
   const className = getCellClass(won, guesses);
-  return <div className={className}>{guesses}</div>;
+  return (
+    <div className={className} onClick={onClick} data-highlight={highlight}>
+      {guesses}
+    </div>
+  );
+}
+
+const albumSets: { [k in Game]: Album[] } = {
+  genshinImpact: genshinImpactAlbums,
+  honkaiStarRail: honkaiStarRailAlbums,
+  zenlessZoneZero: zenlessZoneZeroAlbums,
+};
+
+function idToSong(id: number, albums: Album[]) {
+  for (const album of albums) {
+    const song = album.songs.find((song) => song.id === id);
+    if (song) {
+      return { album: album.title, song };
+    }
+  }
+}
+
+function getSongFromHistory(game: Game, date: string, history: DBResult) {
+  const dayData = history.find((row) => row.date === date);
+  if (!dayData) {
+    return null;
+  }
+
+  return idToSong(dayData[game], albumSets[game]) ?? null;
 }
 
 export default function Calendar() {
   const [game, setGame] = useState<Game>("genshinImpact");
 
   const { state } = useStorage();
+
+  const [hasOpened, setHasOpened] = useState(false);
+
+  const { data, pending, error } = useHistory(hasOpened);
+
+  const [selectedDay, setSelectedDay] = useState<string | null>(null);
 
   const yearData = state.gameData[game].calendar[year];
 
@@ -58,8 +106,15 @@ export default function Calendar() {
     setGame(selectedGame);
   };
 
+  const selectedDaySong =
+    selectedDay && data ? getSongFromHistory(game, selectedDay, data) : null;
+
   return (
-    <Dialog title="Calendar" icon={<FiCalendar />}>
+    <Dialog
+      title="Calendar"
+      icon={<FiCalendar />}
+      onOpen={() => setHasOpened(true)}
+    >
       <fieldset id="calendar-game-selector">
         <label>
           <input
@@ -105,21 +160,53 @@ export default function Calendar() {
 
               {Array(getDaysInMonth(new Date(year, monthIndex)))
                 .fill(0)
-                .map((_, dayIndex) => (
-                  <CalendarCell
-                    key={dayIndex}
-                    dayData={
-                      yearData[
-                        getDayOfYear(new Date(year, monthIndex, dayIndex + 1)) -
-                          1
-                      ]
-                    }
-                  />
-                ))}
+                .map((_, dayIndex) => {
+                  const monthString = `${monthIndex + 1}`.padStart(2, "0");
+                  const dayString = `${dayIndex + 1}`.padStart(2, "0");
+                  const dateString = `${year}-${monthString}-${dayString}`;
+                  return (
+                    <CalendarCell
+                      onClick={() => {
+                        setSelectedDay(dateString);
+                      }}
+                      key={dayIndex}
+                      dayData={
+                        yearData[
+                          getDayOfYear(
+                            new Date(year, monthIndex, dayIndex + 1)
+                          ) - 1
+                        ]
+                      }
+                      highlight={dateString === selectedDay}
+                    />
+                  );
+                })}
             </div>
           </div>
         ))}
       </div>
+      {selectedDay && (
+        <div id="calendar-day-info">
+          {pending && <CgSpinner className="animate-spin" />}
+          {error && <span className="error">{error.message}</span>}
+          {data &&
+            (selectedDaySong ? (
+              <>
+                <Link
+                  id="index-link"
+                  to="/index"
+                  search={{ game, id: selectedDaySong.song.id }}
+                >
+                  <div id="album">{selectedDaySong.album}</div>
+                  <div id="title">{selectedDaySong.song.title}</div>
+                  <FiChevronRight id="link-icon" />
+                </Link>
+              </>
+            ) : (
+              "No data."
+            ))}
+        </div>
+      )}
     </Dialog>
   );
 }

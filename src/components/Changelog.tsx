@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-11-28",
+    changes: [
+      "Added an ability to see which songs were drawn in the past. Click a day in the Calendar dialog to try it out. (The history is not complete and currently starts on 2025-09-29)",
+    ],
+  },
+  {
     date: "2025-11-23",
     changes: [
       'Added "Allegory of the Cave (Part 3)" album (Honkai: Star Rail)',

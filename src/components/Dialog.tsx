@@ -6,6 +6,7 @@ export default function Dialog({
   icon,
   children,
   initialOpen = false,
+  onOpen,
   onClose,
   showIndicator,
 }: {
@@ -13,6 +14,7 @@ export default function Dialog({
   icon: React.ReactNode;
   children: React.ReactNode;
   initialOpen?: boolean;
+  onOpen?: () => void;
   onClose?: () => void;
   showIndicator?: boolean;
 }) {
@@ -27,6 +29,11 @@ export default function Dialog({
     }
   }, [open]);
 
+  const _onOpen = () => {
+    setOpen(true);
+    onOpen?.();
+  };
+
   const _onClose = () => {
     setOpen(false);
     onClose?.();
@@ -34,7 +41,7 @@ export default function Dialog({
 
   return (
     <>
-      <button onClick={() => setOpen(true)} className="relative">
+      <button onClick={_onOpen} className="relative">
         {showIndicator && (
           <span className="absolute -top-1 -right-1 flex size-4">
             <span className="absolute inline-flex size-4 animate-ping rounded-full bg-rose-400 opacity-75"></span>
@@ -54,7 +61,7 @@ export default function Dialog({
             <FiX className="text-2xl" />
           </button>
         </div>
-        <div className="overflow-auto max-h-[min(80vh,600px)] first:*:mt-0 *:mt-4 px-4 pb-4">
+        <div className="overflow-auto max-h-[80vh] first:*:mt-0 *:mt-4 px-4 pb-4">
           {children}
         </div>
       </dialog>
