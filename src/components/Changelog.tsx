@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-12-02",
+    changes: ["Adjusted today's track data"],
+  },
+  {
     date: "2025-11-28",
     changes: [
       "Added an ability to see which songs were drawn in the past. Click a day in the Calendar dialog to try it out. (The history is not complete and currently starts on 2025-09-29)",
