@@ -98,7 +98,9 @@ function RouteComponent() {
   const [query, setQuery] = useState("");
 
   useEffect(() => {
-    setGame(search.game as Game);
+    if (search.game) {
+      setGame(search.game as Game);
+    }
   }, [search.game]);
 
   useEffect(() => {
