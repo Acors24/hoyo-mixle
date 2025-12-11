@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2025-12-11",
+    changes: ["Adjusted today's track data"],
+  },
+  {
     date: "2025-12-02",
     changes: ["Adjusted today's track data", "Fixed the index failing to load"],
   },
