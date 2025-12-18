@@ -3127,5 +3127,30 @@
         "context": "Instrumental version of \"DAMIDAMI\""
       }
     ]
+  },
+  {
+    "title": "I Ask",
+    "songs": [
+      {
+        "id": 275,
+        "title": "I Ask",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "ML9eAgXF9yY",
+        "spotifyId": "5tPjK7cfR5vPm33wapnWVI",
+        "context": "Banyue EP"
+      },
+      {
+        "id": 276,
+        "title": "I Ask (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "eAirBeiFCsQ",
+        "spotifyId": "7Aajq3eIOwhk5aFdAjGgR0",
+        "context": "Instrumental version of \"I Ask\""
+      }
+    ]
   }
 ]
