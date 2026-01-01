@@ -186,6 +186,10 @@ function updateCalendar(
       new Date(year, getToday().getUTCMonth(), getToday().getUTCDate())
     ) - 1;
 
+  if (calendar[year] === undefined) {
+    calendar[year] = Array(366).fill(0);
+  }
+
   if (guessAmount !== undefined) {
     calendar[year][dayOfYear] = guessAmount;
   }

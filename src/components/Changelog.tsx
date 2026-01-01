@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-01-01",
+    changes: [
+      "Added an option to change the displayed year in the Calendar",
+      "Fixed an issue with the Calendar",
+    ],
+  },
+  {
     date: "2025-12-20",
     changes: ["Adjusted track data"],
   },

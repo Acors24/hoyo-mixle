@@ -1,4 +1,4 @@
-import { FiCalendar, FiChevronRight } from "react-icons/fi";
+import { FiCalendar, FiChevronLeft, FiChevronRight } from "react-icons/fi";
 import Dialog from "./Dialog";
 import { getDay, getDayOfYear, getDaysInMonth } from "date-fns";
 import { Album, DBResult, Game } from "../types";
@@ -25,8 +25,6 @@ const monthNames = [
   "November",
   "December",
 ];
-
-const year = 2025;
 
 function getCellClass(won: boolean, guesses: number) {
   if (won) {
@@ -99,7 +97,38 @@ export default function Calendar() {
 
   const [selectedDay, setSelectedDay] = useState<string | null>(null);
 
+  const yearsAvailable = Object.keys(state.gameData[game].calendar).map(Number);
+  const [year, setYear] = useState(yearsAvailable.at(-1)!);
+
+  if (!yearsAvailable.includes(year)) {
+    setYear(yearsAvailable.at(-1)!);
+
+    return <CgSpinner />;
+  }
+
   const yearData = state.gameData[game].calendar[year];
+
+  const setYearToPrevious = () => {
+    const index = yearsAvailable.indexOf(year);
+    if (index === 0) {
+      return;
+    }
+
+    setYear(yearsAvailable.at(index - 1)!);
+  };
+
+  const setYearToNext = () => {
+    const index = yearsAvailable.indexOf(year);
+    if (index === yearsAvailable.length - 1) {
+      return;
+    }
+
+    setYear(yearsAvailable.at(index + 1)!);
+  };
+
+  const previousYearIsAvailable = yearsAvailable.indexOf(year) > 0;
+  const nextYearIsAvailable =
+    yearsAvailable.indexOf(year) < yearsAvailable.length - 1;
 
   const handleGameChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     const selectedGame = event.target.value as Game;
@@ -145,7 +174,15 @@ export default function Calendar() {
           Zenless Zone Zero
         </label>
       </fieldset>
-      {/* <h2 className="year">{year}</h2> */}
+      <fieldset id="calendar-year-selector">
+        <button onClick={setYearToPrevious} disabled={!previousYearIsAvailable}>
+          <FiChevronLeft />
+        </button>
+        <h2 className="year">{year}</h2>
+        <button onClick={setYearToNext} disabled={!nextYearIsAvailable}>
+          <FiChevronRight />
+        </button>
+      </fieldset>
       <div id="calendar">
         {monthNames.map((month, monthIndex) => (
           <div key={month} className="month">

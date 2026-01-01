@@ -60,6 +60,19 @@ input {
   }
 }
 
+#calendar-year-selector {
+  border: none;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+
+  button {
+    border: none;
+  }
+}
+
 #calendar {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -108,6 +121,7 @@ input {
         transition-duration: 0.2s;
         outline: 2px solid transparent;
         background: hsl(from var(--background) h s calc(l * 0.5));
+        cursor: pointer;
 
         &[class="day"]:hover {
           background: #fff2;
