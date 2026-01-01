@@ -8,6 +8,7 @@ const history = [
     changes: [
       "Added an option to change the displayed year in the Calendar",
       "Fixed an issue with the Calendar",
+      "Page-change transition should look smoother now",
     ],
   },
   {

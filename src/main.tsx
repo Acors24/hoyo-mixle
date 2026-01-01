@@ -16,6 +16,7 @@ const router = createRouter({
   routeTree,
   // basepath: "/hoyo-mixle",
   history: hashHistory,
+  defaultViewTransition: true,
 });
 
 // Register the router instance for type safety
