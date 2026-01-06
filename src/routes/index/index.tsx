@@ -246,7 +246,7 @@ function RouteComponent() {
         }}
         ref={bgRef}
       ></div>
-      <fieldset className="flex gap-2 p-2 items-stretch sm:items-center flex-col sm:flex-row">
+      <fieldset className="flex gap-2 p-2 items-stretch sm:items-center flex-col sm:flex-row select-none">
         <Select
           items={Object.entries(gameObjects).map(([game, { label }]) => ({
             value: game,
