@@ -9,6 +9,7 @@ const history = [
       'Added "Experience the Paths Vol. 5" album (Honkai: Star Rail)',
       "Updated the type of a certain track for consistency",
       "The content of the control bar of Index can no longer be selected",
+      "Fixed the Spotify ID of a track and added some missing Fandom URLs",
     ],
   },
   {
