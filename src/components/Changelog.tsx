@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-01-06",
+    changes: [
+      'Added "Experience the Paths Vol. 5" album (Honkai: Star Rail)',
+      "Updated the type of a certain track for consistency",
+    ],
+  },
+  {
     date: "2026-01-01",
     changes: [
       "Added an option to change the displayed year in the Calendar",

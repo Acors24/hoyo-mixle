@@ -2019,7 +2019,7 @@
         "id": 172,
         "title": "Kyoden: A Cleave Across the Transient World",
         "playedAt": ["Media"],
-        "type": "Trailer",
+        "type": "Character",
         "region": "N/A",
         "youtubeId": "S-Yef4ySfOk",
         "spotifyId": "3bXX7nmqxJnCwWS1SSpclF",
@@ -5555,6 +5555,264 @@
         "spotifyId": "1qEnRs1CTWKblVqUooSdvw",
         "fandomUrl": "To_the_World",
         "context": "Trailblaze Mission Chapter IV: \"Pages, Ripples That Engrave Memories\" (victory against Irontomb cutscene)"
+      }
+    ]
+  },
+  {
+    "title": "Experience the Paths Vol. 5",
+    "songs": [
+      {
+        "id": 474,
+        "title": "The Sin of Pride",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "ZRyyDeFOLH4",
+        "spotifyId": "5an8nyot76BMSVEGnXwwL3",
+        "fandomUrl": "The_Sin_of_Pride",
+        "context": "Anaxa Character Demo"
+      },
+      {
+        "id": 475,
+        "title": "Filming in Progress",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "35kS3SYAhe4",
+        "spotifyId": "2XFF0xURtw3P66M79nqeG0",
+        "fandomUrl": "Filming_in_Progress",
+        "context": "\"Filming in Progress\" Concert Animated Commercial"
+      },
+      {
+        "id": 476,
+        "title": "The Fall at Dawn's Rise",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "X7wIZdc0PH8",
+        "spotifyId": "3ul0WIhz5kaAp45TGJn1Op",
+        "fandomUrl": "The_Fall_at_Dawn%27s_Rise_(Soundtrack)",
+        "context": "Version 3.3 Trailer"
+      },
+      {
+        "id": 477,
+        "title": "Always Here to Help",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "2I3yQwlNb4o",
+        "spotifyId": "45gAgXIH3RT3adh2HVxcKV",
+        "fandomUrl": "Always_Here_to_Help",
+        "context": "Hyacine Character Demo"
+      },
+      {
+        "id": 478,
+        "title": "Piece of Cake",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "uw4JZVzZjJM",
+        "spotifyId": "7nf1HeXIHfryrhf4FLJxon",
+        "fandomUrl": "Piece_of_Cake",
+        "context": "Cipher Character Demo"
+      },
+      {
+        "id": 479,
+        "title": "For the Sun is Set to Die",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "tLwnlXv1UBw",
+        "spotifyId": "6ZN8dx2ksSeSpKqWTKKTHv",
+        "fandomUrl": "For_the_Sun_is_Set_to_Die_(Soundtrack)",
+        "context": "Version 3.4 Trailer"
+      },
+      {
+        "id": 480,
+        "title": "Fables About the Stars Part 2",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "Wfx2i_QkT5w",
+        "spotifyId": "6oC6Y3xwz7BNLJIWmvufvt",
+        "fandomUrl": "Fables_About_the_Stars_Part_2",
+        "context": "Lord Ravager Myriad Celestia Trailer"
+      },
+      {
+        "id": 481,
+        "title": "Coronal Radiance",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "b5jyUUrJsFU",
+        "spotifyId": "0RS8BitwqBrCpeVpe3keGu",
+        "fandomUrl": "Coronal_Radiance",
+        "context": "Phainon Character Demo"
+      },
+      {
+        "id": 482,
+        "title": "A Long 'Fated' Meeting",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "DnlB37Jpnso",
+        "spotifyId": "0E5o1HnErVmpr7RKdL0gLm",
+        "fandomUrl": "A_Long_%27Fated%27_Meeting",
+        "context": "HSR x Fate Collab PV"
+      },
+      {
+        "id": 483,
+        "title": "Trailblazer",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "N_OavI0VDtQ",
+        "spotifyId": "2Ea2lOb91x56RcJskjgtn9",
+        "fandomUrl": "Trailblazer_(Soundtrack)",
+        "context": "\"Trailblazer\" The Deliverer Trailer"
+      },
+      {
+        "id": 484,
+        "title": "Daughter of the Sea",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "H_D_CIyBuNY",
+        "spotifyId": "76HmTzfVA4HMC5HWu2S3Rn",
+        "fandomUrl": "Daughter_of_the_Sea",
+        "context": "Hysilens Character Trailer"
+      },
+      {
+        "id": 485,
+        "title": "Step Onto the Board",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "M8bx269dTPA",
+        "spotifyId": "0E5o1HnErVmpr7RKdL0gLm",
+        "fandomUrl": "Step_Onto_the_Board",
+        "context": "Cerydra Character Trailer"
+      },
+      {
+        "id": 486,
+        "title": "Back to Earth in Evernight",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "Y5lW1W5M9_4",
+        "spotifyId": "6D81v945BVDUiv1LbbQpmK",
+        "fandomUrl": "Back_to_Earth_in_Evernight_(Soundtrack)",
+        "context": "Version 3.6 Trailer"
+      },
+      {
+        "id": 487,
+        "title": "Dear March 7th",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "sz4lqn5YnDc",
+        "spotifyId": "3nP6QJTVHueXJxUPShnooh",
+        "fandomUrl": "Dear_March_7th",
+        "context": "Evernight Myriad Celestia Trailer"
+      },
+      {
+        "id": 488,
+        "title": "Night Falls, Everyone, Close Your Eyes",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "XnKudzifaDY",
+        "spotifyId": "1w6l9tLmDvx3FkfP8eYoI3",
+        "fandomUrl": "Night_Falls,_Everyone,_Close_Your_Eyes",
+        "context": "Evernight Character Demo"
+      },
+      {
+        "id": 489,
+        "title": "Trek",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "YvviDcmnz6M",
+        "spotifyId": "0Ext2HybcJ0pBSnq0sD4Mu",
+        "fandomUrl": "Trek",
+        "context": "Dan Heng Permansor Terrae Animated Short"
+      },
+      {
+        "id": 490,
+        "title": "Home",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "hgAaEp4sw_M",
+        "spotifyId": "08lSDULuohelgjfQ39m4UD",
+        "fandomUrl": "Home",
+        "context": "Dan Heng Permansor Terrae Character Demo"
+      },
+      {
+        "id": 491,
+        "title": "As Tomorrow Became Yesterday",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "fUGcipY9dU8",
+        "spotifyId": "0kBwRvqMF3ywoPcmKZIVGK",
+        "fandomUrl": "As_Tomorrow_Became_Yesterday_(Soundtrack)",
+        "context": "Version 3.7 Trailer"
+      },
+      {
+        "id": 492,
+        "title": "Exotale: Scene 8",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "N/A",
+        "youtubeId": "V7x0mOZotWo",
+        "spotifyId": "7H7Ew7uGyDzZu6tmyB9Z0T",
+        "fandomUrl": "Exotale:_Scene_8",
+        "context": "\"Exotale: Scene 8\" Myriad Celestia Trailer"
+      },
+      {
+        "id": 493,
+        "title": "Farewell, Cyrene",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Amphoreus",
+        "youtubeId": "j_jZzbppYkU",
+        "spotifyId": "5JKe6R21qWVOJUn2c178Eo",
+        "fandomUrl": "Farewell,_Cyrene",
+        "context": "Cyrene Golden Epic Trailer"
+      },
+      {
+        "id": 494,
+        "title": "With You Once More",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Amphoreus",
+        "youtubeId": "59ghS4ssbt4",
+        "spotifyId": "6Dbg2pWBVLC6shG3qAZoAk",
+        "fandomUrl": "With_You_Once_More",
+        "context": "Cyrene Character Demo"
+      },
+      {
+        "id": 495,
+        "title": "Memories are the Prelude to Dreams",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Penacony",
+        "youtubeId": "bOE-AiJDAmk",
+        "spotifyId": "5GNzQE02cL9ywR4of1Gixx",
+        "fandomUrl": "Memories_are_the_Prelude_to_Dreams_(Soundtrack)",
+        "context": "Version 3.8 Trailer"
+      },
+      {
+        "id": 496,
+        "title": "The Final Note",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "VrUeVpL6QQg",
+        "spotifyId": "2uKlfwYYwsDIM4C67PPsFX",
+        "fandomUrl": "The_Final_Note",
+        "context": "The Dahlia Character Demo"
       }
     ]
   }
