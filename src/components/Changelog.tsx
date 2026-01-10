@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-01-10",
+    changes: [
+      'Added "Tiny Giant" album (Zenless Zone Zero)',
+      'Added "A Thousand First Meetings" album (Zenless Zone Zero)',
+    ],
+  },
+  {
     date: "2026-01-06",
     changes: [
       'Added "Experience the Paths Vol. 5" album (Honkai: Star Rail)',

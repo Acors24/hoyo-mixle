@@ -1765,7 +1765,8 @@
         "region": "N/A",
         "youtubeId": "DEjz1EbaFik",
         "spotifyId": "41nDf4QpdQK6CMU0IYYa2I",
-        "fandomUrl": "急速激情"
+        "fandomUrl": "急速激情",
+        "context": "-"
       },
       {
         "id": 156,
@@ -3152,6 +3153,60 @@
         "spotifyId": "7Aajq3eIOwhk5aFdAjGgR0",
         "fandomUrl": "I_Ask_-_Instrumental",
         "context": "Instrumental version of \"I Ask\""
+      }
+    ]
+  },
+  {
+    "title": "Tiny Giant",
+    "songs": [
+      {
+        "id": 277,
+        "title": "Tiny Giant",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "ScmK1KaBXnA",
+        "spotifyId": "4cBWB2Umj0PYy20FwJtFGC",
+        "fandomUrl": "Tiny_Giant",
+        "context": "Zhao EP"
+      },
+      {
+        "id": 278,
+        "title": "Tiny Giant (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "VOfpcsLIBmY",
+        "spotifyId": "0cyCQuQokruVR7TXPicXkT",
+        "fandomUrl": "Tiny_Giant_-_Instrumental",
+        "context": "Instrumental version of \"Tiny Giant\""
+      }
+    ]
+  },
+  {
+    "title": "A Thousand First Meetings",
+    "songs": [
+      {
+        "id": 279,
+        "title": "A Thousand First Meetings",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "94IDDo_E31g",
+        "spotifyId": "4HxDe8sA9f2XukhBCmSNfQ",
+        "fandomUrl": "A_Thousand_First_Meetings",
+        "context": "Ye Shunguang EP"
+      },
+      {
+        "id": 280,
+        "title": "A Thousand First Meetings (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "d63woI0ksME",
+        "spotifyId": "0EgGvqoXUCpBz0VjxBhbct",
+        "fandomUrl": "A_Thousand_First_Meetings_-_Instrumental",
+        "context": "Instrumental version of \"A Thousand First Meetings\""
       }
     ]
   }
