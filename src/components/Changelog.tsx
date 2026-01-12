@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-01-12",
+    changes: ["Adjusted Fandom URL of today's HSR track"],
+  },
+  {
     date: "2026-01-10",
     changes: [
       'Added "Tiny Giant" album (Zenless Zone Zero)',
