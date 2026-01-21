@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-01-21",
+    changes: ['Added "The Stellar Moments Vol. 6" album (Genshin Impact)'],
+  },
+  {
     date: "2026-01-12",
     changes: ["Adjusted Fandom URL of today's HSR track"],
   },
@@ -550,7 +554,7 @@ export default function Changelog() {
           const lastChangelogDateSeen =
             state.config.lastChangelogSeen.split("+")[0] ?? "";
           const lastChangelogChangesSeen = parseInt(
-            state.config.lastChangelogSeen.split("+")[1] ?? "0"
+            state.config.lastChangelogSeen.split("+")[1] ?? "0",
           );
           const highlight =
             date > lastChangelogDateSeen ||

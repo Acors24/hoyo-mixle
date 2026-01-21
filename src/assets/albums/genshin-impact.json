@@ -18779,5 +18779,340 @@
         "context": "\"Song of the Welkin Moon\" Archon Quest Act II (cutscene)"
       }
     ]
+  },
+  {
+    "title": "The Stellar Moments Vol. 6",
+    "songs": [
+      {
+        "id": 1593,
+        "title": "Chiming Jade",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "W7Xlmds-iok",
+        "spotifyId": "6hwsGwemz6ZjD8Msvzl7AF",
+        "fandomUrl": "Chiming_Jade",
+        "context": "Lan Yan Character Demo"
+      },
+      {
+        "id": 1594,
+        "title": "In Your Vision, or in None",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "2hGFPEiWYis",
+        "spotifyId": "0xi5FfmxZhfN1puZf4Mdwt",
+        "fandomUrl": "In_Your_Vision,_or_in_None",
+        "context": "Yumemizuki Mizuki Character Teaser"
+      },
+      {
+        "id": 1595,
+        "title": "Tales From the Ninety-Eight-Nights",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Inazuma",
+        "youtubeId": "aOclDzXRStY",
+        "spotifyId": "2kb2Ox3lnVtCAx77exTCVs",
+        "fandomUrl": "Tales_From_the_Ninety-Eight-Nights",
+        "context": "Yumemizuki Mizuki Character Demo"
+      },
+      {
+        "id": 1596,
+        "title": "Fitness Lesson",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "uHCvq98j-t8",
+        "spotifyId": "7kbcCJs9nfbDoSyanD0XZu",
+        "fandomUrl": "Fitness_Lesson",
+        "context": "Iansan Character Demo"
+      },
+      {
+        "id": 1597,
+        "title": "The Feast of Valor",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "Y7bqvHiz3Ec",
+        "spotifyId": "0GiU1WE2FMdJOVJlQRG3ZB",
+        "fandomUrl": "The_Feast_of_Valor",
+        "context": "Varesa Character Teaser"
+      },
+      {
+        "id": 1598,
+        "title": "Valiant Duel",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "89cJMTeqBEM",
+        "spotifyId": "7o8QG4bMdRrwC8blfhZTyD",
+        "fandomUrl": "Valiant_Duel",
+        "context": "Varesa Character Demo"
+      },
+      {
+        "id": 1599,
+        "title": "Healing Breeze",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Natlan",
+        "youtubeId": "SUS6SvLor5I",
+        "spotifyId": "1LdgFIC7U4qtCRIIUrW5BP",
+        "fandomUrl": "Healing_Breeze",
+        "context": "Ifa Character Demo"
+      },
+      {
+        "id": 1600,
+        "title": "La cerise sur le gateau",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "YSjWY9VZbw8",
+        "spotifyId": "5pHSE3M6UOCLh1zcdVzVi9",
+        "fandomUrl": "La_cerise_sur_le_gateau",
+        "context": "Escoffier Character Teaser"
+      },
+      {
+        "id": 1601,
+        "title": "La complexe symphonie en cuisine",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Fontaine",
+        "youtubeId": "n6wn7oB3TNM",
+        "spotifyId": "28JQU6QqDW6GhVUZoDUGIy",
+        "fandomUrl": "La_complexe_symphonie_en_cuisine",
+        "context": "Escoffier Character Demo"
+      },
+      {
+        "id": 1602,
+        "title": "The Wind-Woven Poem Upon the Waters",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "BY7Y8WnLmFo",
+        "spotifyId": "4fzQuCadrE2tqsDe7sYXD3",
+        "fandomUrl": "The_Wind-Woven_Poem_Upon_the_Waters",
+        "context": "Dahlia Character Demo"
+      },
+      {
+        "id": 1603,
+        "title": "Where the Current Flows into Eternity",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "???",
+        "youtubeId": "S6wibFAKY-M",
+        "spotifyId": "55jQQh6xKjGkCKxAnzUtmB",
+        "fandomUrl": "Where_the_Current_Flows_into_Eternity",
+        "context": "Skirk Character Teaser"
+      },
+      {
+        "id": 1604,
+        "title": "A Star to Every Wandering Bark",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "???",
+        "youtubeId": "k8YHEPPV22c",
+        "spotifyId": "2TuqfieamZ4TjfCtmEPzmL",
+        "fandomUrl": "A_Star_to_Every_Wandering_Bark",
+        "context": "Skirk Character Demo"
+      },
+      {
+        "id": 1605,
+        "title": "Ceaseless Banquet",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "KGu0Ju2YRPg",
+        "spotifyId": "68S4td25UIvR1Komqil1b0",
+        "fandomUrl": "Ceaseless_Banquet",
+        "context": "Yelan and Bennett Outfit Teaser"
+      },
+      {
+        "id": 1606,
+        "title": "The Way to Elysium",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "5b0nHvjVPvM",
+        "spotifyId": "5HlGetv5wEpxvrYiGZAQAE",
+        "fandomUrl": "The_Way_to_Elysium",
+        "context": "\"The Moon Leads Home\" Nod-Krai Impressions Trailer"
+      },
+      {
+        "id": 1607,
+        "title": "Goodbye, or Another Tomorrow of Chue'q Chik",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "JiV7-6Gi4k0",
+        "spotifyId": "5jZwszFnAFmYhMfA5YLmFx",
+        "fandomUrl": "Goodbye,_or_Another_Tomorrow_of_Chue%27q_Chik",
+        "context": "Ineffa Character Teaser"
+      },
+      {
+        "id": 1608,
+        "title": "War With Pepper and Fish",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "Eg2wDAmTtkw",
+        "spotifyId": "72uNkPtjbrWsHdPJAean2E",
+        "fandomUrl": "War_With_Pepper_and_Fish",
+        "context": "Ineffa Character Demo"
+      },
+      {
+        "id": 1609,
+        "title": "Ingenious Trip",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "nSFF99unB2M",
+        "spotifyId": "2xyyRi9AcGYLEhr6K2Tw5d",
+        "fandomUrl": "Ingenious_Trip",
+        "context": "Aino Character Demo"
+      },
+      {
+        "id": 1610,
+        "title": "Del Nepatekejusio Menulio",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "eZESEdb7wtI",
+        "spotifyId": "1dMZh33byTlRL0cLZjvG9Z",
+        "fandomUrl": "Del_Nepatekejusio_Menulio",
+        "context": "Lauma Character Teaser"
+      },
+      {
+        "id": 1611,
+        "title": "Lumipyhaemetsaen Polkka",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "ULjKy_BD26U",
+        "spotifyId": "5i2mPYsYqu4z7tG36IIoQB",
+        "fandomUrl": "Lumipyhaemetsaen_Polkka",
+        "context": "Lauma Character Demo"
+      },
+      {
+        "id": 1612,
+        "title": "Anekdota en Nyktí",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "ErYFSjf2QXk",
+        "spotifyId": "2IU1Ij0MuETLeFIR3QcEYA",
+        "fandomUrl": "Anekdota_en_Nykt%C3%AD",
+        "context": "Flins Character Teaser"
+      },
+      {
+        "id": 1613,
+        "title": "Entombed in Pale Fire",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "OVe9_qMKfEI",
+        "spotifyId": "3GBVB2acMJOT4H3xNp597R",
+        "fandomUrl": "Entombed_in_Pale_Fire",
+        "context": "Flins Character Demo"
+      },
+      {
+        "id": 1614,
+        "title": "Sewing Sacred Secrets",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "x3__CJWaMEM",
+        "spotifyId": "16CjCnX59W4z9QI9fX4WFE",
+        "fandomUrl": "Sewing_Sacred_Secrets",
+        "context": "Nefer Character Teaser"
+      },
+      {
+        "id": 1615,
+        "title": "Machination of Mehenet",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "O0lf0E9u6_k",
+        "spotifyId": "1TugZJZ6WpriUTkShbuyKm",
+        "fandomUrl": "Machination_of_Mehenet",
+        "context": "Nefer Character Demo"
+      },
+      {
+        "id": 1616,
+        "title": "For Your Cash Only",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "8z0GacdDH98",
+        "spotifyId": "5iGJayQzJk0IYla73Nzmgk",
+        "fandomUrl": "For_Your_Cash_Only",
+        "context": "Jahoda Character Demo"
+      },
+      {
+        "id": 1617,
+        "title": "Unwritten Stories",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "Tlcv4yfIv1o",
+        "spotifyId": "4CYU9QaGuY0QKKSEYoMIU5",
+        "fandomUrl": "Unwritten_Stories",
+        "context": "Durin Character Teaser"
+      },
+      {
+        "id": 1618,
+        "title": "Summa Perfectionis",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mondstadt",
+        "youtubeId": "ZN7Zj8Ew7AM",
+        "spotifyId": "6LHcOGbZAkz7hPirN7goBu",
+        "fandomUrl": "Summa_Perfectionis",
+        "context": "Durin Character Demo"
+      },
+      {
+        "id": 1619,
+        "title": "Soft as Willow Down",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "1tnKSrqcjQA",
+        "spotifyId": "1awAoF3KSkcKjOSH3WGbOg",
+        "fandomUrl": "Soft_as_Willow_Down",
+        "context": "Neuvillette and Yaoyao Outfit Teaser"
+      },
+      {
+        "id": 1620,
+        "title": "We Shall Sing All Night",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "PcZcktrRgwU",
+        "spotifyId": "0pvdXmJiZAEcP9ZnbsJ89v",
+        "fandomUrl": "We_Shall_Sing_All_Night",
+        "context": "Genshin Impact FES 2026 Animation"
+      },
+      {
+        "id": 1621,
+        "title": "Catching the Glow",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "GXjmKlbXSec",
+        "spotifyId": "6EHMgVSivNDyDNOk2GXVHn",
+        "fandomUrl": "Catching_the_Glow",
+        "context": "Columbina Character Teaser"
+      },
+      {
+        "id": 1622,
+        "title": "Song to the Mirrored Moon",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Nod-Krai",
+        "youtubeId": "MI4I7v-0tnc",
+        "spotifyId": "44BlUPeMqSU45SNtEhi3T8",
+        "fandomUrl": "Song_to_the_Mirrored_Moon",
+        "context": "Columbina Character Demo"
+      }
+    ]
   }
 ]
