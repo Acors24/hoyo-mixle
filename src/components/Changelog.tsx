@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2026-01-21",
-    changes: ['Added "The Stellar Moments Vol. 6" album (Genshin Impact)'],
+    changes: [
+      'Added "The Stellar Moments Vol. 6" album (Genshin Impact)',
+      "Adjusted regions of several tracks",
+    ],
   },
   {
     date: "2026-01-12",
