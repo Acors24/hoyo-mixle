@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-01-30",
+    changes: [
+      'Added "Astral Theater Vol. 3" album (Honkai: Star Rail)',
+    ],
+  },
+  {
     date: "2026-01-21",
     changes: [
       'Added "The Stellar Moments Vol. 6" album (Genshin Impact)',

@@ -5815,5 +5815,294 @@
         "context": "The Dahlia Character Demo"
       }
     ]
+  },
+  {
+    "title": "Astral Theater Vol. 3",
+    "songs": [
+      {
+        "id": 497,
+        "title": "Sweat and Sunshine",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Amphoreus",
+        "youtubeId": "0x2-4TimDFc",
+        "spotifyId": "51WxYUH12li8BVZoJGRZRs",
+        "fandomUrl": "Sweat_and_Sunshine",
+        "context": "\"The Awooo Firm\" Event"
+      },
+      {
+        "id": 498,
+        "title": "Protean Hero",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "V0fpqPXhMZc",
+        "spotifyId": "4VQYvA2y924q2fZplEh5Qn",
+        "fandomUrl": "Protean_Hero",
+        "context": "Divergent Universe: Protean Hero (Menu)"
+      },
+      {
+        "id": 499,
+        "title": "Weightless Chaos",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Amphoreus",
+        "youtubeId": "aPEHHXFpIyo",
+        "spotifyId": "40DdK4X4HyJmaSvFyCzZli",
+        "fandomUrl": "Weightless_Chaos",
+        "context": "\"Janus' Maze\" Minigame"
+      },
+      {
+        "id": 500,
+        "title": "Universal Kaleidoscope",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Astral Express",
+        "youtubeId": "FBptjz0g_kY",
+        "spotifyId": "2QpbmiPgtVoSVF6m1euztG",
+        "fandomUrl": "Universal_Kaleidoscope",
+        "context": "\"Star Rail WORLD\" Event"
+      },
+      {
+        "id": 501,
+        "title": "Catapult Launch",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Amphoreus",
+        "youtubeId": "nyH5rE1GhuA",
+        "spotifyId": "0sGHWvHqirMl2la5Q8kEaH",
+        "fandomUrl": "Catapult_Launch",
+        "context": "\"Seal Slammers\" Event"
+      },
+      {
+        "id": 502,
+        "title": "Hero of Justice",
+        "playedAt": ["Locations", "Event Gameplay"],
+        "type": "Event",
+        "region": "Penacony",
+        "youtubeId": "kZIQ9p86ddw",
+        "spotifyId": "29l8KZews6EcoignFN81pR",
+        "fandomUrl": "Hero_of_Justice_(Soundtrack)",
+        "context": "\"Legend of the Galactic Baseballer: Demon King\" Event (menu) / Penacony Paperfold University College (arcade)"
+      },
+      {
+        "id": 503,
+        "title": "Night of the Holy Grail",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Continuances"],
+          "Special Gameplay"
+        ],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "OXX-_w60egE",
+        "spotifyId": "5K3SZtxGIpPoxeLIUpkXPf",
+        "fandomUrl": "Night_of_the_Holy_Grail",
+        "context": "Trailblaze Continuance \"Sweet Dreams and the Holy Grail\" (dialogues) / \"Fate/stay night\" Event (menu)"
+      },
+      {
+        "id": 504,
+        "title": "Utopia",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "pHskNVN0R_I",
+        "spotifyId": "7xeH0fr9EBortav8rtuW6u",
+        "fandomUrl": "Utopia",
+        "context": "Trailblaze Continuance \"Sweet Dreams and the Holy Grail\" (dialogues)"
+      },
+      {
+        "id": 505,
+        "title": "Victory Above All",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "_RerubjKlug",
+        "spotifyId": "4dFvpXhuFQ2CHn921W8fIf",
+        "fandomUrl": "Victory_Above_All",
+        "context": "\"Fate/stay night\" Event Battle Theme"
+      },
+      {
+        "id": 506,
+        "title": "Pierce the Darkness",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "rXUBvhuB3kk",
+        "spotifyId": "36oq6JDLaEczSbitUjrOMJ",
+        "fandomUrl": "Pierce_the_Darkness",
+        "context": "Trailblaze Continuance \"Sweet Dreams and the Holy Grail\" (dialogue)"
+      },
+      {
+        "id": 507,
+        "title": "The Wind Be With You",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "Dbw7MoxnbeY",
+        "spotifyId": "6LO5IKacVvGsXXfXESSwtC",
+        "fandomUrl": "The_Wind_Be_With_You",
+        "context": "Trailblaze Continuance \"Sweet Dreams and the Holy Grail\" (dialogue)"
+      },
+      {
+        "id": 508,
+        "title": "Wingflap",
+        "playedAt": ["Missions", ["Trailblaze Continuances"]],
+        "type": "Mission",
+        "region": "Penacony",
+        "youtubeId": "BpbqGPq7yes",
+        "spotifyId": "3s1F3xfA2K7fZIl2RKm0ku",
+        "fandomUrl": "Wingflap",
+        "context": "Trailblaze Continuance \"Sweet Dreams and the Holy Grail\" (cutscene)"
+      },
+      {
+        "id": 509,
+        "title": "Dreamjoy Realm",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Amphoreus",
+        "youtubeId": "kzPMTfE3ROs",
+        "spotifyId": "0eKWTd059OIwEXA2huV3TS",
+        "fandomUrl": "Dreamjoy_Realm",
+        "context": "\"The Chrysos Maze Grand Restaurant\" Event"
+      },
+      {
+        "id": 510,
+        "title": "The Gentle Earth",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Amphoreus",
+        "youtubeId": "piTUBNFRQoA",
+        "spotifyId": "0NrwPSJbHofcx6IW6sk2zG",
+        "fandomUrl": "The_Gentle_Earth",
+        "context": "\"Nice Weather for Dromases\" Event"
+      },
+      {
+        "id": 511,
+        "title": "Divine Judgment",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Astral Express",
+        "youtubeId": "CZj0UIwqDLQ",
+        "spotifyId": "5zRLiF2J3H4gL9R0SBOikT",
+        "fandomUrl": "Divine_Judgment",
+        "context": "Anomaly Arbitration (menu)"
+      },
+      {
+        "id": 512,
+        "title": "Warm Up",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Herta Space Station",
+        "youtubeId": "NJv1ab-3GWY",
+        "spotifyId": "4KAslVoHjr006C2GqXJHCL",
+        "fandomUrl": "Warm_Up",
+        "context": "\"Snack Dash\" Event (menu)"
+      },
+      {
+        "id": 513,
+        "title": "Neck-And-Neck",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Herta Space Station",
+        "youtubeId": "oeUm-P2Lmwc",
+        "spotifyId": "3cpl8bN8Gv2UDh8hbfOQ69",
+        "fandomUrl": "Neck-And-Neck",
+        "context": "\"Snack Dash\" Event (race)"
+      },
+      {
+        "id": 514,
+        "title": "Fame and Fortune",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "-XNFhQL358Y",
+        "spotifyId": "58uYlxXa8cFtBmQscAASoQ",
+        "fandomUrl": "Fame_and_Fortune",
+        "context": "Currency Wars (preparation)"
+      },
+      {
+        "id": 515,
+        "title": "Invisible Hand",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Penacony",
+        "youtubeId": "gpajqZWrwoU",
+        "spotifyId": "3t5TxjIrkLzoVlVCejzPir",
+        "fandomUrl": "Invisible_Hand",
+        "context": "Currency Wars (menu)"
+      },
+      {
+        "id": 516,
+        "title": "Playful Moments",
+        "playedAt": ["Event Gameplay"],
+        "type": "Event",
+        "region": "Amphoreus",
+        "youtubeId": "mTWAo5LtL6M",
+        "spotifyId": "4jSu3c5KUgC49SQfnXqIaB",
+        "fandomUrl": "Playful_Moments",
+        "context": "\"Chrysos Awoo Championship\" Event"
+      },
+      {
+        "id": 517,
+        "title": "Corridor of Memorial Dreams",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "rBgplNP8Ob8",
+        "spotifyId": "1WgDoGEsfyqr6Nk20tncsV",
+        "fandomUrl": "Corridor_of_Memorial_Dreams",
+        "context": "Dreamscape - Dream of Gnawing Oak > Sinking Reverie / The Road Not Taken"
+      },
+      {
+        "id": 518,
+        "title": "Theophany",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "DV6v7I04mys",
+        "spotifyId": "5SYPpOQChmuFfTJCHkrVGy",
+        "fandomUrl": "Theophany",
+        "context": "Dreamscape - Dream of Gnawing Oak > Corroded Weaving Roots"
+      },
+      {
+        "id": 519,
+        "title": "Dream of Gnawing",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "i9vdXSafgok",
+        "spotifyId": "3Z5dPNsl4aV6bjJNr0jP2j",
+        "fandomUrl": "Dream_of_Gnawing",
+        "context": "Dreamscape - Dream of Gnawing Oak > Oak Manor"
+      },
+      {
+        "id": 520,
+        "title": "Void Walk",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Penacony",
+        "youtubeId": "xC3955NA81k",
+        "spotifyId": "521PvWoy97rm3bxNUmzOHr",
+        "fandomUrl": "Void_Walk",
+        "context": "Dreamscape - Dreamflux Reef > Burn Like My Heart"
+      },
+      {
+        "id": 521,
+        "title": "Nightmarish Omen",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Penacony",
+        "youtubeId": "Nl3YS5HusZo",
+        "spotifyId": "2wSj15sSk4WymzR7wvQ44Y",
+        "fandomUrl": "Nightmarish_Omen",
+        "context": "\"Harbinger of Death: Swarm Nightmare\" Boss Fight"
+      }
+    ]
   }
 ]
