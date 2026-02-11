@@ -10,6 +10,7 @@
         "region": "N/A",
         "youtubeId": "gkTrU51ZM0U",
         "spotifyId": "0E8M2gfJuoUAAPv9qreRkg",
+        "fandomUrl": "19%25",
         "context": "\"Tuning Test\" CBT1 Trailer / ZZZ Official Website Theme"
       },
       {
@@ -20,6 +21,7 @@
         "region": "N/A",
         "youtubeId": "DiK1BqqCFbQ",
         "spotifyId": "7hFFGg523RXeHdyU2QGq90",
+        "fandomUrl": "39%25",
         "context": "\"Equalizing Test\" CBT2 Trailer"
       },
       {
@@ -30,6 +32,7 @@
         "region": "N/A",
         "youtubeId": "v_3qXY7Fuuc",
         "spotifyId": "5iJzseWuDozFCaSB5laLES",
+        "fandomUrl": "79%25",
         "context": "\"Amplifying Test\" CBT3 Trailer"
       },
       {
@@ -40,6 +43,7 @@
         "region": "N/A",
         "youtubeId": "1MqCLHd15ek",
         "spotifyId": "7pjAfbReH57nrJRwgamNcL",
+        "fandomUrl": "99%25",
         "context": "ZZZ Pre-Release Livestream Clip"
       }
     ]
@@ -3207,6 +3211,406 @@
         "spotifyId": "0EgGvqoXUCpBz0VjxBhbct",
         "fandomUrl": "A_Thousand_First_Meetings_-_Instrumental",
         "context": "Instrumental version of \"A Thousand First Meetings\""
+      }
+    ]
+  },
+  {
+    "title": "ReDreaming Angel",
+    "songs": [
+      {
+        "id": 281,
+        "title": "复梦天使",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "rjFe71wjkjs",
+        "spotifyId": "1e2br4RonhXIFoEaE69hmP",
+        "fandomUrl": "%E5%A4%8D%E6%A2%A6%E5%A4%A9%E4%BD%BF",
+        "context": "Chinese version of \"ReDreaming Angel\""
+      },
+      {
+        "id": 282,
+        "title": "ReDreaming Angel",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "zeDsSQir8CM",
+        "spotifyId": "3qzqexZ8YEYvaLbfGZedfh",
+        "fandomUrl": "ReDreaming_Angel",
+        "context": "\"ReDreaming Angel\" Angels of Delusion EP"
+      },
+      {
+        "id": 283,
+        "title": "ReDreaming Angel (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "fKWmHoFMVyc",
+        "spotifyId": "2fKVm7pa8HDKk9AlXT6X9e",
+        "fandomUrl": "ReDreaming_Angel_-_Instrumental",
+        "context": "Instrumental version of \"ReDreaming Angel\""
+      }
+    ]
+  },
+  {
+    "title": "Hyper Commission 2.0: Character Teaser Soundtrack Collection",
+    "songs": [
+      {
+        "id": 393,
+        "title": "Astra-nomical Moment",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Stars of Lyra",
+        "youtubeId": "VMdIyEgelp8",
+        "spotifyId": "3VlsvfldbucrKzm8xTvpDU",
+        "fandomUrl": "Astra-nomical_Moment_(Soundtrack)",
+        "context": "Version 1.5 Trailer"
+      },
+      {
+        "id": 394,
+        "title": "Among the Forgotten Ruins",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Obol Squad",
+        "youtubeId": "DWGiu69dYa4",
+        "spotifyId": "08J7fJq8eobRjac2envefv",
+        "fandomUrl": "Among_the_Forgotten_Ruins",
+        "context": "Version 1.6 Trailer"
+      },
+      {
+        "id": 395,
+        "title": "Bury Your Tears With the Past",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Mockingbird",
+        "youtubeId": "ycf-HjlloE8",
+        "spotifyId": "37jPlXcDlUcxBSZvlj0xXV",
+        "fandomUrl": "Bury_Your_Tears_With_the_Past",
+        "context": "Version 1.7 Trailer"
+      },
+      {
+        "id": 396,
+        "title": "Through the Miasma of Memories and Evil",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Waifei Peninsula",
+        "youtubeId": "T4t7MoW6hAU",
+        "spotifyId": "4fnyYcQkARSFDkNTK98ZAW",
+        "fandomUrl": "Through_the_Miasma_of_Memories_and_Evil",
+        "context": "\"Through the Miasma of Memories and Evil\" Season 2 Preview"
+      },
+      {
+        "id": 397,
+        "title": "Where Clouds Embrace the Dawn",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Waifei Peninsula",
+        "youtubeId": "vuv-LmJ8Dms",
+        "spotifyId": "2XsFZioFiBi5iIgt0tv51P",
+        "fandomUrl": "Where_Clouds_Embrace_the_Dawn_(Soundtrack)",
+        "context": "Version 2.0 Trailer"
+      },
+      {
+        "id": 398,
+        "title": "The Impending Crash of Waves",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Waifei Peninsula",
+        "youtubeId": "MA3Ut7bAgIc",
+        "spotifyId": "1X1oSeeR9sBdahCgeW6TGI",
+        "fandomUrl": "The_Impending_Crash_of_Waves_(Soundtrack)",
+        "context": "Version 2.1 Trailer"
+      },
+      {
+        "id": 399,
+        "title": "Do Not Go Gentle Into That Good Night",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Waifei Peninsula",
+        "youtubeId": "ET1vP1DqpHw",
+        "spotifyId": "0F5viPUrfbsAd3sEUWbNRu",
+        "fandomUrl": "Do_Not_Go_Gentle_Into_That_Good_Night_(Soundtrack)",
+        "context": "Version 2.2 Trailer"
+      },
+      {
+        "id": 400,
+        "title": "Memories of Dreams Bygone",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Waifei Peninsula",
+        "youtubeId": "3hpqUFqQGQY",
+        "spotifyId": "02rSyzM8PmdL1E8ZjQMtg1",
+        "fandomUrl": "Memories_of_Dreams_Bygone_(Soundtrack)",
+        "context": "Version 2.3 Trailer"
+      },
+      {
+        "id": 401,
+        "title": "On the Precipice of the Abyss",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Waifei Peninsula",
+        "youtubeId": "5aYjHIylnnw",
+        "spotifyId": "3eeA7MtcrnhOORVY2dFP7o",
+        "fandomUrl": "On_the_Precipice_of_the_Abyss_(Soundtrack)",
+        "context": "Version 2.4 Trailer"
+      },
+      {
+        "id": 402,
+        "title": "To Be Fuel for the Night",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Waifei Peninsula",
+        "youtubeId": "y-_9ROpsruM",
+        "spotifyId": "0VnY8Tf3DtTsE9VMbx2XgR",
+        "fandomUrl": "To_Be_Fuel_for_the_Night_(Soundtrack)",
+        "context": "Version 2.5 Trailer"
+      },
+      {
+        "id": 403,
+        "title": "Shining Eridu",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "YsYTtLR0jeY",
+        "spotifyId": "6nuDyrT780SCqJMeZDncIc",
+        "fandomUrl": "Shining_Eridu",
+        "context": "Zenless Zone Zero Chinese FES 2025"
+      },
+      {
+        "id": 404,
+        "title": "In My Name",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Stars of Lyra",
+        "youtubeId": "QejMUMpPdas",
+        "spotifyId": "0SvhuXxkg43mDwDpTgYhVf",
+        "fandomUrl": "In_My_Name",
+        "context": "Evelyn Character Demo"
+      },
+      {
+        "id": 405,
+        "title": "Candidate Zero",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Obol Squad",
+        "youtubeId": "OVz2AaAfLlc",
+        "spotifyId": "4NCj0AGyi9lBSAANHY5LQI",
+        "fandomUrl": "Candidate_Zero",
+        "context": "Soldier 0 - Anby Character Demo"
+      },
+      {
+        "id": 406,
+        "title": "Special Rescue",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Obol Squad",
+        "youtubeId": "BWlgrt1KXnk",
+        "spotifyId": "5RuuY0mswucKqzX2WZ3Xs7",
+        "fandomUrl": "Special_Rescue",
+        "context": "Trigger Character Demo"
+      },
+      {
+        "id": 407,
+        "title": "Love Like a Bouquet",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mockingbird",
+        "youtubeId": "qpJMohJRHo4",
+        "spotifyId": "5mcW7yx1bg1art0E7OGn9r",
+        "fandomUrl": "Love_Like_a_Bouquet_(Soundtrack)",
+        "context": "Vivian Character Demo"
+      },
+      {
+        "id": 408,
+        "title": "Leading Man of the Apocalypse",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Mockingbird",
+        "youtubeId": "sxi8TITcO3I",
+        "spotifyId": "7Ipj7Nj7A6uDAHcqNxvCY5",
+        "fandomUrl": "Leading_Man_of_the_Apocalypse",
+        "context": "Hugo Character Demo"
+      },
+      {
+        "id": 409,
+        "title": "Martial Summit Showdown",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "E0x7uK3U6WA",
+        "spotifyId": "5YAVyPquUAgFznUSiWULWH",
+        "fandomUrl": "Martial_Summit_Showdown",
+        "context": "Yixuan Character Demo"
+      },
+      {
+        "id": 410,
+        "title": "Heroic Roar of the Tiger",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "1repCVy6OlY",
+        "spotifyId": "3EpbvceUIaZXMe19iJG8wb",
+        "fandomUrl": "Heroic_Roar_of_the_Tiger",
+        "context": "Ju Fufu Character Demo"
+      },
+      {
+        "id": 411,
+        "title": "Tanukinception",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "3MBNAeZ_pRE",
+        "spotifyId": "2wResE2FAjdQySnQz1Y0UK",
+        "fandomUrl": "Tanukinception",
+        "context": "Ukinami Yuzuha Character Demo"
+      },
+      {
+        "id": 412,
+        "title": "Sword & Waltz",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "tpUc06HBu9U",
+        "spotifyId": "3G8iciGiQjAAjm3SZ2jT3X",
+        "fandomUrl": "Sword_%26_Waltz",
+        "context": "Alice Character Demo"
+      },
+      {
+        "id": 413,
+        "title": "White Scooter Demon",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Obol Squad",
+        "youtubeId": "r9KkPwDV9lE",
+        "spotifyId": "6PoxtutIMUW6RDNClTRE4f",
+        "fandomUrl": "White_Scooter_Demon",
+        "context": "Seed Character Demo"
+      },
+      {
+        "id": 414,
+        "title": "Overheated Barrel",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Obol Squad",
+        "youtubeId": "2GjAQ_sEfKM",
+        "spotifyId": "1D2oa3USr0SD3l1pFGwtwH",
+        "fandomUrl": "Overheated_Barrel",
+        "context": "Orphie & Magus Character Demo"
+      },
+      {
+        "id": 415,
+        "title": "Identifying Popular Ethereals on Inter-Knot",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "UTBazOBISUw",
+        "spotifyId": "1fKKXs4SrNy2emoLUYnhZ1",
+        "fandomUrl": "Identifying_Popular_Ethereals_on_Inter-Knot",
+        "context": "Lucia Character Demo"
+      },
+      {
+        "id": 416,
+        "title": "Self-Directed, Starring Myself",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Spook Shack",
+        "youtubeId": "ltpHJ9FlAYc",
+        "spotifyId": "7AwDlCspfohedHHDJ0YL0H",
+        "fandomUrl": "Self-Directed,_Starring_Myself",
+        "context": "Yidhari Character Demo"
+      },
+      {
+        "id": 417,
+        "title": "Read & Replied Randomly",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "VcAZOYchCTs",
+        "spotifyId": "6oNEfe7xlKDbwmBcrox4dK",
+        "fandomUrl": "Read_%26_Replied_Randomly",
+        "context": "Dialyn Character Demo"
+      },
+      {
+        "id": 418,
+        "title": "Martial Arts Review",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "zIfXxd8wvXk",
+        "spotifyId": "6oI1ut98EgEP4jjOdaECVa",
+        "fandomUrl": "Martial_Arts_Review",
+        "context": "Banyue Character Demo"
+      },
+      {
+        "id": 419,
+        "title": "Bunny Counseling",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "p5uYUJzZU5U",
+        "spotifyId": "1cPWoYH9TB27PO3QpUikL2",
+        "fandomUrl": "Bunny_Counseling",
+        "context": "Zhao Character Demo"
+      },
+      {
+        "id": 420,
+        "title": "Light-Year Phenomenon",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Yunkui Summit",
+        "youtubeId": "kbj2taNzbcE",
+        "spotifyId": "3m4kLtJg5t1Y3VoOTTQ6CE",
+        "fandomUrl": "Light-Year_Phenomenon",
+        "context": "Ye Shunguang Character Demo"
+      },
+      {
+        "id": 421,
+        "title": "Rainy Night",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Public Security",
+        "youtubeId": "9MKB0nzgm3k",
+        "spotifyId": "6T46r59cGNK37W34JAuqjO",
+        "fandomUrl": "Rainy_Night",
+        "context": "Jane Character Teaser"
+      },
+      {
+        "id": 422,
+        "title": "Phaethon's Melody",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "Etn1JXhYi1I",
+        "spotifyId": "7DZdVKo2TLKOfmRSZRaEbW",
+        "fandomUrl": "Phaethon%27s_Melody_(Soundtrack)",
+        "context": "Zenless Zone Zero FES 2025"
+      }
+    ]
+  },
+  {
+    "title": "Turn Heartbeats Into Tempo",
+    "songs": [
+      {
+        "id": 423,
+        "title": "Turn Heartbeats Into Tempo",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "h0IO8cxjabk",
+        "spotifyId": "0weBYA4ovxq8pHD7qQXvbQ",
+        "fandomUrl": "Turn_Heartbeats_Into_Tempo",
+        "context": "\"Turn Heartbeats Into Tempo\" Angels of Delusion EP"
+      },
+      {
+        "id": 424,
+        "title": "Turn Heartbeats Into Tempo (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "rjFe71wjkjs",
+        "spotifyId": "7cSDuyZLlbBgHd3I81IdUf",
+        "fandomUrl": "Turn_Heartbeats_Into_Tempo_-_Instrumental",
+        "context": "Instrumental version of \"Turn Heartbeats Into Tempo\""
       }
     ]
   }

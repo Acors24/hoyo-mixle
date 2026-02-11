@@ -4,6 +4,15 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-02-11",
+    changes: [
+      'Added "ReDreaming Angel" album (Zenless Zone Zero)',
+      'Added "Hyper Commission 2.0: Character Teaser Soundtrack Collection" album (Zenless Zone Zero)',
+      'Added "Turn Heartbeats Into Tempo" album (Zenless Zone Zero)',
+      'Added Fandom links for "Loading..." album (Zenless Zone Zero)',
+    ],
+  },
+  {
     date: "2026-01-30",
     changes: [
       'Added "Astral Theater Vol. 3" album (Honkai: Star Rail)',
