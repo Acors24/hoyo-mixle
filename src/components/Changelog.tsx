@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-02-19",
+    changes: ['Added "Hyper Commission 2.0" album (Zenless Zone Zero)'],
+  },
+  {
     date: "2026-02-11",
     changes: [
       'Added "ReDreaming Angel" album (Zenless Zone Zero)',
@@ -14,9 +18,7 @@ const history = [
   },
   {
     date: "2026-01-30",
-    changes: [
-      'Added "Astral Theater Vol. 3" album (Honkai: Star Rail)',
-    ],
+    changes: ['Added "Astral Theater Vol. 3" album (Honkai: Star Rail)'],
   },
   {
     date: "2026-01-21",
