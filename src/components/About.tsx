@@ -1,5 +1,6 @@
 import { FiExternalLink, FiInfo } from "react-icons/fi";
 import Dialog from "./Dialog";
+import { FaDiscord, FaGithub } from "react-icons/fa6";
 
 export default function About() {
   return (
@@ -57,15 +58,31 @@ export default function About() {
           playing while listening to the samples.
         </p>
       </div>
-      <div className="bg-amber-500 bg-opacity-10 border-amber-500 border rounded-xl p-2">
+      <div className="bg-sky-500 bg-opacity-10 border-sky-500 border rounded-xl p-2">
         <p>
-          This is currently a work in progress. More features and improvements,
-          including more albums, will be added in the future.
+          If you'd like to report a problem or suggest a feature/improvement,
+          you can:
         </p>
-        <p className="mt-2">
-          You can report any issues or suggest improvements by messaging{" "}
-          <span className="font-bold text-sky-200">acors</span> on Discord.
-        </p>
+        <ul className="list-disc list-inside ml-4">
+          <li className="">
+            <a
+              href="https://github.com/Acors24/hoyo-mixle/issues/new"
+              target="_blank"
+              className="text-sky-200 hover:underline"
+            >
+              create an issue
+              <FiExternalLink className="ml-1 inline text-xs align-baseline" />
+            </a>{" "}
+            on GitHub <FaGithub className="inline relative bottom-0.5" />
+          </li>
+          <li>
+            message{" "}
+            <span className="bg-clip-text text-transparent font-bold bg-gradient-to-br from-green-200 to-sky-400">
+              acors
+            </span>{" "}
+            on Discord <FaDiscord className="inline relative bottom-0.5" />
+          </li>
+        </ul>
       </div>
     </Dialog>
   );

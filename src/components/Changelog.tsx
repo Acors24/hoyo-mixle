@@ -8,6 +8,7 @@ const history = [
     changes: [
       'Added "Hyper Commission 2.0" album (Zenless Zone Zero)',
       "Index now correctly displays context consisting of multiple items",
+      'Added a link to ease reporting issues and improvements, visible in the "About" dialog',
     ],
   },
   {
