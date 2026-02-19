@@ -9,6 +9,7 @@ const history = [
       'Added "Hyper Commission 2.0" album (Zenless Zone Zero)',
       "Index now correctly displays context consisting of multiple items",
       'Added a link to ease reporting issues and improvements, visible in the "About" dialog',
+      "Adjusted styling of highlighted sections in some dialogs",
     ],
   },
   {
@@ -610,7 +611,7 @@ function ChangeGroup({
 }) {
   return (
     <div
-      className={`p-4 border-l-2 ${highlight ? "border-l-sky-300 bg-gradient-to-r from-[#7dd3fc20] to-transparent" : "border-l-transparent"}`}
+      className={`p-4 border-l-2 ${highlight ? "border-l-sky-300 bg-gradient-to-r from-sky-300/15" : "border-l-transparent"}`}
     >
       <h2 className="font-bold text-xl">{title}</h2>
       <ul className="list-disc list-inside">

@@ -64,12 +64,10 @@ export default function HowToPlay() {
         </li>
       </ul>
 
-      <div className="bg-rose-500 bg-opacity-10 border-rose-500 border rounded-xl p-2">
-        <p>
-          An ad blocker is strongly recommended to prevent YouTube ads from
-          playing while listening to the samples.
-        </p>
-      </div>
+      <p className="bg-gradient-to-r from-rose-500/20 border-rose-500 border-l-2 p-2">
+        An ad blocker is strongly recommended to prevent YouTube ads from
+        playing while listening to the samples.
+      </p>
     </Dialog>
   );
 }

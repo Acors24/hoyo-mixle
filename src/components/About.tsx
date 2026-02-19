@@ -51,14 +51,14 @@ export default function About() {
         </span>
         .
       </p>
-      <p>Track types and regions are decided by me and may not be accurate.</p>
-      <div className="bg-rose-500 bg-opacity-10 border-rose-500 border rounded-xl p-2">
-        <p>
-          An ad blocker is strongly recommended to prevent YouTube ads from
-          playing while listening to the samples.
-        </p>
-      </div>
-      <div className="bg-sky-500 bg-opacity-10 border-sky-500 border rounded-xl p-2">
+      <p className="bg-gradient-to-r from-amber-500/15 border-amber-500 border-l-2 p-2">
+        Track types and regions are decided by me and may not be accurate.
+      </p>
+      <p className="bg-gradient-to-r from-rose-500/15 border-rose-500 border-l-2 p-2">
+        An ad blocker is strongly recommended to prevent YouTube ads from
+        playing while listening to the samples.
+      </p>
+      <div className="bg-gradient-to-r from-sky-500/15 border-sky-500 border-l-2 p-2">
         <p>
           If you'd like to report a problem or suggest a feature/improvement,
           you can:
@@ -73,14 +73,20 @@ export default function About() {
               create an issue
               <FiExternalLink className="ml-1 inline text-xs align-baseline" />
             </a>{" "}
-            on GitHub <FaGithub className="inline relative bottom-0.5" />
+            on{" "}
+            <span className="text-nowrap">
+              GitHub <FaGithub className="inline relative bottom-0.5" />
+            </span>
           </li>
           <li>
             message{" "}
             <span className="bg-clip-text text-transparent font-bold bg-gradient-to-br from-green-200 to-sky-400">
               acors
             </span>{" "}
-            on Discord <FaDiscord className="inline relative bottom-0.5" />
+            on{" "}
+            <span className="text-nowrap">
+              Discord <FaDiscord className="inline relative bottom-0.5" />
+            </span>
           </li>
         </ul>
       </div>
