@@ -3,7 +3,7 @@ import { Vibrant } from "node-vibrant/browser";
 import genshinImpactAlbums from "../../assets/albums/genshin-impact.json";
 import honkaiStarRailAlbums from "../../assets/albums/honkai-star-rail.json";
 import zenlessZoneZeroAlbums from "../../assets/albums/zenless-zone-zero.json";
-import { getYouTubeThumbnail } from "../../utils";
+import { contextToList, getYouTubeThumbnail } from "../../utils";
 import { Album, Game, Song } from "../../types";
 import {
   Fragment,
@@ -46,23 +46,23 @@ export const Route = createFileRoute("/index/")({
 function getAttributeFilters(
   albums: Album[],
   allLabel: string,
-  attributeGetter: (song: Song) => string
+  attributeGetter: (song: Song) => string,
 ) {
   const attributes = new Set(
-    albums.flatMap(({ songs }) => songs.map(attributeGetter))
+    albums.flatMap(({ songs }) => songs.map(attributeGetter)),
   );
   const allAttributesFilter: [string, (song: Song) => boolean] = [
     allLabel,
     () => true,
   ];
   const otherAttributeFilters: [string, (song: Song) => boolean][] = Array.from(
-    attributes
+    attributes,
   ).map((attribute) => [
     attribute,
     (song: Song) => attributeGetter(song) === attribute,
   ]);
   return new Map<string, (song: Song) => boolean>(
-    [allAttributesFilter].concat(otherAttributeFilters)
+    [allAttributesFilter].concat(otherAttributeFilters),
   );
 }
 
@@ -77,7 +77,7 @@ const colors = [
 type Color = (typeof colors)[number];
 type Palette = { [K in Color]: string };
 const emptyPalette = Object.fromEntries(
-  colors.map((color) => [color, "#fff2"])
+  colors.map((color) => [color, "#fff2"]),
 ) as Palette;
 
 const gameObjects: { [K in Game]: { label: string; albums: Album[] } } = {
@@ -114,19 +114,19 @@ function RouteComponent() {
 
   const emptyPalettes = useMemo(
     () => Object.fromEntries(albums.map(({ title }) => [title, emptyPalette])),
-    [albums]
+    [albums],
   );
   const palettes = useRef(emptyPalettes);
 
   const typeFilterMap = getAttributeFilters(
     albums,
     "All types",
-    ({ type }) => type
+    ({ type }) => type,
   );
   const regionFilterMap = getAttributeFilters(
     albums,
     "All regions",
-    ({ region }) => region
+    ({ region }) => region,
   );
 
   const filters: ((song: Song) => boolean)[] = useMemo(
@@ -137,14 +137,14 @@ function RouteComponent() {
         song.title.toLowerCase().includes(query.toLowerCase()) ||
         (song.context?.toLowerCase().includes(query.toLowerCase()) ?? false),
     ],
-    [query, region, regionFilterMap, type, typeFilterMap]
+    [query, region, regionFilterMap, type, typeFilterMap],
   );
 
   const songAmount = albums.reduce(
     (acc, { songs }) =>
       acc +
       songs.filter((song) => filters.every((filter) => filter(song))).length,
-    0
+    0,
   );
 
   const getMainAlbum = useCallback(
@@ -155,7 +155,7 @@ function RouteComponent() {
           const { bottom } = currentEntry.getBoundingClientRect();
           return mid <= bottom ? currentEntry : bestEntry;
         }),
-    []
+    [],
   );
 
   const bgRef = useRef<HTMLDivElement>(null);
@@ -173,27 +173,27 @@ function RouteComponent() {
         ["--V", palette.Vibrant],
         ["--LV", palette.LightVibrant],
       ].forEach(([name, color]) =>
-        bgRef.current?.style.setProperty(name, color)
+        bgRef.current?.style.setProperty(name, color),
       );
     },
-    [palettes]
+    [palettes],
   );
 
   useEffect(() => {
     Promise.allSettled(
       albums.map(async ({ title, songs }) => {
         const palette = await Vibrant.from(
-          getYouTubeThumbnail(songs[0].youtubeId)
+          getYouTubeThumbnail(songs[0].youtubeId),
         ).getPalette();
 
         const albumPalette = Object.fromEntries(
           Object.entries(palette).map(([color, swatch]) => [
             color as Color,
             swatch?.hex ?? "transparent",
-          ])
+          ]),
         ) as Palette;
         palettes.current[title] = albumPalette;
-      })
+      }),
     ).then(() => {
       const albumElements = document.querySelectorAll(`li[data-album]`);
       if (albumElements.length === 0) return;
@@ -222,7 +222,7 @@ function RouteComponent() {
         const mainAlbumTitle = mainAlbum.getAttribute("data-album")!;
         setBgPalette(mainAlbumTitle);
       },
-      { rootMargin: `${-mid * 0.8}px`, root: parent }
+      { rootMargin: `${-mid * 0.8}px`, root: parent },
     );
 
     if (albumElements) {
@@ -320,7 +320,7 @@ function AlbumComponent({
   }));
 
   const filteredSongs = numberedSongs.filter((song) =>
-    filters.every((filter) => filter(song))
+    filters.every((filter) => filter(song)),
   );
 
   if (filteredSongs.length === 0) {
@@ -420,9 +420,11 @@ function XRow({
                   </tbody>
                 </table>
                 {context && (
-                  <p className="text-slate-200 text-pretty">
-                    {context.replace(" > ", " - ")}
-                  </p>
+                  <ul className="text-slate-200 text-pretty list-disc list-inside">
+                    {contextToList(context).map((contextItem) => (
+                      <li>{contextItem.replace(" > ", " - ")}</li>
+                    ))}
+                  </ul>
                 )}
                 <div className="flex gap-1 flex-wrap p-1">
                   {playedAt

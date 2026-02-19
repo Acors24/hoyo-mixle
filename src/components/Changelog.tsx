@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2026-02-19",
-    changes: ['Added "Hyper Commission 2.0" album (Zenless Zone Zero)'],
+    changes: [
+      'Added "Hyper Commission 2.0" album (Zenless Zone Zero)',
+      "Index now correctly displays context consisting of multiple items",
+    ],
   },
   {
     date: "2026-02-11",
