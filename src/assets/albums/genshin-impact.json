@@ -19114,5 +19114,109 @@
         "context": "Columbina Character Demo"
       }
     ]
+  },
+  {
+    "title": "When Lanterns Echo the Moon",
+    "songs": [
+      {
+        "id": 1623,
+        "title": "Floating Mist",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "YegVuOvNgaY",
+        "spotifyId": "1P2eG2LTNrxGtU0LAUP6H0",
+        "fandomUrl": "Floating_Mist",
+        "context": "Zibai Character Demo"
+      },
+      {
+        "id": 1624,
+        "title": "A Dream Within a Dream",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Liyue",
+        "youtubeId": "FFjJLrxxf8Q",
+        "spotifyId": "2IXwN5OibGosChYSsJ004S",
+        "fandomUrl": "A_Dream_Within_a_Dream",
+        "context": "Zibai Character Teaser"
+      },
+      {
+        "id": 1625,
+        "title": "Everlasting Dawn at Night",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "JsHH0sQxDPM",
+        "spotifyId": "6wHwL5UPPr33o1nyfc4cea",
+        "fandomUrl": "Everlasting_Dawn_at_Night",
+        "context": "\"A Lanternlit Ode to the Silver Moon\" Event (Act I)"
+      },
+      {
+        "id": 1626,
+        "title": "Lanterns in the Moonlit Twilight",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "ncQERHGfz3g",
+        "spotifyId": "2NfbCtlqMENyJRixuY0Itp",
+        "fandomUrl": "Lanterns_in_the_Moonlit_Twilight",
+        "context": "\"A Lanternlit Ode to the Silver Moon\" Event (Act II domain theme)"
+      },
+      {
+        "id": 1627,
+        "title": "The Hazy Moon",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "WbtfXqMPNbU",
+        "spotifyId": "52C7OGUiAA4sUta78lNtZ9",
+        "fandomUrl": "The_Hazy_Moon",
+        "context": "\"A Lanternlit Ode to the Silver Moon\" Event (Act III domain theme)"
+      },
+      {
+        "id": 1628,
+        "title": "Crescent Gildeth the Dark",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "MQXYgjjYctE",
+        "spotifyId": "0BMtNTs2PzmhRoijd8EdJF",
+        "fandomUrl": "Crescent_Gildeth_the_Dark",
+        "context": "\"A Lanternlit Ode to the Silver Moon\" Event (Act II cutscene)"
+      },
+      {
+        "id": 1629,
+        "title": "The Moon's Mist-Woven Veil",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "EWIRUA1EksI",
+        "spotifyId": "2iXztPnnjGu5YQMJKNHOsL",
+        "fandomUrl": "The_Moon%27s_Mist-Woven_Veil",
+        "context": "\"A Lanternlit Ode to the Silver Moon\" Event (Act III cutscene)"
+      },
+      {
+        "id": 1630,
+        "title": "Where Tender Night Embraceth Thee",
+        "playedAt": ["Quests", ["Events"]],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "zsGacCdqeB0",
+        "spotifyId": "34uwpVfQSsxm0lsAAvnegR",
+        "fandomUrl": "Where_Tender_Night_Embraceth_Thee",
+        "context": "\"A Lanternlit Ode to the Silver Moon\" Event (Act III)"
+      },
+      {
+        "id": 1631,
+        "title": "A Bright, Fresh Year",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "WQIrkieBvaw",
+        "spotifyId": "486zoRLZrQO6d0Bus8HP4J",
+        "fandomUrl": "A_Bright,_Fresh_Year",
+        "context": "Miliastra Wonderland Version \"Luna IV\" Legendary Set Teaser"
+      }
+    ]
   }
 ]
