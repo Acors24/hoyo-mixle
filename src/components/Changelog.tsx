@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-02-26",
+    changes: [
+      'Fixed the YouTube link for "Turn Heartbeats Into Tempo (Instrumental)" (Zenless Zone Zero)',
+    ],
+  },
+  {
     date: "2026-02-19",
     changes: [
       'Added "Hyper Commission 2.0" album (Zenless Zone Zero)',
