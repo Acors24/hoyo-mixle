@@ -4817,5 +4817,43 @@
         "context": "Instrumental version of \"Turn Heartbeats Into Tempo\""
       }
     ]
+  },
+  {
+    "title": "Angel Loading...^_−☆",
+    "songs": [
+      {
+        "id": 425,
+        "title": "天使加载中...^_−☆",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "Z-_iN1AJeYs",
+        "spotifyId": "7ebLJjqZS7DJ13FtQG3JdT",
+        "fandomUrl": "%E5%A4%A9%E4%BD%BF%E5%8A%A0%E8%BD%BD%E4%B8%AD...%5E_%E2%88%92%E2%98%86",
+        "context": "Chinese version of \"Angel Loading...^_−☆\""
+      },
+      {
+        "id": 426,
+        "title": "Angel Loading...^_−☆",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "N_OUotyVv4o",
+        "spotifyId": "2unBDAw6Nv2K6QKf1oNVty",
+        "fandomUrl": "Angel_Loading...%5E_%E2%88%92%E2%98%86",
+        "context": "Aria EP"
+      },
+      {
+        "id": 427,
+        "title": "Angel Loading...^_−☆ (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Angels of Delusion",
+        "youtubeId": "jQUPthq29tQ",
+        "spotifyId": "5XRN1Ogt7WVAoWJIrGcWA5",
+        "fandomUrl": "Angel_Loading...%5E_%E2%88%92%E2%98%86_-_Instrumental",
+        "context": "Instrumental version of \"Angel Loading...^_−☆\""
+      }
+    ]
   }
 ]

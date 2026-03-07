@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-03-07",
+    changes: ['Added "Angel Loading...^_−☆" album (Zenless Zone Zero)'],
+  },
+  {
     date: "2026-02-26",
     changes: [
       'Fixed the YouTube link for "Turn Heartbeats Into Tempo (Instrumental)" (Zenless Zone Zero)',
