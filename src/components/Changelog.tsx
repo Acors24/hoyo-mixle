@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-03-09",
+    changes: ['Added "Ravings" album (Honkai: Star Rail)'],
+  },
+  {
     date: "2026-03-07",
     changes: ['Added "Angel Loading...^_−☆" album (Zenless Zone Zero)'],
   },

@@ -6104,5 +6104,30 @@
         "context": "\"Harbinger of Death: Swarm Nightmare\" Boss Fight"
       }
     ]
+  },
+  {
+    "title": "Ravings",
+    "songs": [
+      {
+        "id": 522,
+        "title": "Ravings",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Planarcadia",
+        "youtubeId": "nOKW9832ItA",
+        "spotifyId": "1F5lZT1i6Cqddq1yPl7x1q",
+        "context": "Sparxie Character Demo"
+      },
+      {
+        "id": 523,
+        "title": "Ravings (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Planarcadia",
+        "youtubeId": "7JKPOKIlwAc",
+        "spotifyId": "69qTtCfQcPVA1f5foT7b8Y",
+        "context": "Instrumental version of \"Ravings\""
+      }
+    ]
   }
 ]
