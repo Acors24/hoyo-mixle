@@ -2968,6 +2968,26 @@
         "spotifyId": "1WpEar5OHhx2bIPqV9UzWe",
         "fandomUrl": "Shining_Promise_in_the_Sky_of_Dawn",
         "context": "Starlight Knight EP"
+      },
+      {
+        "id": 428,
+        "title": "『暁の空に、輝ける誓い』",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "TbfU5j3StW8",
+        "spotifyId": "0WG3Pwz3BT64cH47XYMoFG",
+        "context": "Japanese version of \"Shining Promise in the Sky of Dawn\""
+      },
+      {
+        "id": 429,
+        "title": "Shining Promise in the Sky of Dawn (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "3g3vyO4tfc",
+        "spotifyId": "5xvoS4h4a9Po8hLqAvHcpX",
+        "context": "Instrumental version of \"Shining Promise in the Sky of Dawn\""
       }
     ]
   },
