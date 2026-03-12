@@ -7,6 +7,7 @@ const history = [
     date: "2026-03-12",
     changes: [
       `Fixed "Stars of Lyra+" album, adjusted its tracks' types, and added 2 tracks to it (Zenless Zone Zero)`,
+      'Added Fandom links to the tracks in "Ravings" album (Honkai: Star Rail)',
     ],
   },
   {
