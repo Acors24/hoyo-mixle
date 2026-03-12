@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-03-12",
+    changes: [
+      `Fixed "Stars of Lyra+" album, adjusted its tracks' types, and added 2 tracks to it (Zenless Zone Zero)`,
+    ],
+  },
+  {
     date: "2026-03-11",
     changes: [
       'Added 2 variants of "Shining Promise in the Sky of Dawn" to its album (Zenless Zone Zero)',
