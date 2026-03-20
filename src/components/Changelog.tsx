@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-03-20",
+    changes: ["Fixed the YouTube ID of today's ZZZ track"],
+  },
+  {
     date: "2026-03-12",
     changes: [
       `Fixed "Stars of Lyra+" album, adjusted its tracks' types, and added 2 tracks to it (Zenless Zone Zero)`,
