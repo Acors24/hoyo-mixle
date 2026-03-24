@@ -7,6 +7,7 @@ const history = [
     date: "2026-03-24",
     changes: [
       'Added "Let There Be Laughter (Part 1)" album (Honkai: Star Rail)',
+      "Fixed the YouTube ID of a Genshin Impact track",
     ],
   },
   {
