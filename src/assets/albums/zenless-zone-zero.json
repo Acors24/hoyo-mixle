@@ -2934,7 +2934,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "sDyqe6ar2qg",
         "spotifyId": "2BIVFlMLWZDdRa8aT6wStw",
-        "fandomUrl": "Ridu_Holidays_(Soundtrack)"
+        "fandomUrl": "Ridu_Holidays_(Soundtrack)",
+        "context": "Astra Yao Character Demo"
       },
       {
         "id": 431,
@@ -2944,7 +2945,8 @@
         "region": "Stars of Lyra",
         "youtubeId": "lIOd5aWSvYE",
         "spotifyId": "7kSdDXFfzCd2iWf8qrNA8U",
-        "fandomUrl": "Ridu_Holidays_-_Instrumental"
+        "fandomUrl": "Ridu_Holidays_-_Instrumental",
+        "context": "Instrumental version of \"Ridu Holidays\""
       }
     ]
   },

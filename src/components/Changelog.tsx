@@ -8,6 +8,7 @@ const history = [
     changes: [
       'Added "Let There Be Laughter (Part 1)" album (Honkai: Star Rail)',
       "Fixed the YouTube ID of a Genshin Impact track",
+      'Added context to the new "Stars of Lyra+" tracks (Zenless Zone Zero)',
     ],
   },
   {
