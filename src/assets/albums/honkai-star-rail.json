@@ -6131,5 +6131,460 @@
         "context": "Instrumental version of \"Ravings\""
       }
     ]
+  },
+  {
+    "title": "Let There Be Laughter (Part 1)",
+    "songs": [
+      {
+        "id": 524,
+        "title": "Comedy Symphony",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Phonograph Records"],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "L6paX0OyOgA",
+        "spotifyId": "0rDkvr7NIlD2IaF8nEd7P5",
+        "fandomUrl": "Comedy_Symphony"
+      },
+      {
+        "id": 525,
+        "title": "Morning, Planarcadia!",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "zWHbQ4YWkcE",
+        "spotifyId": "3Hbb2kJomSuq2i2j0KW3m4",
+        "fandomUrl": "Morning,_Planarcadia!"
+      },
+      {
+        "id": 526,
+        "title": "Soothing Waves",
+        "playedAt": [
+          "Locations",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Special Gameplay"
+        ],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "D0MnZbrkrGk",
+        "spotifyId": "21J3eozYUgaxNwo6vq3QSq",
+        "fandomUrl": "Soothing_Waves"
+      },
+      {
+        "id": 527,
+        "title": "Shopping Channel",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "5kSFOx-oANQ",
+        "spotifyId": "4F0NwZWOaHAYdtjYUzTB8l",
+        "fandomUrl": "Shopping_Channel_(Soundtrack)"
+      },
+      {
+        "id": 528,
+        "title": "Vital Infusion",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "DBQsCrHiuow",
+        "spotifyId": "3Tnuv8TB0fiJlGS4aGUds9",
+        "fandomUrl": "Vital_Infusion"
+      },
+      {
+        "id": 529,
+        "title": "Daylight Diner",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "dNLRkySGRHo",
+        "spotifyId": "5gc47V2J111RZH34RebCj2",
+        "fandomUrl": "Daylight_Diner"
+      },
+      {
+        "id": 530,
+        "title": "Where We Part Ways",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "IH7mmQghUsE",
+        "spotifyId": "3NYROhdRf0taqPNrXjpmdJ",
+        "fandomUrl": "Where_We_Part_Ways"
+      },
+      {
+        "id": 531,
+        "title": "Reasons to Live Here",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "AQQehOwy0V8",
+        "spotifyId": "2congBHBmbgGG7xW5AMJ50",
+        "fandomUrl": "Reasons_to_Live_Here"
+      },
+      {
+        "id": 532,
+        "title": "Seeds of Artistry",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "Ls6wJTfPPN0",
+        "spotifyId": "4jfMNL1BfXAV886YgBUWlK",
+        "fandomUrl": "Seeds_of_Artistry"
+      },
+      {
+        "id": 533,
+        "title": "Pen-Point Fantasy",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "BoJ7Az8fxRk",
+        "spotifyId": "5sQ6Iz56yqO7PBiPF4Dqsd",
+        "fandomUrl": "Pen-Point_Fantasy"
+      },
+      {
+        "id": 534,
+        "title": "Dust and Secrets",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "php-v5b6CIE",
+        "spotifyId": "25A1V9eQibej5D2v3lxcKT",
+        "fandomUrl": "Dust_and_Secrets"
+      },
+      {
+        "id": 535,
+        "title": "Misted Mysteries",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "vPympeDacbw",
+        "spotifyId": "6yMiZ0cjXu26h6DOr5M39r",
+        "fandomUrl": "Misted_Mysteries"
+      },
+      {
+        "id": 536,
+        "title": "Faded Memories",
+        "playedAt": ["Locations", "Phonograph Records", "Special Gameplay"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "Ef4L5VjLzLM",
+        "spotifyId": "6ENiGnQ4duTczYG9qTnEaX",
+        "fandomUrl": "Faded_Memories"
+      },
+      {
+        "id": 537,
+        "title": "Crystal Sweatdrops",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "XyCxVtLBPso",
+        "spotifyId": "2mpeR1taCo9qXtaSmllfq0",
+        "fandomUrl": "Crystal_Sweatdrops"
+      },
+      {
+        "id": 538,
+        "title": "World's End Tavern",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "CM-XaO8zDZo",
+        "spotifyId": "3wfEZNnObxjV7QDZaaLu7h",
+        "fandomUrl": "World%27s_End_Tavern"
+      },
+      {
+        "id": 539,
+        "title": "Paramount Bliss",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "sBzrGcjfAko",
+        "spotifyId": "4t20CVdNUGYYtSSlZchb57",
+        "fandomUrl": "Paramount_Bliss"
+      },
+      {
+        "id": 540,
+        "title": "Savor the Moment",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "LRHYPVIRIxg",
+        "spotifyId": "1newNnXu1KPk0MNzQ3c8sN",
+        "fandomUrl": "Savor_the_Moment"
+      },
+      {
+        "id": 541,
+        "title": "Bone Marrow",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "PVu-5qR8lew",
+        "spotifyId": "74XdBzppLlruWguMYySLOG",
+        "fandomUrl": "Bone_Marrow"
+      },
+      {
+        "id": 542,
+        "title": "Rare Treasure",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "e8U5foKMwbE",
+        "spotifyId": "1GWBZg18Z3dp3Ctze0Q383",
+        "fandomUrl": "Rare_Treasure"
+      },
+      {
+        "id": 543,
+        "title": "Dark Alley",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "TE7Y8h7Zj3M",
+        "spotifyId": "3kbUfre5IOPEudt9qEzJ29",
+        "fandomUrl": "Dark_Alley"
+      },
+      {
+        "id": 544,
+        "title": "The Dark Side of Light",
+        "playedAt": ["Locations", "Phonograph Records"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "r7X7v4XHizY",
+        "spotifyId": "03NUkRw0TlgTEnsRNRF9Ab",
+        "fandomUrl": "The_Dark_Side_of_Light"
+      },
+      {
+        "id": 545,
+        "title": "A Dream Among Flowers",
+        "playedAt": ["Locations"],
+        "type": "Open-World",
+        "region": "Planarcadia",
+        "youtubeId": "T0-kJIOmYOo",
+        "spotifyId": "7leU0Rp0o5zjzaAgq0h8kc",
+        "fandomUrl": "A_Dream_Among_Flowers"
+      },
+      {
+        "id": 546,
+        "title": "Water-Mirrored Moon",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "gaQ7htDb190",
+        "spotifyId": "0WaKm87x9AsDKlHIIfqf2a",
+        "fandomUrl": "Water-Mirrored_Moon"
+      },
+      {
+        "id": 547,
+        "title": "Woe and Weal",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "H-QVI71nbXM",
+        "spotifyId": "2QCkns6eLWa5g9Nrt2doAZ",
+        "fandomUrl": "Woe_and_Weal"
+      },
+      {
+        "id": 548,
+        "title": "Trigram of Incompletion",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "IzK_JSaoC_Y",
+        "spotifyId": "5IuCLERNOvs3zA0T7gmQqi",
+        "fandomUrl": "Trigram_of_Incompletion"
+      },
+      {
+        "id": 549,
+        "title": "Game Time!",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Planarcadia",
+        "youtubeId": "vv-IIKCpxyM",
+        "spotifyId": "4lQLZ0ZU7xsUkYkrRCQCnE",
+        "fandomUrl": "Game_Time!"
+      },
+      {
+        "id": 550,
+        "title": "Up-Up-Down-Down-Left-Left-Right-Right",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Planarcadia",
+        "youtubeId": "3owthApJo0k",
+        "spotifyId": "6yXePaBjSCHDNJCrW7D2ER",
+        "fandomUrl": "Up-Up-Down-Down-Left-Left-Right-Right"
+      },
+      {
+        "id": 551,
+        "title": "Soaring Beyond the Skyline",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Planarcadia",
+        "youtubeId": "L5DFEIaytX8",
+        "spotifyId": "0WiBQDlrAGoTWscOIiYPxM",
+        "fandomUrl": "Soaring_Beyond_the_Skyline"
+      },
+      {
+        "id": 552,
+        "title": "Most Wanted",
+        "playedAt": ["Combat", "Phonograph Records"],
+        "type": "Combat",
+        "region": "Planarcadia",
+        "youtubeId": "6ASuIGgISm0",
+        "spotifyId": "30cVewlD0deVWf6aTRbsq2",
+        "fandomUrl": "Most_Wanted"
+      },
+      {
+        "id": 553,
+        "title": "Daydream",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "xPFNTElH98k",
+        "spotifyId": "5r4spEUwr1MZCZ6LKUek08",
+        "fandomUrl": "Daydream"
+      },
+      {
+        "id": 554,
+        "title": "Magic Zone",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "nfcO88dIE8w",
+        "spotifyId": "48FxqwdW4sKiLVtFDZtzPT",
+        "fandomUrl": "Magic_Zone"
+      },
+      {
+        "id": 555,
+        "title": "Midnight Blur",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "GmfXpGZvb_8",
+        "spotifyId": "1oNgtTKzn3wRWz6pZyJaco",
+        "fandomUrl": "Midnight_Blur"
+      },
+      {
+        "id": 556,
+        "title": "Tutorial",
+        "playedAt": [],
+        "type": "N/A",
+        "region": "Planarcadia",
+        "youtubeId": "0upyLbmolDg",
+        "spotifyId": "0JgcSLw2jtqwVpBJYPSUIl",
+        "fandomUrl": "Tutorial_(Soundtrack)"
+      },
+      {
+        "id": 557,
+        "title": "Maximum Firepower",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "dWOKZ63n1pk",
+        "spotifyId": "3d2w8a7Y3mpXBtQ28oZZN0",
+        "fandomUrl": "Maximum_Firepower_(Soundtrack)"
+      },
+      {
+        "id": 558,
+        "title": "Embarrassment",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "C6dSiixZ3VQ",
+        "spotifyId": "5sTNreQ7IH7hG6z56VyEp9",
+        "fandomUrl": "Embarrassment"
+      },
+      {
+        "id": 559,
+        "title": "Congealed Air",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "ylGiQpPhGMk",
+        "spotifyId": "5BWhG836C3wtpOTm4X0uzk",
+        "fandomUrl": "Congealed_Air"
+      },
+      {
+        "id": 560,
+        "title": "Chatter",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "jZnTYPREtHE",
+        "spotifyId": "7I0eeuwxkGpkSoAQyr32CX",
+        "fandomUrl": "Chatter"
+      },
+      {
+        "id": 561,
+        "title": "Held Breath",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "61pdw4UcQno",
+        "spotifyId": "09EMY0fcpJElC3uTpmOWcr",
+        "fandomUrl": "Held_Breath"
+      },
+      {
+        "id": 562,
+        "title": "A Walk in Paradise",
+        "playedAt": ["Missions", ["Trailblaze Missions"], "Special Gameplay"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "Z1x26Q50Qe4",
+        "spotifyId": "4kISQ9eiLzYDaoT41ILDDH",
+        "fandomUrl": "A_Walk_in_Paradise"
+      },
+      {
+        "id": 563,
+        "title": "Terminal of Life",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "-FZbWnDhMPU",
+        "spotifyId": "3i7IPqlJGLN1dAr8hJPV1h",
+        "fandomUrl": "Terminal_of_Life"
+      },
+      {
+        "id": 564,
+        "title": "All for the Show",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "ncqX6l_bPvg",
+        "spotifyId": "3yZzImbnrtZlCsXgFUsdfK",
+        "fandomUrl": "All_for_the_Show_(Soundtrack)"
+      },
+      {
+        "id": 565,
+        "title": "Flash of Inspiration",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "6RCtoOX1ujk",
+        "spotifyId": "5303HE9odbUst85anvEhWz",
+        "fandomUrl": "Flash_of_Inspiration"
+      },
+      {
+        "id": 566,
+        "title": "Internet Meme",
+        "playedAt": ["Missions", ["Trailblaze Missions"]],
+        "type": "Mission",
+        "region": "Planarcadia",
+        "youtubeId": "cuDkUPRKKJc",
+        "spotifyId": "1lH2xCPuPQiq2gB1hdd7ir",
+        "fandomUrl": "Internet_Meme"
+      },
+      {
+        "id": 567,
+        "title": "Perfect Idol",
+        "playedAt": [
+          "Enemies",
+          "Missions",
+          ["Trailblaze Missions"],
+          "Phonograph Records"
+        ],
+        "type": "Boss",
+        "region": "Planarcadia",
+        "youtubeId": "wcfqwMv_4wY",
+        "spotifyId": "6JtkneK1hQbBXkIECNXpxy",
+        "fandomUrl": "Perfect_Idol"
+      }
+    ]
   }
 ]
