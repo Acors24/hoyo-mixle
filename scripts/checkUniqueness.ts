@@ -3,84 +3,163 @@ import starRailAlbums from "../src/assets/albums/honkai-star-rail.json";
 import zenlessAlbums from "../src/assets/albums/zenless-zone-zero.json";
 import { Album } from "../src/types";
 
-const checkInternalIds = (albums: Album[]) => {
-  const internalIds = new Set<number>();
+const checkInternalIds = (gameAlbums: { [key: string]: Album[] }) => {
+  let foundIssues = false;
 
-  for (const album of albums) {
-    for (const song of album.songs) {
-      if (internalIds.has(song.id)) {
-        console.error(`Duplicate song found: ${song.id}`);
-      } else {
-        internalIds.add(song.id);
-      }
-    }
-  }
-};
+  for (const [game, albums] of Object.entries(gameAlbums)) {
+    const internalIds = new Set<number>();
+    const issues: { id: number; title: string }[] = [];
 
-const checkFandomUrls = (albums: Album[], game: string) => {
-  const fandomUrls = new Set<string>();
-
-  for (const album of albums) {
-    for (const song of album.songs) {
-      if (song.fandomUrl !== undefined) {
-        if (fandomUrls.has(song.fandomUrl)) {
-          console.error(`Duplicate Fandom URL found: ${song.fandomUrl}`);
+    for (const album of albums) {
+      for (const song of album.songs) {
+        if (internalIds.has(song.id)) {
+          const previousAlbum = albums.find((a) =>
+            a.songs.some((s) => s.id === song.id),
+          )!;
+          issues.push({
+            id: song.id,
+            title: previousAlbum.songs.find((s) => s.id === song.id)!.title,
+          });
+          issues.push({ id: song.id, title: song.title });
         } else {
-          fandomUrls.add(song.fandomUrl);
+          internalIds.add(song.id);
         }
-      } else {
-        console.error(
-          `Song "${song.title}" (${song.id}) in ${game} is missing a Fandom URL.`
-        );
+      }
+    }
+
+    if (issues.length > 0) {
+      foundIssues = true;
+      console.error(`Songs with duplicate IDs (${game}):`);
+      console.table(issues, ["id", "title"]);
+    }
+  }
+
+  return foundIssues;
+};
+
+const checkFandomUrls = (gameAlbums: { [key: string]: Album[] }) => {
+  let foundIssues = false;
+
+  for (const [game, albums] of Object.entries(gameAlbums)) {
+    const fandomUrls = new Set<string>();
+    const issues: { id: number; title: string }[] = [];
+
+    for (const album of albums) {
+      for (const song of album.songs) {
+        if (song.fandomUrl !== undefined) {
+          if (fandomUrls.has(song.fandomUrl)) {
+            console.error(`Duplicate Fandom URL found: ${song.fandomUrl}`);
+          } else {
+            fandomUrls.add(song.fandomUrl);
+          }
+        } else {
+          issues.push({ id: song.id, title: song.title });
+        }
+      }
+    }
+
+    if (issues.length > 0) {
+      foundIssues = true;
+      console.error(`Songs with missing Fandom URLs (${game}):`);
+      console.table(issues, ["id", "title"]);
+    }
+  }
+
+  return foundIssues;
+};
+
+const checkContext = (gameAlbums: { [key: string]: Album[] }) => {
+  let foundIssues = false;
+
+  for (const [game, albums] of Object.entries(gameAlbums)) {
+    const issues: { id: number; title: string }[] = [];
+
+    for (const album of albums) {
+      for (const song of album.songs) {
+        if (song.context === undefined || song.context.trim() === "") {
+          issues.push({ id: song.id, title: song.title });
+        }
+      }
+    }
+
+    if (issues.length > 0) {
+      foundIssues = true;
+      console.error(`Songs with missing context (${game}):`);
+      console.table(issues, ["id", "title"]);
+    }
+  }
+
+  return foundIssues;
+};
+
+const checkYTAndSpotifyIDs = (gameAlbums: { [key: string]: Album[] }) => {
+  let foundIssues = false;
+
+  const issues: { game: string; title: string; what: string }[] = [];
+
+  const youtubeIds = new Set<string>();
+  const spotifyIds = new Set<string>();
+
+  for (const [game, albums] of Object.entries(gameAlbums)) {
+    for (const album of albums) {
+      for (const song of album.songs) {
+        if (song.youtubeId === undefined || song.youtubeId.trim() === "") {
+          issues.push({ game, title: song.title, what: "Missing YouTube ID" });
+        }
+
+        if (song.youtubeId.length != 11) {
+          issues.push({ game, title: song.title, what: "Invalid YouTube ID" });
+        }
+
+        if (youtubeIds.has(song.youtubeId)) {
+          issues.push({
+            game,
+            title: song.title,
+            what: "YouTube ID duplicate",
+          });
+        } else {
+          youtubeIds.add(song.youtubeId);
+        }
+
+        if (song.spotifyId === undefined || song.spotifyId.trim() === "") {
+          issues.push({ game, title: song.title, what: "Missing Spotify ID" });
+        }
+
+        if (spotifyIds.has(song.spotifyId)) {
+          issues.push({
+            game,
+            title: song.title,
+            what: "Spotify ID duplicate",
+          });
+        } else {
+          spotifyIds.add(song.spotifyId);
+        }
       }
     }
   }
+
+  if (issues.length > 0) {
+    foundIssues = true;
+    console.error(`Songs with YouTube or Spotify ID issues:`);
+    console.table(issues, ["game", "title", "what"]);
+  }
+
+  return foundIssues;
 };
 
-const checkContext = (albums: Album[], game: string) => {
-  for (const album of albums) {
-    for (const song of album.songs) {
-      if (song.context === undefined || song.context.trim() === "") {
-        console.error(
-          `Song "${song.title}" (${song.id}) in ${game} is missing context.`
-        );
-      }
-    }
-  }
+const gameAlbums: { [key: string]: Album[] } = {
+  "Genshin Impact": genshinAlbums as Album[],
+  "Honkai: Star Rail": starRailAlbums as Album[],
+  "Zenless Zone Zero": zenlessAlbums as Album[],
 };
 
-const youtubeIds = new Set<string>();
-const spotifyIds = new Set<string>();
+const ok = [
+  checkYTAndSpotifyIDs(gameAlbums),
+  checkInternalIds(gameAlbums),
+  checkFandomUrls(gameAlbums),
+  checkContext(gameAlbums),
+].every((result) => !result);
 
-const allAlbums = [
-  ...(genshinAlbums as Album[]),
-  ...(starRailAlbums as Album[]),
-  ...(zenlessAlbums as Album[]),
-];
-for (const album of allAlbums) {
-  for (const song of album.songs) {
-    if (youtubeIds.has(song.youtubeId)) {
-      console.error(`Duplicate YouTube ID found: ${song.youtubeId}`);
-    } else {
-      youtubeIds.add(song.youtubeId);
-    }
-
-    if (spotifyIds.has(song.spotifyId)) {
-      console.error(`Duplicate Spotify ID found: ${song.spotifyId}`);
-    } else {
-      spotifyIds.add(song.spotifyId);
-    }
-  }
+if (ok) {
+  console.log("Everything seems ok");
 }
-
-checkInternalIds(genshinAlbums as Album[]);
-checkInternalIds(starRailAlbums as Album[]);
-checkInternalIds(zenlessAlbums as Album[]);
-
-checkFandomUrls(genshinAlbums as Album[], "Genshin Impact");
-checkFandomUrls(starRailAlbums as Album[], "Honkai: Star Rail");
-checkFandomUrls(zenlessAlbums as Album[], "Zenless Zone Zero");
-
-checkContext(genshinAlbums as Album[], "Genshin Impact");
-checkContext(starRailAlbums as Album[], "Honkai: Star Rail");
-checkContext(zenlessAlbums as Album[], "Zenless Zone Zero");
