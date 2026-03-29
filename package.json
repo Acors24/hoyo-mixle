@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "get-today": "tsx ./scripts/getToday.ts",
-    "check-uniqueness": "tsx ./scripts/checkUniqueness.ts"
+    "validate": "tsx ./scripts/validate.ts"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.2",
