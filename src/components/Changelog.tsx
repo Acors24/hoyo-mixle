@@ -8,6 +8,7 @@ const history = [
     changes: [
       'Added context to "Let There Be Laughter (Part 1)" album (Honkai: Star Rail)',
       'Adjusted existing context of several "Honkai: Star Rail" tracks',
+      'Adjusted existing context of several "Genshin Impact" tracks',
     ],
   },
   {
