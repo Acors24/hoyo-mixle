@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-03-29",
+    changes: [
+      'Added context to "Let There Be Laughter (Part 1)" album (Honkai: Star Rail)',
+      'Adjusted existing context of several "Honkai: Star Rail" tracks',
+    ],
+  },
+  {
     date: "2026-03-24",
     changes: [
       'Added "Let There Be Laughter (Part 1)" album (Honkai: Star Rail)',
