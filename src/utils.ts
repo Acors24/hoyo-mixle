@@ -18,12 +18,12 @@ function getDifferenceInFullDays(date1: Date, date2: Date): number {
   const utc1 = Date.UTC(
     date1.getUTCFullYear(),
     date1.getUTCMonth(),
-    date1.getUTCDate()
+    date1.getUTCDate(),
   );
   const utc2 = Date.UTC(
     date2.getUTCFullYear(),
     date2.getUTCMonth(),
-    date2.getUTCDate()
+    date2.getUTCDate(),
   );
   return (utc2 - utc1) / (1000 * 60 * 60 * 24);
 }
@@ -82,18 +82,6 @@ function getLBirthdaySong(albums: Album[]): Song | undefined {
 const dailySongsPromise = fetchDailySongs();
 
 async function getTodaysSong(albums: Album[], game: Game): Promise<Song> {
-  if (getToday().getUTCMonth() === 3 && getToday().getUTCDate() === 1) {
-    const song = getAprilFoolsSong(albums);
-    if (song) {
-      return song;
-    }
-  } else if (getToday().getUTCMonth() === 3 && getToday().getUTCDate() === 17) {
-    const song = getLBirthdaySong(albums);
-    if (song) {
-      return song;
-    }
-  }
-
   const dailySongs = await dailySongsPromise;
   if (dailySongs !== null) {
     const songId = dailySongs[game];
@@ -106,6 +94,19 @@ async function getTodaysSong(albums: Album[], game: Game): Promise<Song> {
   }
 
   console.warn("API error; falling back to pseudo-random daily song.");
+
+  if (getToday().getUTCMonth() === 3 && getToday().getUTCDate() === 1) {
+    const song = getAprilFoolsSong(albums);
+    if (song) {
+      return song;
+    }
+  } else if (getToday().getUTCMonth() === 3 && getToday().getUTCDate() === 17) {
+    const song = getLBirthdaySong(albums);
+    if (song) {
+      return song;
+    }
+  }
+
   return getRng().choice(albums.flatMap((album) => album.songs))!;
 }
 
@@ -158,7 +159,7 @@ function getGameBaseWiki(game: Game): string {
 }
 
 function getSimplePlayerState(
-  playerState: YT.PlayerState
+  playerState: YT.PlayerState,
 ): "playing" | "idle" | "loading" {
   if (playerState === 1) {
     return "playing";
@@ -178,12 +179,12 @@ function contextToList(context: string): string[] {
 function updateCalendar(
   calendar: { [key: string]: number[] },
   won: boolean,
-  guessAmount?: number
+  guessAmount?: number,
 ) {
   const year = getToday().getUTCFullYear();
   const dayOfYear =
     getDayOfYear(
-      new Date(year, getToday().getUTCMonth(), getToday().getUTCDate())
+      new Date(year, getToday().getUTCMonth(), getToday().getUTCDate()),
     ) - 1;
 
   if (calendar[year] === undefined) {
