@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-04-13",
+    changes: [
+      'Added "Fantastical-Colored Heartbeat" album (Zenless Zone Zero)',
+      'Added missing Fandom links to the tracks in "Shining Promise in the Sky of Dawn" album (Zenless Zone Zero)',
+    ],
+  },
+  {
     date: "2026-03-29",
     changes: [
       'Added context to "Let There Be Laughter (Part 1)" album (Honkai: Star Rail)',
