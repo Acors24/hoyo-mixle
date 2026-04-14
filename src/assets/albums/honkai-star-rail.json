@@ -6630,5 +6630,60 @@
         "context": "\"@SparxiConOfficial\" Boss Fight"
       }
     ]
+  },
+  {
+    "title": "Side Quest King (Honkai: Star Rail Third Anniversary Theme Song)",
+    "songs": [
+      {
+        "id": 568,
+        "title": "Side Quest King - Chinese Ver.",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "tuz6g-gHwrU",
+        "spotifyId": "2OO7TUOGbBCtEBVtKu7U7v",
+        "fandomUrl": "Side_Quest_King_-_Chinese_Ver."
+      },
+      {
+        "id": 569,
+        "title": "Side Quest King - English Ver.",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "By2sz7DCfr8",
+        "spotifyId": "4ruCLCGTpChWFFg9ATHgsE",
+        "fandomUrl": "Side_Quest_King_-_English_Ver."
+      },
+      {
+        "id": 570,
+        "title": "Side Quest King - Instrumental",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "nqooEdrsPoo",
+        "spotifyId": "2cX28PEOlCLrmW19jxZqg0",
+        "fandomUrl": "Side_Quest_King_-_Instrumental"
+      },
+      {
+        "id": 571,
+        "title": "Side Quest King - Chinese Harmonic Accompaniment",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "-RRe2Gz_fMQ",
+        "spotifyId": "3xxRoioBTXZJpPhgBwk6J7",
+        "fandomUrl": "Side_Quest_King_-_Chinese_Harmonic_Accompaniment"
+      },
+      {
+        "id": 572,
+        "title": "Side Quest King - English Harmonic Accompaniment",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "pLrorIzmnX0",
+        "spotifyId": "2TaWddxLm3RiWS26rbovO3",
+        "fandomUrl": "Side_Quest_King_-_English_Harmonic_Accompaniment"
+      }
+    ]
   }
 ]

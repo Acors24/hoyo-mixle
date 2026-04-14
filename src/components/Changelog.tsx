@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-04-14",
+    changes: [
+      'Added "Side Quest King (Honkai: Star Rail Third Anniversary Theme Song)" album (Honkai: Star Rail)',
+    ],
+  },
+  {
     date: "2026-04-13",
     changes: [
       'Added "Fantastical-Colored Heartbeat" album (Zenless Zone Zero)',
