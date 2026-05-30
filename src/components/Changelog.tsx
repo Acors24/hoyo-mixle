@@ -4,7 +4,7 @@ import Dialog from "./Dialog";
 
 const history = [
   {
-    date: "2026-04-14",
+    date: "2026-05-30",
     changes: [
       'Added context to "Side Quest King (Honkai: Star Rail Third Anniversary Theme Song)" album (Honkai: Star Rail)',
       'Added "Billy Mode" album (Zenless Zone Zero)',
