@@ -4943,23 +4943,25 @@
     "songs": [
       {
         "id": 435,
-        "title": "Billy Mode",
+        "title": "Billy Mode (feat. Mr.mo, Relaye)",
         "playedAt": ["Media"],
         "type": "Character",
         "region": "Cunning Hares",
         "youtubeId": "QBD4tCXFQ8M",
         "spotifyId": "66tdy2Pn0JQDzaJFp74vya",
-        "fandomUrl": "Billy_Mode"
+        "fandomUrl": "Billy_Mode",
+        "context": "Starlight - Billy EP"
       },
       {
         "id": 436,
-        "title": "Billy Mode - Instrumental",
+        "title": "Billy Mode (feat. Mr.mo, Relaye) [Instrumental]",
         "playedAt": ["Media"],
         "type": "Character",
         "region": "Cunning Hares",
         "youtubeId": "49Qpg5CCkvA",
         "spotifyId": "0cki7gfA8aAOtXdKw64wBg",
-        "fandomUrl": "Billy_Mode_-_Instrumental"
+        "fandomUrl": "Billy_Mode_-_Instrumental",
+        "context": "Instrumental version of \"Billy Mode\""
       }
     ]
   }
