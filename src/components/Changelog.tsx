@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-07-05",
+    changes: [
+      'Added "Where Roads Are Pledged to Cross" album (Genshin Impact)',
+    ],
+  },
+  {
     date: "2026-06-04",
     changes: ['Added context to "Billy Mode" album (Zenless Zone Zero)'],
   },
