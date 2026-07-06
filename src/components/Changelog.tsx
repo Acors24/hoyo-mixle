@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-07-06",
+    changes: ["Fixed YouTube IDs of a few songs"],
+  },
+  {
     date: "2026-07-05",
     changes: [
       'Added "Where Roads Are Pledged to Cross" album (Genshin Impact)',
