@@ -4342,7 +4342,7 @@
         "youtubeId": "SCJbtmadcJ0",
         "spotifyId": "4bxo7okUCnoyOjZTX06TXt",
         "fandomUrl": "Night%27s_Descent",
-        "context": "Season 2 Chapter 005 \"On the Precipice of the Abyss\" / Season 2 Chapter 006 \"To Be Fuel for the Night\""
+        "context": "Various Season 2 main quests / \"When Dreams Remain Unfinished\" Event quest (Yidhari's flashbacks)"
       },
       {
         "id": 379,
@@ -4962,6 +4962,60 @@
         "spotifyId": "0cki7gfA8aAOtXdKw64wBg",
         "fandomUrl": "Billy_Mode_-_Instrumental",
         "context": "Instrumental version of \"Billy Mode\""
+      }
+    ]
+  },
+  {
+    "title": "Prophecy",
+    "songs": [
+      {
+        "id": 437,
+        "title": "Prophecy",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "8y3u5UfRlAE",
+        "spotifyId": "5FoLBSHGJUedDtDF0zKvmF",
+        "fandomUrl": "Prophecy",
+        "context": "ZZZ 2nd Anniversary Theme (unused)"
+      },
+      {
+        "id": 438,
+        "title": "Prophecy (Instrumental)",
+        "playedAt": [],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "XN9GYlg4aKM",
+        "spotifyId": "0cgEnnnpReO698O8ASyRVq",
+        "fandomUrl": "Prophecy_-_Instrumental",
+        "context": "Instrumental version of \"Prophecy\""
+      }
+    ]
+  },
+  {
+    "title": "chaos.exe",
+    "songs": [
+      {
+        "id": 439,
+        "title": "chaos.exe",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Roscaelifer",
+        "youtubeId": "DyF934nsD0E",
+        "spotifyId": "3N1zlgIGnFcnNiTuDaeYzy",
+        "fandomUrl": "Chaos.exe",
+        "context": "Norma EP"
+      },
+      {
+        "id": 440,
+        "title": "chaos.exe (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Roscaelifer",
+        "youtubeId": "DXOHHWV15w8",
+        "spotifyId": "33nqZf145RVrfrMIMUpzL9",
+        "fandomUrl": "Chaos.exe_-_Instrumental",
+        "context": "Instrumental version of \"chaos.exe\""
       }
     ]
   }

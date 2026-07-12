@@ -7,6 +7,7 @@ const history = [
     date: "2026-07-12",
     changes: [
       'Added "Footprints of the Traveler Vol. 5" album (Genshin Impact)',
+      'Added "Prophecy" and "chaos.exe" albums (Zenless Zone Zero)',
     ],
   },
   {
