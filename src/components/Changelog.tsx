@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-07-12",
+    changes: [
+      'Added "Footprints of the Traveler Vol. 5" album (Genshin Impact)',
+    ],
+  },
+  {
     date: "2026-07-06",
     changes: ["Fixed YouTube IDs of a few songs"],
   },

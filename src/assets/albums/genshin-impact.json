@@ -20038,5 +20038,98 @@
         "context": "\"Song of the Welkin Moon\" Archon Quest Act VIII (during \"Il Dottore\" Boss Fight)"
       }
     ]
+  },
+  {
+    "title": "Footprints of the Traveler Vol. 5",
+    "songs": [
+      {
+        "id": 1705,
+        "title": "A Dance of Snowy Tides and Hoarfrost Groves",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "yd5GB-AmLW0",
+        "spotifyId": "6vlWhhEYFRWMTy9atES4fO",
+        "fandomUrl": "A_Dance_of_Snowy_Tides_and_Hoarfrost_Groves_(Soundtrack)",
+        "context": "Version Luna I (6.0) Trailer"
+      },
+      {
+        "id": 1706,
+        "title": "An Elegy for Faded Moonlight",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "rj0M_bdQ6Xg",
+        "spotifyId": "1NVZCXQKYLHY0WK4FaGQ4S",
+        "fandomUrl": "An_Elegy_for_Faded_Moonlight_(Soundtrack)",
+        "context": "Version Luna II (6.1) Trailer"
+      },
+      {
+        "id": 1707,
+        "title": "A Nocturne of the Far North",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "NKC8hR1VY7w",
+        "spotifyId": "6xjQv3ayPAXggrUu48IpIm",
+        "fandomUrl": "A_Nocturne_of_the_Far_North_(Soundtrack)",
+        "context": "Version Luna III (6.2) Trailer"
+      },
+      {
+        "id": 1708,
+        "title": "A Traveler on a Winter's Night",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "g83-zYCazWo",
+        "spotifyId": "6vosrPbQSRdOBw4RIryK5w",
+        "fandomUrl": "A_Traveler_on_a_Winter%27s_Night_(Soundtrack)",
+        "context": "Version Luna IV (6.3) Trailer"
+      },
+      {
+        "id": 1709,
+        "title": "Homeward, He Who Caught the Wind",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "J06AMQODipY",
+        "spotifyId": "5hzm7jaBqYcMg2IXyaA89I",
+        "fandomUrl": "Homeward,_He_Who_Caught_the_Wind_(Soundtrack)",
+        "context": "Version Luna V (6.4) Trailer"
+      },
+      {
+        "id": 1710,
+        "title": "Augured Homecoming",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "o1aUf26FOZs",
+        "spotifyId": "2tz3rbOZnMiJpd9NTpH5Uy",
+        "fandomUrl": "Augured_Homecoming_(Soundtrack)",
+        "context": "Version Luna VI (6.5) Trailer"
+      },
+      {
+        "id": 1711,
+        "title": "Truth Amongst the Pages of Purana",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Sumeru",
+        "youtubeId": "s4l8phO4tBM",
+        "spotifyId": "6PJeJt8ssQYPixQlMmx9PP",
+        "fandomUrl": "Truth_Amongst_the_Pages_of_Purana_(Soundtrack)",
+        "context": "Version Luna VII (6.6) Trailer"
+      },
+      {
+        "id": 1712,
+        "title": "Sunny Summer Fontinalia",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "3VM6HLMGscw",
+        "spotifyId": "4mAYnvta6nLiO6P06Aaxhv",
+        "fandomUrl": "Sunny_Summer_Fontinalia_(Soundtrack)",
+        "context": "Version Luna VIII (6.7) Trailer"
+      }
+    ]
   }
 ]
