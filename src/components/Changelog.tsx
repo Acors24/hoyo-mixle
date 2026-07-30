@@ -5,7 +5,10 @@ import Dialog from "./Dialog";
 const history = [
   {
     date: "2026-07-30",
-    changes: ['Added "The Shimmering Voyage Vol. 6" album (Genshin Impact)'],
+    changes: [
+      'Added "The Shimmering Voyage Vol. 6" album (Genshin Impact)',
+      'Updated some tracks in "Radiance Aflame" album due to wrong region and/or excess tags (Genshin Impact)',
+    ],
   },
   {
     date: "2026-07-12",

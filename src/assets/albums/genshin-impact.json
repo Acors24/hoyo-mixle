@@ -16202,7 +16202,7 @@
       {
         "id": 1365,
         "title": "Bounty of the Fertile Slopes",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "rifOJik0nUM",
@@ -16213,7 +16213,7 @@
       {
         "id": 1366,
         "title": "The Brisk Morning Air",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "F3B0BJ72X_A",
@@ -16224,7 +16224,7 @@
       {
         "id": 1367,
         "title": "Strength in Motion",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "T3svyUjGjxs",
@@ -16235,7 +16235,7 @@
       {
         "id": 1368,
         "title": "Evening's Ease",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "szI70SzFnQM",
@@ -16246,7 +16246,7 @@
       {
         "id": 1369,
         "title": "Soil of Bright Flame",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "TR0DFt1yOzs",
@@ -16257,7 +16257,12 @@
       {
         "id": 1370,
         "title": "Meandering Fruit Fragrance",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Event Gameplay"
+        ],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "rbiD_jTeCjQ",
@@ -16268,7 +16273,12 @@
       {
         "id": 1371,
         "title": "Sleep After the Toil",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": [
+          "Open-World Locations",
+          "Quests",
+          ["Archon Quests"],
+          "Event Gameplay"
+        ],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "2WlI752qmiQ",
@@ -16279,7 +16289,7 @@
       {
         "id": 1372,
         "title": "A Flicker in the Quiet",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "LVkmOSxYTVg",
@@ -16290,7 +16300,7 @@
       {
         "id": 1373,
         "title": "The Horn Has Sounded",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "zxiYM9NxIOE",
@@ -16301,7 +16311,7 @@
       {
         "id": 1374,
         "title": "Skyfire Circlet",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "AGHII2cBTFc",
@@ -16312,9 +16322,9 @@
       {
         "id": 1375,
         "title": "Walk With the Blazing Fire",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "ipxwgV_tuc0",
         "spotifyId": "68ahKiecsjXEy1WUSN4Vn7",
         "fandomUrl": "Walk_With_the_Blazing_Fire",
@@ -16323,9 +16333,9 @@
       {
         "id": 1376,
         "title": "Land of Primal Flame",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "ezaEo6DoE5w",
         "spotifyId": "7eit3M9dwexNkxgx6ynNSl",
         "fandomUrl": "Land_of_Primal_Flame",
@@ -16334,9 +16344,9 @@
       {
         "id": 1377,
         "title": "A Deed No Less Than Star-Forging",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "ZvKtR0X_IXI",
         "spotifyId": "4ph4kK6CwzUIQLCJ7QhJgt",
         "fandomUrl": "A_Deed_No_Less_Than_Star-Forging",
@@ -16345,9 +16355,9 @@
       {
         "id": 1378,
         "title": "Sea of Shifting Sentience",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations", "Serenitea Pot"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "CVVAMH31pms",
         "spotifyId": "5TRRa5kZKkT3CCk2UR6Eiz",
         "fandomUrl": "Sea_of_Shifting_Sentience_%28Soundtrack%29",
@@ -16356,9 +16366,9 @@
       {
         "id": 1379,
         "title": "The Dream That Was Tollan",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "m3FnD2Uo_PI",
         "spotifyId": "2b2hpkygYj2oDhwqC3Q8Jg",
         "fandomUrl": "The_Dream_That_Was_Tollan",
@@ -16367,9 +16377,9 @@
       {
         "id": 1380,
         "title": "Of That Colossal Wreck",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "no_SkZP-DQY",
         "spotifyId": "7EqNLqcMx2HQCJWB6nWAqH",
         "fandomUrl": "Of_That_Colossal_Wreck",
@@ -16378,9 +16388,9 @@
       {
         "id": 1381,
         "title": "Ri Yokobal kech ri Ajaw Ch'ulel",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "3sbQ_IEh8lc",
         "spotifyId": "6AxWw1GKhyEzc1EsDNd61a",
         "fandomUrl": "Ri_Yokobal_kech_ri_Ajaw_Ch%27ulel",
@@ -16389,9 +16399,9 @@
       {
         "id": 1382,
         "title": "The Path Towards Tota'ch'imil",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
-        "region": "Natlan",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "aJrkR--O3lg",
         "spotifyId": "7xeQkTZxQlLHGzWCrsPzMy",
         "fandomUrl": "The_Path_Towards_Tota%27ch%27imil",
@@ -16400,20 +16410,20 @@
       {
         "id": 1383,
         "title": "Kukulkan's Deceit",
-        "playedAt": ["Quests", ["World Quests"], "Media"],
-        "type": "Quest",
-        "region": "Natlan",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "Gb538KHVNDo",
         "spotifyId": "5kSFEnnjmOCExnfsaSrtjF",
         "fandomUrl": "Kukulkan%27s_Deceit",
-        "context": "Ancient Sacred Mountain - Heart of the Sacred Mountain (\"Primal Source Dragon Mech\" Battle Arena)"
+        "context": "Ancient Sacred Mountain - Heart of the Sacred Mountain (\"Primeval Source Dragon Mech\" Battle Arena)"
       },
       {
         "id": 1384,
         "title": "Where the Dragon Casts Its Will",
-        "playedAt": ["Quests", ["World Quests"], "Media"],
-        "type": "Quest",
-        "region": "Natlan",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Ancient Sacred Mountain",
         "youtubeId": "4brIATwiKgw",
         "spotifyId": "798SAZBZ0kS6bDRd1cGLW8",
         "fandomUrl": "Where_the_Dragon_Casts_Its_Will",
@@ -16422,7 +16432,7 @@
       {
         "id": 1385,
         "title": "Radiance Unfading",
-        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "playedAt": ["Quests", ["Archon Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "8yeQr137XJo",
@@ -16433,7 +16443,7 @@
       {
         "id": 1386,
         "title": "His Rest Was in the Night",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "_93wdg311SY",
@@ -16444,7 +16454,7 @@
       {
         "id": 1387,
         "title": "Inheritors of Memory and Legend",
-        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "playedAt": ["Quests", ["Archon Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "A6JHYHyYgKg",
@@ -16455,7 +16465,7 @@
       {
         "id": 1388,
         "title": "Spring Returns in Splendor",
-        "playedAt": ["Event Gameplay", "Media"],
+        "playedAt": ["Event Gameplay"],
         "type": "Event",
         "region": "Liyue",
         "youtubeId": "E2_pdRfNU2o",
@@ -16466,7 +16476,7 @@
       {
         "id": 1389,
         "title": "The World at Bay Beyond the Pillow",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations", "Quests", ["Events"]],
         "type": "Open-World",
         "region": "Natlan",
         "youtubeId": "_teoS2qjaMU",
@@ -16477,7 +16487,7 @@
       {
         "id": 1390,
         "title": "Misty Redolence",
-        "playedAt": ["Open-World Locations", "Media"],
+        "playedAt": ["Open-World Locations"],
         "type": "Open-World",
         "region": "Inazuma",
         "youtubeId": "HU0pCElZqPA",
@@ -16488,7 +16498,7 @@
       {
         "id": 1391,
         "title": "Entwined in Thought",
-        "playedAt": ["Quests", ["Story Quests", "Events"], "Media"],
+        "playedAt": ["Quests", ["Story Quests", "Events"]],
         "type": "Quest",
         "region": "Inazuma",
         "youtubeId": "AQM2ztm57nY",
@@ -16499,7 +16509,7 @@
       {
         "id": 1392,
         "title": "Drifting Into Dream",
-        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "playedAt": ["Quests", ["Story Quests"]],
         "type": "Quest",
         "region": "Inazuma",
         "youtubeId": "9NVU2sOXQ34",
@@ -16510,7 +16520,7 @@
       {
         "id": 1393,
         "title": "A Fox's Little Daydream",
-        "playedAt": ["Event Gameplay", "Media"],
+        "playedAt": ["Event Gameplay"],
         "type": "Event",
         "region": "Inazuma",
         "youtubeId": "85VPQ7Gds_M",
@@ -16521,7 +16531,7 @@
       {
         "id": 1394,
         "title": "The Mushroom Creeps In",
-        "playedAt": ["Quests", ["Story Quests"], "Domains", "Media"],
+        "playedAt": ["Quests", ["Story Quests"], "Domains"],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "YwWjtfNM2IQ",
@@ -16532,7 +16542,7 @@
       {
         "id": 1395,
         "title": "Duel Between the Springs and the Echoes",
-        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "playedAt": ["Quests", ["Archon Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "fnafcA40rT8",
@@ -16565,7 +16575,7 @@
       {
         "id": 1398,
         "title": "Those That Stand With the Flame",
-        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "playedAt": ["Quests", ["Archon Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "TRVIxTgp0cQ",
@@ -16598,7 +16608,7 @@
       {
         "id": 1401,
         "title": "Here Cometh the Flamelord",
-        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "playedAt": ["Quests", ["Archon Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "b-n0Gzm6PEs",
@@ -16653,7 +16663,7 @@
       {
         "id": 1406,
         "title": "Vigil for Reunion",
-        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "playedAt": ["Quests", ["Story Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "Z2rO5wAJHXY",
@@ -16664,7 +16674,7 @@
       {
         "id": 1407,
         "title": "Circle of the Journey",
-        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "playedAt": ["Quests", ["Story Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "L503V9JYRqs",
@@ -16675,7 +16685,7 @@
       {
         "id": 1408,
         "title": "Of Truth Etched in Name",
-        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "playedAt": ["Quests", ["Story Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "_ERn_T-6eAo",
@@ -16697,7 +16707,7 @@
       {
         "id": 1410,
         "title": "Beneath My Wings",
-        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "playedAt": ["Quests", ["Story Quests"]],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "eHzax8L9pX4",
@@ -16785,7 +16795,7 @@
       {
         "id": 1418,
         "title": "The Fire That Memory Keeps",
-        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "playedAt": ["Quests", ["Archon Quests"], "Domains"],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "qKy_Ar1ig0w",
@@ -16796,7 +16806,7 @@
       {
         "id": 1419,
         "title": "Path Lit by Night",
-        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "playedAt": ["Quests", ["Archon Quests"], "Domains"],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "JCV-N2VrNi8",
@@ -16807,7 +16817,7 @@
       {
         "id": 1420,
         "title": "Vitas Corrodens Pestis",
-        "playedAt": ["Domains", "Media"],
+        "playedAt": ["Domains"],
         "type": "Boss",
         "region": "Natlan",
         "youtubeId": "pZRSJ00DABs",
@@ -16818,7 +16828,7 @@
       {
         "id": 1421,
         "title": "Ode of Resurrection: Recapitulation",
-        "playedAt": ["Quests", ["Archon Quests"], "Domains", "Media"],
+        "playedAt": ["Quests", ["Archon Quests"], "Domains"],
         "type": "Quest",
         "region": "Natlan",
         "youtubeId": "HcQtYcA-blM",
@@ -16829,7 +16839,7 @@
       {
         "id": 1422,
         "title": "The Chosen of Dragons' Trials",
-        "playedAt": ["Open-World Combat", "Media"],
+        "playedAt": ["Open-World Combat"],
         "type": "Combat",
         "region": "Natlan",
         "youtubeId": "neaffQZHoh4",
@@ -19211,7 +19221,7 @@
         "title": "A Bright, Fresh Year",
         "playedAt": ["Media"],
         "type": "Special",
-        "region": "N/A",
+        "region": "Miliastra Wonderland",
         "youtubeId": "WQIrkieBvaw",
         "spotifyId": "486zoRLZrQO6d0Bus8HP4J",
         "fandomUrl": "A_Bright,_Fresh_Year",
