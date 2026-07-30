@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-07-30",
+    changes: ['Added "The Shimmering Voyage Vol. 6" album (Genshin Impact)'],
+  },
+  {
     date: "2026-07-12",
     changes: [
       'Added "Footprints of the Traveler Vol. 5" album (Genshin Impact)',

@@ -20131,5 +20131,930 @@
         "context": "Version Luna VIII (6.7) Trailer"
       }
     ]
+  },
+  {
+    "title": "The Shimmering Voyage Vol. 6",
+    "songs": [
+      {
+        "id": 1713,
+        "title": "From the Great Sky",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Nod-Krai",
+        "youtubeId": "Vtnw-6CKBpY",
+        "spotifyId": "4sWNXWXhZQQA1rHYQ1WRaC",
+        "fandomUrl": "From_the_Great_Sky"
+      },
+      {
+        "id": 1714,
+        "title": "Descent Into the Underworld",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Nod-Krai",
+        "youtubeId": "nd2O0MrrOxI",
+        "spotifyId": "6crkalY2UcQNynQuTeLwj7",
+        "fandomUrl": "Descent_Into_the_Underworld"
+      },
+      {
+        "id": 1715,
+        "title": "Tarnished Storm",
+        "playedAt": ["Open-World Locations", "Quests", ["World Quests"]],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "aBXB8yvXJjo",
+        "spotifyId": "2ZSQGolZ26vJLP3ktMNZtN",
+        "fandomUrl": "Tarnished_Storm"
+      },
+      {
+        "id": 1716,
+        "title": "Dimming Radiance",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "1Jj_v6GxX6E",
+        "spotifyId": "6NABd2YtihS2Xw2fXWXkp0",
+        "fandomUrl": "Dimming_Radiance"
+      },
+      {
+        "id": 1717,
+        "title": "Immaculate Yearning",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "HttThIt8No4",
+        "spotifyId": "66cxUOGiDi3g0fp0cb3SdD",
+        "fandomUrl": "Immaculate_Yearning"
+      },
+      {
+        "id": 1718,
+        "title": "Unpromised Farewell",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "5NpiFcfLrhg",
+        "spotifyId": "5IeMnWaqUQKpZ9FVwKBtpj",
+        "fandomUrl": "Unpromised_Farewell"
+      },
+      {
+        "id": 1719,
+        "title": "An Era Wanes",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "QeGIVcyFRM4",
+        "spotifyId": "4qOe8a90SSnhWTgiyZ5gAT",
+        "fandomUrl": "An_Era_Wanes"
+      },
+      {
+        "id": 1720,
+        "title": "Peptoke Chrysous Oikos",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "1cPh9dPBz5A",
+        "spotifyId": "6BOPTPIyLVLipWi9M0FdJe",
+        "fandomUrl": "Peptoke_Chrysous_Oikos"
+      },
+      {
+        "id": 1721,
+        "title": "Sincere and Empty",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "s9rF3Mz1wiw",
+        "spotifyId": "1WqDC8PokFM62Kwvwa99Su",
+        "fandomUrl": "Sincere_and_Empty"
+      },
+      {
+        "id": 1722,
+        "title": "Everlasting Dirge",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "3qPGsyYc0hY",
+        "spotifyId": "3AXz0GvlrjveC0kg2HlPqf",
+        "fandomUrl": "Everlasting_Dirge"
+      },
+      {
+        "id": 1723,
+        "title": "Transient Tranquility",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "_I7CAN9Pxp0",
+        "spotifyId": "4rgN9ea2jmOz9PhHxbc2lW",
+        "fandomUrl": "Transient_Tranquility"
+      },
+      {
+        "id": 1724,
+        "title": "Dust Cascade",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "M2P0iQLdgkM",
+        "spotifyId": "43oIjGGEjWsRr8yhi4BanM",
+        "fandomUrl": "Dust_Cascade"
+      },
+      {
+        "id": 1725,
+        "title": "Old Long Since",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "AdIOo-Uhk3E",
+        "spotifyId": "4bSiudoGsDq5ZNkmTjsk7Y",
+        "fandomUrl": "Old_Long_Since"
+      },
+      {
+        "id": 1726,
+        "title": "We Choose the Moon",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "GbzGHkHAs8Q",
+        "spotifyId": "5Ee82LK5EjgIr5S1MOAvZ7",
+        "fandomUrl": "We_Choose_the_Moon"
+      },
+      {
+        "id": 1727,
+        "title": "Lunaric Voyager",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "lXijJDYqP3c",
+        "spotifyId": "0TyWtAA6xz2q8trHqtjXzW",
+        "fandomUrl": "Lunaric_Voyager"
+      },
+      {
+        "id": 1728,
+        "title": "Around the Moon in Eighty Worlds",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "2mvB145yhGA",
+        "spotifyId": "5M7OHtGMp013tFQgpk5aXD",
+        "fandomUrl": "Around_the_Moon_in_Eighty_Worlds"
+      },
+      {
+        "id": 1729,
+        "title": "Many Fallen Dreams",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "KBKGj2qsIzI",
+        "spotifyId": "4ZxaWiWXPgSqEjziS7ZsW0",
+        "fandomUrl": "Many_Fallen_Dreams"
+      },
+      {
+        "id": 1730,
+        "title": "Ephemeral Foam",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "stFlzA9MFb0",
+        "spotifyId": "3oDY0rojXAx3QzjMW4TJuY",
+        "fandomUrl": "Ephemeral_Foam"
+      },
+      {
+        "id": 1731,
+        "title": "Memories of Stone",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "JgdsW3X5I0A",
+        "spotifyId": "01bnyPo1ol3VE8zSckxVgg",
+        "fandomUrl": "Memories_of_Stone"
+      },
+      {
+        "id": 1732,
+        "title": "When to Return",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "sqcRP1eL8Qo",
+        "spotifyId": "6YxemKaDhxnhBTy2YwC4md",
+        "fandomUrl": "When_to_Return"
+      },
+      {
+        "id": 1733,
+        "title": "Sea of Fecundity",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "5TbHdpeFn1E",
+        "spotifyId": "2uJ3pJTQRv1SNaJ4dG1kaJ",
+        "fandomUrl": "Sea_of_Fecundity"
+      },
+      {
+        "id": 1734,
+        "title": "Lunar Ripples",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "BCLqb3JmeLE",
+        "spotifyId": "0k2rwr5qeaKQ7cjWjnYde1",
+        "fandomUrl": "Lunar_Ripples"
+      },
+      {
+        "id": 1735,
+        "title": "Inside the Cage",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "BkErcOGQIok",
+        "spotifyId": "4eqFjHhbYSRvuF3YLqnQn2",
+        "fandomUrl": "Inside_the_Cage"
+      },
+      {
+        "id": 1736,
+        "title": "Stairway to the Moon",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "-O-id9U3nrA",
+        "spotifyId": "2WH01gwobN5fs3c9K3jo62",
+        "fandomUrl": "Stairway_to_the_Moon"
+      },
+      {
+        "id": 1737,
+        "title": "Hanging in Quiet Desperation",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "C_o9uAN6XYM",
+        "spotifyId": "62KB0b0R39FWTnHMSPQujC",
+        "fandomUrl": "Hanging_in_Quiet_Desperation"
+      },
+      {
+        "id": 1738,
+        "title": "Same Old Fears",
+        "playedAt": ["Quests", ["World Quests"]],
+        "type": "Quest",
+        "region": "Frost Moon",
+        "youtubeId": "lLfeJT1kiLU",
+        "spotifyId": "3g4vALM8617HuVufVodovm",
+        "fandomUrl": "Same_Old_Fears"
+      },
+      {
+        "id": 1739,
+        "title": "Darker Than Night",
+        "playedAt": ["Quests", ["World Quests"]],
+        "type": "Quest",
+        "region": "Frost Moon",
+        "youtubeId": "c_aq3Vn2YYs",
+        "spotifyId": "1eWG87rGrUCWR79oXIRjy4",
+        "fandomUrl": "Darker_Than_Night"
+      },
+      {
+        "id": 1740,
+        "title": "Nin-Kiggia's Message",
+        "playedAt": ["Open-World Locations", "Quests", ["World Quests"]],
+        "type": "Open-World",
+        "region": "Frost Moon",
+        "youtubeId": "ob-PHMtrSRk",
+        "spotifyId": "657IVVuX0p55rqBueKebwy",
+        "fandomUrl": "Nin-Kiggia%27s_Message"
+      },
+      {
+        "id": 1741,
+        "title": "Gold Waves in Sunlight",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "akQMPRgzuRA",
+        "spotifyId": "4iWdgoRXWupgavyneGi8y3",
+        "fandomUrl": "Gold_Waves_in_Sunlight"
+      },
+      {
+        "id": 1742,
+        "title": "Pinesong to Harbor",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "Z7IuOF9wzQE",
+        "spotifyId": "5bCmFnLH2FBlJqEkk6OqHB",
+        "fandomUrl": "Pinesong_to_Harbor"
+      },
+      {
+        "id": 1743,
+        "title": "Bloudila blankytnymi pasky",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "NKOZLYXu4qY",
+        "spotifyId": "5c0TxY7knf6uqmaZVcdfa9",
+        "fandomUrl": "Bloudila_blankytnymi_pasky"
+      },
+      {
+        "id": 1744,
+        "title": "Too Loud a Solitude",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "n7CBamyF0RU",
+        "spotifyId": "6tRMi85nsUydcKl9xMJgYU",
+        "fandomUrl": "Too_Loud_a_Solitude"
+      },
+      {
+        "id": 1745,
+        "title": "A Little Song of Spring",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "WuETs3LPl0E",
+        "spotifyId": "3lAWvlUyG2pWvvj9N3ixgx",
+        "fandomUrl": "A_Little_Song_of_Spring"
+      },
+      {
+        "id": 1746,
+        "title": "Gekommen ist der Maie",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "JYQ25dMeKsM",
+        "spotifyId": "7mt7XqF28NyMp0B74Rdt0I",
+        "fandomUrl": "Gekommen_ist_der_Maie"
+      },
+      {
+        "id": 1747,
+        "title": "Der Nachhauseweg",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "BSOJcqhntDg",
+        "spotifyId": "4U97sTeLU304D20k5hISop",
+        "fandomUrl": "Der_Nachhauseweg"
+      },
+      {
+        "id": 1748,
+        "title": "Fairy Tales From Our Village",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "SHMFPFIwqy4",
+        "spotifyId": "6eLGtvpX9SuoYYekwkhiXh",
+        "fandomUrl": "Fairy_Tales_From_Our_Village"
+      },
+      {
+        "id": 1749,
+        "title": "The Will to Happiness",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "3t5ZZmCbkTA",
+        "spotifyId": "4Hxv1gu2rODKbFSuEGBpWo",
+        "fandomUrl": "The_Will_to_Happiness"
+      },
+      {
+        "id": 1750,
+        "title": "Disorder and Early Sorrow",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Mondstadt",
+        "youtubeId": "HLj6jbh4djg",
+        "spotifyId": "7ddAKWSS9hq2ctkGAyJx22",
+        "fandomUrl": "Disorder_and_Early_Sorrow"
+      },
+      {
+        "id": 1751,
+        "title": "To the Garden of Remembrance",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "SlwgPZ212xE",
+        "spotifyId": "40kJmwYCF6k3snqBegIUyN",
+        "fandomUrl": "To_the_Garden_of_Remembrance"
+      },
+      {
+        "id": 1752,
+        "title": "Tempus Carpite",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "5sgV3i6-c88",
+        "spotifyId": "1JeaLhXZNnBJI3eEK9hEmJ",
+        "fandomUrl": "Tempus_Carpite"
+      },
+      {
+        "id": 1753,
+        "title": "Vive Hodie",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "7j0xXtrCS2c",
+        "spotifyId": "2Y3hxX7QBJanu80SQJZFS9",
+        "fandomUrl": "Vive_Hodie"
+      },
+      {
+        "id": 1754,
+        "title": "Seven Tabaqat of Asmoday",
+        "playedAt": ["Open-World Locations", "Quests", ["World Quests"]],
+        "type": "Quest",
+        "region": "Temple of Space",
+        "youtubeId": "UyNxpjsK5YA",
+        "spotifyId": "6jQk7lnvtDlMegUPvoTqak",
+        "fandomUrl": "Seven_Tabaqat_of_Asmoday"
+      },
+      {
+        "id": 1755,
+        "title": "Inkfall Clouds",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "D7gI82wFWZ0",
+        "spotifyId": "75EY8WOWGTGhpyfK3Oyc80",
+        "fandomUrl": "Inkfall_Clouds"
+      },
+      {
+        "id": 1756,
+        "title": "Brush of Creation",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "3RtcJUQegNM",
+        "spotifyId": "5YO8pn7l21m4M8TRXrIz40",
+        "fandomUrl": "Brush_of_Creation"
+      },
+      {
+        "id": 1757,
+        "title": "Omniscient Scripture",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "hIsUOXjKQUs",
+        "spotifyId": "0ixgx1D1thREIpRoU0rvyk",
+        "fandomUrl": "Omniscient_Scripture"
+      },
+      {
+        "id": 1758,
+        "title": "Merciles Beaute d'Aerinny",
+        "playedAt": ["Quests", ["World Quests"]],
+        "type": "Quest",
+        "region": "Temple of Space",
+        "youtubeId": "RArWtQ9_TRE",
+        "spotifyId": "1Tjibg8PxydBp64qSoB4QT",
+        "fandomUrl": "Merciles_Beaute_d%27Aerinny"
+      },
+      {
+        "id": 1759,
+        "title": "Wonderful Parinama",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "GzfReLw_Dk8",
+        "spotifyId": "4O8CezDtV9SGKiPUa7MQJz",
+        "fandomUrl": "Wonderful_Parinama"
+      },
+      {
+        "id": 1760,
+        "title": "Erroneous Dharmata",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "vZpPbGV_KaA",
+        "spotifyId": "3SRmU6cn2pqP4S1sPlXdti",
+        "fandomUrl": "Erroneous_Dharmata"
+      },
+      {
+        "id": 1761,
+        "title": "Raumhilda's Rhyme",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "RxkjsTvEj_I",
+        "spotifyId": "7bKsYGKuBHaWi3NiOddGzV",
+        "fandomUrl": "Raumhilda%27s_Rhyme"
+      },
+      {
+        "id": 1762,
+        "title": "Zeitlind's Poem",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Temple of Space",
+        "youtubeId": "ozgULiclqpc",
+        "spotifyId": "6cOKNq5flGsIiC9LzFd5v2",
+        "fandomUrl": "Zeitlind%27s_Poem"
+      },
+      {
+        "id": 1763,
+        "title": "To Be or to Seem",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "siEekXY8rPc",
+        "spotifyId": "7mHw4WHHRP1dWCJ1MYqe2p",
+        "fandomUrl": "To_Be_or_to_Seem"
+      },
+      {
+        "id": 1764,
+        "title": "Undetermined Myth",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "wTSn4esMQCU",
+        "spotifyId": "0JL4PVuJBwqTZJBSXc3nvq",
+        "fandomUrl": "Undetermined_Myth"
+      },
+      {
+        "id": 1765,
+        "title": "Inner Citadel",
+        "playedAt": ["Open-World Locations"],
+        "type": "Open-World",
+        "region": "Nod-Krai",
+        "youtubeId": "tmZtmdciynI",
+        "spotifyId": "5wOASax8FDn0TJWactpNtc",
+        "fandomUrl": "Inner_Citadel"
+      },
+      {
+        "id": 1766,
+        "title": "What Gold Cannot Touch",
+        "playedAt": ["Quests", ["Archon Quests"]],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "Q8JVq0Wgrxs",
+        "spotifyId": "1HNae2Q1EBaJvZnwjPHZmO",
+        "fandomUrl": "What_Gold_Cannot_Touch"
+      },
+      {
+        "id": 1767,
+        "title": "La mare de larmes",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Fontaine",
+        "youtubeId": "ghISOfXhQNY",
+        "spotifyId": "2TzOkxIfg92ExsrbPPyrYv",
+        "fandomUrl": "La_mare_de_larmes"
+      },
+      {
+        "id": 1768,
+        "title": "La derniere question, et sa reponse",
+        "playedAt": ["Quests", ["Events"], "Event Gameplay"],
+        "type": "Event",
+        "region": "Fontaine",
+        "youtubeId": "8UoaFimuKGo",
+        "spotifyId": "1SliLWPrySHWU9ZwIOumgp",
+        "fandomUrl": "La_derniere_question,_et_sa_reponse"
+      },
+      {
+        "id": 1769,
+        "title": "Twinkling Miliastra",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "HPyVNNAH7zg",
+        "spotifyId": "0c3BDcdSwlVJDzKcTQybhA",
+        "fandomUrl": "Twinkling_Miliastra"
+      },
+      {
+        "id": 1770,
+        "title": "Inspiring Somnium",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "_EKkOCunpBs",
+        "spotifyId": "57N1iM82xmEI7nIEjPfj8h",
+        "fandomUrl": "Inspiring_Somnium"
+      },
+      {
+        "id": 1771,
+        "title": "Cosmetic Whimsy",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "Bx8WqmoSZxM",
+        "spotifyId": "1ckoaWmKD2CNBQVJK8vjRR",
+        "fandomUrl": "Cosmetic_Whimsy"
+      },
+      {
+        "id": 1772,
+        "title": "Aria of Odes",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "In2BkYcaJo8",
+        "spotifyId": "1hD7QMm1xdalG2ZVNnxxS5",
+        "fandomUrl": "Aria_of_Odes"
+      },
+      {
+        "id": 1773,
+        "title": "Echo of Revelry",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "OvSe15C-zkY",
+        "spotifyId": "1Ho5EkS2twa62ctx6UfsmD",
+        "fandomUrl": "Echo_of_Revelry"
+      },
+      {
+        "id": 1774,
+        "title": "Candlelit Nightwalk",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "IeuhxbO8DLI",
+        "spotifyId": "1YGaLVYP9MkiYYl6qon6HA",
+        "fandomUrl": "Candlelit_Nightwalk"
+      },
+      {
+        "id": 1775,
+        "title": "Tranquil Snow Courtyard",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "HMviTQYMSlk",
+        "spotifyId": "6wwvveDg0r6ZMCJXMks9Bk",
+        "fandomUrl": "Tranquil_Snow_Courtyard"
+      },
+      {
+        "id": 1776,
+        "title": "Skyward Citadel",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "OAWjrl6QpHI",
+        "spotifyId": "0x9iP1b2xiLWrdIwMwrjQ2",
+        "fandomUrl": "Skyward_Citadel"
+      },
+      {
+        "id": 1777,
+        "title": "Scaleblade's Shattering Pitch",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "hJDuqXgm9lk",
+        "spotifyId": "2Ewb5otxtDTvBpenwfw6q8",
+        "fandomUrl": "Scaleblade%27s_Shattering_Pitch"
+      },
+      {
+        "id": 1778,
+        "title": "Beacon Front",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "dFrltIelObQ",
+        "spotifyId": "1Qy7rjwnTXEHkoPa7q5HS3",
+        "fandomUrl": "Beacon_Front"
+      },
+      {
+        "id": 1779,
+        "title": "Where the Butterflies Prance",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "LVfh4G74wjM",
+        "spotifyId": "4uosRI7r2lxdNsp2M6OpoZ",
+        "fandomUrl": "Where_the_Butterflies_Prance"
+      },
+      {
+        "id": 1780,
+        "title": "Secluded Isle",
+        "playedAt": ["Special Gameplay", "Media"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "0gePrhH269A",
+        "spotifyId": "1fRQroYNp7o8y8uoJ2FBnX",
+        "fandomUrl": "Secluded_Isle"
+      },
+      {
+        "id": 1781,
+        "title": "Let the Wind Lead",
+        "playedAt": ["Quests", ["Story Quests"], "Media"],
+        "type": "Quest",
+        "region": "Nod-Krai",
+        "youtubeId": "I4NEbGnNv58",
+        "spotifyId": "6Liqe6D31Azi4XOuAWvXOL",
+        "fandomUrl": "Let_the_Wind_Lead_(Soundtrack)"
+      },
+      {
+        "id": 1782,
+        "title": "Frost King's March",
+        "playedAt": ["Quests", ["Story Quests"]],
+        "type": "Quest",
+        "region": "Nod-Krai",
+        "youtubeId": "MkAkHic5zcs",
+        "spotifyId": "1D6V1IFWmUNFVShQeocJu8",
+        "fandomUrl": "Frost_King%27s_March"
+      },
+      {
+        "id": 1783,
+        "title": "As the East Wind Rises",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Nod-Krai",
+        "youtubeId": "qL5AFE8aHHw",
+        "spotifyId": "6rgG16cTx8pcscJBfJpN6O",
+        "fandomUrl": "As_the_East_Wind_Rises"
+      },
+      {
+        "id": 1784,
+        "title": "Unstained Jnanakanda",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "tScnQaGfBrI",
+        "spotifyId": "7fu0BAhRQBWja4OQ9ye2gh",
+        "fandomUrl": "Unstained_Jnanakanda"
+      },
+      {
+        "id": 1785,
+        "title": "Discernment of Mumukshutva",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "MXWjVXzGdxo",
+        "spotifyId": "2n9bBPfE4VSXf03ozOsHfv",
+        "fandomUrl": "Discernment_of_Mumukshutva"
+      },
+      {
+        "id": 1786,
+        "title": "Manobuddhyahankara Atmashatkam",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "FJXOqIIlNjw",
+        "spotifyId": "7MwRPz8QVRrbcrlFQ80bh7",
+        "fandomUrl": "Manobuddhyahankara_Atmashatkam"
+      },
+      {
+        "id": 1787,
+        "title": "Fire Realm Contemplation",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "fCrTBx5diTo",
+        "spotifyId": "08CEybqRuukEixcio8tT5S",
+        "fandomUrl": "Fire_Realm_Contemplation"
+      },
+      {
+        "id": 1788,
+        "title": "Myriad Sins",
+        "playedAt": ["Quests", ["Archon Quests"], "Media"],
+        "type": "Quest",
+        "region": "Sumeru",
+        "youtubeId": "5qy05V43VLc",
+        "spotifyId": "5A1wSpT1Jd4gSMwlyrYso3",
+        "fandomUrl": "Myriad_Sins"
+      },
+      {
+        "id": 1789,
+        "title": "Star's Birth",
+        "playedAt": ["Quests", ["World Quests"]],
+        "type": "Quest",
+        "region": "Nod-Krai",
+        "youtubeId": "i0XHoxfo64Y",
+        "spotifyId": "5u4mlG23JqGzzpMadwB1x2",
+        "fandomUrl": "Star%27s_Birth"
+      },
+      {
+        "id": 1790,
+        "title": "Beyond the Cradle",
+        "playedAt": ["Quests", ["World Quests"]],
+        "type": "Quest",
+        "region": "Nod-Krai",
+        "youtubeId": "U3PG9ttMyo4",
+        "spotifyId": "1ewd8KmGCC8pKXv79La87r",
+        "fandomUrl": "Beyond_the_Cradle"
+      },
+      {
+        "id": 1791,
+        "title": "De l'autre cote du miroir",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Fontaine",
+        "youtubeId": "H836RSdGhRc",
+        "spotifyId": "3XLffov7rtit0AyoxdNhc3",
+        "fandomUrl": "De_l%27autre_cote_du_miroir"
+      },
+      {
+        "id": 1792,
+        "title": "A Narcissus Postlude",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Fontaine",
+        "youtubeId": "CtdrOGvEv7I",
+        "spotifyId": "1ZG2Uy1sttFh816nY6sDaO",
+        "fandomUrl": "A_Narcissus_Postlude"
+      },
+      {
+        "id": 1793,
+        "title": "If She's Dreaming About You",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Fontaine",
+        "youtubeId": "NWvsFbjWyh8",
+        "spotifyId": "0a2eaJgdoJLUMOZ304RNtP",
+        "fandomUrl": "If_She%27s_Dreaming_About_You"
+      },
+      {
+        "id": 1794,
+        "title": "Svetilinicnaya Nosti",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Nod-Krai",
+        "youtubeId": "6si36CaH_qg",
+        "spotifyId": "3ttphuiZSHEOV8XrSxf6yl",
+        "fandomUrl": "Svetilinicnaya_Nosti"
+      },
+      {
+        "id": 1795,
+        "title": "Till the Night Comes",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Snezhnaya",
+        "youtubeId": "wMNgKKpOVzA",
+        "spotifyId": "4LGlVankATWomplIks7r8T",
+        "fandomUrl": "Till_the_Night_Comes"
+      },
+      {
+        "id": 1796,
+        "title": "A Besy Campaign",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Snezhnaya",
+        "youtubeId": "-0c4odCqWdc",
+        "spotifyId": "6laqkycQMdPcvuul32EnaH",
+        "fandomUrl": "A_Besy_Campaign"
+      },
+      {
+        "id": 1797,
+        "title": "Rekviem of Snezhnaya",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Snezhnaya",
+        "youtubeId": "rSHW3AqbRd4",
+        "spotifyId": "4iBNZRebA8bjyIgQ2PMuI3",
+        "fandomUrl": "Rekviem_of_Snezhnaya"
+      },
+      {
+        "id": 1798,
+        "title": "The Iron-Cast Torrent (Variation)",
+        "playedAt": ["Quests", ["Archon Quests", "World Quests"], "Domains"],
+        "type": "Quest",
+        "region": "Nod-Krai",
+        "youtubeId": "hx0_VSlB24g",
+        "spotifyId": "2T6LN3wjvXHufRLaCheOqy",
+        "fandomUrl": "The_Iron-Cast_Torrent_(Variation)"
+      },
+      {
+        "id": 1799,
+        "title": "Symphony of Boreal Wind (Variation)",
+        "playedAt": ["Open-World Combat"],
+        "type": "Boss",
+        "region": "Nod-Krai",
+        "youtubeId": "PsodFY2gIfQ",
+        "spotifyId": "3dq6UX9KSF03JITps4bVxA",
+        "fandomUrl": "Symphony_of_Boreal_Wind_(Variation)"
+      },
+      {
+        "id": 1800,
+        "title": "Das Favoniuslied (Ensemble)",
+        "playedAt": ["Domains"],
+        "type": "Quest",
+        "region": "Nod-Krai",
+        "youtubeId": "3arHIqNmwyM",
+        "spotifyId": "1ThhIZc42jrKMMb6n5UUc5",
+        "fandomUrl": "Das_Favoniuslied_(Ensemble)"
+      },
+      {
+        "id": 1801,
+        "title": "Pseudepigrapha of Zohar",
+        "playedAt": ["Open-World Combat", "Quests", ["World Quests"]],
+        "type": "Boss",
+        "region": "Temple of Space",
+        "youtubeId": "CR4f69VzrfI",
+        "spotifyId": "6MJ7j8bRcLHZl3157WZ2Te",
+        "fandomUrl": "Pseudepigrapha_of_Zohar"
+      },
+      {
+        "id": 1802,
+        "title": "Beyond the Sphere of Duhkha",
+        "playedAt": ["Domains"],
+        "type": "Boss",
+        "region": "Sumeru",
+        "youtubeId": "PS2JDFvP_Uk",
+        "spotifyId": "0O4iMsDcHjaBxdWq9EXAgQ",
+        "fandomUrl": "Beyond_the_Sphere_of_Duhkha"
+      },
+      {
+        "id": 1803,
+        "title": "Advaita of the Perpetual World",
+        "playedAt": ["Domains"],
+        "type": "Boss",
+        "region": "Sumeru",
+        "youtubeId": "iQVFqL3ffBU",
+        "spotifyId": "4gPCS2rOZldTb9G0nBOp5J",
+        "fandomUrl": "Advaita_of_the_Perpetual_World"
+      },
+      {
+        "id": 1804,
+        "title": "Selenic Ascension",
+        "playedAt": ["Open-World Combat"],
+        "type": "Combat",
+        "region": "Frost Moon",
+        "youtubeId": "41TfEwv7Das",
+        "spotifyId": "4SZFG47hgiCfQzE1hF3rV8",
+        "fandomUrl": "Selenic_Ascension"
+      }
+    ]
   }
 ]
