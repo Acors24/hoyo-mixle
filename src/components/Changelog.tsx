@@ -4,6 +4,12 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-08-01",
+    changes: [
+      'Added "Let There Be Laughter (Part 2)" album (Honkai: Star Rail)',
+    ],
+  },
+  {
     date: "2026-07-30",
     changes: [
       'Added "The Shimmering Voyage Vol. 6" album (Genshin Impact)',
