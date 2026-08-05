@@ -5018,5 +5018,30 @@
         "context": "Instrumental version of \"chaos.exe\""
       }
     ]
+  },
+  {
+    "title": "Two to Tango",
+    "songs": [
+      {
+        "id": 441,
+        "title": "Two to Tango",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Roscaelifer",
+        "youtubeId": "uhNbx7q33mU",
+        "spotifyId": "4XTle3o4YmvWCqOiI9MKBl",
+        "fandomUrl": "Two_to_Tango"
+      },
+      {
+        "id": 442,
+        "title": "Two to Tango (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Roscaelifer",
+        "youtubeId": "kq8bBEoMJ-M",
+        "spotifyId": "4AO0vfFuHSWOj8tOPVRj6W",
+        "fandomUrl": "Two_to_Tango_-_Instrumental"
+      }
+    ]
   }
 ]
