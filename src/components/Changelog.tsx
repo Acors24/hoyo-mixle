@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-08-05",
+    changes: ['Added "Experience the Paths Vol. 6" album (Honkai: Star Rail)'],
+  },
+  {
     date: "2026-08-01",
     changes: [
       'Added "Let There Be Laughter (Part 2)" album (Honkai: Star Rail)',

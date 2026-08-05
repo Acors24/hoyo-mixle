@@ -7347,5 +7347,230 @@
         "fandomUrl": "Beyond_This_Station_-_Instrumental"
       }
     ]
+  },
+  {
+    "title": "Experience the Paths Vol. 6",
+    "songs": [
+      {
+        "id": 635,
+        "title": "The Truth After the Battle of Irontomb!",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "7f7lbyBnx1M",
+        "spotifyId": "5l0xHiZdsPFk6TeSYtLrl5",
+        "fandomUrl": "The_Truth_After_the_Battle_of_Irontomb!"
+      },
+      {
+        "id": 636,
+        "title": "Anti-Destruction Alliance",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "DN4UcKyOR_w",
+        "spotifyId": "5z0Q4MMRezmUlpzUBQnNdO",
+        "fandomUrl": "Anti-Destruction_Alliance"
+      },
+      {
+        "id": 637,
+        "title": "No Aha at Full Moon",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Planarcadia",
+        "youtubeId": "76Y3PS-Gv9g",
+        "spotifyId": "40NXOpJpMXI40Cs8szeBm9",
+        "fandomUrl": "No_Aha_at_Full_Moon"
+      },
+      {
+        "id": 638,
+        "title": "Beyond Weal and Woe",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "IBl6-HpBi7Y",
+        "spotifyId": "6yL21ubV8xI4d0bx93Y5YI",
+        "fandomUrl": "Beyond_Weal_and_Woe"
+      },
+      {
+        "id": 639,
+        "title": "All the Best",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "The Xianzhou Luofu",
+        "youtubeId": "pTW0Jia1BhM",
+        "spotifyId": "6brTAVUjc5DRxknrWDd0uZ",
+        "fandomUrl": "All_the_Best"
+      },
+      {
+        "id": 640,
+        "title": "Unraveled for Daybreak",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Planarcadia",
+        "youtubeId": "0153teTObV4",
+        "spotifyId": "2d2i6lFheWSkerFYmTnoPF",
+        "fandomUrl": "Unraveled_for_Daybreak_(Soundtrack)"
+      },
+      {
+        "id": 641,
+        "title": "The Wolf is Coming",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Planarcadia",
+        "youtubeId": "kxZEmzn0o1s",
+        "spotifyId": "4XycmQhULvKz5OoBYtKPlE",
+        "fandomUrl": "The_Wolf_is_Coming"
+      },
+      {
+        "id": 642,
+        "title": "So Laughed the Masses",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Planarcadia",
+        "youtubeId": "ma4xyvE2854",
+        "spotifyId": "1XIW0afemllwX04v4RdHUs",
+        "fandomUrl": "So_Laughed_the_Masses_(Soundtrack)"
+      },
+      {
+        "id": 643,
+        "title": "Death in the Afternoon",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "I6vPtWH4EEc",
+        "spotifyId": "35gst143rOf9SqRnJP8FHR",
+        "fandomUrl": "Death_in_the_Afternoon_(Soundtrack)"
+      },
+      {
+        "id": 644,
+        "title": "Beginner's Guide",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Stellaron Hunters",
+        "youtubeId": "I_36sj6MW_4",
+        "spotifyId": "0yNkbElYebYMGyRG2zoSlM",
+        "fandomUrl": "Beginner%27s_Guide"
+      },
+      {
+        "id": 645,
+        "title": "Scene 999: GAME NOT OVER",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Stellaron Hunters",
+        "youtubeId": "FuJQ19603dM",
+        "spotifyId": "1aowzZ2mo5S1Zdyc7k0r6l",
+        "fandomUrl": "Scene_999:_GAME_NOT_OVER"
+      },
+      {
+        "id": 646,
+        "title": "Solo Maxxing",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Stellaron Hunters",
+        "youtubeId": "oEXNgrA5iDA",
+        "spotifyId": "4dWyOMGAT96lW4Ww2JU2KA",
+        "fandomUrl": "Solo_Maxxing"
+      },
+      {
+        "id": 647,
+        "title": "Is This Game Even Playable?",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Stellaron Hunters",
+        "youtubeId": "mZL_u0H3wMY",
+        "spotifyId": "6RB9j2fgFbnOeHh7v9OSq0",
+        "fandomUrl": "Is_This_Game_Even_Playable%3F"
+      },
+      {
+        "id": 648,
+        "title": "Her Daily Life",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Planarcadia",
+        "youtubeId": "gSgKM7yrd5E",
+        "spotifyId": "1OCtB0mXKGio4oQO4tb6WN",
+        "fandomUrl": "Her_Daily_Life"
+      },
+      {
+        "id": 649,
+        "title": "The Lethe Below the Living",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Planarcadia",
+        "youtubeId": "OzZX0dmiU1o",
+        "spotifyId": "2gPzG28Tc16BDxXly6RC9M",
+        "fandomUrl": "The_Lethe_Below_the_Living_(Soundtrack)"
+      },
+      {
+        "id": 650,
+        "title": "Nirvana",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Stellaron Hunters",
+        "youtubeId": "IYMx2JIl2gU",
+        "spotifyId": "2Wml7aipp0bod9d52Ex2PT",
+        "fandomUrl": "Nirvana"
+      },
+      {
+        "id": 651,
+        "title": "Death of the Elation",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "ZAZikH6oCw4",
+        "spotifyId": "2RzuPe9Qij382p0o7XyH8d",
+        "fandomUrl": "Death_of_the_Elation"
+      },
+      {
+        "id": 652,
+        "title": "In Ravages Does the Whistle Sound",
+        "playedAt": ["Media"],
+        "type": "Trailer",
+        "region": "Planarcadia",
+        "youtubeId": "o5xXPIhfO40",
+        "spotifyId": "2G0MuRR089gSgLWBEdfxGm",
+        "fandomUrl": "In_Ravages_Does_the_Whistle_Sound_(Soundtrack)"
+      },
+      {
+        "id": 653,
+        "title": "To the Onlooker",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "w2fEP1nQaNg",
+        "spotifyId": "6OpEX2kyhuTDKhVEQtvxJ5",
+        "fandomUrl": "To_the_Onlooker"
+      },
+      {
+        "id": 654,
+        "title": "Your Ending, My Beginning",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "Planarcadia",
+        "youtubeId": "sqRCeYJwDb0",
+        "spotifyId": "1olvfMPiFtnItmBDlCO9W4",
+        "fandomUrl": "Your_Ending,_My_Beginning"
+      },
+      {
+        "id": 655,
+        "title": "The Morning Star Falls Tonight",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Astral Express",
+        "youtubeId": "1p_TI1fdlC4",
+        "spotifyId": "40pjNfhHTDufKFeYZrtMM7",
+        "fandomUrl": "The_Morning_Star_Falls_Tonight"
+      },
+      {
+        "id": 656,
+        "title": "A Long Awaited Reunion",
+        "playedAt": ["Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "To9jRqh36dk",
+        "spotifyId": "3ZscmAa7BFT1cSlLGXf96v",
+        "fandomUrl": "A_Long_Awaited_Reunion"
+      }
+    ]
   }
 ]
