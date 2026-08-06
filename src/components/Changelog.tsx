@@ -4,6 +4,13 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-08-06",
+    changes: [
+      "Updated and improved context across all albums of all games to be more consistent and clearer",
+      'Added context to "The Shimmering Voyage Vol. 6" (Genshin Impact), "Let There Be Laughter (Part 2)", "Experience the Paths Vol. 6" (Honkai: Star Rail), and "Two to Tango" (Zenless Zone Zero) albums',
+    ],
+  },
+  {
     date: "2026-08-05",
     changes: [
       'Added "Experience the Paths Vol. 6" album (Honkai: Star Rail)',
