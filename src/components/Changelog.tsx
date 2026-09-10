@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-09-10",
+    changes: ['Added "Link Up" album (Zenless Zone Zero)'],
+  },
+  {
     date: "2026-08-06",
     changes: [
       "Updated and improved context across all albums of all games to be more consistent and clearer",

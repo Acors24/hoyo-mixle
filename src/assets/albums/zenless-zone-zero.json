@@ -5045,5 +5045,32 @@
         "context": "Instrumental version of \"Two to Tango\""
       }
     ]
+  },
+  {
+    "title": "Link Up",
+    "songs": [
+      {
+        "id": 443,
+        "title": "Link Up (feat. Ironmouse & monii)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Flint Workshop",
+        "youtubeId": "0qUjAjNkha4",
+        "spotifyId": "2BXUNIVBobpMiTd2pmHD31",
+        "fandomUrl": "Link_Up",
+        "context": "Claret EP"
+      },
+      {
+        "id": 444,
+        "title": "Link Up (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Flint Workshop",
+        "youtubeId": "HoqHHAY9FwE",
+        "spotifyId": "3FlNLuKZlTLl9MUKdqxCQc",
+        "fandomUrl": "Link_Up_-_Instrumental",
+        "context": "Instrumental version of \"Link Up\""
+      }
+    ]
   }
 ]
