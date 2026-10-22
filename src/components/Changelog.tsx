@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-10-27",
+    changes: ['Added "A Letter From the Wind" album (Genshin Impact)'],
+  },
+  {
     date: "2026-09-27",
     changes: ['Added "Where Mercy Endures" album (Genshin Impact)'],
   },

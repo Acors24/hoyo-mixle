@@ -22296,5 +22296,65 @@
         "context": "\"Hesperides of Love and Hate\" World Quest (\"Pavlina\" fight)"
       }
     ]
+  },
+  {
+    "title": "A Letter From the Wind",
+    "songs": [
+      {
+        "id": 1907,
+        "title": "A Letter From the Wind (feat. Gary Sun) [Chinese]",
+        "playedAt": ["Serenitea Pot", "Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "JhfuA9Yqz_g",
+        "spotifyId": "0mnQyo0AMTIptZerBWts22",
+        "fandomUrl": "A_Letter_From_the_Wind_-_Chinese",
+        "context": "Chinese version of \"A Letter From the Wind\""
+      },
+      {
+        "id": 1908,
+        "title": "A Letter From the Wind (feat. Griffin Burns) [English]",
+        "playedAt": ["Serenitea Pot", "Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "GAXNJykWIu0",
+        "spotifyId": "2MmSXESwdQYyhdlXQz1YSj",
+        "fandomUrl": "A_Letter_From_the_Wind_-_English",
+        "context": "6th Anniversary Theme Song: \"A Letter From the Wind\" Animation"
+      },
+      {
+        "id": 1909,
+        "title": "A Letter From the Wind (feat. Takanori Nishikawa) [Japanese]",
+        "playedAt": ["Serenitea Pot", "Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "Wcmq6EEgP3w",
+        "spotifyId": "0tlpacoUPygMHLigjkrZkX",
+        "fandomUrl": "A_Letter_From_the_Wind_-_Japanese",
+        "context": "Japanese version of \"A Letter From the Wind\""
+      },
+      {
+        "id": 1910,
+        "title": "A Letter From the Wind (feat. Nam Doh-hyeong) [Korean]",
+        "playedAt": ["Serenitea Pot", "Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "cYR4dVTlIHk",
+        "spotifyId": "1a304kb0vrIP9gc5olMkw2",
+        "fandomUrl": "A_Letter_From_the_Wind_-_Korean",
+        "context": "Korean version of \"A Letter From the Wind\""
+      },
+      {
+        "id": 1911,
+        "title": "A Letter From the Wind (Instrumental)",
+        "playedAt": ["Serenitea Pot", "Media"],
+        "type": "Special",
+        "region": "N/A",
+        "youtubeId": "PppESbkEERo",
+        "spotifyId": "6Dfg8z5QSqVuQ0KMHgCCxM",
+        "fandomUrl": "A_Letter_From_the_Wind_-_Instrumental",
+        "context": "Instrumental version of \"A Letter From the Wind\""
+      }
+    ]
   }
 ]
