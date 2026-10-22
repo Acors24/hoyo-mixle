@@ -5072,5 +5072,32 @@
         "context": "Instrumental version of \"Link Up\""
       }
     ]
+  },
+  {
+    "title": "1% Battery Girl",
+    "songs": [
+      {
+        "id": 445,
+        "title": "1% Low Battery Girl (feat. ChiliChill)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "lQJQvEsVfZ0",
+        "spotifyId": "3S93xysU4dn1Ck5E7NZztj",
+        "fandomUrl": "1%25_Low_Battery_Girl",
+        "context": "Phoenix EP"
+      },
+      {
+        "id": 446,
+        "title": "1% Low Battery Girl (Instrumental)",
+        "playedAt": ["Media"],
+        "type": "Character",
+        "region": "Krampus",
+        "youtubeId": "j4rgODi2H8M",
+        "spotifyId": "0pGHF709rQXEK5YKDNm59a",
+        "fandomUrl": "1%25_Low_Battery_Girl_-_Instrumental",
+        "context": "Instrumental version of \"1% Low Battery Girl\""
+      }
+    ]
   }
 ]
