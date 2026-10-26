@@ -7,10 +7,11 @@ const history = [
     date: "2026-10-26",
     changes: [
       'Fixed "played at" attribute for "Sway to My Beat in Cosmos" (Honkai: Star Rail)',
+      "Fixed the date of the previous entry in the changelog"
     ],
   },
   {
-    date: "2026-10-27",
+    date: "2026-10-22",
     changes: [
       'Added "A Letter From the Wind" album (Genshin Impact)',
       'Added "1% Battery Girl" album (Zenless Zone Zero)',
