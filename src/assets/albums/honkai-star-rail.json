@@ -7671,5 +7671,48 @@
         "context": "\"A Long Awaited Reunion\" Honkai: Star Rail x Fate[UBW] Collab Trailer"
       }
     ]
+  },
+  {
+    "title": "Only by Chasing the Wind",
+    "songs": [
+      {
+        "id": 657,
+        "title": "Only by Chasing the Wind",
+        "playedAt": [
+          "Missions",
+          ["Trailblaze Continuances"],
+          "Phonograph Records",
+          "Media"
+        ],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "E-uLlQT8W5Q",
+        "spotifyId": "5inIGNpHN7N37t3Vkpk5PB",
+        "fandomUrl": "Only_by_Chasing_the_Wind",
+        "context": "Robin • Summeretto Trailer / Astropolis Trailblaze Continuance \"How to Lose Your Way to the Top: The Zero-Dollar Strategy\" chapter, part 6"
+      },
+      {
+        "id": 658,
+        "title": "Only by Chasing the Wind (Harmonic Accompaniment)",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "m9WYPpWbPew",
+        "spotifyId": "0hHYMpMMTAbMHRtqjGEYoM",
+        "fandomUrl": "Only_by_Chasing_the_Wind_(Harmonic_Accompaniment)",
+        "context": "Harmonic Accompaniment version of \"Only by Chasing the Wind\""
+      },
+      {
+        "id": 659,
+        "title": "Only by Chasing the Wind (Instrumental)",
+        "playedAt": [],
+        "type": "Character",
+        "region": "Penacony",
+        "youtubeId": "ZDiYAb6tzmw",
+        "spotifyId": "2oP89nCmjxSM4RVZTYNa5I",
+        "fandomUrl": "Only_by_Chasing_the_Wind_(Instrumental)",
+        "context": "Instrumental version of \"Only by Chasing the Wind\""
+      }
+    ]
   }
 ]

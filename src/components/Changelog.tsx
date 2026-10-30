@@ -4,6 +4,10 @@ import Dialog from "./Dialog";
 
 const history = [
   {
+    date: "2026-10-31",
+    changes: ['Added "Only by Chasing the Wind" album (Honkai: Star Rail)'],
+  },
+  {
     date: "2026-10-26",
     changes: [
       'Fixed "played at" attribute for "Sway to My Beat in Cosmos" (Honkai: Star Rail)',
