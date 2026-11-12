@@ -22356,5 +22356,43 @@
         "context": "Instrumental version of \"A Letter From the Wind\""
       }
     ]
+  },
+  {
+    "title": "A Lyght of the Mone for Thee",
+    "songs": [
+      {
+        "id": 1912,
+        "title": "Tune \"Sheared Jade\": Return of Swallow",
+        "playedAt": ["Quests", ["Events"], "Media"],
+        "type": "Event",
+        "region": "Liyue",
+        "youtubeId": "BRAwlusdiDo",
+        "spotifyId": "5WViB6UG7CmXrdLR6sB9L4",
+        "fandomUrl": "Tune_%22Sheared_Jade%22:_Return_of_Swallow",
+        "context": "\"Silverwing in Pursuit of the Moon\" Event, part III \"Having Met You, My Heart is Gladdened\" (cutscene)"
+      },
+      {
+        "id": 1913,
+        "title": "The Lunar Palace Draped in Clouds",
+        "playedAt": ["Special Gameplay"],
+        "type": "Special",
+        "region": "Miliastra Wonderland",
+        "youtubeId": "80NoWxZigSw",
+        "spotifyId": "1a7ah3cNibiW5ZES3StCzB",
+        "fandomUrl": "The_Lunar_Palace_Draped_in_Clouds",
+        "context": "Miliastra Wonderland (\"Osmanthus Retreat: Solace Among Blossoms\" Collection Template BGM)"
+      },
+      {
+        "id": 1914,
+        "title": "Tune \"Sheared Jade\"",
+        "playedAt": [],
+        "type": "N/A",
+        "region": "N/A",
+        "youtubeId": "IHVy_-T7QV4",
+        "spotifyId": "6UjHfhs0cRLM7VFV2JmyM7",
+        "fandomUrl": "Tune_%22Sheared_Jade%22",
+        "context": "Unused"
+      }
+    ]
   }
 ]
